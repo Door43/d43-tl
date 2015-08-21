@@ -1,1 +1,0 @@
-<nspages tl:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="List of all Tagalag OBS Notes Pages:">
