@@ -1,6 +1,6 @@
 
 
-  - Ang Paglikha sa Lahat
+  - [[tl:obs:01|Ang Paglikha sa Lahat]]
   - [[:tl:obs:02|Sin Enters the World]]
   - [[:tl:obs:03|The Flood]]
   - [[:tl:obs:04|God's Covenant with Abraham]]
