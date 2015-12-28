@@ -7,9 +7,9 @@
 
 ===== Important Terms: =====
 
-  * **[[tl/obe/kt/god|God]]**
-  * **[[tl/obe/kt/curse|cursed]]**
-  * **[[tl/obe/other/descendant|descendant]]**
+  * **[[tl/obe/kt/god]]**
+  * **[[tl/obe/kt/curse]]**
+  * **[[tl/obe/other/descendant]]**
 
 ===== Translation Notes: =====
 
