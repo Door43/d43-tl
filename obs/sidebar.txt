@@ -2,13 +2,13 @@
 
 **Help**
 
-  * [[:en:obs:help|Open Bible Stories Help]]
-  * [[:en:ta:intro:handbook|translationAcademy Handbook]]
-  * [[en:obs:notes]]
+  * [[:tl:obs:help|Open Bible Stories Help]]
+  * [[:tl:ta:intro:handbook|translationAcademy Handbook]]
+  * [[tl:obs:notes]]
 
-**[[:en:obs|Open Bible Stories]]**
+**[[:tl:obs|Open Bible Stories]]**
 
-{{page>en:obs:stories}}
+{{page>tl:obs:stories}}
 
 ~~NOCACHE~~
 
