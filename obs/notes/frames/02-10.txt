@@ -6,7 +6,7 @@
 
 ===== Important Terms: =====
 
-  * **[[tl/obe/kt/god|God]]**
+  * **[[tl/obe/kt/god]]**
 
 ==== Translation Notes: ====
 
