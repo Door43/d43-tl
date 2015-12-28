@@ -1,7 +1,14 @@
-
 ----
-~~NOCACHE~~
-**[[tl:obs|Open Bible Stories]]**
 
-{{page>tl:obs:stories}}
+**Help**
+
+  * [[:en:obs:help|Open Bible Stories Help]]
+  * [[:en:ta:intro:handbook|translationAcademy Handbook]]
+  * [[en:obs:notes]]
+
+**[[:en:obs|Open Bible Stories]]**
+
+{{page>en:obs:stories}}
+
+~~NOCACHE~~
 
