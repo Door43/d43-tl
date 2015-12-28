@@ -31,10 +31,4 @@ Twins Were Born [06-07]
 
 //A Bible story from: Genesis 24:1-25:26//
 
-**__[[:en:obs:notes:05|
-<< Previous
-
-</font> ]]__ | __[[:en:obs:notes:07|
-Next >>
-
-</font> ]]__**
+**[[:en:obs:notes:05|<< Previous]] | [[:en:obs:notes:07|Next >> ]]**
