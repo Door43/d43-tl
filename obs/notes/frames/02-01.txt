@@ -7,9 +7,9 @@
 
 
 
-  * **[[:tl/obe/other/adam|Adam]]**
-  * **[[:tl/obe/kt/god|God]]**
-  * **[[:tl/obe/kt/sin|sin]]**
+  * **[[:tl/obe/other/adam]]**
+  * **[[:tl/obe/kt/god]]**
+  * **[[:tl/obe/kt/sin]]**
 ==== Translation Notes: ====
 
    * **garden** - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[en/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
