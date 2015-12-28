@@ -8,9 +8,9 @@ Then **God** said, “It is **not good** for man to be **alone**.” But none of
 ===== Important Terms: =====
 
 
-  * **[[:tl:obe:kt:god|God]]**
-  * **[[:tl:obe:kt:good|good]]**
-  * **[[:tl:obe:other:adam|Adam's]]**
+  * **[[:tl:obe:kt:god]]**
+  * **[[:tl:obe:kt:good]]**
+  * **[[:tl:obe:other:adam]]**
 
 
 ==== Translation Notes: ====
