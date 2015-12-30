@@ -1,10 +1,9 @@
-====== 25. Satan Tempts Jesus ======
+====== 26. Jesus Starts His Ministry ======
 
 
 ===== Overview: =====
 
-
-The Holy Spirit led Jesus into the desert where he did not eat for forty days. There, Satan tempted him three times. Satan offered him food and riches. He tried to get Jesus to test God. Each time, Jesus refused to sin. Instead, he answered each temptation with the Word of God.
+Jesus began his ministry in the region of Galilee. There he went to worship in Nazareth where he had grown up. Jesus said that he was the Messiah that the prophet Isaiah wrote about. But the people did not believe him. Instead, they tried to kill Him. So Jesus left them and went to other places to teach, to heal, and to do miracles.  He chose twelve men to be his disciples and to learn from him.
 
 
 ====== Translate the Story ======
@@ -13,30 +12,36 @@ The Holy Spirit led Jesus into the desert where he did not eat for forty days. T
 Click on the links below to translate each frame of the story.
 
 
-[[:tl:obs:notes:frames:25-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?200|Frame 25-01}}]]\\ 
-Satan Tempted Jesus [25-01]\\ 
+[[:en:obs:notes:frames:26-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?200|Frame 26-01}}]]\\ 
+Jesus in Galilee [26-01]\\ 
 
-[[:tl:obs:notes:frames:25-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?200|Frame 25-02}}]]\\ 
-The First Temptation [25-02]\\ 
+[[:en:obs:notes:frames:26-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?200|Frame 26-02}}]]\\ 
+Jesus in Nazareth [26-02]\\ 
 
-[[:tl:obs:notes:frames:25-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?200|Frame 25-03}}]]\\ 
-God's Word Gives Life [25-03]\\ 
+[[:en:obs:notes:frames:26-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?200|Frame 26-03}}]]\\ 
+Jesus Read the Scriptures [26-03]\\ 
 
-[[:tl:obs:notes:frames:25-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?200|Frame 25-04}}]]\\ 
-The Second Temptation [25-04]\\ 
+[[:en:obs:notes:frames:26-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?200|Frame 26-04}}]]\\ 
+The Prophesy about Jesus [26-04]\\ 
 
-[[:tl:obs:notes:frames:25-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?200|Frame 25-05}}]]\\ 
-Do Not Test God [25-05]\\ 
+[[:en:obs:notes:frames:26-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?200|Frame 26-05}}]]\\ 
+The Ministry of Elijah [26-05]\\ 
 
-[[:tl:obs:notes:frames:25-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?200|Frame 25-06}}]]\\ 
-The Third Temptation [25-06]\\ 
+[[:en:obs:notes:frames:26-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?200|Frame 26-06}}]]\\ 
+The Ministry of Elisha [26-06]\\ 
 
-[[:tl:obs:notes:frames:25-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?200|Frame 25-07}}]]\\ 
-Worship Only God [25-07]\\ 
+[[:en:obs:notes:frames:26-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?200|Frame 26-07}}]]\\ 
+The Attempt to Kill Jesus [26-07]\\ 
 
-[[:tl:obs:notes:frames:25-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?200|Frame 25-08}}]]\\ 
-Angels Ministered to Jesus [25-08]\\ 
+[[:en:obs:notes:frames:26-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?200|Frame 26-08}}]]\\ 
+Jesus Healed the Sick [26-08]\\ 
 
-//A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13//
+[[:en:obs:notes:frames:26-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-09.jpg?200|Frame 26-09}}]]\\ 
+Jesus Removed the Demons [26-09]\\ 
 
-**[[:tl:obs:notes:24|<< Previous]] | [[:tl:obs:notes:26|Next >>]]**
+[[:en:obs:notes:frames:26-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?200|Frame 26-10}}]]\\ 
+The Twelve Disciples [26-10]\\ 
+
+//A Bible story from: Matthew 4:12-25; Mark 1:14-15, 35-39; 3:13-21; Luke 4:14-30, 38-44//
+
+**[[:en:obs:notes:25|<< Previous]] | [[:en:obs:notes:27|Next >>]]**
