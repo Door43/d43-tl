@@ -1,19 +1,19 @@
-====== Destroyer ======
+====== destroyer ======
 
 ===== Definition: =====
 
-Text
-  * bullet
-  * bullet
+The term "destroyer" literally means "person who destroys."
 
-(See also: other)
+  * This term is often used in the Old Testament as a general reference to anyone who destroys other people, such as invading armies.
+  * The phrase "son of destruction" could be called a "destroyer" since it means, "someone who destroys" or "person who brings death and suffering." It may refer to Satan or to someone who follows him. 
+  * When God sent the angel to kill all the firstborn males in Egypt, that angel was referred to as, "the destroyer of the firstborn". This could be translated as, "the one (or angel) who killed the firstborn males."
+
+(See also: [[:tl:obe:other:egypt]], [[:tl:obe:kt:passover]], [[:tl:obe:kt:angel]], [[:tl:obe:kt:son]], [[:tl:obe:kt:firstborn]])
 
 ===== Bible References: =====
 
-{{topic>destroyer&nocomments}}
-
-~~DISCUSSION~~
+{{topic>destroyer&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create ktlink}}
+{{tag>publish}}

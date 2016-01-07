@@ -1,0 +1,56 @@
+====== Psalms 147:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 It is good to sing to praise our God.
+\q2 It is a delightful thing to do and the right thing to do.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 It is good to sing praises to our God.
+\q2 It is a delightful thing to do and the right thing to do.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 147
+\p
+\q
+\v 1 Praise Yahweh,
+\q for it is good to sing praises to our God;
+\q it is pleasant, and praise is suitable.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tl:obe:other:praise|praise]]
+  * [[:tl:obe:kt:yahweh|Yahweh]]
+  * [[:tl:obe:kt:good]]
+  * [[:tl:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+(See: [[:tl:ta:workbench:translate:poetry]] and [[:tl:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:psa:147|Psalms Chapter 147 Comprehension Questions]]**
+**[[:tl:bible:notes:psa:146:009|<<]] | [[:tl:bible:notes:psa:147:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

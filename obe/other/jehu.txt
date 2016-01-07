@@ -2,13 +2,16 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Jehu was the name of two men in the Old Testament.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * One man named Jehu was a prophet during the reigns of King Ahab of Israel and King Jehoshaphat of Judah.
+  * There was also a general named Jehu who became king over Judah and reigned for twenty-eight years.
+  * Jehu killed all the relatives of the former King Ahab, including the evil queen Jezebel.
+  * He also killed two evil kings who were related to Ahab: Joram of Israel and Ahaziah of Judah.
 
-(See also: other)
+(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:tl:obe:other:ahab]], [[:En:obe:other:ahaziah]], [[:tl:obe:other:jehoshaphat]], [[:tl:obe:other:jehu]], [[:En:obe:other:jezebel]], [[:tl:obe:other:joram]], [[:En:obe:other:judah]])
 
 ===== Bible References: =====
 
@@ -18,4 +21,4 @@ Text
 
 ~~NOCACHE~~
 
-{{tag>create 1Ki16 ktlink}}
+{{tag>publish}}

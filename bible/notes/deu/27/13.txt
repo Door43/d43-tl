@@ -1,0 +1,70 @@
+====== Deuteronomy 27:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 And the tribes of Reuben, Gad, Asher, Zebulun, Dan, and Naphtali must stand on Ebal Mountain and listen to the things that Yahweh will do when he curses the people.
+\p
+\v 14 The descendants of Levi must shout these words loudly:
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 And the tribes of Reuben, Gad, Asher, Zebulun, Dan, and Naphtali must stand on Mount Ebal and listen to the things that Yahweh will do when he curses the people.
+\p
+\v 14 The descendants of Levi must shout these words loudly:
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 And these tribes must stand on Mount Ebal to pronounce curses: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
+\v 14 The Levites will answer and say to all the men of Israel in a loud voice:
+</usfm>
+
+
+===== Important Terms: =====
+
+
+  * [[:tl:obe:kt:curse|curse, cursed]]
+  * [[:tl:obe:other:reuben|Reuben]]
+  * [[:tl:obe:other:gad|Gad]]
+  * [[:tl:obe:other:asher|Asher]]
+  * [[:tl:obe:other:zebulun|Zebulun]]
+  * [[:tl:obe:other:dan|Dan]]
+  * [[:tl:obe:other:naphtali|Naphtali]]
+  * [[:tl:obe:other:levite]]
+  * [[:tl:obe:other:israel]]
+  * [[:tl:obe:other:voice]]
+
+===== Translation Notes: =====
+
+
+    * **Mount Ebal** - See how you translated this in [[tl:bible:notes:deu:11:29|11:29]].
+    * **pronounce curses** - "state in a loud voice how Yahweh will curse Israel"
+ 
+  
+===== Links: =====
+
+  * **[[tl:bible:questions:comprehension:deu:27|Deuteronomy Chapter 27 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/27/11|<<]] | [[en/bible/notes/deu/27/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

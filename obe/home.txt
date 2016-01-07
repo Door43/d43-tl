@@ -1,10 +1,16 @@
-====== Complete List of Important Terms - Tagalog ======
+====== Complete List of Important Terms - English ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
   * [[:tl:obe:kt:home]]
   * [[:tl:obe:other:home]]
 
-==== All Important Terms: ====
+==== Does a term need to be in either of these lists? ====
+  * [[:tl:bible:team-info:training:topics:kt-yes-no]]
+  * [[tl:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
+  * [[:tl:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
+
+==== All Terms in the OBE: ====
 
 <nspages tl:obe -r -title -exclude:home -textPages="">
+

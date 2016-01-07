@@ -1,0 +1,53 @@
+====== Numbers 02:32-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 32 So there were 603,550 Israelite men who were able to fight who were listed according to their families' ancestors.
+\v 33 But just as Yahweh had commanded, the names of the descendants of Levi were not included.
+\b
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 32 So there were 603,550 Israelite men who were able to fight who were listed according to their families' ancestors.
+\v 33 But just as Yahweh had commanded, the names of the descendants of Levi were not included.
+\b
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 32 Moses and Aaron counted by their ancestor’s  clans 603,550 men in the armies of the people of Israel.
+\v 33 But Moses and Aaron did not count the Levites among the people of Israel. This was as Yahweh had commanded Moses.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[tl:obe:other:moses]]
+  * [[tl:obe:other:aaron]]
+  * [[:tl:obe:other:clan]]
+  * [[:tl:obe:other:peoplegroup]]
+  * [[tl:obe:other:israel]]
+  * [[tl:obe:other:levite]]
+  * [[tl:obe:kt:yahweh]]
+  * [[:tl:obe:other:command]]
+
+===== Translation Notes: =====
+
+  * **by their ancestor’s clans** - Here the word "their" refers to the people of Israel.
+
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:num:02|Numbers Chapter 02 Comprehension Questions]]**
+**[[:tl:bible:notes:num:02:31|<<]] | [[:tl:bible:notes:num:02:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

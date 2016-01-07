@@ -1,0 +1,72 @@
+===== Table of Contents - Translation Manual Volume 1 =====
+
+This module answers the question: What is in Volume 1 of the translation manual?\\
+==== Translation Manual Volume 1 ====
+
+=== Introduction ===
+  - [[tl:ta:vol1:translate:translate_manual]]
+  - [[tl:ta:vol1:translate:translate_terms]]
+  - [[tl:ta:vol1:translate:translate_whatis]]
+  - [[tl:ta:vol1:translate:translate_why]]
+
+=== Defining a Good Translation === 
+  - [[tl:ta:vol1:translate:guidelines_intro]]
+    - [[tl:ta:vol1:translate:guidelines_clear]] 
+    - [[tl:ta:vol1:translate:guidelines_natural]]
+    - [[tl:ta:vol1:translate:guidelines_accurate]]
+    - [[tl:ta:vol1:translate:guidelines_church_approved]]
+
+=== Meaning-Based Translation ===
+  - [[tl:ta:vol1:translate:translate_process]]
+    - [[tl:ta:vol1:translate:translate_discover]]
+    - [[tl:ta:vol1:translate:translate_retell]]
+  - [[tl:ta:vol1:translate:translate_fandm]]
+    - [[tl:ta:vol1:translate:translate_form]]
+    - [[tl:ta:vol1:translate:translate_levels]]
+  - [[tl:ta:vol1:translate:translate_literal]]
+    - [[tl:ta:vol1:translate:translate_wforw]]
+    - [[tl:ta:vol1:translate:translate_problem]]
+  - [[tl:ta:vol1:translate:translate_dynamic]]
+    - [[tl:ta:vol1:translate:translate_tform]]
+
+=== Before Translating ===
+  - [[tl:ta:vol1:translate:choose_team]]
+    - [[tl:ta:vol1:translate:qualifications]]
+  - [[tl:ta:vol1:translate:translate_source_text]]
+    - [[tl:ta:vol1:translate:translate_source_licensing]]
+    - [[tl:ta:vol1:translate:translate_source_version]]
+    - [[tl:ta:vol1:translate:translate_original]]
+    - [[tl:ta:vol1:translate:translate_manuscripts]]
+    - [[tl:ta:vol1:translate:translate_textvariants]]
+  - [[tl:ta:vol1:translate:translate_alphabet]]
+  - [[tl:ta:vol1:translate:writing_decisions]]
+
+=== How to Start Translating === 
+  - [[tl:ta:vol1:translate:translate_what]]
+  - [[tl:ta:vol1:translate:first_draft]]
+  - [[tl:ta:vol1:translate:resources_intro]]
+  - [[tl:ta:vol1:translate:translate_help]]
+    - [[tl:ta:vol1:translate:resources_types]]
+    - [[tl:ta:vol1:translate:resources_links]]
+
+=== Just-in-Time Learning Part 1 ===
+  - [[tl:ta:vol1:translate:translate_unknown]]
+    - [[tl:ta:vol1:translate:translate_names]]
+  - [[tl:ta:vol1:translate:figs_intro]]
+    - [[tl:ta:vol1:translate:figs_metaphor]]
+    - [[tl:ta:vol1:translate:figs_simile]]
+    - [[tl:ta:vol1:translate:figs_rquestion]]
+    - [[tl:ta:vol1:translate:figs_idiom]]
+    - [[tl:ta:vol1:translate:figs_irony]]
+  - [[tl:ta:vol1:translate:figs_order]]
+  - [[tl:ta:vol1:translate:figs_you]]
+    - [[tl:ta:vol1:translate:figs_youdual]]
+    - [[tl:ta:vol1:translate:figs_yousingular]]
+  - [[tl:ta:vol1:translate:figs_explicit]]
+    - [[tl:ta:vol1:translate:figs_explicitinfo]]
+  - [[tl:ta:vol1:translate:figs_hypo]]
+  - [[tl:ta:vol1:translate:figs_events]]
+  - [[tl:ta:vol1:translate:figs_parables]]
+
+
+

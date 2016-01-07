@@ -1,0 +1,38 @@
+====== Ezekiel 42:15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 When the man had finished measuring the inside of the temple area, he led me out through the east entrance and measured all the surrounding area.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 When the man had finished measuring the inside of the temple area, he led me out through the east entrance and measured all the surrounding area.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 The man completed measuring the inner house and then took me out to the gate that faced the east and measured all the surrounding area there.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tl:obe:other:house]]
+  * [[:tl:obe:kt:gate]]
+  * [[:tl:obe:kt:face]]
+
+===== Translation Notes: =====
+
+ 
+===== Links: =====
+
+  * **[[tl:bible:questions:comprehension:ezk:42|Ezekiel Chapter 42 Comprehension Questions]]**
+**[[:tl:bible:notes:ezk:42:13|<<]] | [[:tl:bible:notes:ezk:42:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -2,13 +2,14 @@
 
 ===== Definition: =====
 
-Curtains were thick, heavy pieces of material used in the construction of Yahweh's place of worship during Israel's desert wanderings.
+In the Bible, curtains were thick, heavy pieces of material used in the construction of the tabernacle during Israel's desert wanderings.
 
-  * Heavy curtains were made of materials such as animal skins and formed the top and sides of the temple.
-  * Curtains of thinner materials also were used as separators between the inner chambers of the temple.
-  * A curtain called a veil separated the inner sanctuary of God's presence called the Holy of Holies.
+  * Thick, heavy curtains made of materials such as animal skins and cloth  formed the top and sides of the tabernacle building.
+  * There was a curtain that separated the holy place from the most holy place in the tabernacle and then later in the temple.
+  * It was this curtain in the temple that was miraculously torn from top to bottom when Jesus died.
+  * In some English Bible versions, this curtain of the inner sanctuary is also called a veil, which has the meaning of concealing or hiding from view..
 
-(See also: other)
+(See also: [[:tl:obe:kt:tabernacle]], [[:tl:obe:kt:temple]], [[:tl:obe:kt:holyplace]])
 
 ===== Bible References: =====
 
@@ -16,4 +17,4 @@ Curtains were thick, heavy pieces of material used in the construction of Yahweh
 
 ~~NOCACHE~~
 
-{{tag>draft ktlink}}
+{{tag>publish}}

@@ -1,0 +1,82 @@
+====== Psalms 045:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 In my inner being I am aroused\f + \ft Or: stimulated \f* by a beautiful message
+\q2 which will be sung to the king.
+\q2 The words of this message will be written with a pen by me, a skilled writer.
+\b
+\q1
+\v 2 \add O King\add*, you are the most handsome man in the world,
+\q2 and you always speak \f + \ft metonymy \f* eloquently!
+\q1 So God has always blessed you.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 In my inner being I am aroused by something beautiful to write about,
+\q2 a song that I will sing to the king.
+\q2 The words of this song will be written by me, a skilled writer.
+\b
+\q1
+\v 2 O King, you are the most handsome man in the world,
+\q2 and you always speak eloquently!
+\q1 So we know that God has always blessed you.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 45
+\d For the chief musician; set to Shoshannim. A psalm of the sons of Korah. A maschil. A song of loves.
+\b
+\q
+\v 1 My heart overflows on a good subject;
+\q I will read aloud the words I have composed about the king;
+\q my tongue is the pen of a ready writer.
+\q
+\v 2 You are fairer than the children of men;
+\q grace is poured onto your lips;
+\q therefore we know that God has blessed you forever.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[tl:obe:other:chief]]
+  * [[:tl:obe:other:psalm|psalm]]
+  * [[:tl:obe:other:korah|korah]]
+  * [[:tl:obe:kt:love|love]]
+  * [[:tl:obe:other:heart|heart]]
+  * [[:tl:obe:other:king|king]]
+  * [[tl:obe:other:tongue]]
+  * [[:tl:obe:kt:children|children, child]]
+  * [[:tl:obe:kt:grace|grace, gracious]]
+  * [[:tl:obe:kt:god|God]]
+  * [[:tl:obe:kt:bless|bless, blessed, blessing]]
+  * [[:tl:obe:kt:forever|forever]]
+===== Translation Notes: =====
+See: [[tl:ta:workbench:translate:poetry]] and [[:tl:ta:vol2:translate:figs_parallelism]]
+
+  * **maschil** - See how you translated this in [[tl:bible:notes:psa:032:001|32:1]].
+  * **Shoshannim** - See how you translated this in [[tl:bible:notes:psa:045:001|45:1]].
+  * **A song of loves** - "A love song"
+  * **overflows** - "is overwhelmed" or "is excited"
+  * **a good subject** - "a noble theme" or "a good word"
+  * **composed**  - to have written or created a song
+  * **my tongue is the pen of a ready writer**  - The author's tongue is compared to a pen. The author refers to himself by his tongue, because that is the part of his boy he speaks with. AT: "My tongue is like the pen of person who writes well" (See: [[:tl:ta:vol1:translate:figs_metaphor]] and [[:tl:ta:vol2:translate:figs_synecdoche]])
+  * **You are fairer than the children of men** - This phrase exaggerates how the king looks, saying that he is better looking than all the children born of men. AT: "you are better looking than most other children born of men" (See: [[:tl:ta:vol2:translate:figs_hyperbole]])
+  * **grace is poured onto your lips**  - The lips of the king refers to his ability to speak. Poured grace expresses that God has greatly blessed the king's ability to speak. AT: "you speak gracefully" or "you speak beautifully" (See: [[:tl:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:psa:045|Psalms Chapter 045 Comprehension Questions]]**
+**[[:tl:bible:notes:psa:044:025|<<]] | [[:tl:bible:notes:psa:045:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

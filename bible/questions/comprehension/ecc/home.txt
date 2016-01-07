@@ -1,0 +1,3 @@
+~~NOCACHE~~
+
+<nspages tl:bible:questions:comprehension:ecc -title -naturalOrder -simpleList -exclude:home -textPages="Ecclesiastes translationQuestions">

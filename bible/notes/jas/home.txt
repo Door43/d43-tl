@@ -1,0 +1,16 @@
+===== James Links =====
+  * [[:tl:ulb:ep:59-jas.usfm|Full ULB text of James]]
+  * [[:tl:udb:ep:59-jas.usfm|Full UDB text of James]]
+  * [[tl:bible:admin-reports:notes-team-admin:jas]]
+  * [[:tl:bible:team-info:training:notes-training|Notes Training]]
+
+
+<nspages tl:bible:notes:jas:01 -title -naturalOrder -exclude:home -textPages="James 1" -nbCol=2> 
+
+<nspages tl:bible:notes:jas:02 -title -naturalOrder -exclude:home -textPages="James 2" -nbCol=2> 
+
+<nspages tl:bible:notes:jas:03 -title -naturalOrder -exclude:home -textPages="James 3" -nbCol=2> 
+
+<nspages tl:bible:notes:jas:04 -title -naturalOrder -exclude:home -textPages="James 4" -nbCol=2> 
+
+<nspages tl:bible:notes:jas:05 -title -naturalOrder -exclude:home -textPages="James 5" -nbCol=2> 

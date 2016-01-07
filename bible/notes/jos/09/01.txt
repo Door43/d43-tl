@@ -1,0 +1,68 @@
+====== Joshua 09:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 There were several kings \add who ruled in lands\add* that are on the west side of the Jordan River. They were the kings of the Heth people-group, the Amor people-group, the Canaan people-group, the Periz people-group, the Hiv people-group, and the Jebus people-group. They lived in the hilly area, in the foothills further west, and \add on the plains\add* along the coast of the Mediterranean Sea. They heard \add about what happened at Ai\add*.
+\v 2 So they all gathered \add their armies\add* to fight Joshua and the Israelite army.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 There were several kings who ruled in lands on the west side of the Jordan River. They were the kings of the Hittites, the Amorites, the Canaanites, the Perizites, the Hivites, and the Jebusites. They lived in the hill country, in the lower hills further west, and on the plains beside the Mediterranean Sea. They heard about what happened at Ai.
+\v 2 So they all gathered their armies under one leader to fight against Joshua and the Israelite army.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 Then all the kings who lived beyond the Jordan in the hill country, and in the lowlands along the shore of the Great Sea toward Lebanon—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and the Jebusites—
+\v 2 these joined together under one command, to wage war against Joshua and Israel.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tl:obe:other:king]]
+  * [[tl:obe:other:jordanriver]]
+  * [[:tl:obe:other:mediterranean]]
+  * [[:tl:obe:other:lebanon]]
+  * [[:tl:obe:other:hittite]]
+  * [[:tl:obe:other:amorite]]
+  * [[:tl:obe:other:canaan]]
+  * [[:tl:obe:other:perizzite]]
+  * [[:tl:obe:other:hivite]]
+  * [[:tl:obe:other:jebusites]]
+  * [[:tl:obe:other:command]]
+  * [[:tl:obe:other:joshua]]
+  * [[:tl:obe:other:israel]]
+ 
+
+===== Translation Notes: =====
+
+    * **the Jordan**  - A shortened name for the Jordan River. (See: [[:tl:ta:vol2:translate:figs_metonymy]])
+    
+===== Links: =====
+
+  * **[[tl:bible:questions:comprehension:jos:09|Joshua Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/jos/08/34|<<]] | [[en/bible/notes/jos/09/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

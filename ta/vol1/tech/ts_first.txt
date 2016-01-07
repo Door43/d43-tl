@@ -1,0 +1,42 @@
+===== Use translationStudio for the First Time =====
+
+This module answers the question: How do I use translationStudio for the first time?\\
+Before you start this module have you learned about:
+  * [[tl:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+
+==== First Use of tS ====
+
+Complete these steps to use translationStudio for the first time:
+
+   * To turn on the tablet, press the button on the side.
+   * Tap on the translationStudio icon.
+   * You will need to read each of the statements and agree to the Terms of Use.
+      * Tap on each statement.
+      * Scroll through the text to read the entire statement.
+      * Tap on "OK" for each statement.
+      * Tap on the "I Agree" button.
+
+There may be an automatic update before the translationStudio app opens.
+
+
+
+
+
+Next we recommend you learn about:
+  * [[tl:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[tl:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[tl:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[tl:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[tl:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[tl:ta:vol1:tech:ts_request|Find my Language]]
+  * [[tl:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+  * [[tl:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[tl:ta:vol1:tech:ts_resources|Find the Resources in translationStudio]]
+  * [[tl:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[tl:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[tl:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[tl:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[tl:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[tl:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[tl:ta:vol1:tech:ts_problem|Report a Problem]]
+

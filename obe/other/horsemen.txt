@@ -2,11 +2,13 @@
 
 ===== Definition: =====
 
-Text
-  * bullet
-  * bullet
+In Bible times, the term "horsemen" often referred to men who rode horses into battle.
 
-(See also: [[:tl:obe:other:horse]])
+  * Horses were used to pull chariots and carts.
+  * The people of Israel, however, did not maintain a large number of horsemen.
+  * They believed that the use of horses in battle was a pagan custom that placed too much emphasis on power for victory rather than on Yahweh.
+
+(See also: [[:tl:obe:other:horse|horse]])
 
 ===== Bible References: =====
 
@@ -16,4 +18,4 @@ Text
 
 ~~NOCACHE~~
 
-{{tag>create 1ki01 ktlink}}
+{{tag>publish}}

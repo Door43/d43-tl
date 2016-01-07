@@ -1,0 +1,67 @@
+====== Psalms 142:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I cry out to you;
+\q2 I plead that you will help me.
+\q1
+\v 2 I am bringing to you all my problems;
+\q2 I am telling you all my troubles\f + \ft Or: difficulties \f*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I cry out to you;
+\q2 I plead for you to help me.
+\q1
+\v 2 I am bringing to you all my problems;
+\q2 I am telling you all my troubles.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 142
+\d A maschil of David, when he was in the cave; a prayer.
+\p
+\q
+\v 1 I cry out to Yahweh with my voice;
+\q with my voice I make my plea to Yahweh.
+\q
+\v 2 I pour out my lament before him;
+\q I tell him my troubles.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tl:obe:other:david|David]]
+  * [[:tl:obe:other:pray|pray, prayer]]
+  * [[:tl:obe:kt:yahweh|Yahweh]]
+  * [[:tl:obe:other:voice|voice]]
+  * [[:tl:obe:other:plead]]
+  * [[:tl:obe:kt:lament|lament, lamentation]]
+  * [[:tl:obe:other:trouble|trouble, troubles, troubled]]
+
+===== Translation Notes: =====
+
+See: [[:tl:ta:workbench:translate:poetry|Translating Poetry]] and [[:tl:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **maschil** - See how you translated this in [[:tl:bible:notes:psa:032:001|32:1]].
+  * **cave** - open place under the earth large enough for people to walk around in
+  * **with my voice** - "using my voice" (See: [[:tl:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **tell him my troubles** - AT: "pray about my troubles" or "ask him for help with my troubles"
+
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:psa:142|Psalms Chapter 142 Comprehension Questions]]**
+**[[:tl:bible:notes:psa:141:008|<<]] | [[:tl:bible:notes:psa:142:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

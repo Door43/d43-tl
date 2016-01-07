@@ -1,0 +1,12 @@
+===== Zephaniah Links: =====
+
+  * [[:tl:ulb:ep:36-zep.usfm|Full ULB text of Zephaniah]]
+  * [[:tl:udb:ep:36-zep.usfm|Full UDB text of Zephaniah]]
+  * [[:tl:bible:admin-reports:notes-team-admin:zep|Notes: Zephaniah Team Admin]]
+  * [[:tl:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages tl:bible:notes:zep:01 -title -naturalOrder -exclude:home -textPages="Zephaniah 1" -nbCol=2> 
+
+<nspages tl:bible:notes:zep:02 -title -naturalOrder -exclude:home -textPages="Zephaniah 2" -nbCol=2> 
+
+<nspages tl:bible:notes:zep:03 -title -naturalOrder -exclude:home -textPages="Zephaniah 3" -nbCol=2> 

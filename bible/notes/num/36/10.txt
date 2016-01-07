@@ -1,0 +1,52 @@
+====== Numbers 36:10-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Zelophehad's daughters obeyed what Yahweh told Moses\f + \ft Or: me \f*.
+\v 11 The five daughters—Mahlah, Tirzah, Hoglah, Milcah and Noah—married their cousins, their father's relatives.
+\v 12 The men whom they married were from the tribe of Manasseh, so their land continued to belong to their father's family and tribe.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Zelophehad's daughters obeyed what Yahweh told Moses.
+\v 11 The five daughters—Mahlah, Tirzah, Hoglah, Milcah and Noah—married their cousins, their father's relatives.
+\v 12 The men whom they married were from the tribe of Manasseh, so their land continued to belong to their father's family and tribe.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 So Zelophehad’s daughters did as Yahweh had commanded Moses.
+\v 11 Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, married descendants of Manasseh.
+\v 12 They married into the clans of the descendants of Manasseh son of Joseph. In this way, their inheritances remained in the tribe to which their father’s clan belonged
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tl:obe:kt:yahweh|Yahweh]]
+  * [[:tl:obe:other:command|command, to command, commandment]]
+  * [[:tl:obe:other:moses|Moses]]
+  * [[:tl:obe:other:tirzah|Tirzah]]
+  * [[:tl:obe:other:noah|Noah]]
+  * [[:tl:obe:other:manasseh|Manasseh]]
+
+===== Translation Notes: =====
+
+See Translate Names
+
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:num:36|Numbers Chapter 36 Comprehension Questions]]**
+**[[:tl:bible:notes:num:36:08|<<]] | [[:tl:bible:notes:num:36:13|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

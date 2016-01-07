@@ -1,0 +1,54 @@
+====== 2 Chronicles 16:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 That happened because Yahweh \f + \ft synecdoche \f* sees \add what is happening\add* all over the earth, and he strengthens those who completely trust him. You have done a very foolish thing, so from now on other armies will be fighting your army."
+\p
+\v 10 Asa was very angry with the prophet because of what the prophet had said. So he \add commanded his officials\add* to put Hanani in prison. At that same time, he started to treat some of his people very cruelly.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 That happened because Yahweh sees what is happening all over the earth, and he strengthens those who completely trust him. You have done a very foolish thing, so from now on other armies will be fighting your army."
+\p
+\v 10 Asa was very angry with the prophet because of what the prophet had said. So he commanded his officials to put Hanani in prison. At that same time, he started to treat some of his people very cruelly.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 For the eyes of Yahweh everywhere throughout the whole earth, so that he might show himself strong on behalf of those whose hearts are perfect toward him. But you have acted foolishly in this matter. From now one, you will have war.”
+\v 10 Then Asa was angry with the seer; he put him into prison, for he was angry with him over this matter. At the same time, Asa oppressed some of the people.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tl:obe:other:earth]]
+  * [[:tl:obe:other:heart|heart]]
+  * [[:tl:obe:kt:perfect|perfect]]
+  * [[:tl:obe:kt:foolish|fool, foolish, folly]]
+  * [[:tl:obe:other:prison|prison, prisoner]]
+  * [[:tl:obe:other:angry]]
+  * [[:tl:obe:kt:oppress]]
+  * [[:tl:obe:other:peoplegroup]]
+
+===== Translation Notes: =====
+
+  * **the eyes of Yahweh everywhere**  - AT: "Yahweh sees what is happening all over the earth," (See: [[:tl:ta:vol2:translate:figs_metonymy]])
+  * **so that he might show himself strong on behalf of **  - AT: "and Yahweh protects with his strength"
+  * **those whose hearts are perfect toward him**  - AT: "those who are completely committed to following him"
+
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:2ch:16|2 Chronicles Chapter 16 Comprehension Questions]]**
+**[[:tl:bible:notes:2ch:16:07|<<]] | [[:tl:bible:notes:2ch:16:11|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

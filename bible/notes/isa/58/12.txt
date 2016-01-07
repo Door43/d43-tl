@@ -1,0 +1,57 @@
+====== Isaiah 58:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add Your people\add* will rebuild the cities that were destroyed long ago;
+\q2 they will build \add houses\add* on top of the old foundations.
+\q1 People will say that you are the ones who are repairing the holes \add in the city walls\add*,
+\q2 and who are repairing the streets where people live.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Your people will rebuild the cities that were destroyed long ago;
+\q2 they will build houses on top of the old foundations.
+\q1 People will say that you are the ones who are repairing the holes in the city walls,
+\q2 and who are repairing the streets where people live.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 12 Some of you will rebuild the ancient ruins; you will raise up the ruins of many generations;
+\q1 you will be called "The repairer of the wall," "The restorer of streets to live on."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:tl:obe:other:ruin]]
+  * [[:tl:obe:other:generation]]
+  * [[:tl:obe:kt:call]]
+  * [[:tl:obe:kt:restore]]
+ 
+
+===== Translation Notes: =====
+Yahweh continues speaking to the people of Israel.
+  * **you will be called** - AT: "People will call you" (See: [[:tl:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:isa:58|Isaiah Chapter 58 Comprehension Questions]]**
+**[[:tl:bible:notes:isa:58:11|<<]] | [[:tl:bible:notes:isa:58:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

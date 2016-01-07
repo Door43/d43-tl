@@ -1,0 +1,54 @@
+====== Psalms 049:11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 They once had \add houses on\add* land that they owned,
+\q1 but now their graves are their homes forever,
+\q2 the place where they will stay for all time!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 They once had houses on land that they owned,
+\q1 but now their graves are their homes forever,
+\q2 the place where they will stay for all time!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Their inner thought is that their families will
+continue forever,
+\q and the places where they live, to all generations;
+\q they call their lands after their own names.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:tl:obe:other:family]]
+  * [[:tl:obe:other:generation|generation]]
+  * [[:tl:obe:kt:call|call, calling]]
+  * [[:tl:obe:kt:name|name]]
+
+===== Translation Notes: =====
+
+  * **Their inner thought** - "Their belief"
+  * **and the places where they live, to all generations** - AT: "and the places where they live will be passed down as an inheritance to all their future generations" (See: [[:tl:ta:vol2:translate:figs_ellipsis]])
+  * **they call their lands** - "they name their lands" 
+===== Links: =====
+
+  * **[[:tl:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
+**[[:tl:bible:notes:psa:049:009|<<]] | [[:tl:bible:notes:psa:049:012|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~
