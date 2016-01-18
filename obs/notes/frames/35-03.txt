@@ -1,8 +1,9 @@
-===== The Two Sons [35-03] =====
+===== Ang Dalawang Anak na Lalaki [35-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&}}
 
-“There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
+“May isang ama na may dalawang anak na lalaki. Isang araw sinabi ng bunso sa ama niya, ‘Ama, ibigay mo na ang mamanahin ko ngayon!’Hinati ng ama nila ang lahat ng ari-arian niya para sa dalawang anak niya.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:son]]**
