@@ -1,8 +1,9 @@
-===== This Is My Son [36-05] =====
+===== Ito Ang Aking Anak [36-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-05.jpg?nolink&}}
 
-As **Peter** was talking, a bright cloud came down and surrounded them and **a voice from the cloud said**, “This is my **Son** whom I **love**. I am pleased with him. **Listen to him**.” The three **disciples** were **terrified** and **fell on the ground**.
+Habang nagsasalita pa si Peter bumaba ang isang maliwanang na ulap at pinalibutan sila. May boses galing sa ulap na nagsalita at sinabi, “Siya ang pinakamamahal kong Anak. Nalulugod ako sa kanya. Pakinggan niyo siya.” Napadapa sa lupa ang tatlong apostol dahil sa takot.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:peter]]**
