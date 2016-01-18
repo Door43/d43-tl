@@ -1,8 +1,9 @@
-===== I Am the Resurrection [37-05] =====
+===== Ako Ang Muling Pagkabuhay [37-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-05.jpg?nolink&}}
 
-**Jesus** replied, “**I am the Resurrection and the Life**. Whoever **believes** in me **will live**, **even though he dies**. Everyone who believes in me **will never die**. Do you believe this?” **Martha** answered, “Yes, **Master**! I believe you are the **Messiah**, the **Son of God**.”
+Sumagot naman si Jesus, “Ako ang nagbibigay buhay at ako rin bumubuhay muli sa mga patay. Lahat ng namatay na naniniwala sa akin ay muling mabubuhay. Lahat ng nabubuhay na naniniwala sa akin ay hindi mamamatay. Tinanong ni Jesus si Martha, “Naniniwala ka ba sinabi ko?.” Sumagot si Martha, “Opo, Panginoon, naniniwala ako sa iyo na ikaw ang Messiah, ang Anak ng Diyos.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
