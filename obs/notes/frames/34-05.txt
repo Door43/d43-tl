@@ -1,8 +1,9 @@
-===== The Perfect Pearl [34-05] =====
+===== Ang Walaang Kapintasang Perlas [34-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&}}
 
-“The **kingdom of God** is also like a **perfect pearl of great value**. When a **pearl merchant** found it, he sold all that he had and used the money to buy it.”
+“Ang paghahari ng Diyos ay gaya din ng isang magandang perlas na mamahalin. Nang makita ito ng isang mangangalakal, ibinenta niya ang lahat ng mayroon siya at ginamit niya ito para mabili ang perlas.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:kingdomofgod]]**
