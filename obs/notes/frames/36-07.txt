@@ -1,8 +1,9 @@
-===== Keep the Secret [36-07] =====
+===== Pagtatago Ng Sikreto [36-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
-**Jesus** and the three **disciples** went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon **die** and then come back to **life**. After that, you may tell people.”
+Bumaba na ng bundok sina Jesus at ang tatlo niyang apostol. Sinabi ni Jesus sa kanila, “Huwag muna ninyong ipagsabi sa iba ang nangyari dito. Malapit na akong mamatay pero mabubuhay akong muli. Pagkatapos maaari na ninyong ikuwento sa mga tao ang nangyari.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
