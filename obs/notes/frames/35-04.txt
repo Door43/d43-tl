@@ -1,8 +1,9 @@
-===== The Younger Son [35-04] =====
+===== Ang Nakababatang Anak [35-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink&}}
 
-“Soon the younger son gathered all that he had and went far away and **wasted his money** in **sinful living**.”
+  - “Nang makuha ng bunso ang mana niya, nagpakalayo-layo siya at winaldas ang pera niya sa masasamang gawain.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:sin]]**
