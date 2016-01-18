@@ -1,8 +1,9 @@
-===== The House of the High Priest [39-01] =====
+===== Ang Bahay ng Punong Pari [39-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}
 
-It was now **the middle of the night**. The soldiers led **Jesus** to the house of the **high priest** in order for the high priest **to question him**. **Peter** followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
+Malalim na ang gabi nang dinakip nila si Jesus at dinala sa bahay ng punong pari para gawin ang paglilitis doon. Sumusunod naman si Peter malayo sa likuran nila. Nang madala nila si Jesus sa bahay, nanatili si Peter sa labas at nagpainit siya sa tabi ng apoy.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
