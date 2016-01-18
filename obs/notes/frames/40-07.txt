@@ -1,8 +1,9 @@
-===== Jesus Died [40-07] =====
+===== Ang Pagkamatay Ni Jesus [40-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
-Then **Jesus** cried out, “**It is finished**! **Father**, I give my **spirit into your hand**s.” Then he **bowed his head** and **gave up his spirit**. When he **died**, there was an earthquake and the **large curtain** that separated the people from the presence of **God** in the **Temple** was torn in two, from the top to the bottom.
+Sumigaw si Jesus, “Tapos ko na! Ama,ipinapaubaya ko po sa iyo ang aking espiritu.” Pagkatapos ay yumuko siya at namatay. Nagkaroon ng lindol pagkamatay niya at napunit mula sa itaas hanggang ibaba ang malaking kurtina sa loob ng Templo. Ang kurtina na iyon ang naghihiwalay sa presensya ng Diyos at sa mga tao.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
