@@ -1,8 +1,9 @@
-===== The Proud Will Be Humbled [34-10] =====
+===== Ang Mapangmataas ay Ibababa [34-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}
 
-Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collector's prayer** and **declared him to be righteous**. But he did not like the **religious leader's** prayer. God **will humble** everyone who is **proud**, and he will lift up whoever **humbles himself**.”
+  - “Pagkatapos sinabi ni Jesus ‘Sinasabi ko sa inyo ang katotohanan, dininig ng Diyos ang dasal ng maniningil ng buwis at matuwid na siya sa paningin ng Diyos. Hindi naman niya nagustuhan ang panalangin ng pinuno ng relihiyon. Ibabagsak ng Diyos ang mayayabang at iaangat naman niya ang mga nagpapakumbaba.”’
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
