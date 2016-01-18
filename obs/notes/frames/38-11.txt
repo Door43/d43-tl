@@ -1,8 +1,9 @@
-===== At Gethsemane [38-11] =====
+===== Sa Gethsemane [38-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
-Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jesus told his disciples to **pray** that they would not **enter into temptation**. Then Jesus went to pray **by himself**.
+Tumuloy si Jesus kasama ng mga apostol sa lugar na tinatawag na Gethsemane. Sinabihan ni Jesus ang mga apostol na manalangin sila para hindi sila matukso. Pagkatapos umalis si Jesus para makapag-isa at makapanalangin.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
