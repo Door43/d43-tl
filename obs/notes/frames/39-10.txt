@@ -1,8 +1,9 @@
-===== What Is Truth? [39-10] =====
+===== Ano Ang Katotohanan? [39-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink&}}
 
-Jesus answered, “**You have said so**, but **my kingdom is not an earthly kingdom**. If it were, **my servants would fight for me**. I have come to earth to tell the **truth** about **God**. Everyone who **loves** the truth **listens to me**.” **Pilate** said, “**What is truth**?”
+Sumagot si Jesus, “Tama ang sinabi mo pero ang kaharian ko ay hindi dito sa mundo. Kung ganoon nga, lalaban ang mga lingkod ko para sa akin. Naparito ako sa mundo para sabihin ang katotohanan tungkol sa Diyos. Lahat ng nagagalak sa katotohanan ay nakikinig sa akin.” Tinanong siya ni Pilate, “Ano ang katotohanan?”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
