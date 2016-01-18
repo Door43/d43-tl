@@ -1,8 +1,9 @@
-===== Alone with Jesus [36-06] =====
+===== Si Jesus Ang Natira [36-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&}}
 
-Then **Jesus touched them** and said, “**Do not be afraid**. **Get up**.” When they looked around, the **only one still there was Jesus**.
+  - Hinawakan sila ni Jesus at sinabing, “Huwag kayong matakot. Tumayo kayo”. Pagtingin nila sa paligid wala na silang nakitang iba doon kundi si Jesus.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
