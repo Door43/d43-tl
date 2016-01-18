@@ -1,8 +1,9 @@
-===== The Tax Collector's Prayer [34-09] =====
+===== Ang Panalangin ng Taga-Singil ng Buwis [34-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&}}
 
-“But the **tax collector stood far away** from the **religious leader**, and **did not even look up to heaven**. Instead, **he pounded on his chest with his fist** and **prayed**, ‘**God**, please be **merciful** to me because I am a **sinner**.’”
+“Samantala nakatayo naman sa di kalayuan ang maniningil ng buwis at hindi man lang siya makatingala sa langit at sa halip ay kinakabog niya ang dibdib niya habang nananalangin ng ganito, ‘Diyos ko, maawa kayo sa akin dahil makasalanan ako.”’
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:taxcollector]]**
