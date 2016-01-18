@@ -1,4 +1,4 @@
-===== The Beginning [01-01] =====
+===== Ang Simula [01-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
