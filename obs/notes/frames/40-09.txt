@@ -1,8 +1,9 @@
-===== The Burial of Jesus [40-09] =====
+===== Ang Paglibing Kay Jesus [40-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
-Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
+Pagkatapos may dalawang pinuno ng mga Hudyo na naniniwala sa Messiah. Ito ay sina Joseph na taga-Arimatea at si Nicodemus. Hiniling nila kay Pilate ang bangkay ni Jesus. Binalot nila ito ng tela at saka ipinasok sa libingang ipinauka sa bato. Tinakpan nila ng malaking bato ang pasukan ng libingan.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:jewishleaders]]**
