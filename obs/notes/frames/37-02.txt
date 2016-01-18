@@ -1,8 +1,9 @@
-===== Back to Judea [37-02] =====
+===== Ang Pagbalik sa Judea [37-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
-After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
+Pagkatapos ng dalawang araw sinabi ni Jesus sa mga apostol, “Bumalik na tayo sa Judea.” Sinabi naman ng mga apostol, “Pero Guro, kailan lang, gusto kang patayin ng mga tao doon! Sumagot naman si Jesus, “Natutulog ang kaibigan nating si Lazarus at kailangan ko siyang gisingin.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
