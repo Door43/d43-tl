@@ -1,8 +1,9 @@
-===== The Religious Leader's Prayer [34-07] =====
+===== Ang Panalangin ng Pinuno ng Relihiyon [34-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
-“The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
+“Nagdasal ng ganito ang pinuno ng relihiyon, ‘Salamat po oh Diyos, dahil hindi ako makasalanan gaya ng ibang mga tao na mga magnanakaw, na mga mandaraya, na mga nangangalunya o kagaya ng taong iyan na maniningil ng buwis.”’
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:jewishleaders]]**
