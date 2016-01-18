@@ -1,8 +1,9 @@
-===== The Brother Is Angry [35-11] =====
+===== Nagalit Ang Kapatid [35-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
-“When the older **son** found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and **begged** him to come and celebrate with them, but he refused.”
+“Nang malaman niya na nagdidiwang sila dahil bumalik na sa bahay nila ang bunso niyang kapatid, galit na galit siya at ayaw niyang pumasok sa loob ng bahay. Kaya lumabas ang ama nila at nakiusap sa kanya na sumama sa kasayahan pero tumanggi siya.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:son]]**
