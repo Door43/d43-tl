@@ -1,8 +1,9 @@
-===== The Two Robbers [40-04] =====
+===== Ang Dalawang Magnanakaw [40-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-**Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
+Ipinako si Jesus sa gitna ng dalawang magnanakaw. Ininsulto ng isa sa kanila si Jesus pero pinagsabihan naman siya ng isa pang magnanakaw, “Dapat kang matakot sa Diyos dahil walang kasalanan ang taong ito at tayo ang may nagawang kasalanan. Nakiusap ang magnanakaw na iyon kay Jesus, “Alalahanin mo ako sa iyong kaharian.” Sinagot naman siya ni Jesus at sinabing, “Sa araw na ito, isasama kita sa Paraiso.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
