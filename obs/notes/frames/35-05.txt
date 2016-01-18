@@ -1,8 +1,9 @@
-===== The Famine [35-05] =====
+===== Ang Tag-gutom [35-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&}}
 
-“After that, **a severe famine happened** in the land where the younger son was, and he had **no money to buy food**. So he took the only job he could find, **feeding pigs**. He was so miserable and hungry that he wanted to eat the pigs’ food.”
+“Hindi nagtagal nagkaroon ng matinding tag-gutom sa lugar na kinaroroonan ng bunsong anak. Wala na siyang perang pambili ng pagkain kaya tinanggap niya ang nag-iisang trabahong nahanap niya na tagapakain lang ng baboy. Kawawang-kawawa siya at gutom na gutom kaya napilitan na siyang kumain ng kanimbaboy.”
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
