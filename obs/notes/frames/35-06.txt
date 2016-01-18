@@ -1,8 +1,9 @@
-===== The Son Repented [35-06] =====
+===== Ang Pagsisisi ng Anak [35-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
-“Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
+“Bigla siyang napaisip dahil sa hirap ng kalagyan niya kaya nasabi niya sa sarili niya, ‘Ano ba itong ginagawa ko? Maraming pagkain ang mga utusan ng ama ko, samantalang ako dito ay mamamatay na sa gutom. Babalik na lang ako sa ama ko at makikiusap na ibilang niya akong isa sa mga utusan.’’’
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:servant]]**
