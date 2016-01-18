@@ -1,23 +1,17 @@
-===== Isaac Blessed Jacob [07-04] =====
+===== Pinagpala ni Isaac si Jacob [07-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink}}
-
-**Jacob came to Isaac** and said, “I am **Esau**. I have come so that you can **bless** me.” When Isaac felt the goat hair and smelled the clothes, **he thought it was Esau** and blessed him.
+Pumunta si Jacob kay Isaac at sinabi, “Ako si Esau. Nagpunta po ako rito para hingin ang pagpapala niyo.” Nang mahawakan ni Isaac ang balahibo ng kambing at maamoy ang damit niya, inakala ni Isaac na siya nga si Esau at pinagpala niya ito.
 
 ===== Important Terms: =====
 
-
-  * **[[:tl:obe:other:jacob]]**
-  * **[[:tl:obe:other:isaac]]**
-  * **[[:tl:obe:other:esau]]**
-  * **[[:tl:obe:kt:bless]]**
-
-
+  * **[[:tl:obe:other:jacob|Jacob, Israel]]**
+  * **[[:tl:obe:other:isaac|Isaac]]**
+  * **[[:tl:obe:other:esau|Esau]]**
+  * **[[:tl:obe:kt:bless|bless, blessed, blessing]]**
 ===== Translation Notes: =====
 
-
-  * **Jacob came to Isaac** - In some languages it might be more natural to say, "Jacob went to Isaac."
-  * **he thought it was Esau** - He thought that the person he was touching and smelling was Esau.
-
+  * **Jacob came to Isaac**  - In some languages it might be more natural to say, "Jacob went to Isaac."
+  * **he thought it was Esau**  - He thought that the person he was touching and smelling was Esau.
 **[[:tl:obs:notes:frames:07-03|<<]] | [[:tl:obs:notes:07|Up]] | [[:tl:obs:notes:frames:07-05|>>]]**
