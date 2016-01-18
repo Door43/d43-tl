@@ -1,8 +1,9 @@
-===== I Am the Son of God [39-04] =====
+===== Ako Ang Anak ng Diyos [39-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink&}}
 
-Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
+Sumagot si Jesus "Ako nga at makikita niyo akong nakaupo sa trono kasama ng Diyos at makikita niyo rin ako na manggagaling sa langit.” Pinunit ng punong pari ang damit niya sa sobrang galit at pasigaw niyang sinabi, “Hindi na natin kailangan ng iba pang mga saksi. Narinig niyo naman ang sinabi ni Jesus na siya ang Anak ng Diyos. Ano ang ihahatol niyo sa kanya?”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
