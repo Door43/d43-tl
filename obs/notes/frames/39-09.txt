@@ -1,8 +1,9 @@
-===== Jesus and Pilate [39-09] =====
+===== Si Jesus at Si Pilate [39-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
+Kinaumagahan, dinala ng mga pinuno ng Hudyo si Jesus kay Pilate, ang gobernador ng Roma. Inasahan nilang hahatulan ni Pilate si Jesus at paparusahan siya ng kamatayan. Tinanong ni Pilate si Jesus, “Ikaw ba ang hari ng mga Hudyo?”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:jewishleaders]]**
