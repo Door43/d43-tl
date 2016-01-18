@@ -1,8 +1,9 @@
-===== The Large Tree [34-02] =====
+===== Ang Malaking Puno [34-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&}}
 
-“But when the **mustard seed grows**, it becomes the largest of all of the **garden plants**, big enough that even the birds come and **rest in** its branches.”
+  - “Pero kapag tumubo, ito ang nagiging pinakamalaki sa lahat ng halaman sa hardin. Sa laki nito, pinamumugaran ng mga ibon ang mga sanga nito.”
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
