@@ -1,8 +1,9 @@
-===== Do Not Touch [02-03] =====
+===== Ipinagbawal ang bunga [02-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&0}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&}}
 
-The woman answered, “**God** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of good and evil**. God told us, ‘If you eat that fruit or even touch it, **you will die**.’”
+Sinagot naman ng babae ang ahas , “Sinabi sa amin ng Diyos na pwede naming kainin ang bunga sa kahit anong puno maliban lang sa bunga ng puno na nagbibigay ng kaalaman ng mabuti’t masama.” Sinabi din sa amin ng Diyos, “Kapag kinain niyo o kaya hinawakan ninyo ang bunga, mamamatay kayo.”
+
 ===== Important Terms: =====
 
   * **[[tl/obe/kt/god]]**
