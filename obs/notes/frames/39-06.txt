@@ -1,8 +1,9 @@
-===== Peter and the Servant Girl [39-06] =====
+===== Si Peter At Ang Alipipng Babae [39-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&}}
 
-As **Peter** was waiting outside the house, a **servant girl** saw him and said to him, “You also were with **Jesus**!” Peter **denied it**. Later, another girl said the same thing, and **Peter denied it again**. Finally, the people said, “We know that you were with Jesus because you both **are from Galilee**.”
+Habang naghihintay si Peter sa labas ng bahay ng punong pari, nakita siya ng babaeng lingkod at sinabing “Hindi ba’t kasama ka ni Jesus?” Tinanggi ito ni Peter. Maya maya tinanong muli ng ibang babae si Peter at muli din niyang itinanggi na kilala niya si Jesus. Sa bandang huli sinabi sa kanya ng mga tao, “Alam naming kasamahan mo si Jesus dahil pareho kayong galing sa Galilee.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:peter]]**
