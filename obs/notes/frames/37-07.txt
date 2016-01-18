@@ -1,8 +1,9 @@
-===== Open the Tomb [37-07] =====
+===== Pagbubukas ng Libingan [37-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
-The **tomb** was a cave with a stone rolled in front of its opening. When **Jesus** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been dead for four days**. There will be a bad smell.”
+Ang libingan ni Lazarus ay kwebang tinakpan ng bato. Pagdating doon ni Jesus sinabi niya, “Igulong niyo palayo ang bato.” Pero sumagot si Martha, “Apat na araw nang patay si Lazarus, siguradong nangangamoy na siya.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:tomb]]**
