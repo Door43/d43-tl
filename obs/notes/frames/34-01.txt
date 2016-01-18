@@ -1,6 +1,6 @@
 ===== Ang Buto ng Mustasa [34-01] =====
 
-f{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&}}
 
 Maraming ikinuwento si Jesus tungkol sa kaharian ng Diyos. Ito ang mga halimbawa, “Ang paghahari ng Diyos ay katulad ng buto ng mustasa na itinanim ng isang tao sa kanyang taniman. Alam niyong ito ang pinakamaliit na buto sa lahat.”
 
