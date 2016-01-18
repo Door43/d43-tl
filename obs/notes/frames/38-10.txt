@@ -1,8 +1,9 @@
-===== Peter's Promise [38-10] =====
+===== Ang Pangako Ni Peter [38-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
-**Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
+Sinabi ni Peter kay Jesus, “Kahit mamatay pa ako, hindi ko kayo ipagkakaila!” Ganoon rin ang sinabi ng mga ibang apostol.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:peter]]**
