@@ -1,8 +1,9 @@
-===== We Must Celebrate [35-13] =====
+===== Dapat Tayong Magdiwang [35-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink&}}
 
-“The father answered, ‘My **son**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was dead**, **but now is alive**. **He was lost**, **but now is found**!’”
+“Sumagot naman ang ama, ‘Anak, palagi kitang kasama at lahat ng akin ay sa iyo rin. Dapat lang na magsaya tayo dahil namatay ang kapatid mo at ngayon, nabuhay siya. Nawala siya pero ngayon, nahanap na!”’
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:son]]**
