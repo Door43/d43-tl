@@ -1,8 +1,9 @@
-===== The Miracles of Stephen [45-01] =====
+===== Ang Mga Himala Ni Stephen [45-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
-One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
+Isa sa mga pinuno ng unang nabuong simbahan ay isang lalaking nagngangalang Stephen. Siya ay may magandang reputasyon dahil pinagkalooban siya ng karunungan at kakayahan sa tulong ng Banal na Espiritu. Maraming ginawang himala si Stephen at nakakahikayat ang mga pagpapaliwanang niya na dapat maniwala ang mga tao kay Jesus.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:church]]**
