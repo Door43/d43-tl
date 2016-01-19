@@ -1,8 +1,9 @@
-===== More than Enough [30-09] =====
+===== Sumobra ang Pagkain [30-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&}}
 
-After that, the **disciples** collected the food that had not been eaten and it was enough to fill twelve baskets! All the food came from the five loaves of bread and two fish.
+Pagkatapos ay tinipon ng mga apostol ang mga sumobrang pagkain at kasya pa ito sa 12 na baskets. Ang lahat ng pagkain ay nanggaling lang sa limang tinapay at dalawang isda.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:disciple]]**
