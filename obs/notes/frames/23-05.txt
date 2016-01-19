@@ -1,8 +1,9 @@
-===== The Birth of Jesus [23-05] =====
+===== Ipinanganak si Jesus [23-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
+Nang dumating sila sa Bethlehem, wala silang matuluyan na bahay. Ang nahanap lang nilang pwedeng matuluyan ay silungan ng mga hayop. Doon na niya naipanganak ang sanggol. Inihiga nila ang sanggol sa lalagyan ng pagkain ng mga hayop dahil walang higaan para sa kanya. Pinangalanan nila siyang Jesus.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:bethlehem]]**
