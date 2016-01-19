@@ -1,8 +1,9 @@
-===== Guards for the Tomb [41-01] =====
+===== Mga Bantay Ng Libingan [41-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink&}}
 
-After the soldiers **crucified Jesus**, **the unbelieving Jewish leaders** said to **Pilate**, “**That liar**, **Jesus**, **said** he would **rise from the dead** after three days. Someone must guard the **tomb** to make sure that his **disciples** do not steal the body and then say he has risen from the dead.”
+Pagkatapos ipako sa krus si Jesus ng mga sundalo sinabi ng mga hindi naniniwalang pinuno ng mga Hudyo kay Pilate, “Iyang sinungaling na si Jesus, sinabi niya na mabubuhay siyang muli pagkatapos ng tatlong araw. Kailangan pabantayan ang kanyang libingan para siguraduhing hindi mananakaw ng mga disipulo niya ang katawan niya at nang hindi sila makagawa ng kwento na nabuhay siya mula sa kamatayan.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:crucify]]**
