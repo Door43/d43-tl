@@ -1,8 +1,9 @@
-===== The Tomb Was Sealed [41-02] =====
+===== Selyado Ang Libingan [41-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
-**Pilate** said, “Take some soldiers and make the **tomb** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
+Sabi ni Pilate, “Magsama kayo ng ilang mga sundalo at pabantayan niyong mabuti ang libingan sa abot ng makakaya niyo.” Kaya sinelyuhan ang bato sa pasukan ng libingan at minarkahan ito at pinabantayan sa mga sundalo para makasiguro na walang makakapagnakaw sa katawan ni Jesus.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:pilate]]**
