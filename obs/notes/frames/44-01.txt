@@ -1,8 +1,9 @@
-===== The Crippled Man [44-01] =====
+===== Ang Lumpo [44-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
-**One day**, **Peter** and **John** were going to the **Temple**. As they approached the Temple gate, they saw **a crippled man** who was **begging** for money.
+Isang araw pumunta sina Peter at John sa Templo. Habang papalapit sila sa pasukan ng templo may nakita silang isang lumpong lalaki na namamalimos.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:peter]]**
