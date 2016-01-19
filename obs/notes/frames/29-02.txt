@@ -1,8 +1,9 @@
-===== The Huge Debt [29-02] =====
+===== Ang Malaking Utang [29-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&}}
 
-Jesus said, “**The kingdom of God is like a king who** wanted to **settle accounts with his servants**. One of his servants owed a huge debt worth 200,000 years’ wages.”
+Sinabi ni Jesus, “Ang kaharian ng Diyos ay gaya ng isang hari na naniningil ng mga utang ng mga lingkod niya. Isa sa mga lingkod niya ay may malaking utang na katumbas ng sahod sa loob ng 200,000 taon.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:kingdomofgod]]**
