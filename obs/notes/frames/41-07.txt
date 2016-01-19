@@ -1,8 +1,9 @@
-===== The Joyful News [41-07] =====
+===== Ang Magandang Balita [41-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
-The women were **full of fear and great joy**. They ran to tell the **disciples** the **good news**.
+Puno ng magkahalong takot at galak ang mga babae. Nagmadali sila para sabihin sa mga disipulo ang mabuting balita.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:joy]]**
