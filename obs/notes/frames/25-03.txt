@@ -1,8 +1,9 @@
-===== God's Word Gives Life [25-03] =====
+===== Nagbibigay Buhay ang Salita ng Diyos [25-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
-**Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
+Sumagot naman si Jesus, “Nakasulat sa salita ng Diyos na hindi lamang sa tinapay nabubuhay ang mga tao kundi sa bawat salitang nanggagaling sa bibig ng Diyos.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
