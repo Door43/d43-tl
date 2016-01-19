@@ -1,8 +1,9 @@
-===== How Many Times? [29-01] =====
+===== Ang Aral Tungkol sa Pagpapatawad [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
+Isang araw tinanong ni Peter si Jesus, “Ilang beses ko ba dapat patawarin ang kapatid kong nagkasala sa akin. Hanggang pitong beses po ba? Sumagot si Jesus, “Hindi lang pitong beses kundi 70 x 7.” ang ibig sabihin dito ni Jesus ay dapat lagi tayong magpatawad. Kaya nagkwento si Jesus.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:peter]]**
