@@ -1,8 +1,9 @@
-===== The Disciples Met Together [43-13] =====
+===== Nagkita-kita Ang Mga Disipulo [43-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink&}}
 
-The **disciples** continually listened to the teaching of the **apostles**, spent time together, ate together, and **prayed** with each other. They enjoyed **praising God** together and they shared everything they had with each other. Everyone **thought well of them**. Every day, more people became **believers**.
+Ang mga alagad ay patuloy na nakinig sa mga katuruan ng mga apostol, palagi silang nagtitipon-tipon, kahit sa pagkain, at sa pagdarasal. Ikinatutuwa nila ang pagpupuri sa Diyos na magkakasama at nagbibigayan sila ng kung anung mayroon sila sa bawat isa. Maganda ang tingin ng mga ibang tao sa kanila. Araw-araw nadaragdagan ang mga tao na nagiging mananampalataya.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:disciple]]**
