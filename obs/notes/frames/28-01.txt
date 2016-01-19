@@ -1,8 +1,9 @@
-===== What Must I Do? [28-01] =====
+===== Ano ang Dapat Kong Gawin? [28-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink&}}
 
-**One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
+Isang araw may isang mayamang pinuno na lumapit kay Jesus at nagtanong, "Mabuting guro, ano ba ang dapat kong gawin para magkaroon ng buhay na walang hanggan?" Sumagot si Jesus, “Bakit mo ako tinawag na mabuti? Isa lang ang mabuti, ang Diyos. Kung gusto mong magkaroon ng buhay na walang hanggan dapat mong sundin ang mga utos ng Diyos.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
