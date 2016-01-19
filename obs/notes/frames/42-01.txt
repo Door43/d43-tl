@@ -1,8 +1,9 @@
-===== The Two Disciples [42-01] =====
+===== Ang Dalawang Disipulo [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
+Nang araw na binuhay si Jesus mula sa mga patay dalawa sa mga disipulo niya ay nagpunta sa kalapit- bayan. Pinag-uusapan nila ang mga nangyari kay Jesus habang naglalakad sila. Umasa sila na si Jesus ang Tagapagligtas pero pinatay naman siya. Noong sinabi ng mga babae na buhay siya hindi nila alam kung papaniwalaan nila ito.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
