@@ -1,8 +1,9 @@
-===== The Great High Priest [48-06] =====
+===== Ang Dakilang Punong Pari [48-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink&}}
 
-For hundreds of years, **priests** continually offered **sacrifices** to **God** for people to show the punishment that they deserved for their **sins**. But those sacrifices could not take away their sin. **Jesus** is the **Great High Priest**. Unlike other priests, **he offered himself** as the only sacrifice that could take away the sin of all the people in the world. Jesus was the perfect high priest because he **took the punishment** for every sin that anyone has ever committed.
+Sa loob ng daan-daang taon patuloy na nag-aalay ang mga pari ng mga sakripisyo sa Diyos para ipakita ang nararapat na kaparusahan para sa mga kasalanan ng mga tao pero hindi kayang alisin ng mga sakripisyong iyon ang mga kasalanan ng mga tao. Si Jesus ay Kataas-taasan at Dakilang Pari. Hindi siya katulad ng ibang pari dahil inialay niya ang sarili niya bilang sakripisyo na tanging makakapag-alis sa lahat ng kasalanan ng mga tao sa mundo. Si Jesus ay ang pinakapunong pari na walang kapintasan dahil inako niya ang kaparusahan ng bawat kasalanang nagawa ng sinuman.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:priest]]**
