@@ -1,8 +1,9 @@
-===== Who Is My Neighbor? [27-03] =====
+===== Sino ang Kapwa Ko? [27-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink&}}
 
-But the **law expert** wanted to prove that he was **righteous**, so he asked, “**Who is my neighbor**?”
+Pero gusto ng dalubhasa na patunayan na siya ay matuwid, kaya tinanong niya si Jesus, “Sino ang tinutukoy mong kapwa ko?”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:righteous]]**
