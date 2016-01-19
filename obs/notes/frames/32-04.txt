@@ -1,8 +1,9 @@
-===== Living among the Tombs [32-04] =====
+===== Namamalagi sa Libingan [32-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
-The man lived **among the tombs** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
+Nakatira malapit sa libingan ang taong ito at buong maghapon at buong magdamag siya sumisigaw. Wala siyang suot na damit at madalas niyang hinihiwa ang sarili niya gamit ang bato.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:tomb]]**
