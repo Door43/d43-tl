@@ -1,8 +1,9 @@
-===== Tell the Disciples [41-06] =====
+===== Humayo Kayo At Sabihin Sa Mga Disipulo [41-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
-Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
+Sinabihan ng anghel ang mga babae, “Puntahan niyo ang mga disipulo at sabihin, ‘Nabuhay nang muli si Jesus at mauuna na siya sa inyong pumunta sa Galilee.’’’
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:angel]]**
