@@ -1,8 +1,9 @@
-===== Here Is Water [45-11] =====
+===== Ito Ang Tubig [45-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink&}}
 
-As Philip and the Ethiopian traveled, they came to **some water**. The Ethiopian said, “Look! There is some water! **May I be baptized**?” And he told the driver to stop the **chariot**.
+Habang naglalakbay si Philip at ang opisyal may nadaanan silang lugar na may tubig. Sinabi ng opisyal “Tignan mo! May tubig sa banda roon! Pwede mo ba akong bawtismuhan?”Sinabi niya sa nagpapatakbo ng kalesa na ihinto muna ang kalesa.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:baptize]]**
