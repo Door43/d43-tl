@@ -1,8 +1,9 @@
-===== The Jailer [47-10] =====
+===== Ang Bantay Ng Bilangguan [47-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
-**The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
+Nagising ang bantay at natakot siya nang makita niya na bukas ang pinto ng mga kulungan! Inakala niya na nakatakas na lahat ang mga bilanggo kaya binalak niyang magpakamatay (Alam niyang papatayin siya ng mga kinauukulan kapag nakatakas ang mga bilanggo) pero nakita siya ni Paul at napasigaw, “Tumigil ka! Huwag mong saktan ang sarili mo. Narito pa rin kaming lahat.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:rome]]**
