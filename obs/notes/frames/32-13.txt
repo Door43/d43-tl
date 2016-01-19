@@ -1,8 +1,9 @@
-===== The Sick Woman [32-13] =====
+===== Ang Babaeng May Sakit [32-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
-**Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
+Bumalik sila Jesus sa kabilang pampang ng lawa at pagdating nila doon sumalubong sa kanila ang napakaraming tao. Nagsiksikan sila at pinalibutan si Jesus. Kabilang sa mga taong nakikipagsiksikan doon ay ang babaeng labindalawang taon na walang tigil na dinudugo at naubos na lahat ng pera niya sa kakapagamot sa doktor para gumaling pero sa halip lumala pa ang sakit niya.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
