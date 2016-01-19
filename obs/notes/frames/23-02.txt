@@ -1,8 +1,9 @@
-===== Take Mary as Your Wife [23-02] =====
+===== Pakasalan mo si Mary [23-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&}}
 
-The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
+Sinabi ng anghel kay Joseph, “Huwag kang matakot na pakasalan si Mary dahil nabuntis siya sa pamamagitan ng Banal na Espiritu at lalaki ang magiging anak niya. Jesus ang ipangalan niyo kanya (Yahweh na nagliligtas ang ibig sabihin) dahil siya ang magligligtas sa mga tao mula sa mga kasalanan nila.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:angel]]**
