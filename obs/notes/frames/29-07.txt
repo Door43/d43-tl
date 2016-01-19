@@ -1,8 +1,9 @@
-===== The King Heard [29-07] =====
+===== Nagsumbong ang mga Lingkod [29-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
-“Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
+“Nakita naman ito ng mga kasamahan nilang mga lingkod at lubos silang nabahala kaya pumunta sila sa hari at nagsumbong.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:servant]]**
