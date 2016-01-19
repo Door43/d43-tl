@@ -1,8 +1,9 @@
-===== The Enemy [50-05] =====
+===== Ang Kaaway [50-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
-**Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
+Nagkwento si Jesus sa mga disipulo niya para maipaliwanag ang mangyayari sa mga tao sa katapusan ng mundo. Sinabi niya, "May taong nagtanim ng buto sa kanyang taniman. Habang natutulog siya may nagtanim ng buto ng damo kasama ng mga buto ng mga trigo at saka siya umalis."
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
