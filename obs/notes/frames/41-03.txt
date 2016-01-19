@@ -1,8 +1,9 @@
-===== The Women [41-03] =====
+===== Ang Mga Babae [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
+Pagkatapos ilibing si Jesus kinabukasan ay Araw na ng Pamamahinga. Hindi pinapayagan ang mga Hudyo na magpunta sa libingan sa araw na iyon. Kaya maagang-maaga pa lang pagkatapos ng Araw ng Pamamahinga may ilang mga babae na ang nakahandang magpunta sa libingan ni Jesus para maglagay ng dagdag na mabangong langis sa katawan niya.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
