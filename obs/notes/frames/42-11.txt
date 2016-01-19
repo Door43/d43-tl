@@ -1,8 +1,9 @@
-===== Jesus Went to Heaven [42-11] =====
+===== Pagakyat Ni Jesus Sa Langit [42-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
-Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
+Lumipas ang apatnapung araw nang mabuhay muli si Jesus at sinabi niya sa mga apostol, “Manatili kayo sa Jerusalem hanggang sa mabigyan kayo ng kapangyarihan ng aking Ama sa pagdating ng Banal na Espiritu.” Umakyat na sa langit si Jesus at hindi na siya makita dahil natakpan na siya ng mga ulap. Umupo siya sa kanan ng Diyos para pamahalaan ang lahat ng mga bagay.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
