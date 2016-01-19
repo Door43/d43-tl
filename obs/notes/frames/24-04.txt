@@ -1,8 +1,9 @@
-===== Preparing the Way [24-04] =====
+===== Ihahanda ang mga Tao [24-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
-**John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
+Kaya sinabi sa kanila ni John, “Kayong mga makamandag na ahas! Magsisi na kayo at baguhin niyo ang mga ugali niyo dahil puputulin ng Diyos ang lahat ng puno na hindi nagbubunga at saka ito susunugin." Tinupad na ni John ang mga nasabi ng propeta na ganito, “Makikita mo sinabi ko naman na magtatalaga ako ng isang propetang maghahanda sa mga puso ng mga tao para makinig sa iyo.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:johnthebaptist]]**
