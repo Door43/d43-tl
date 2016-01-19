@@ -1,8 +1,9 @@
-===== Jesus Is the Lamb of God [24-06] =====
+===== Si Jesus ang Kordero ng Diyos [24-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&}}
 
-The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
+Kinabukasan dumating si Jesus para magpabawtismo kay John. Sinabi ni John pagkakita niya kay Jesus, "Pagmasdan niyo, narito na ang Kordero ng Diyos na nag-aalis ng mga kasalanan ng mga tao dito sa mundo."
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
