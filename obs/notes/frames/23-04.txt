@@ -1,9 +1,9 @@
-===== The Trip to Bethlehem [23-04] =====
+===== Paglalakbay Papuntang Bethlehem [23-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+Malapit nang manganak si Mary ng mga panahong inutos ng pamahalaang Romano sa lahat ng mga tao na umuwi sila sa kani-kanilang bayan kung saan tumira ang mga ninuno nila para maibilang sa sensus kaya umalis si Mary at Joseph mula sa Nazareth kung saan sila nakatira. Naglakbay sila ng malayo papunta sa Bethlehem dahil doon tumira si David na ninuno nila.
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:mary]]**
