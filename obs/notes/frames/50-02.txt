@@ -1,8 +1,9 @@
-===== The Good News [50-02] =====
+===== Ang Magandang Balita [50-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
-As we wait for **Jesus** to return, **God** wants us to live in a way that is **holy** and that honors him. He also wants us to tell others about his **kingdom**. When Jesus was living on earth he said, “My **disciples** will **preach** the **good news** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
+Sa paghihintay natin kay Jesus, gusto ng Diyos na mamuhay tayo ng matuwid sa paraang nagbibigay karangalan sa kanya. Gusto niya rin na ibahagi natin sa iba ang tungkol sa kanyang kaharian. Noong namumuhay si Jesus dito sa mundo sinabi niya, "Ihahayag ng mga disipulo ko ang mabuting balita tungkol sa kaharian ng Diyos sa lahat ng tao sa buong mundo at pagkatapos nito ay darating na ang katapusan."
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
