@@ -1,23 +1,20 @@
-===== The Miracles [49-02] =====
+===== Ang Mga Himala [49-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
-**Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+Gumawa si Jesus ng maraming himala na nagpapatunay na siya ay Diyos. Lumakad siya sa ibabaw ng tubig, nagpatigil ng mga bagyo, nagpagaling ng maraming may sakit, nagpalayas ng mga demonyo, bumuhay ng patay, at ginawa niyang sapat ang limang pirasong tinapay at dalawang pirasong isda para mapakain ang 5,000 na katao.
+
 ===== Important Terms: =====
 
-  * **[[:tl:obe:kt:jesus]]**
-  * **[[:tl:obe:kt:miracle]]**
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:other:heal]]**
-  * **[[:tl:obe:kt:demon]]**
-  * **[[:tl:obe:kt:raise]]**
-  * **[[:tl:obe:kt:death]]**
-
-
+  * **[[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:tl:obe:kt:miracle|miracle, wonder, sign]]**
+  * **[[:tl:obe:kt:god|God]]**
+  * **[[:tl:obe:other:heal|heal, cure]]**
+  * **[[:tl:obe:kt:demon|demon, evil spirit, unclean spirit]]**
+  * **[[:tl:obe:kt:raise|raise, rise, risen, arise, arose]]**
+  * **[[:tl:obe:kt:death|death, die, dead]]**
 ===== Translation Notes: =====
 
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
-
+  * **drove out demons**  - That is, "made demons come out of people."
+  * **raised the dead to life**  - This could also be translated as, "caused dead people to become alive again."
 **[[:tl:obs:notes:frames:49-01|<<]] | [[:tl:obs:notes:49|Up]] | [[:tl:obs:notes:frames:49-03|>>]]**
