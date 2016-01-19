@@ -1,8 +1,9 @@
-===== Joseph Married Mary [23-03] =====
+===== Pinakasalan ni Joseph si Mary [23-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&}}
 
-So **Joseph** married **Mary** and took her home as his wife, but **he did not sleep with her** until she had given birth.
+Kaya pinakasalan nga ni Joseph si Mary at isinama niya sa bahay nila pero hindi sila magkatabing natutulog hanggang manganak si Mary.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:josephnt]]**
