@@ -1,8 +1,9 @@
-===== Help for the Victim [27-09] =====
+===== Tinulungan Niya ang Hudyo [27-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink&}}
 
-“The **Samaritan** then lifted the man onto **his own donkey** and took him to a **roadside inn where he took care of him**.”
+“Isinakay ng Samaritano ang Hudyo sa kanyang asno (donkey) at dinala niya ito sa isang matutuluyan at doon niya inalagaan”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:samaria]]**
