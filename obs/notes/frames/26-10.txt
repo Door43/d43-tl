@@ -1,8 +1,9 @@
-===== The Twelve Disciples [26-10] =====
+===== Ang Labindalawang Apostol  [26-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
-Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
+Pagkatapos ay pumili si Jesus ng labindalawang lalaki at tinawag niya silang mga apostol. Sumama sila sa mga pinupuntahan niya at natuto sila kay Jesus.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
