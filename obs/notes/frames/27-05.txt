@@ -1,8 +1,9 @@
-===== The Robbers [27-05] =====
+===== Sinalakay ng mga Magnanakaw [27-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
-“While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
+“Habang naglalakbay ang lalaki, sinalakay siya ng mga magnanakaw. Ninakaw lahat ang mga gamit niya at pinagbubugbog siya hanggang halos patay na nung iwan nila.”
+
 ===== Important Terms: =====
 
 
