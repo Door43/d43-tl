@@ -1,8 +1,9 @@
-===== The Ethiopian Read Isaiah [45-08] =====
+===== Nabasa Ng Ethiopian Ang Isaiah [45-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
+Nang malapit na si Philip sa kalesa, narinig niya na binabasa ng opisyal ang isinulat ng propetang si Isaiah na nagsasabing, "Dinala nila siya na parang tupang nakatakdang katayin, katulad din ng tahimik na tupa ni hindi man lang siya umimik. Hindi nila iginalang at pinagmalupitan pa siya. Kinitil nila ang kanyang buhay."
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:chariot]]**
