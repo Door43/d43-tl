@@ -1,8 +1,9 @@
-===== The Angel Appeared [41-04] =====
+===== Ang Lumitaw Na Anghel [41-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?nolink&}}
 
-Suddenly, there was a **great earthquake**. An **angel that shone as bright as lightning** appeared from **heaven**. He rolled away the stone that was covering the entrance to the **tomb** and sat on it. The soldiers guarding the tomb were terrified and **fell to the ground like dead men**.
+Biglang nagkaroon ng malakas na lindol. Isang anghel na kasing liwanag ng kidlat ang nagpakita mula sa langit. Iginulong niya ang takip na bato ng libingan at saka umupo dito. Ang mga sundalo namang nagbabantay sa libingan ay sobrang natakot at nawalan ng malay.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:angel]]**
