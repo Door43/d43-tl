@@ -1,9 +1,9 @@
-===== Do the Same [27-11] =====
+===== Ganoon Din ang Gawin Mo [27-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
+Tinanong ni Jesus ang dalubhasa, “Sino sa palagay mo sa tatlong taong napadaan ang naging kapwa sa taong binugbog at pinagnakawan?” sumagot ang dalubhasa, “Ang taong nagpakita ng habag sa taong binugbog at pinagnakawan” Sinabi ni Jesus, “Humayo ka at ganoon din ang dapat mong gawin.”
 
-Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
