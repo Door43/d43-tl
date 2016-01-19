@@ -1,8 +1,9 @@
-===== The Disciples Were Afraid [31-04] =====
+===== Natakot ang mga Apostol [31-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
-The **disciples** were very afraid when they saw **Jesus**, because they thought they were seeing **a ghost**. Jesus knew that they were afraid, so he called out to them and said, “**Do not be afraid. It is I**!”
+Takot na takot ang mga apostol nang makita nila si Jesus dahil akala nila, multo ang nakikita nila. Alam ni Jesus na natatakot sila kaya pasigaw niyang nasabi, “Huwag kayong matakot, Ako ito!”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:disciple]]**
