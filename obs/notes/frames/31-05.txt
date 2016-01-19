@@ -1,8 +1,9 @@
-===== Jesus Called Peter [31-05] =====
+===== Tinawag ni Jesus si Peter [31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master"**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
+Sinabi ni Peter kay Jesus, “Panginoon, kung ikaw talaga iyan, papuntahin mo ako diyan.” Sinabi ni Jesus kay Peter “Halika!”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:peter]]**
