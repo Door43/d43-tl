@@ -1,8 +1,9 @@
-===== The Priest [27-06] =====
+===== Ang Paring Hudyo [27-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
-“Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
+“Hindi nagtagal, isang Paring Hudyo ang napadaan din doon. Nang makita ng Pari ang lalaking binugbog at pinagnakawan, lumihis siya ng daan, hindi niya pinansin ang lalaking nangangailangan ng tulong, at nagpatuloy sa pag-alis.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:jew]]**
