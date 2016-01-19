@@ -1,8 +1,9 @@
-===== The Earthquake [47-09] =====
+===== Ang Lindol [47-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink&}}
 
-Suddenly, there was a violent earthquake! All the prison doors **flew open**, and the chains of all the prisoners **fell off**.
+Pagkatapos biglang nagkaroon ng malakas na lindol! Nabuksan lahat ang mga pinto sa kulungan at nakalas lahat ng kandado ng mga nakakulong.
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
