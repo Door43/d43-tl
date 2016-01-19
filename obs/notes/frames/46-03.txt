@@ -1,8 +1,9 @@
-===== Saul Became Blind [46-03] =====
+===== Nabulag Si Saul [46-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
-When **Saul** got up, he could not see. His friends had to lead him into Damascus. Saul did not eat or drink anything for three days.
+Pagkatayo ni Saul, hindi na siya makakita kaya kinailangan pa siyang akayin ng mga kasama niya papunta sa Damascus. Hindi siya uminom o kumain ng kahit na ano sa loob ng tatlong araw.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:paul]]**
