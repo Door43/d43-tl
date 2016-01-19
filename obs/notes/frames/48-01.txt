@@ -1,8 +1,9 @@
-===== The Perfect Creation [48-01] =====
+===== Ang Perpektong Paglikha [48-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink&}}
 
-When **God created the world**, everything was **perfect**. **There was no sin**. **Adam** and **Eve** loved each other, and they loved God. **There was no sickness or death**. This was the way God wanted the world to be.
+Nang nilikha ng Diyos ang mundo ang lahat ay maayos at walang kapintasan. Wala pang kasalanan noon sa mundo. Nagmamahalan si Adam at Eve at mahal nila ang Diyos. Wala pang karamdaman at kamatayan dahil ganitong klase ng mundo ang gusto ng Diyos.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:god]]**
