@@ -1,8 +1,9 @@
-===== The Seed in Good Soil [33-05] =====
+===== Ang mga Buto sa Matabang Lupa [33-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
-“Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
+“Mayroon ding mga buto na nahulog sa matabang lupa. Tumubo ang mga buto at may namunga ng tig-tatatlumpu, tig-aanimnapu at tig- iisandaan. Kayong may mga tainga, makinig kayo!”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:good]]**
