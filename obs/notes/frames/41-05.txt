@@ -1,8 +1,9 @@
-===== Jesus Is Risen [41-05] =====
+===== Nabuhay Muli Si Jesus [41-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
-When the women arrived at the tomb, the **angel** told them, “**Do not be afraid**. **Jesus** is not here. **He has risen from the dead**, just like he said he would! Look in the **tomb** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
+Pagdating ng mga babae sa libingan sinabi ng anghel sa kanila, “Huwag kayong matakot. Wala na rito si Jesus. Binuhay na siyang muli mula sa kamatayan, gaya ng sinabi niya! Tignan niyo ang libingan niya.” Tiningnan nga ng mga babae ang libingan kung saan inilagak ang katawan ni Jesus at nakita nilang wala na doon ang katawan niya!
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:angel]]**
