@@ -1,8 +1,9 @@
-===== Everyone Ate [30-08] =====
+===== Naging Sapat ang Pagkain [30-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
-Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
+Hinati-hati ni Jesus ang mga tinapay at mga isda. Ibinigay niya ang mga nahating pagkain sa mga apostol niya para ipamahagi sa mga tao. Pinasa ng pinasa ng mga apostol ang mga pagkain ngunit hindi ito nauubos. Lahat ng tao ay nakakain at nabusog.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
