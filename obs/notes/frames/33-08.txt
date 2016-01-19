@@ -1,8 +1,9 @@
-===== The Desire for Riches [33-08] =====
+===== Ang Pagkahilig sa Kayamanan [33-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
-“The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
+“Ang lupang may matitinik na damo ay ang taong nakinig ng salita ng Diyos pero habang lumilipas ang panahon nadadaig ng mga alalahanin, kayamanan at luho sa buhay ang pagmamahal niya sa Diyos. Dahil dito hindi niya naipamuhay ang mga aral na narinig niya.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:wordofgod]]**
