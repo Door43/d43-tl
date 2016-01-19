@@ -1,8 +1,9 @@
-===== Five Loaves and Two Fish [30-05] =====
+===== Limang Tinapay at Dalawang Isda [30-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
-But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
+Pero sinabi sa kanila ni Jesus, “Pakainin niyo sila”. Sumagot naman ang mga apostol, “Paano po namin gagawin iyon gayong limang tinapay at dalawang maliit na isda lang ang pagkain na mayroon tayo?”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
