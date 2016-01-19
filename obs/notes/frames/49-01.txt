@@ -1,8 +1,9 @@
-===== The Virgin Birth [49-01] =====
+===== Ang Panganganak Ng Birhen [49-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
-An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
+Isang anghel ang nagsabi sa isang dalaga na nagngangalang Mary na ipanganganak niya ang batang tatawaging Anak ng Diyos. Nagbuntis nga si Mary kahit dalaga pa siya dahil sa kapangyarihan ng Banal na Espiritu. Nagkaanak siya ng batang lalaki at pinangalanan niyang Jesus. Ibig sabihin, si Jesus ay parehong tao at Diyos.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:virgin]]**
