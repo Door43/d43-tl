@@ -1,8 +1,9 @@
-===== No Other Way but Jesus [44-08] =====
+===== Si Jesus Lamang Ang Tanging Daan [44-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
-**Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
+Sinagot sila ni Peter, “Gumaling ang lalaking iyon dahil sa kapangyarihan ni Jesus, ang Messiah. Ipinako niyo siya sa krus pero binuhay siyang muli ng Diyos! Hindi niyo siya tinanggap pero walang ibang paraan para maligtas kundi sa pamamagitan ng kapangyarihan ni Jesus.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:peter]]**
