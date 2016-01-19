@@ -1,8 +1,9 @@
-===== Letters to the Churches [47-14] =====
+===== Mga Sulat Para Sa Mga Simbahan [47-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
-**Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
+Si Paul at ang iba pang pinuno ng mga kristiyano ay naglakbay sa maraming lungsod para ipinangaral at itinuro nila ang mabuting balita tungkol kay Jesus sa mga tao. Gumawa din sila ng mga sulat para sa mga mananampalataya sa mga simbahan para palakasin at turuan sila. Naging bahagi ng Bibliya ang ibang sulat na ito.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:paul]]**
