@@ -1,8 +1,9 @@
-===== The Levite [27-07] =====
+===== Ang Levita [27-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
+“Maya-maya pa, isang Levita ang napadaan din doon. (Ang Levita ay isang tribo ng mga Hudyo na tumutulong sa mga Pari sa templo). Lumihis din ang Levita ng daan at hindi niya din pinansin ang taong pinagnakawan at binugbog.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:jew]]**
