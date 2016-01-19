@@ -1,8 +1,9 @@
-===== Saul Went to Jerusalem [46-08] =====
+===== Pumunta Si Saul Sa Jerusalem [46-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-**Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
+Pinuntahan ni Saul ang mga alagad sa Jerusalem pero takot sila sa kanya. Isang mananampalataya na ang pangalan ay Barnabas ang nagdala kay Saul sa mga apostol. Sinabi niya kung gaano katapang na nangaral si Saul sa Damascus. Pagkatapos noon tinanggap na siya ng mga alagad.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:paul]]**
