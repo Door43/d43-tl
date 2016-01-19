@@ -1,8 +1,9 @@
-===== The Storm [31-02] =====
+===== Ang Bagyo [31-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
-**Meanwhile**, the **disciples** were **rowing their boat**, but by late in the night they had only traveled as far as the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them.
+Samantala nasa gitna pa lang sila ng lawa kahit gabing gabi na. Nahihirapan na ang mga apostol na magsagwan dahil sa mga alon at hangin na sumasalubong sa kanila.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:disciple]]**
