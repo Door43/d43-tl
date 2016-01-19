@@ -1,8 +1,9 @@
-===== Healed by Faith [32-16] =====
+===== Gumaling dahil sa Pananampalataya [32-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
-The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your faith has healed you**. Go in **peace**.”
+Pagkarinig ng babae sa sinabi ni Jesus, nanginig siya sa takot at agad siyang lumuhod sa harapan ni Jesus at inamin niya ang ginawa niya at kung paano siya gumaling. Sinabi ni Jesus sa kanya, “Pinagaling ka ng iyong pananampalataya. Makakauwi ka na ng payapa.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
