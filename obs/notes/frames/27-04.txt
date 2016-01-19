@@ -1,8 +1,9 @@
-===== The Jewish Traveler [27-04] =====
+===== Hudyong Naglalakbay [27-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
-**Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
+Sinagot ni Jesus ang dalubhasa sa pamamagitan ng isang kuwento. “May isang Hudyo na naglalakbay mula Jerusalem papuntang Jericho.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
