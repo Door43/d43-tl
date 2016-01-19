@@ -1,8 +1,9 @@
-===== The Camel and the Needle [28-06] =====
+===== Ang Kamelyo at ang Karayom [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
+Sinabi ni Jesus sa mga apostol, "Talagang napakahirap para sa mga mayayaman ang makapasok sa kaharian ng Diyos. Totoong mas madali pang makapasok ang isang kamelyo sa butas ng karayom kaysa sa isang mayaman na makapasok sa kaharian ng Diyos."
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
