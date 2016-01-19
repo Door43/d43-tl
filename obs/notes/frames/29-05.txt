@@ -1,8 +1,9 @@
-===== The Small Debt [29-05] =====
+===== Ang Utang na Maliit ang Halaga [29-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
-“But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
+“Pero paglabas ng lingkod, nakita niya ang kapwa niya lingkod na may utang din sa kanya na katumbas ng apat na buwang sahod. Sinunggaban niya ito at sinabi niya, ‘Magbayad ka na ng utang mo sa akin!”’
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:servant]]**
