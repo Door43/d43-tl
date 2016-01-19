@@ -1,8 +1,9 @@
-===== You Killed the Messiah [45-03] =====
+===== Pinatay Mo Ang Messiah [45-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
-The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
+Tinanong ng punong pari si Stephen, “Totoo ba ang mga paratang nila sa iyo?” Sumagot siya sa pamamagitan ng pagpapaalala sa kanila ng mga kamangha-manghang mga bagay na ginawa ng Diyos mula sa panahon ni Abraham hanggang sa panahon ni Jesus at kung paanong patuloy na sinusuway ng mga tao ang Diyos. Sinabi niya sa kanila, “Kayong matitigas ang ulo at mga mapaghimagsik, ayaw niyong tanggapin ang Banal na Espiritu gaya ng hindi pagtanggap ng mga ninuno niyo sa Diyos at pagpatay nila sa mga propeta niya.  Pero kayo, mas masahol pa ang ginawa niyo kaysa sa kanila dahil pinatay niyo ang Messiah!”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:highpriest]]**
