@@ -1,9 +1,9 @@
-===== The Seed Is the Word [33-06] =====
+===== Ang Buto ay ang Salita ng Diyos [33-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&}}
 
+Naguluhan ang mga alagad sa kwento kaya ipinaliwanag ni Jesus ang kahulugan nito, “Ang buto ay ang salita ng Diyos, ang daanan naman ay ang taong nakikinig ng salita ng Diyos pero hindi niya ito naintindihan kaya inaalis ng diyablo ang salita ng Diyos sa puso niya kaya nalimutan niya ito.”
 
-**This story confused the disciples**. So **Jesus** explained, “The seed is the **word of God**. The path **is a person** who hears God’s word, but does not understand it, and the **devil takes the word away from him**.”
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:disciple]]**
