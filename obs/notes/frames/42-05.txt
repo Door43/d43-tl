@@ -1,8 +1,9 @@
-===== Jesus Is Alive [42-05] =====
+===== Si Jesus Ay Buhay [42-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
-The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
+Nag-usap ang dalawang lalaki at sinabing, “Si Jesus pala iyon kaya pala masarap sa pakiramdam habang ipinapaliwanag niya ang salita ng Diyos sa atin!” Nagmadali silang bumalik sa Jerusalem at pagkarating nila ibinalita nila sa mga apostol, “Buhay si Jesus! Nakita namin siya!”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:jesus]]**
