@@ -1,8 +1,9 @@
-===== Philip Met the Ethiopian [45-09] =====
+===== Nakilala Ni Philip Ang Ethiopian [45-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink&}}
 
-Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. **Was Isaiah writing about** himself or someone else?”
+Tinanong ni Philip ang taga-Ethiopia, “Naiintindihan mo ba ang binabasa mo?” Sumagot naman ang taga-Ethiopia, “Hindi ko nga ito maintindihan maliban na lang kung may magpapaliwanag sa akin. Maaari bang umupo ka sa tabi ko at ipaliwanag mo ito? Tinutukoy ba ni Isaiah ang sarili niya dito o tungkol sa iba?”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:isaiah]]**
