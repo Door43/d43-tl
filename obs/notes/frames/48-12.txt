@@ -1,8 +1,9 @@
-===== The Word of God [48-12] =====
+===== Ang Salita Ng Diyos [48-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-12.jpg?nolink&}}
 
-**Moses** was **a great prophet** who proclaimed the **word of God**. But **Jesus** is **the greatest prophet** of all. He is **God**, so everything he did and said were the actions and words of God. That is why Jesus is called the Word of God.
+Dakila ang propetang si Moses na naghayag ng salita ng Diyos pero si Jesus ang pinakadakilang propeta. Siya ay Diyos at lahat ng sinabi niya at ginawa niya ay mga gawain ng Diyos at dahil doon kaya tinawag si Jesus na “Salita ng Diyos”.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:moses]]**
