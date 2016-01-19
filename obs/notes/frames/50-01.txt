@@ -1,8 +1,9 @@
-===== The Church Is Growing [50-01] =====
+===== Lumalagong Simbahan [50-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
-For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
+Halos 2,000 na taon na ang nakalipas, nadaragdagan ng nadaragdagan ang mga taong nakakarinig ng mabuting balita tungkol kay Jesus, ang Tagapagligtas kaya patuloy na lumalago ang Simbahan. Ipinangako ni Jesus na babalik siya sa katapusan ng mundo. Kahit hindi pa siya bumabalik tutuparin niya ang pangako niya.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:goodnews]]**
