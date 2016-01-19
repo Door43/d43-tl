@@ -1,8 +1,9 @@
-===== Sins Are Forgiven [49-16] =====
+===== Pinatawad Ang Mga Kasalanan [49-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
-If you are a **Christian**, **God** has **forgiven** your **sins** because of what **Jesus** did. Now, God **considers you to be** a close friend instead of an enemy.
+Kung ikaw ay kristiyano pinatawad na ng Diyos ang mga kasalanan mo dahil sa ginawa ni Jesus. Sa halip na kaaway, malapit na kaibigan na ang turing sa'yo ngayon ng Diyos.
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:christian]]**
