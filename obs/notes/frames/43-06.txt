@@ -1,8 +1,9 @@
-===== You Crucified Jesus [43-06] =====
+===== Ipinako Ninyo Si Jesus Sa Krus [43-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
-“Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
+“Mga mamamayan ng Israel si Jesus ay isang taong gumawa ng mga pambihirang pangitain at mga himala sa pamamagitan ng kapangyarihan ng Diyos, gaya ng alam niyo at nakita niyo siya pero ipinapako niyo sa krus!”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:other:israel]]**
