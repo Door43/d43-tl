@@ -1,8 +1,9 @@
-===== Jesus Read the Scriptures [26-03] =====
+===== Binasa ni Jesus ang Kasulatan [26-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
-Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good news to the poor**, **freedom to captives, recovery of sight for the blind**, and **release to the oppressed**. This is **the year of the Lord's favor**.”
+Binasa ito ni Jesus, “Pinagkaloob sa akin ng Diyos ang Espiritu niya para masabi ko ang mabuting balita sa mga mahihirap, kalayaan para sa mga nabihag, kagalingan sa mga bulag at para na rin makalaya ang mga pinahihirapan dahil ito ang panahong mararanasan ng mga tao ang kabutihan ng Diyos.”
+
 ===== Important Terms: =====
 
   * **[[:tl:obe:kt:god]]**
