@@ -1,9 +1,8 @@
-===== Wait for the Harvest [50-07] =====
+===== Hintayin Ang Pag-ani [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
-“The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
-
+"Sumagot muli ang mga lingkod, 'Dapat ba naming bunutin ang mga damo?' Sinabi ng amo, 'Huwag, may mga mabubunot rin kayong mga trigo kung gagawin niyo iyon. Hintayin ninyo ang anihan at saka ninyo tipunin ang mga damo para sunugin, kunin niyo naman ang mga trigo at dalhin sa aking kamalig."'
 
 ===== Important Terms: =====
 
