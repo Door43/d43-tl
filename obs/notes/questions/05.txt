@@ -1,37 +1,36 @@
 ====== Kwento #5: Ang Anak na Ipinangako ======
 
-===== Comprehension Questions and Answers =====
+===== Mga Tanong para sa Pag-unawa at Mga Sagot =====
 
-  - **Why did Sarai think she would not have children?**
-    *//She was too old. [05-01]//
-  - **What did Sarai tell Abram to do in order to have a child?**
-    *//Marry her servant Hagar, so Hagar could have a child for her. [05-01]//
-  - **What was the name of Hagar's child?**
-    *//Ishmael. [05-02]//
-  - **What problem happened between Sarai and Hagar?**
-    *//Sarai became jealous of Hagar. [05-02]//
-  - **What covenant promises did God make to Abram?**
-    *//Abram would be the father of many nations, and God would give the land of Canaan to him and to his descendants. [05-03]//
-  - **What did God tell Abram to do as a sign of the covenant between them?**
-    *//Circumcise every male in his family. [05-03]//
-  - **Who did God say would be the son of the promise?**
-    *//Isaac, Sarai's son. [05-04]//
-  - **Who did God say would become a great nation?**
-    *//Both Isaac and Ishmael. [05-04]//
-  - **What did Abram's new name, Abraham, mean?**
-    *//Father of many. [05-04]//
-  - **What did God ask Abraham to do to Isaac when Isaac was a young man?**
-    *//God asked Abraham to sacrifice Isaac to him. [05-06]//
-  - **Why did God ask Abraham to sacrifice Isaac?**
-    *//To test Abraham's faith. [05-06]//
-  - **What did Abraham tell Isaac was the reason they did not have a lamb for the sacrifice?**
-    *//Abraham said God would provide the lamb for the sacrifice. [05-07]//
-  - **Did God want Abraham to kill Isaac?**
-    *//No. He only wanted to see if Abraham would obey him. [05-08]//
-  - **What did God provide as a sacrifice instead of Isaac?**
-    *//He provided a ram stuck in a bush. [05-09]//
-  - **What did God promise to do for Abraham because Abraham had obeyed him?**
-    *//He promised that Abraham's descendents would be more than the stars in the sky, and that all the families of the world would be blessed through his family. [05-10]//
+  - Bakit naisip ni Sarai na hindi siya magkakaanak**?**
+      * Dahil napakatanda na niya.// [05-01]//
+  - Ano ang ipinagawa ni Sarai kay Abram para magkaroon sila ng anak**?**
+      * Dapat maging asawa ni Abram ang lingkod nilang si Hagar para magkaroon si Hagar ng anak na para sa kanila.// [05-01]//
+  - Ano ang pangalan ng anak ni Hagar**?**
+      * Ishmael// [05-02]//
+  - Ano ang naging problema sa pagitan ni Sarai at Hagar**?**
+      * Nainggit si Sarai kay Hagar.// [05-02]//
+  - Ano ang mga kasunduang ipinangako ng Diyos kay Abram**?**
+      * Magiging ama si Abraham ng maraming mga bansa, ibibigay ng Diyos sa kanya at sa mga magiging apo niya ang lupain ng Canaan.// [05-03]//
+  - Ano ang ipinagawa ng Diyos kay Abram bilang tanda ng kasunduan nila**?**
+      * Dapat tuliin ang bawat lalaki sa pamilya ni Abram.// [05-03]//
+  - Sino ang tinutukoy ng Diyos na matatawag na ipinangakong anak**?**
+      * Si Isaac, ang anak ni Sarai//. [05-04]//
+  - Sino ang tinutukoy ng Diyos na magiging makapangyarihang bansa**?**
+      * Si Isaac at Ishmael//. [05-04]//
+  - Ano ang ibig sabihin ng “Abraham” na naging bagong pangalan ni Abram**?**
+      * Ama ng marami// [05-04]//
+  - Ano ang sinabi ng Diyos kay Abraham na gawin niya kay Isaac noong binata pa siya**?**
+      * Sinabi ng Diyos kay Abraham na dapat niyang ialay si Isaac sa kanya//. [05-06]//
+  - Bakit sinabi ng Diyos kay Abraham na isakripisyo niya si Isaac sa kanya**?**
+      * Para subukin ang pananampalataya ni Abraham.// [05-06]//
+  - Ano ang sinabing dahilan ni Abraham kay Isaac kung bakit wala silang tupa na gagamitin bilang alay**?**
+      * Sinabi ni Abraham na ang Diyos ang magbibigay ng tupa para sa gagamitin nilang alay. // [05-07]//
+  - Kagustuhan ba ng Diyos na patayin ni Abraham si Isaac**?**
+      * Hindi. Gusto lamang malaman ng Diyos kung susundin ba siya ni Abraham.// [05-08]//
+  - Ano ang ibinigay na kapalit na alay ng Diyos sa halip na si Isaac**?**
+      * Nagbigay ang Diyos ng tupang lalaki na nasabit ang sungay sa sanga.// [05-09]//
+  - Ano ang ipinangako ng Diyos na gagawin niya para kay Abraham dahil sinunod siya nito**?**
+      * Ipinangako ng Diyos na magiging kasindami ng mga bituin sa kalangitan ang magiging apo ni Abraham, at pagpapalain din niya ang lahat ng pamilya dito sa mundo dahil sa kanya.// [05-10]//
 
-
-**[[en/obs/notes/questions/04|<< ]] | [[en/obs/notes/questions/06| >>]]**
+**[[:en:obs:notes:questions:04|<< ]] | [[:en:obs:notes:questions:06| >>]]**
