@@ -2,32 +2,31 @@
 
 ===== Comprehension Questions and Answers =====
 
-  - **Where did Jesus go after he overcame Satan’s temptations?**
-    *//Jesus went to the region of Galilee where he lived. [26-01]//
-  - **What was the name of the city where Jesus lived as a child?**
-    *//Nazareth. [26-02]//
-  - **Where did Jesus go on the Sabbath?**
-    *//He went to the place of worship. [26-02]//
-  - **Why did the people in the place of worship hand Jesus the scroll of Isaiah?**
-    *//They wanted Jesus to read from it. [26-02]//
-  - **The passage of Scripture that Jesus read referred to what person?**
-    *//The Messiah. [26-04]//
-  - **What did Jesus say about the Scripture that he had just read?**
-    *//He said it was being fulfilled right then. [26-04]//
-  - **How did the people of Jesus' hometown react to his words?**
-    *//They were amazed and asked, “Isn't this the son of Joseph?” [26-04]//
-  - **What examples did Jesus give of God's prophets helping people from other nations?**
-    *//God helped a widow during a drought in Elijah’s time, and he healed Naaman, a commander of Israel’s enemies. [26-05], [26-06]//
-  - **How did the people respond when Jesus told them these stories?**
-    *//They were furious and tried to kill Jesus. [26-06], [26-07]//
-  - **How did Jesus escape from the crowd?**
-    *//Jesus walked through the crowd and left the town. [26-07]//
-  - **How did the crowds in Galilee respond to Jesus?**
-    *//They brought him many who were sick or handicapped so he could heal them. [26-08]//
-  - **Who did the demons acknowledge Jesus to be when he commanded them to come out of people?**
-    *//They said Jesus was the Son of God. [26-09]//
-  - **How many men did Jesus choose to be his apostles?**
-    *//He chose twelve apostles. [26-10]//
+  - **Saan nagpunta si Jesus pagkatapos niyang tanggihan ang mga panunukso ni Satan?**
+      * Pumunta siya sa Galilee kung saan siya nakatira.// [26-01]//
+  - **Saang lungsod tumira si Jesus noong bata pa siya?**
+      * //Sa Nazareth. [26-02]//
+  - **Saan nagpunta si Jesus noong Araw ng Pamamahinga?**
+      * Sa lugar kung saan sumasamba ang mga tao.// [26-02]//
+  - **Bakit ibinigay ng mga tao kay Jesus ang Kasulatan ni Isaiah sa lugar kung saan sila sumasamba?**
+      * Gusto nilang basahin ni Jesus ang mga nakasulat doon.// [26-02]//
+  - **Sino ang tinutukoy sa Kasulatan na binasa ni Jesus?**
+      * //Ang Messiah. [26-04]//
+  - **Ano ang sinabi ni Jesus tungkol sa Kasulatang binasa niya?**
+      * Sinabi niyang nangyayari na sa mga oras na iyon ang binasa niya.// [26-04]//
+  - **Paano tumugon ang mga tao sa bayang kinalakihan ni Jesus tungkol sa sinabi niya?**
+      * Namangha lahat ng mga tao doon at sinabi nila, “Hindi ba’t siya ang anak ni Joseph?”//[26-04]//
+  - **. Anong mga halimbawa ang ibinigay ni Jesus tungkol sa mga propeta ng Diyos na tumulong sa mga tao na taga ibang bansa?**
+      * Tinulungan ng Diyos ang isang babaeng balo noong tag-gutom sa panahon ni Elijah. Pinagaling niya rin ang kapitan ng mga kaaway ng Israel na si Naaman.// [26-05], [26-06]//
+  - **. Paano tumugon ang mga tao kay Jesus nang marinig nila ang mga ikinuwento niya?**
+      * Nagalit sila at sinubukang patayin si Jesus.// [26-06], [26-07]//
+  - **Paano nakaalis si Jesus mula sa maraming tao?**
+      * : Lumakad lang si Jesus palayo sa kalagitnaan ng maraming tao at umalis siya sa bayang iyon.// [26-07]//
+  - **. Paano tumugon ang maraming tao sa Galilee kay Jesus?**
+      * : Dinala nila kay Jesus ang mga maysakit at may kapansanan para mapagaling niya.//. [26-08]//
+  - **Paano kinilala ng mga demonyo si Jesus nang inutusan sila nitong lumayas mula sa mga tao?**
+      * Sinasabi nilang siya ang Anak ng Diyos.//[26-09]//
+  - **Ilang tao ang pinili ni Jesus para maging apostol niya?**
+      * Pumili siya ng labindalawang apostol.// [26-10]//
 
-
-**[[en/obs/notes/questions/25|<< ]] | [[en/obs/notes/questions/27| >>]]**
+**[[:en:obs:notes:questions:25|<< ]] | [[:en:obs:notes:questions:27| >>]]**
