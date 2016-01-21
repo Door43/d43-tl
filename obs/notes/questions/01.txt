@@ -1,33 +1,40 @@
 ====== Kwento 1: Ang Kwento Tungkol sa Paglikha ======
 
-===== Comprehension Questions and Answers =====
+===== Mga Tanong para sa Pag-unawa at Mga Sagot =====
 
-  - **Why were Adam and Eve not ashamed that they were naked?**
-      * //There was no sin in the world. [02-01]//
-  - **What was the snake's first question to Eve?**
-      * //Did God really tell you not to eat the fruit from any of the trees in the garden? [02-02]//
-  - **From which tree were Adam and and his wife not allowed to eat?**
-      * //They were not to eat from tree of the knowledge of good and evil. [02-03]//
-  - **What did God say would happen if Adam and his wife ate from the tree of the knowledge of good and evil?**
-      * //He said they would die. [02-03]//
-  - **What did the snake say was the reason God did not want them to eat the fruit?**
-      * //He said God was lying because God did not want them to understand things like he did. [02-04]//
-  - **Why did the woman eat the fruit?**
-      * //She saw that it was beautiful and delicious, and she wanted to be wise. [02-05]//
-  - **Were Adam and his wife forced to eat the fruit?**
-      * //No, they chose freely to eat the fruit and disobey God. [02-05]//
-  - **What did the man and the woman do when they realized they were naked?**
-      * //They sewed leaves together to make clothes. [02-06]//
-  - **How did the man respond when God confronted him about his sin?**
-      * //He blamed the woman. [02-08]//
-  - **How did the woman respond when God confronted her about her sin?**
-      * //She blamed the snake. [02-08]//
-  - **What was God's curse on the snake?**
-      * //You will slide on your belly, and the woman's descendent will crush your head. [02-09]//
-  - **What was God's curse on the woman?**
-      * //You will have painful childbirth, and although your desire will be for your husband, he will rule over you. [02-10]//
-  - **What was God's curse on the man?**
-      * //You will work hard to grow food, and you will die and return to the dirt. [02-11]//
-  - **How did God prevent Adam and Eve from living forever?**
-      * //He sent them out of the garden and guarded the entrance with powerful angels. [02-12]//
+  - Saan nanggaling ang lahat ng makikita sa buong kalawakan**?**
+      * Nanggaling sa Diyos ang lahat// [01-01]//
+  - Gaano katagal nagawa ng Diyos ang lahat**?**
+      * Anim na araw// [01-01]//
+  - Ano ang kadalasang tugon ng Diyos sa mga bagay na nagawa niya pagkatapos ng isang araw**?**
+      * //[01-02] [01-04] [01-05] [01-06] [01-07] [01-08] //
+  - Sa paanong paraan naiiba ang pagkakagawa ng Diyos sa tao kaysa sa mga hayop**?**
+      * Ginawa ng Diyos na maging katulad niya ang tao //[01-04] //
+  - Ano ang sinabi ng Diyos na magiging responsibilidad ng mga tao**?**
+      * Pamumunuan ng mga tao ang mundo at at pangangalagaan nila ang mga hayop. //[01-05] //
+  - Paano ginawa ng Diyos ang unang lalaki
+      * Ginawa ng Diyos ang tao gamit ang alikabok//. [01-06] //
+  - Paano nabuhay ang lalaki**?**
+      * Hiningahan ng Diyos ng buhay ang lalaki. //[01-07] //
+  - Ano ang pangalan ng lalaki**?**
+      * Adam //[01-08] //
+  - Saan inilagay ng Diyos si Adam**?**
+      * Sa halamanan na itinanim ng Diyos.//[01-09] //
+  - Sa anong natatanging puno hindi maaaring kumain si Adam**?**
+      * Mula sa puno ng kaalaman ng mabuti at masama //[01-10] //
+  - Ano ang mangyayari kapag kumain si Adam sa puno ng kaalaman ng mabuti at masama**?**
+      * Mamamatay si Adam. //[01-11] //
+  - Bakit “nag-iisa” si Adam gayong mayroon mga iba’t-ibang klase ng mga hayop**?**
+      * Sagot: Hindi maaaring maging “katuwang” ni Adam ang mga hayop. //[01-12] //
+  - Paano ginawa ng Diyos ang babae**?**
+      * Ginawa ng Diyos ang babae mula sa tadyang ni Adam. //[01-13] //
+  - Ano ang ibig sabihin ng “babae” para kay Adam**?**
+      * Ang ibig sabihin nito ang ay galing ang “babae” sa “lalaki.” //[01-14] //
+  - Ano ang kahalagahan ng pagkakaroon ng asawa ng lalaki
+      * Sila ay magiging isa //[01-15] //
+  - Ano ang naging pananaw Diyos ng sa lahat ng mga ginawa niya ng matapos na ang mga ito**?**
+      * Nakita niyang napakaganda ng mga ito.// [01-16] //
+  - Ano ang ginawa ng Diyos sa ikapitong araw**?**
+      * Namahinga ang Diyos, pinagpala niya ang ikapitong araw at ginawa niya itong banal. //[01-17] //
+
 **[[:en:obs:notes:questions:01|<< ]] | [[:en:obs:notes:questions:03| >>]]**
