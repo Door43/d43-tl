@@ -1,37 +1,38 @@
 ====== Kwento #4: ======
 
-===== Comprehension Questions and Answers =====
+===== Mga Tanong para sa Pag-unawa at Mga Sagot =====
 
-  - **After the flood, did the people fill the earth as God had commanded?**
-      * //No. They gathered together and built a city. [04-01]//
-  - **How many different languages were there in the world at that time?**
-      * //There was only one language. [04-01]//
-  - **What did the people work together to do instead of filling the earth?**
-      * //The started to build a tall tower to reach heaven. [04-02]//
-  - **What did God do to cause the people to spread out all over the world?**
-      * //He changed their language into many different languages. [04-03]//
-  - **What was the name of the city that they were building?**
-      * //Babel. [04-03]//
-  - **What does the name "Babel" mean?**
-      * //Confused. [04-03]//
-  - **What did God tell Abram to do?**
-      * //God told Abram to leave his country and family and go to another land. [04-04]//
-  - **What did God promise to do for Abram?**
-      * //He promised to give Abram all the land he could see, to make his name great, to make his descendants a great nation, and to bless all the families on earth through him. [04-04]//
-  - **To which land did Abram go?**
-      * //The land of Canaan. [04-05]//
-  - **What promise did God make to Abram about Canaan?**
-      * //God would give it to Abram and his descendants as an inheritance. [04-06]//
-  - **Who was Melchizedek?**
-      * //He was the priest of God Most High. [04-07]//
-  - **What did Melchizedek do for Abram?**
-      * //He blessed Abram. [04-07]//
-  - **What did Abram give to Melchizedek?**
-      * //A tenth of all he owned. [04-07]//
-  - **What did God promise Abram after he had lived in Canaan for many years?**
-      * //Abram would have a son and as many descendants as the stars in the sky. [04-08]//
-  - **Why did God say Abram was righteous?**
-      * //Because Abram believed God's promise. [04-08]//
-  - **What is a covenant?**
-      * //An agreement between two parties. [04-09]//
+  - Pagkatapos ng baha, pinuno ba ng mga tao ang mundo gaya ng iniutos ng Diyos**?**
+      * Hindi, nagtipon ang mga tao at nagtayo sila ng lungsod//. [04-01]//
+  - Ilang uri ng wika ang mayroon sa mundo sa mga panahong iyon**?**
+      * Iisa lang ang wikang ginagamit//. [04-01]//
+  - Ano ang itinayong magkakasama ng mga tao sa halip na punuin nila ang mundo**?**
+      * Nagsimula silang magtayo ng mataas na gusali para maabot ang kalangitan.// [04-02]//
+  - Ano ang ginawa ng Diyos para magkahiwa-hiwalay ang mga tao sa buong mundo**?**
+      * Pinalitan ng Diyos ang gamit nilang salita at ginawa niya itong marami at iba-iba.// [04-03]//
+  - Ano ang pangalan ng lungsod na itinatayo nila**?**
+      * Babel// [04-03]//
+  - Ano ang ibig sabihin ng “Babel”**?**
+      * Naguguluhan// [04-03]//
+  - Ano ang ipinagawa ng Diyos kay Abram**?**
+      * Sinabi ng Diyos kay Abram na iwan niya ang bansa niya at ang pamliya niya para pumunta sa ibang lupain.// [04-04]//
+  - Ano ang ipinangakong gagawin ng Diyos para kay Abram**?**
+      * Ipinangako niyang ibibigay niya kay Abraham ang mga lupaing nakikita nita, gagawin niya siyang dakila, gagawing niyang isang dakilang bansa ang mga kaapu-apuhan niya, at pagpapalain niya ang lahat ng mga pamilya sa mundo sa pamamagitan niya. //[04-04]//
+  - Saang lupain pumunta si Abram**?**
+      * Sa lupain ng Canaan.// [04-05]//
+  - Anong pangako ang ginawa ng Diyos kay Abram tungkol sa lupain ng Canaan**?**
+      * Ibibigay ito ng Diyos bilang pamana para kay Abram at sa mga kaapu-apuhan niya. //[04-06]//
+  - Sino si Melchizedek**?**
+      * Isa siyang lingkod na pari ng Diyos//. [04-07]//
+  - Ano ang ginawa ni Melchizedek para kay Abram**?**
+      * Pinagpala niya si Abram//. [04-07]//
+  - Ano ang ibinigay ni Abram kay Melchizedek**?**
+      * Nagbigay si Abraham ng ikapu ng lahat ng mayroon siya. // [04-07]//
+  - Ano ang ipinangako ng Diyos kay Abram pagkatapos niyang tumira ng maraming taon sa Canaan**?**
+      * Magkakaroon ng anak si Abram at magkakaapo siya ng kasingdami ng mga bituin sa kalangitan.// [04-08]//
+  - Paano nasabi ng Diyos na matuwid si Abram**?**
+      * Dahil naniniwala si Abram sa pangako ng Diyos.// [04-08]//
+  - Ano ang “kasunduan”**?**
+      * Ito ay pagsang-ayon ng dalawang panig sa isang bagay.// [04-09]//
+
 **[[:en:obs:notes:questions:03|<< ]] | [[:en:obs:notes:questions:05| >>]]**
