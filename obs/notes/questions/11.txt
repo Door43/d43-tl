@@ -1,23 +1,21 @@
 ====== Kwento #11: Ang Paskua ======
 
-===== Comprehension Questions and Answers =====
+===== Mga Tanong para sa Pag-unawa at Mga Sagot =====
 
-  - **What did God say he would do to the Egyptians if Pharaoh did not let the Israelites go?**
-    *//He would kill all the firstborn males of both people and animals. [11-01]//
-  - **How could people save their firstborn son?**
-    *//They had to kill a perfect lamb and put its blood around the door of their house. [11-02], [11-03]//
-  - **What specific food did God tell the Israelites to eat with the roasted lamb?**
-    *//Bread that was made without yeast. [11-03]//
-  - **What were the Israelites to be ready to do when they ate?**
-    *//Be ready to leave Egypt. [11-03]//
-  - **What did God do at the houses that had the blood around the doors?**
-    *//He passed over those houses and everyone inside was safe. [11-05]//
-  - **What did God do at every Egyptian house?**
-    *//He killed the firstborn son. [11-06]//
-  - **How many of the firstborn sons of the Egyptians were killed?**
-    *//All of them died, including Pharaoh's son. [11-07]//
-  - **What did Pharaoh tell Moses and Aaron after this plague?**
-    *//"Take the Israelites and leave Egypt immediately!" [11-08]//
-
-
-**[[en/obs/notes/questions/10|<< ]] | [[en/obs/notes/questions/12| >>]]**
+  - Anong sinabi ng Diyos na gagawin niya kung hindi pa rin papayagan ng Paraon na palayain ang mga Israelita**?**
+      * Papatayin ng Diyos ang lahat ng mga panganay na anak na lalaki ng mga tao at ng mga hayop.//11-01]//
+  - Paano maililigtas ng mga tao ang mga panganay nilang anak na lalaki**?**
+      * Kailangan nilang kumatay ng tupang walang kapintasan at ilagay ito sa paligid ng mga pinto nila.// [11-02], [11-03]//
+  - Maliban sa inihaw na tupa, anong uri ng pagkain ang sinabi ng Diyos sa mga Israelita na kainin nila**?**
+      * Tinapay na walang pampaalasa at inihaw na tupa.//[11-03]//
+  - Ano ang dapat paghandaan ng mga Israelita pagkatapos nilang kumain**?**
+      * Kailangan nilang maghanda sa pag-alis sa Egypt.// [11-03]//
+  - Ano ang ginawa ng Diyos sa mga bahay na may dugo ang pinto sa palibot nito**?**
+      * Nilampasan ng Diyos ang mga bahay na may dugo at naging ligtas ang lahat ng nasa loob ng bahay.//[11-05]//
+  - Ano ang ginawa ng Diyos sa bawat tahanan ng mga Egipcio**?**
+      * Pinatay ng Diyos ang lahat ng mga panganay na lalaki.// [11-06]//
+  - Ilan sa mga panganay na anak lalaki ng mga Egipcio ang namatay**?**
+      * Lahat ng mga panganay na lalaki ay namatay pati na ang anak ng Paraon.//[11-07]//
+  - Anong sinabi ng Paraon kay Moses at Aaron pagkatapos ng salot na ito**?**
+      * //"//“Isama mo na ang mga Israelita at umalis na kayo sa Egypt kaagad!”// [11-08]//
+**[[:en:obs:notes:questions:10|<< ]] | [[:en:obs:notes:questions:12| >>]]**
