@@ -2,24 +2,27 @@
 
 ===== Mga Tanong para sa Pag-unawa at Mga Sagot =====
 
-  - **What was God's message that Moses and Aaron gave to Pharaoh?**
-      * //"Let my people go!" [10-01]//
-  - **What did Pharaoh do when he heard this command?**
-      * //He forced the Israelites to work even harder. [10-01]//
-  - **What did God do when Pharaoh refused to let the Israelites go?**
-      * //He sent ten terrible plagues on Egypt. [10-02]//
-  - **What did God show Pharaoh through these plagues?**
-      * //That he is more powerful than Pharaoh and all of Egypt's gods. [10-02]//
-  - **What did God do to the water in the Nile River?**
-      * //God turned water in the Nile River into blood. [10-03]//
-  - **Who was affected by the plague of the painful skin sores?**
-      * //The sores appeared on the Egyptians, but not on the Israelites. [10-07]//
-  - **Did the plague of darkness affect everyone equally?**
-      * //No. It was dark where the Egyptians lived, but there was light where the Israelites lived. [10-11]//
-  - **How did Pharaoh respond to each of the first nine plagues?**
-      * //He refused to let the people go free. [10-12]//
-  - **What did God do after Pharaoh did not respond to the first nine plagues?**
-      * //God planned to send one last plague. [10-12]//
-  - **What would this last plague do that the first nine had not done?**
-      * //It would change Pharaoh's mind. [10-12]//
+  - Anong ang ipinasabi ng Diyos kina Moses at Aaron na mensahe para sa Paraon**?**
+      * “Palayain mo ang aking mga tao ko!”//[10-01]//
+  - Anong ginawa ng Paraon nang marinig niya ang utos na ito**?**
+      * Pinilit ng Paraon ang mga Israelita na magtrabaho ng mas mabigat pa//. [10-01]//
+  - Anong ginawa ng Diyos nang tumanggi ang Paraon na palayain ang mga Israelita**?**
+      * Nagpadala ang Diyos ng sampung matitinding salot sa Egypt.// [10-02]//
+  - Ano ang ipinapakita ng Diyos sa Paraon sa pamamagitan ng mga salot na ito**?**
+      * Ipinakita ng Diyos na mas makapangyarihan siya sa Paraon at sa mga diyos ng Egypt.// [10-02]//
+  - Anong ginawa ng Diyos sa tubig ng Ilog Nilo**?**
+      * Ginawang dugo ng Diyos ang tubig sa Ilog Nile.// [10-03]//
+  - Sino ang mga nasaktan dahil sa salot na malubha na sakit sa balat**?**
+      * Ang mga Egipcio lang ang naapektuhan ng malubhang sakit sa balat at hindi ang mga Israelita.// [10-07]//
+  - Pare-pareho ba na naapektuhan ng salot na kadiliman ang lahat**?**
+      * Hindi, madilim kung saan nakatira ang mga Egipcio pero may liwanang naman kung saaan nakatira ang mga Israelita.//[10-11]//
+  - Paano tinanggap ng Paraon ang unang siyam na salot**?**
+      * Tumanggi siyang palayain ang mga Israelita.//[10-12]//
+  - Ano ang ginawa ng Diyos nang nagmatigas pa rin siya sa unang siyam na salot**?**
+      * Nagpasya ang Diyos na ipadala ang huling salot.//[10-12]//
+  - Ano ang kakalabasan ng huling salot na ito na hindi nangyari sa unang siyam na salot**?**
+      * Babaguhin nito ang isip na Paraon. //[10-12]//
+
 **[[:en:obs:notes:questions:09|<< ]] | [[:en:obs:notes:questions:11| >>]]**
+
+~~COMPLEX_TABLES~~
