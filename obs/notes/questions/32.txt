@@ -1,33 +1,32 @@
 ====== Kwento #32: Pinagaling ni Jesus ang Lalaking Sinapian ng Demonyo ======
 
-===== Comprehension Questions and Answers =====
+===== Mga Tanong para sa Pag-unawa at mga Sagot =====
 
-  - **What happened when Jesus arrived where the Gerasene people lived?**
-    *//A demon-possessed man came running up to Jesus. [32-02]//
-  - **What did the demon cause the man to do?**
-    *//The demon made him break chains, live among the tombs, scream all day and night, not wear clothes, and cut himself with stones. [32-03], [32-04]//
-  - **What was the demon’s name?**
-    *//His name was Legion. [32-06]//
-  - **What did the name "Legion" mean?**
-    *//It meant that there were many demons in the man. [32-06]//
-  - **Where did the demons beg Jesus to send them when they left the man?**
-    *//They asked to go into a herd of about 2,000 pigs. [32-07], [32-08]//
-  - **What happened to the pigs when the demons entered them?**
-    *//They ran down a steep bank into the lake and drowned. [32-08]//
-  - **How did the man behave after the demons left him?**
-    *//He sat calmly, wore clothes, and acted like a normal person. [32-09]//
-  - **How did the people react to the healed man and the dead pigs?**
-    *//They were afraid and asked Jesus to leave them. [32-10]//
-  - **What did Jesus tell the healed man to do instead of going with Jesus?**
-    *//Jesus told him to go home and tell his friends and family about everything God had done for him. [32-11]//
-  - **Why did the woman with the bleeding problem come to Jesus?**
-    *//She thought that if she touched Jesus’ clothes, she would be healed. [32-14]//
-  - **What happened as soon as the woman touched Jesus' clothes?**
-    *//Her bleeding stopped. [32-14]//
-  - **How did Jesus know someone had touched him?**
-    *//He realized that power had gone out from him. [32-15]//
-  - **What did Jesus say to the woman when she fell down before him?**
-    *//“Your faith has healed you. Go in peace.” [32-16]//
+  - **Ano ang nangyari nang dumating si Jesus sa lugar kung saan nakatira ang mga taga Gerasene?**
+      * May lalaking sinapian ng demonyo ang tumakbo palapit kay Jesus. //[32-02]//
+  - **Ano ang nagagawa ng taong sinapian dahil sa demonyo?**
+      * Nagagawa niyang sirain ang mga kadena, tumitira siya malapit sa mga libingan, buong maghapon at buong magdamag siya sumisigaw. Wala siyang suot na damit at madalas niyang hinihiwa ang sarili niya gamit ang bato.// [32-03], [32-04]//
+  - **Ano ang pangalan ng demonyo?**
+      * Lehiyon ang pangalan niya.// [32-06]//
+  - **Ano ang ibig sabihin ng pangalang “Lehiyon”?**
+      * Ang ibig sabihin nito ay maraming demonyo sa loob ng lalaki.// [32-06]//
+  - **Nang paalisin ni Jesus ang mga demonyo nagmakaawa sila kay Jesus na palipatin na lang sila, saan nila gustong lumipat?**
+      * Hiniling nilang sumapi sa mga baboy na umaabot sa 2,000.// [32-07], [32-08]//
+  - **Anong nangyari sa mga baboy nang sumapi sa kanila ang mga demonyo?**
+      * Nagtakbuhan ang mga baboy sa bangin hanggang sa nahulog sila sa lawa at nalunod.// [32-08]//
+  - **Paano kumilos ang lalaking sinapian nang iwan na siya ng mga demonyo?**
+      * Tahimik na siya at nakaupo, may suot na rin siyang damit at matino na rin ang mga kilos niya.// [32-09]//
+  - **Ano ang naging reaksyon ng mga tao sa mga namatay na baboy at nang makita nila ang pinagaling na lalaki mula sa pagkakasapi?**
+      * Ano ang naging reaksyon ng mga tao sa mga namatay na baboy at nang makita nila ang napagaling na lalaki mula sa pagkakasapi?// [32-10]//
+  - **Ano ang pinagawa ni Jesus sa lalaking pinagaling niya sa halip na isama niya ito?**
+      * Sinabi ni Jesus na umuwi na lang siya at ibalita sa pamilya at mga kaibigan niya ang ginawa ng Diyos sa kanya.// [32-11]//
+  - Bakit pumunta kay Jesus ang babaeng dinudugo?
+      * Naisip niya na siguradong gagaling siya kapag mahawakan niya man lang ang laylayan ng damit ni Jesus.// [32-14]//
+  - **Ano ang nangyari nang mahawakan ng babae ang damit ni Jesus?**
+      * Huminto ang pagdurugo niya//. [32-14]//
+  - **Paano nalaman ni Jesus na may humipo sa kanya?**
+      * Naramdaman ni Jesus na may napagaling ang kapangyarihan niya.// [32-15]//
+  - **Ano ang sinabi ni Jesus sa babae nang lumuhod ito sa harapan niya?**
+      * “Pinagaling ka ng iyong pananampalataya. Makakauwi ka na ng payapa.”// [32-16]//
 
-
-**[[en/obs/notes/questions/31|<< ]] | [[en/obs/notes/questions/33| >>]]**
+**[[:en:obs:notes:questions:31|<< ]] | [[:en:obs:notes:questions:33| >>]]**
