@@ -1,33 +1,32 @@
 ====== Kwento #27: Ang Kwento ng Mabuting Samaritano ======
 
-===== Comprehension Questions and Answers =====
+===== Mga Tanong para sa Pang-unawa at mga Sagot =====
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-    *//“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-    *//He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-    *//The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-    *//He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-    *//He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-    *//A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-    *//A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-    *//A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-    *//They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-    *//He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-    *//The Samaritan who was merciful to him. [27-11]//
+  - **. Ano ang tinanong ng isang dalubhasa sa mga batas ng Hudyo kay Jesus?**
+      * “Guro, ano po ba ang dapat kong gawin para magkaroon ng buhay na walang hanggan?”// [27-01]//
+  - **. Bilang pagtugon, ano ang tinanong ni Jesus sa dalubhasa?**
+      * Sumagot si Jesus, “Ano ba ang nakasulat sa batas ng Diyos?”// [27-01]//
+  - **Ayon sa batas ng Diyos, sino ang dapat nating mahalin?**
+      * : Ang Diyos at ang ating kapwa.//. [27-02]//
+  - **. Bakit tinanong ng dalubhasa sa batas ng Hudyo kung sino ang kapwa niya?**
+      * Gusto ng dalubhasa na patunayan na siya ay matuwid.//[27-03]//
+  - **Ayon sa kwento ni Jesus, anong nangyari sa lalaking Hudyo habang naglalakbay siya?**
+      * Sinalakay siya ng mga magnanakaw. Ninakaw lahat ang mga gamit niya at pinagbubugbog siya hanggang halos patay na nung iwan nila.// [27-05]//
+  - **Sino ang unang nakakita sa sugatang lalaki?**
+      * Ang Paring Hudyo// [27-06]//
+  - **. Anong ginawa ng pari nang makita niya ang sugatang lalaki?**
+      * Lumihis siya ng daan, hindi niya pinansin ang lalaking nangangailangan ng tulong, at nagpatuloy sa pag-alis.// [27-06]//
+  - **. Sino ang pangalawang nakakita sa sugatang lalaki?**
+      * Ang Levita//. [27-07]//
+  - **Anong ginawa ng Levita nang makita niya ang sugatang lalaki?**
+      * Lumihis din ang Levita ng daan at hindi niya din pinansin ang taong pinagnakawan at binugbog.// [27-07]//
+  - **Sino ang pangatlong nakakita sa sugatang lalaki?**
+      * Ang Samaritano. //[27-08]//
+  - **Ano ang kaugnayan ng mga Hudyo sa mga Samaritano?**
+      * Magkagalit ang Hudyo at Samaritano.// [27-08]//
+  - **Paano tinulungan ng Samaritano ang sugatang lalaki?**
+      * Binendahan niya ang mga sugat nito at dinala niya ito sa isang matutuluyan at doon niya inalagaan// [27-09], [27-10]//
+  - **Sino sa tatlong lalaki ang naging kapwa sa sugatang lalaki?**
+      * Ang taong nagpakita ng habag sa taong binugbog at pinagnakawan.// [27-11]//
 
-
-**[[en/obs/notes/questions/26|<< ]] | [[en/obs/notes/questions/28| >>]]**
+**[[:en:obs:notes:questions:26|<< ]] | [[:en:obs:notes:questions:28| >>]]**
