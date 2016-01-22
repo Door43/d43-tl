@@ -1,37 +1,36 @@
 ====== Kwento #8: Iniligtas ng Diyos si Joseph at ang kanyang Pamilya ======
 
-===== Comprehension Questions and Answers =====
+===== Mga Tanong para sa Pag-unawa at Mga Sagot =====
 
-  - **Why did Joseph's brothers hate him?**
-    *//Because Joseph was Jacob's favorite son, and because Joseph had dreamed he would be their ruler. [08-02]//
-  - **What evil thing did Joseph's brothers do to him?**
-    *//They kidnapped him and sold him to some slave traders. [08-02]//
-  - **How did Joseph's brothers explain his disappearance to Jacob?**
-    *//They put goat's blood on Joseph's robe so that Jacob would think a wild animal had killed him. [08-03]//
-  - **Did God abandon Joseph in Egypt?**
-    *//No. In everything Joseph did, God blessed him. [08-04]//
-  - **Why was Joseph sent to prison in Egypt?**
-    *//Joseph refused to sleep with his master's wife, so she falsely accused him. [08-05]//
-  - **What ability had God given Joseph?**
-    *//The ability to interpret dreams. [08-07]//
-  - **What was the meaning of Pharaoh's dream?**
-    *//God was going to send seven years of plentiful harvests, followed by seven years of famine. [08-07]//
-  - **How did Pharaoh reward Joseph after Joseph interpreted his dream?**
-    *//He made Joseph the second most powerful man in Egypt. [08-08]//
-  - **How did Joseph prepare for the famine?**
-    *//Joseph told the Egyptians to store up large amounts of food during the seven good years, and then he sold the food to the people during the seven years of famine. [08-09]//
-  - **Why did Joseph's brothers come to Egypt?**
-    *//They came to buy food, because the famine was severe in Canaan also. [08-11]//
-  - **Before Joseph told his brothers who he was, why did he test them?**
-    *//He tested them to see if they had changed. [08-12]//
-  - **How did God cause good to come from Joseph's brothers selling him as a slave?**
-    *//Joseph became a powerful ruler in Egypt, and God used him to provide food for his family and many other people during the famine. [08-12]//
-  - **What did Jacob do after he found out that Joseph was alive?**
-    *//He moved his whole family to Egypt. [08-14]//
-  - **After Jacob died, who received the promises that God gave to Abraham?**
-    *//The twelve sons of Jacob. [08-15]//
-  - **What did the descendants of the twelve sons of Jacob become?**
-    *//The twelve tribes of Israel. [08-15]//
+  - Bakit kinamumuhian si Joseph ng mga kapatid niya
+      * Dahil si Joseph ang paboritong anak ni Jacob at dahil sa panaginip niyang siya ang mangunguna sa kanila// [08-02]//
+  - Anong masamang bagay ang ginawa ng mga kapatid ni Joseph sa kanya**?**
+      * Dinakip nila siya at ibinenta sa sa mga bumibili ng mga alipin.//[08-02]//
+  - Paano ipinaliwanag ng mga kapatid ni Joseph ang pagkawala niya kay Jacob**?**
+      * Naglagay sila ng dugo ng kambing sa damit ni Joseph para akalain ni Jacob napatay si Joseph ng isang mabangis na hayop//. [08-03]//
+  - Iniwan ba ng Diyos si Joseph noong nasa Egypt siya**?**
+      * Hindi. Pinagpala si Joseph ng Diyos sa lahat ng mga bagay//. [08-04]//
+  - Bakit ipinakulong si Joseph sa Egypt**?**
+      * Tumanggi si Joseph sa pang-aakit ng amo niya kaya pinaratangan siya nito ng kasalanan na hindi niya ginawa//. [08-05]//
+  - Anong kakayahan ang ibinigay ng Diyos kay Joseph**?**
+      * Ang kakayahang magpaliwanag ng panaginip//. [08-07]//
+  - Ano ang ibig sabihin ng panaginip ng Paraon**?**
+      * Pagpapalain sila ng Diyos ng pitong taon na sagana ang ani pero ang susunod na pitong taon naman ay tag-gutom//. [08-07]//
+  - Anong pabuya ang ibinigay ng Paraon nang maipaliwanag ni Joseph ang panaginip niya**?**
+      * Ginawa siya ng Paraon na maging pangalawa na pinakamakapangyarihang tao sa buong Egypt//. [08-08]//
+  - Paano pinaghandaan ni Joseph ang tag-gutom**?**
+      * Sinabi ni Joseph sa mga taga-Egypt na mag-imbak sila ng maraming pagkain sa loob ng pitong taong sagana ang ani at pagkatapos ibinenta niya ito sa mga tao noong panahon ng tag-gutom//. [08-09]//
+  - Bakit pumunta ang mga kapatid ni Joseph sa Egypt**?**
+      * Pumunta sila roon para bumili ng pagkain dahil matindi na rin ang tag-gutom sa Canaan//. [08-11]//
+  - Bago sinabi ni Joseph sa mga kapatid niya kung sino talaga siya, bakit niya sinubok ang mga ito**?**
+      * Sinubok ni Joseph ang mga kapatid niya para malaman kung totoong nagbago na sila.// [08-12]//
+  - Paano ginawang mabuti ng Diyos ang pagbebenta ng mga kapatid ni Joseph sa kanya**?**
+      * Naging makapangyarihan siyang pinuno sa Egypt at ginamit siya ng Diyos para makakain din ang pamilya niya at ang mraming tao sa Egypt noong panahon ng tag-gutom//. [08-12]//
+  - Anong ginawa ni Jacob nang malaman niyang buhay pa si Joseph**?**
+      * Pinatira niya ang buong pamilya niya sa Egypt//. [08-14]//
+  - Nang mamatay si Jacob, sino ang nakatanggap ng mga pangako na ibinigay ng Diyos kay Abraham**?**
+      * Ang labindalwang anak na lalaki ni Jacob//. [08-15]//
+  - Ano ang kinalabasan ng mga apo ng labindalawang anak ni Jacob**?**
+      * Sila ang naging labindalawang tribo ng Israel.// [08-15]//
 
-
-**[[en/obs/notes/questions/07|<< ]] | [[en/obs/notes/questions/09| >>]]**
+**[[:en:obs:notes:questions:07|<< ]] | [[:en:obs:notes:questions:09| >>]]**
