@@ -16,5 +16,3 @@ Welcome to Open Bible Stories! Please feel free to translate this page and the s
 
 {{page>tl:obs:stories}}
 
-{{page>en:obs:active}}
-
