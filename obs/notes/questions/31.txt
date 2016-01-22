@@ -1,33 +1,32 @@
 ====== Kwento #31: Lumakad si Jesus sa Ibabaw ng Tubig ======
 
-===== Comprehension Questions and Answers =====
+===== Mga tanong para sa Pag-unawa at mga Sagot =====
 
-  - **What did Jesus tell the disciples to do while he dismissed the crowd?**
-    *//He told them to get into a boat and to sail to the other side of the lake. [31-01]//
-  - **What did Jesus do after he sent the disciples away in their boat?**
-    *//He went up on a mountainside to pray. [31-01]//
-  - **What problem did the disciples have during the night?**
-    *//The wind was against them, so they were only able to travel halfway across the lake. [31-02]//
-  - **How did Jesus get to their boat?**
-    *//He walked to it on top of the water. [31-03]//
-  - **How did the disciples react when they first saw Jesus?**
-    *//They were very afraid because they thought he was a ghost. [31-04]//
-  - **What did Jesus say to them to calm their fear?**
-    *//"Do not be afraid. It is I." [31-04]//
-  - **Why did Jesus tell Peter to come to him on the water?**
-    *//Because Peter asked him to do that. [31-05]//
-  - **What did Peter begin to notice when he turned his eyes away from Jesus?**
-    *//He began to look at the waves and to feel the strong wind. [31-06]//
-  - **What happened to Peter when he became afraid of the wind and the waves?**
-    *//He began to sink into the water. [31-07]//
-  - **What did Jesus do when Peter called out for help?**
-    *//Jesus reached out and grabbed Peter. [31-07]//
-  - **What did Jesus say as a rebuke to Peter?**
-    *//"You man of little faith, why did you doubt?" [31-07]//
-  - **What happened after Jesus got into the boat?**
-    *//The wind immediately stopped blowing and the water became calm. [31-08]//
-  - **How did the disciples respond to this miracle?**
-    *//They worshiped Jesus and said, “Truly, you are the Son of God.” [31-08]//
+  - **Ano ang ipinagawa ni Jesus sa mga apostol habang pinapauwi niya ang mga tao?**
+      * Sinabi niya sa mga apostol niya na sumakay na sila sa bangka at pumunta na sa kabilang pampang ng lawa.// [31-01]//
+  - **Ano ang ginawa ni Jesus matapos niyang pasakayin ang mga apostol niya sa bangka nila?**
+      * Umakyat siya ng bundok para magdasal.// [31-01]//
+  - **Ano ang naging problema ng mga apostol noong gabing iyon?**
+      * Nahihirapan na ang mga apostol na magsagwan dahil sa mga alon at hangin na sumasalubong sa kanila kaya nasa gitna pa lang sila ng lawa kahit gabing gabi na.//[31-02]//
+  - **Paano nakapunta si Jesus sa may bangka nila?**
+      * Lumakad siya sa ibabaw ng tubig papunta sa bangka nila.// [31-03]//
+  - **Ano ang unang naging reaksyon ng mga apostol nang makita nila si Jesus?**
+      * Takot na takot ang mga apostol nang makita nila si Jesus dahil akala nila, multo ang nakikita nila.//[31-04]//
+  - **Ano ang sinabi ni Jesus sa kanila para hindi sila matakot?**
+      * “Huwag kayong matakot, Ako ito!”// [31-04]//
+  - **Bakit sinabi ni Jesus kay Peter na pumunta siya sa kanya?**
+      * Dahil sinabi ni Peter na gusto niyang gawin iyon.// [31-05]//
+  - **Ano ang napansin ni Peter nang alisin niya ang tingin niya kay Jesus?**
+      * Naramdaman niya ang malakas na hangin at nakita ang malalakas na alon.// [31-06]//
+  - **Ano ang nangyari kay Peter nang matakot siya sa hangin at mga alon?**
+      * Nagsimula siyang lumubog sa tubig.// [31-07]//
+  - **Ano ang ginawa ni Jesus nang humingi sa kanya ng tulong si Peter?**
+      * Lumapit agad si Jesus at sinagip si Peter.// [31-07]//
+  - **Ano ang sinabi ni Jesus para pagsabihan si Peter?**
+      * “Nagkulang ka ng pananampalataya, bakit ka nag-alinlangan?”// [31-07]//
+  - **Anong nangyari pagkatapos makabalik ni Jesus sa bangka?**
+      * Tumigil kaagad ang pag-ihip ng malakas na hangin at pumayapa na ang tubig.// [31-08]//
+  - **Ano ang naging reaksyon ng mga apostol sa himala?**
+      * Pinuri nila si Jesus at sinabi, “Tunay ngang ikaw ang Anak ng Diyos.”//[31-08]//
 
-
-**[[en/obs/notes/questions/30|<< ]] | [[en/obs/notes/questions/32| >>]]**
+**[[:en:obs:notes:questions:30|<< ]] | [[:en:obs:notes:questions:32| >>]]**
