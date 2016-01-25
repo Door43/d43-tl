@@ -1,19 +1,14 @@
 ====== Samaria, Samaritan ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Samaria was the name of a city and its surrounding region in the northern part of Israel. The region was located between the Plain of Sharon on the west and the Jordan River on the east.
+Ang Samaria ay isang rehiyon sa hilagang bahagi ng Israel. Nang masakop ng Assyria ang kaharian ng Israel, isinama nila sa Assyria ang karamihan sa mga tao mula doon pagkatapos ay pinatira nila ang mga dayuhan sa Israel.
 
-    * In the Old Testament, Samaria was the capital city of the northern kingdom of Israel. Later the region surrounding it was also called Samaria.
-    * When the Assyrians conquered the northern kingdom of Israel, they captured the city of Samaria and forced most of the northern Israelites to leave the region and moved them far away to different cities in Assyria.
-    * The Assyrians also brought many foreigners into the region of Samaria to replace the Israelites who had been moved.
-    * Some of the Israelites who remained in that region married the foreigners who had moved there, and their descendants were called Samaritans.
-    * The Jews looked down on the Samaritans because they were only partly Jewish and because they had worshiped pagan gods.
-    * In New Testament times, the region of Samaria was bordered by the region of Galilee on the north and the region of Judea on the south.
+  * Ang ilan sa mga Israelita ay nakipag-asawa sa mga dayuhan. Tinawag na Samaritano ang mga nanggaling sa angkan nila.
+  * Bukod pa kay Yahweh, sumamba rin sa mga diyu-diyosan ang mga Samaritano.
+  * Magkaaway ang mga Hudyo at mga Samaritano.
 
-
-(See also: [[:tl:obe:other:assyria]], [[:tl:obe:other:galilee]], [[:tl:obe:other:judea]], [[:tl:obe:other:sharon]], [[:En:obe:other:kingdomofisrael]])
-
+(Tignan rin sa: [[:tl:obe:other:assyria|Assyria, Assyrian, Assyrian Empire, Asshur]], [[:tl:obe:other:galilee|Galilee, Galilean]], [[:tl:obe:other:judea|Judea]], [[:tl:obe:other:sharon|Sharon, Plain of Sharon]], [[:en:obe:other:kingdomofisrael|kingdom of Israel]])
 
 ===== Bible References: =====
 
