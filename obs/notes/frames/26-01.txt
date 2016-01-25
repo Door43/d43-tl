@@ -8,10 +8,10 @@ Pagkatapos pagtagumpayan ni Jesus ang panunukso sa kanya ni Satan, bumalik siya 
 
   * **[[:tl:obe:kt:satan|Satan, demonyo]]**
   * **[[:tl:obe:kt:tempt|tempt, temptation]]**
-  * **[[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:tl:obs:notes:frames:26-01:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
   * **[[:tl:obe:kt:power|power]]**
-  * **[[:tl:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]**
-  * **[[:tl:obe:other:galilee|Galilee, Galilean]]**
+  * **[[:tl:obe:kt:holyspirit|Banal na Espiritu]][[:tl:obe:kt:holyspirit|,]] [[:tl:obs:notes:frames:26-01:tl:obe:kt:holyspirit|Espiritu ng Diyos]]**
+  * **[[:tl:obs:notes:frames:26-01:tl:obe:other:galilee|Galilee, Galilean]]**
 
 ===== Translation Notes: =====
 
