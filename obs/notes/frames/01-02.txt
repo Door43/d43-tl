@@ -4,10 +4,11 @@
 
 Pagkatapos sinabi ng Diyos, “Magkaroon ng liwanag!”At nagkaroon nga ng liwanag. Nakita ng Diyos na maganda ang liwanag at tinawag niya itong “Araw.” Hiniwalay Niya ito sa dilim at tinawag niya itong “Gabi.” Ginawa ng Diyos ang liwanag sa unang araw ng paglikha.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:good]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
+
 ==== Translation Notes: ====
 
   * **God said**  - God created light by means of a simple verbal command.
