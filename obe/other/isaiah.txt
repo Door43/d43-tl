@@ -1,19 +1,17 @@
 ====== Isaiah ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Isaiah was a prophet of God.
+Si Isaiah ay propeta ng Diyos.
 
-  * Isaiah wrote many prophecies about Israel that came true while he was still living.
-  * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
-  * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
-  * The Book of Isaiah is one of the major books of the Bible.
+  * Maraming propesiya si Isaiah ang nangyari habang siya ay buhay pa.
+  * Kilala si Isaiah dahil ang mga peopesiya niya ay nangyari pagkalipas ng 700 na taon kung saan si Jesus ay nandito pa sa mundo..
+  * Ang isa sa mga aklat sa Bibliya ay isinulat ni Isaiah.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[tl:obe:kt:prophet]], [[tl:obe:kt:christ]])
-
+(Tignan rin sa: [[:tl:obe:kt:prophet|propheta, propesiya]], [[:tl:obe:kt:christ|Christ, Messiah]])
 
 ===== Bible References: =====
 
