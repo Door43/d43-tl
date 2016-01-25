@@ -4,13 +4,12 @@
 
 Masayang masaya si Adam at ang asawa niya sa pagtira nila sa magandang halamanan na ginawa ng Diyos para sa kanila. Wala silang mga suot na damit pero hindi pa sila nakakaramdam ng hiya dahil wala pang kasalanan noon sa mundo. Madalas silang maglakad sa halamanan at nakikipag-usap sa Diyos.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
+  * **[[:tl:obe:other:adam|Adam]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
 
-
-  * **[[:tl/obe/other/adam]]**
-  * **[[:tl/obe/kt/god]]**
-  * **[[:tl/obe/kt/sin]]**
 ==== Translation Notes: ====
 
    * **garden** - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[en/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
