@@ -1,15 +1,13 @@
 ====== Pulang Dagat ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-The Red Sea is a body of water that separates northern Africa from the Arabian Peninsula.
+Ito ay anyo ng tubig  na naghihiwalay sa Hilagang Africa at Arabian Peninsula.
 
-  * The Red Sea forms much of the eastern border of Egypt and is to the southwest of the Promised Land.
-  * The Red Sea is long and narrow. It is larger than a lake or river, but smaller than an ocean.
-  * The Israelites had to cross the Red Sea when they were fleeing from Egypt.
+  * Ang Pulang Dagat ay mahaba at makitid.  Mas malaki ito sa isang lawa o ilog, pero mas maliit sa isang karagatan.
+  * Kinakailangang tawirin ng mga Israelita ang Pulang Dagat noong tumatakas sila mula sa Egypt.
 
-(See also: [[egypt]], [[tl:obe:kt:promisedland]])
-
+(Tignan rin sa: [[:tl:obe:other:egypt|Egypt, Egyptian]], [[:tl:obe:kt:promisedland|Promised Land]])
 
 ===== Bible References: =====
 
