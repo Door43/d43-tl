@@ -1,17 +1,15 @@
 ====== Rome, Roman ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-In the current day, Rome is the capital city of the country of Italy.
+Sa ngayon, ang Rome ang kapital ng bansang Italy.
 
-    * During the time of Jesus and the apostles, Rome was the center of the Roman Empire.
-    * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
-    * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
-    * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
+  * Noong panahon ni Jesus at ng mga apostol, ang Rome any ang sentro ng Imperyong Romano.
+  * Ang Imperyong Romano ang namuno sa lahat ng rehiyong pumapalibot sa Mediterranean Sea, kasama na ang Israel.
+  * Ang Apostol na si Paul ay dinala sa siyudad ng Rome bilang preso dahil nagturo siya ng tungkol sa magandang balita na patungkol kay Jesus.
 
-(See also: [[pilate]], [[paul]], [[tl:obe:kt:goodnews]])
-
+(Tignan rin sa: [[:tl:obe:other:pilate|Pilate]], [[:tl:obe:other:paul|Paul, Saul]], [[:tl:obe:kt:goodnews|good news, gospel]])
 
 ===== Bible References: =====
 
