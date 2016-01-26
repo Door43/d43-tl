@@ -1,18 +1,16 @@
 ====== Judas Iscariot ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewish leaders.
+Si Judas ay isa sa labindalawang apostol ngunit nakipagkasundo siya sa mga pinuno ng mga Hudyo para pagtaksilan si Jesus. Siya ang katiwala ng pera ng mga apostol pero lagi niyang ninanakawan ang perang ipinagkatiwala sa kanya.
 
-  * Judas managed the apostles' money, but he stole some of it for himself.
-  * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
-  * When the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
+  * Bilang pagtataksil ni Judas, sinabi niya sa mga pinuno ng relihiyon kung nasaan si Jesus para madakip siya. a apostol pero lagi niyang ninanakawan ang perang ipinagkatiwala sa kanya.
+  * JNang hinatulan ng mga pinuno ng relihiyon si Jesus ng kamatayan, pinagsisihan ni Judas ang pagtataksil niya  kay Jesus kaya siya nagpakamatay.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(TMungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[tl:obe:kt:apostle]], [[tl:obe:kt:betray]], [[jewishleaders]])
-
+(Tignan rin sa: [[:tl:obe:kt:apostle|apostle, apostleship]], [[:tl:obe:kt:betray|betray, betrayer]], [[:tl:obe:other:jewishleaders|Jewish leaders, religious leaders]])
 
 ===== Bible References: =====
 
