@@ -1,14 +1,15 @@
 ====== kautusan, batas ======
 
-===== Definition: =====
+===== Kahulugan: =====
 
-A law is a legal rule that is typically written down and enforced by someone in authority. A principle is a guideline or standard for decision-making.
+Ang mga salitang “Ang Kautusan” at “Ang mga Utos ni Moses” ay tumutukoy sa mga kautusan  ng Diyos na ibinigay niya kay Moses para sundin ng mga Israelita. Tinatawag rin itong “Ang Kautusan ng Diyos” o “Batas ng Diyos.”Nakapaloob dito ang mga sumusunod:
 
-  * Both "law" and "principle" can refer to a general rule or belief that guides a person's behavior.
-  * This meaning of "law" is different from the law of Moses.
-  * When a general law is being referred to, "law" could be translated as "principle" or "general rule."
+  * Ang Sampung Utos ng Diyos na isinulat ng Diyos sa tipak ng mga bato para sa mga Israelita.
+  * Ang lahat ng utos na ibinigay kay Moses.
+  * Ang unang limang libro ng Lumang Tipan ng Bibliya
+  * Ang kabuuan ng Lumang Tipan ng Bibliya
 
-(See also: [[:tl:obe:other:Law]], [[:tl:obe:kt:LawofMoses]])
+(Tignan rin sa: [[:tl:obe:other:law|kautusan, batas]], [[:tl:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]])
 
 ===== Bible References: =====
 
