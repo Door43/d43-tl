@@ -1,19 +1,18 @@
 ====== Solomon ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Solomon was one of King David's sons. His mother was Bathsheba.
+Si Solomon ay isa sa mga anak ng haring si David. Si Bathsheba ang kanyang ina.
 
-  * When Solomon became king, God told him to ask for anything he wanted. So Solomon asked for wisdom to rule the people justly and well. God was pleased with Solomon's request and gave him both wisdom and much wealth.
-  * Solomon built the temple for God in Jerusalem that his father, David, had planned to build.
-  * Although Solomon ruled wisely in the beginning years of his reign, later on he foolishly married many foreign women and started worshiping their gods. 
-  * Because of Solomon's unfaithfulness, after his death God divided the Israelites into two kingdoms: Israel and Judah. These kingdoms often fought against each other.
+  * Nang maging hari si Solomon tinanong siya ng Diyos kung ano ang gusto niyang hilingin kaya naman hiniling ni Solomon sa Diyos ang kakayahang mapamunuan niya ng maayos at makatarungan ang kanyang nasasakupan. Nalugod ang Diyos sa kahilingan ni Solomon kaya pareho niyang ibinigay ang karunungan at kayamanan kay Solomon.
+  * Itinayo ni Solomon ang Templo sa Jerusalem para sa Diyos na si David na ama niya ang nagplano.
+  * Kahit na naging maayos ang pamumuno ni Solomon sa mga unang taon ng paghahari niya nagkasala rin siya dahil marami siyang babaeng ginawang asawa at sumamba rin siya sa mga diyus-diyosan nila.
+  * Dahil hindi naging tapat si Solomon hinati ng Diyos ang kaharian ng Israel sa dalawa pagkamatay niya. Ang dalawang kaharian na ito ay ang Israel at ang Judah. Naglaban ang dalawang kahariang ito.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:En:obe:other:david]], [[:tl:obe:other:bathsheba]], [[tl:obe:kt:temple]], [[:tl:obe:toher:Israel]], [[:tl:obe:other:Judah]])
-
+(Tignan rin sa: [[:en:obe:other:david|David]], [[:tl:obe:other:bathsheba|Bathsheba]], [[:tl:obe:kt:temple|temple]], [[:tl:obe:other:tl:obe:toher:israel|Israel]], [[:tl:obe:other:judah|Judah]])
 
 ===== Bible References: =====
 
