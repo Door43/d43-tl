@@ -1,14 +1,13 @@
 ====== libingan, nitso ======
 
-===== Definition: =====
+===== Kahulugan: =====
 
-A tomb is a place where people put the bodies of those who die.
+Ang libingan ay isang lugar kung saan inilalagak ng mga tao ang bangkay ng isang tao..
 
-  * The Jews sometimes used natural caves as tombs, and sometimes they dug caves out of the rock on the side of a hill.
-  * In New Testament times, it was common to roll a large, heavy, round stone in front of the opening of a tomb in order to close it.
-  * This term can also be translated as, "grave." But if your word for grave can only refer to a hole in which the body is placed below the ground, then it might be better to translate tomb as, "cave" or "hole in a hill."
+  * May mga pagkakataon na ginagamit ng mga Hudyo ang mga kweba para maging libingan at kung minsan ay tinitibag nila ang mga malalaking bato sa gilid ng burol para maging kweba.
+  * Sa Bagong Tipan ng Bibliya, kadalasang iginugulong ang isang malaki at mabigat na bato na hugis bilog para takpan ang pasukan ng kweba.
 
-(See also: [[:tl:obe:kt:death]], [[:tl:obe:other:bury]])
+(Tignan rin sa: [[:tl:obe:kt:death|death, die, dead]], [[:tl:obe:other:bury|bury, buried]])
 
 ===== Bible References: =====
 
