@@ -1,20 +1,19 @@
 ====== Elijah ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Elijah was one of the most important prophets of Yahweh. Elijah prophesied when Ahab was the king of the northern kingdom of Israel.
+Si Elijah ay propeta ng Diyos noong panahon ni haring Ahab.
 
-    * Elijah confronted Ahab because Ahab encouraged the people to worship false gods.
-    * God provided food and shelter for Elijah in miraculous ways.
-    * God did many miracles through Elijah and showed Israel that Yahweh is the only true God.
-    * Elijah confronted the 450 prophets of Baal and demonstrated that Baal is a false god. As a result, the people in the kingdom of Israel killed the prophets of Baal and temporarily worshiped only Yahweh.
-    * Elijah did not die--he was taken up to heaven alive. Elijah and Moses then appeared and talked with Jesus hundreds of years later when Jesus was getting ready to die in Jerusalem.
+  * Sinabi ni propeta Elijah kay Ahab na hindi uulan sa loob ng tatlo’t kalahating taon bilang parusa sa Israel dahil sumamba sila sa diyos-diyosan.
+  * Mga uwak at isang babaeng balo ang nagpakain kay Elijah sa buong panahon ng taggutom at nang siya ay nagtatago kay Ahab dahil gusto siya nitong ipapatay.
+  * God did many miracles through Elijah and showed Israel that Yahweh is the only true God.
+  * Si Ahab ay may 450 na propeta ng diyos-diyosang si Baal. Hinamon ni Elijah ang mga propeta ni Baal para patunayang si YAHWEH ang tunay na Diyos.
+  * Hindi namatay si Elijah dahil literal na kinuha siya ng Diyos at dinala sa langit.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[tl:obe:kt:prophet]], [[tl:obe:kt:miracle]], [[ahab]], [[baal]], [[tl:obe:kt:yahweh]])
-
+(Tignan rin sa: [[:tl:obe:kt:prophet|prophet, prophecy, prophesy, seer]], [[:tl:obe:kt:miracle|miracle, wonder, sign]], [[:tl:obe:other:ahab|Ahab]], [[:tl:obe:other:baal|Baal]], [[:tl:obe:kt:yahweh|Yahweh]])
 
 ===== Bible References: =====
 
