@@ -1,18 +1,17 @@
 ====== Mary ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Mary was the mother of Jesus and the wife of Joseph.
+Si Mary ang asawa ni Joseph.
 
-  * The Holy Spirit miraculously caused Mary to become pregnant while she was a virgin. The baby in her was the Son of God. 
-  * Joseph took Mary as his wife, but Mary remained a virgin until after the baby was born.
-  * When the baby was born, Mary and Joseph named him Jesus.
+  * Siya rin ang ina ni Jesus. Sa pamamagitan ng kapangyarihan ng Banal na Espiritu, mahimala niyang ipinagbuntis ang Anak ng Diyos na si Jesus kahit birhen pa siya.
+  * Naging asawa ni Joseph si Mary ngunit nanatili siyang birhen hanggang sa naipanganak si Jesus.
+  * Nang ipinanganak ni Mary ang sanggol, Jesus ang ipinangalan nila sa kanya.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[tl:obe:kt:jesus]], [[josephnt]], [[tl:obe:kt:sonofgod]], [[virgin]])
-
+(Tignan rin sa: [[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:tl:obe:other:josephnt|Joseph (NT)]], [[:tl:obe:kt:sonofgod|Anak ng Diyos]], [[:tl:obe:other:virgin|birhen]])
 
 ===== Bible References: =====
 
