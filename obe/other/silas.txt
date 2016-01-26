@@ -3,16 +3,15 @@
 
 ===== Facts: =====
 
-Silas was a leader among the believers in Jerusalem.
+Si Silas ay isang pinuno ng mga mananampalataya sa Jerusalem.
 
-    * The church in Jerusalem appointed Silas to go with Paul and Barnabas to the city of Antioch.
-    * Silas later traveled with Paul to other cities to teach people about Jesus.
-    * Paul and Silas were put in jail in the city of Philippi. They trusted God and sang praises to him while they were there. God released them from the jail, and used them to save the jailer.
+  * Si Silas ay pinili ng mga mananampalataya sa Jerusalem para sumama kay Paul at Barnabas papunta sa lungsod ng Antioch.
+  * Naglakabay si Silas kasama si Paul sa mga iba pang lungsod para turuan ang mga tao tungkol kay Jesus.
+  * Si Paul at Silas ay nakulong sa Philippi. Patuloy silang nanampalataya sa Diyos at nagpuri sila sa pamamagitan ng mga awitin. Pinalaya sila ang Diyos at ginamit sila para maligtas ang tagabantay ng kulungan.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[jerusalem]], [[paul]], [[philippi]])
-
+(Tignan rin sa: [[:tl:obe:other:jerusalem|Jerusalem]], [[:tl:obe:other:paul|Paul, Saul]], [[:tl:obe:other:philippi|Philippi]])
 
 ===== Bible References: =====
 
