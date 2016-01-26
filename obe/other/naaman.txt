@@ -1,16 +1,16 @@
 ====== Naaman ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Naaman was the commander of the army of one of Israel's enemies.
+Si Naaman ay pinuno ng mga sundalo na isa sa mga kaaway ng Israel.
 
-  * Naaman had a terrible skin disease that no one knew how to cure.
-  * Elisha told Naaman to wash in the Jordan River. When Naaman obeyed, God healed him of his disease.
-  * Naaman believed in God because he had healed him of this disease.
+  * Nagkaroon ng sakit sa balat si Naaman na walang nakakaalam kung paano ito gamutin.
+  * Sinabi ni Elisha kay Naaman na maligo siya sa Ilog Jordan para gumaling ang sakit niya sa balat. Nang sinunod niya ito, pinagaling ng Diyos ang sakit niya sa balat.
+  * Nanampalataya si Naaman sa Diyos nang gumaling ang sakit niya sa balat.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names|How to Translate Names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[jordanriver|Jordan River]])
+(Tignan rin sa: [[:tl:obe:other:jordanriver|Jordan River]])
 
 ===== Bible References: =====
 
