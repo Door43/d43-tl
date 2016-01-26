@@ -2,14 +2,13 @@
 
 ===== Facts: =====
 
-    * Sarah was Abraham's wife.
-    * Sarah's name was originally "Sarai," but God changed it to Sarah.
-    * Sarah gave birth to the son God had promised to her and Abraham.
- 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
-   
-(See also: [[tl:obe:other:abraham]], [[isaac]])
+  * Si Sarah ay asawa ni Abraham.
+  * Pinalitan ng Diyos ang pangalan niyang Sarai ng Sarah.
+  * Nanganak siya ng lalaki gaya ng ipinangako ng Diyos sa kanya at kay Abraham.
 
+(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
+
+(Tignan rin sa: [[:tl:obe:other:abraham|Abraham, Abram]], [[:tl:obe:other:isaac|Isaac]])
 
 ===== Bible References: =====
 
