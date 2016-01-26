@@ -1,18 +1,16 @@
 ====== Esau ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born. His twin brother was Jacob.
+Si Esau ay  ang unang anak ni Rebekah at Isaac sa kambal. Jacob ang pangalan ng nakababta.
 
-    * Esau sold his birthright to his brother Jacob in exchange for a bowl of food.
-    * Since Esau was born first, his father was supposed to give him a special blessing. But Jacob stole Esau's blessing. At first Esau was so angry that he wanted to kill Jacob, but later he forgave him.
-    * Esau had many children and grandchildren, and these descendants formed a large people group living in the land of Canaan.
+  * Ibinenta ni Esau ang kanyang karapatan bilang panganay sa kapatid niyang si Jacob kapalit ng isang pagkain.
+  * Nagalit si Esau kay Jacob dahil inagaw niya ang pagpapala ng kanilang amang si Isaac sa kanya, Dahil dito binalak niyang patayin si Jacob pero dumating ang panahon na napatawad niya din ito.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:tl:obe:other:isaac]], [[:tl:obe:other:rebekah]], [[:En:obe:other:jacob]] [[:En:obe:other:Edom]])
-
+(Tignan rin sa: [[:tl:obe:other:isaac|Isaac]], [[:tl:obe:other:rebekah|Rebekah]], [[:en:obe:other:jacob|Jacob, Israel]] [[:en:obe:other:edom|Edom, Edomite, Idumea, Seir, Teman]])
 
 ===== Bible References: =====
 
