@@ -1,15 +1,13 @@
 ====== hari ======
 
-===== Definition: =====
+===== Kahulugan: =====
 
-A king is the ruler of an independent city, state, or country.
+Ang hari ay pinuno ng isang lugar o isang bansa. Ang isang tao ay maaaring maging isang hari kapag ninais ng mga tao na siya ang maging hari nila.
 
-  * Sometimes someone becomes king because a group of people want him to be their king.
-  * Usually when a king dies, his first son becomes king.
-  * Sometimes someone will kill the king so that he can become king in his place.
+  * Kadalasan kapag namatay ang isang hari, ang anak niya na panganay na lalaki ang pumapalit sa kanya upang maging hari.
+  * Sa mga ibang pagkakataon, may mga pumapatay sa hari upang sila ang maging hari sa lugar na iyon.
 
-(See also: [[kingdom]])
-
+(Tignan rin sa: [[:tl:obe:other:kingdom|kingdom]])
 
 ===== Bible References: =====
 
