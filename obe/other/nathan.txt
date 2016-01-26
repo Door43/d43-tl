@@ -1,18 +1,17 @@
 ====== Nathan ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
+Si Nathan ay isang tapat na propeta ng Diyos noong mga panahon na ang hari ng Israel ay si David.
 
-  * God sent Nathan to confront David after David sinned grievously against Uriah.
-  * Nathan rebuked David, in spite of the fact that David was the king.
-  * David repented of his sin after Nathan spoke to him.
+  * Siya ang inutusan ng Diyos para pumunta at humarap kay David para ipahayag sa kanya ang matinding kasalanang nagawa niya kay Uriah.
+  * Nagawa ni Nathan na pagsabihan si David tungkol sa nagawa niyang kasalanan kahit pa siya ay isang hari.
+  * Pinagsisihan ni David ang nagawa niyang kasalanan pagkatapos siyang pagsabihan ni David.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[david]], [[uriah]])
-
+(See also: [[:tl:obe:other:david|David]], [[:tl:obe:other:uriah|Uriah]])
 
 ===== Bible References: =====
 
