@@ -6,13 +6,11 @@ Sinabi ng Diyos, “Nangagako ako na hindi ko na susumpain ang lupa dahil sa gin
 
 ===== Important Terms: =====
 
-
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:promise]]**
-  * **[[:tl:obe:kt:curse]]**
-  * **[[:tl:obe:kt:evil]]**
-  * **[[:tl:obe:kt:sin]]**
-
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:promise|pangako]]**
+  * **[[:tl:obe:kt:curse|sumpa, sumpain, sinumpa]]**
+  * **[[:tl:obe:kt:evil|masama, kasamaan]]**
+  * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
 
 ===== Translation Notes: =====
 
