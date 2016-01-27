@@ -1,18 +1,15 @@
 ====== John (ang Apostol) ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
+Si John ay isa sa labindalawang Apostol at isa sa mga malalapit na kaibigan ni Jesus.
 
-  * John's and his brother were the sons of Zebedee. 
-  * John was a different person than John the Baptist.
-  * After Jesus went back to heaven, John (the apostle) taught people about Jesus. 
-  * John also wrote two books and some letters about Jesus that are included in the Bible. 
+  * Si John ay anak ni Zebedee.
+  * Si John na apostol ay iba kay John na nagbabawtismo.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[johnthebaptist]], [[tl:obe:kt:apostle]])
-
+(Tignan rin sa: [[:tl:obe:other:johnthebaptist|John (Nagbawtismo)]], [[:tl:obe:kt:apostle|Apostol]])
 
 ===== Bible References: =====
 
