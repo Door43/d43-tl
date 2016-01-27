@@ -9,7 +9,7 @@ Sinabi ng Diyos, "Ngayon na tulad na natin ang tao na may kaalaman tungkol sa ma
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
   * **[[:tl:obe:kt:evil|masama, kasamaan]]**
-  * **Buhay, Nabubuhay**
+  * **[[:tl:obe:kt:evil|Buhay, Nabubuhay]]**
   * **[[:tl:obe:other:adam|Adam]]**
   * **[[:tl:obe:other:eve|Eve]]**
   * **[[:tl:obe:kt:angel|angel, archangel]]**
