@@ -1,11 +1,11 @@
 ====== promise ======
 
-===== Definition: =====
+===== Kahulugan: =====
 
-A promise is a pledge or commitment to do a certain thing. When someone makes a promise, he assures the people he is speaking to that he will truly do what he has said he will do.
+Ang pangako ay isang panata kung saan isinusumpa ng isang tao na gagawin niya ang isang bagay na sinabi niyang gagawin niya.
 
-  * Promises are an important part of formal agreements such as covenants.
-  * A promise is often accompanied by an oath or confirmation that it will be done.
+  * Ang pangako ay kailangan para mabuo ang isang kasunduan.
+  * Ang pangako ay may kasamang panata bilang katibayan na matutupad ito.
 
 ===== Translation Suggestions: =====
 
