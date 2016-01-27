@@ -1,18 +1,17 @@
 ====== Baal ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Baal was the name of a false god that was worshiped by several people groups in the land of Canaan.
+Baal ang pangalan ng diyos na sinasamba ng mga taga-Canaan.
 
-  * The name "Baal" means "lord." The worship of Baal was therefore a direct challenge to the authority of Yahweh, who alone is the true Lord.
-  * The worship of Baal included acts of prostitution and sometimes involved burning children as a sacrifice.
-  * At different times, the Israelites sinned by also worshiping Baal.
-  * During the reign of King Ahab, there were 450 prophets of Baal in the northern kingdom of Israel. The prophet Elijah challenged these prophets to a test, which proved that Baal does not exist and Yahweh is the only true God.
-  * As a result, the people killed the prophets of Baal and turned back to worshiping Yahweh.
+  * Ang ibig sabihin ng Baal ay “Panginoon.” Ang pagsamba kay Baal ay laban sa kalooban ni YAHWEH ang tunay na Diyos.
+  * Ang pagsamba kay Baal ay may kasamang imoralidad, pagsusunog ng bata bilang alay.
+  * Sa maraming pagkakataon sinamba ng mga Israelita si Baal kaya pinarusahan sila ng **Diyos.**
+  * Sa panahon ng paghahari ni Haring Ahab, mayroong 450 propeta ng Baal sa hilagang kaharian ng Israel.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]]) 
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:tl:obe:other:elijah]], [[:tl:obe:kt:yahweh]], [[:tl:obe:other:ahab]], [[:tl:obe:kt:falsegod]])
+(Tignan rin sa: [[:tl:obe:other:elijah|Elijah]], [[:tl:obe:kt:yahweh|Yahweh]], [[:tl:obe:other:ahab|Ahab]], [[:tl:obe:kt:falsegod|false god, foreign god, god, goddess]])
 
 ===== Bible References: =====
 
