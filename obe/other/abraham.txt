@@ -1,20 +1,18 @@
 ====== Abraham, Abram ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Abraham was the person that God chose to start the family that would grow into the people known as the Israelites. 
+Si Abraham ang taong pinili ng Diyos para pagmulan ng lahi ng mga Israelita.
 
-    * God promised Abraham that he would have many descendants and that they would become a great nation.
-    * God made his covenant with Abraham and promised to uphold it with his descendants forever.
-    * Abraham believed God and obeyed him. 
-    * Abraham's name was originally "Abram," but God changed it to Abraham.
-    * Abram means, "exalted father," and Abraham means, "father of many."
+  * Nangako ang Diyos kay Abraham na magkakaroon siya ng maraming apo at sila ay pagmumulan ng makapangyarihang bansa.
+  * Sumunod at nanalig si Abraham sa Diyos.
+  * "Abram"  ang dating pangalan niya pero pinalitan ito ng Diyos ng "Abraham."
+  * Ang ibig sabihin ng Abraham ay “Ama ng marami.”
 
-(Translation suggestions: [[:tl:ta:vol1:translate:translate_names]]) 
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[sarah]], [[isaac]])
-
+(Tignan rin sa: [[:tl:obe:other:sarah|Sarah, Sarai]], [[:tl:obe:other:isaac|Isaac]])
 
 ===== Bible References: =====
  
