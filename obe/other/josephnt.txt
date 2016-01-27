@@ -1,21 +1,17 @@
 ====== Joseph (NT) ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Joseph was Jesus' earthly father and raised him as his son.
+Si Joseph ay ang makamundong ama ni Jesus at ang nangpalaki sa kaniya.
 
-  * Joseph was a descendant of King David.
-  * Joseph was engaged to a virgin girl named Mary, whom God had chosen to be the mother of Jesus the Messiah.
-  * An angel told Joseph that the Holy Spirit had miraculously made Mary pregnant, and that Mary's baby was the Son of God.
-  * Joseph believed the angel and obeyed God by taking Mary as his wife.
-  * Joseph kept Mary a virgin until after Jesus was born.
+  * Galing sa lahi ni David si Joseph.
+  * Si Joseph ay nakatakdang magpakasal kay Mary(Hindi ang kapatid ni Lazarus.) ang napili ng Diyos na maging ina ni Jesus dito sa lupa.
+  * Si Joseph ay kinausap ng anghel at sinabi na huwag matakot na pakasalan si Mary.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names|How to Translate Names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|How to Translate Names]])
 
-
-(See also: [[mary|Mary]], [[david|David]], [[tl:obe:kt:jesus|Jesus]], [[tl:obe:kt:christ|Christ, Messiah]], [[tl:obe:kt:sonofgod|Son of God, the Son]], [[virgin|virgin]])
-
+(Tignan rin sa: [[:tl:obe:other:mary|Mary]], [[:tl:obe:other:david|David]], [[:tl:obe:kt:jesus|Jesus]], [[:tl:obe:kt:christ|Christ, Messiah]], [[:tl:obe:kt:sonofgod|Son of God, the Son]], [[:tl:obe:other:virgin|virgin]])
 
 ===== Bible References: =====
 
