@@ -1,16 +1,15 @@
 ====== Bethlehem ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It was also known as "Ephrathah," which was probably its original name.
+Ang Bethlehem ay isang maliit na lungsod sa lupain  ng Israel, malapit sa lungsod ng Jerusalem. Ito rin ay kilala bilang "Ephrathah," na marahil nangangahulugan ng tunay nitong pangalan.
 
-  * Bethlehem has been called the "city of David," since King David was born there.
-  * The prophet Micah said that the Messiah would come from "Bethlehem Ephrathah."
-  * Fulfilling that prophecy, Jesus was born in Bethlehem, many years later.
-  * The name "Bethlehem" means "house of bread" or "house of food."
+  * Sa Bethlehem ipinanganak si haring David kaya “Lungsod ni David” ang tawag nila dito.
+  * Sinabi ni propeta Micah na sa Bethlehem ipapanganak ang Messiah.
+  * Sa pagpapatupad ng propesiya, si Jesus ay ipinanganak sa Bethlehem, matapos ang maraming taon.
+  * Ang pangalang "Bethlehem" ay nangangahulugan ng "bahay ng tinapay" o "bahay ng pagkain."
 
-
-(See also: [[:En:obe:other:caleb]], [[:tl:obe:other:david]], [[:tl:obe:other:micah]])
+(Tignan rin sa: [[:en:obe:other:caleb|Caleb]], [[:tl:obe:other:david|David]], [[:tl:obe:other:micah|Micah]])
 
 ===== Bible References: =====
 
