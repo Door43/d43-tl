@@ -1,19 +1,17 @@
 ====== Bathsheba ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
+Si Bathsheba ay ang asawa ni Uriah, isang sundalo sa hukbo ni Haring David. Siya ay naging asawa ni Haring David, at naging ina ni Solomon.
 
-  * David committed adultery with Bathsheba while she was married to Uriah.
-  * When Bathsheba became pregnant with David's child, David caused Uriah to be killed in battle. David then married Bathsheba. 
-  * God punished David for his sin by causing the child to die several days after he was born.
-  * Later, Bathsheba gave birth to another son, Solomon, who became king after David.
+  * Nagkasala si David dahil nagkaroon sila ng maling relasyon ni Bathsheba kahit pa asawa nito si Uriah, nabuntis ni David si Bathsheba at dahil dito gumawa ng paraan si David para mamatay si Uriah, Pagkamatay ni Uriah naging asawa ni David si Bathsheba.
+  * Pinarusahan ng Diyos si David dahil sa kasalanang  nagawa niya kaya namatay ang sanggol ilang araw matapos itong ipanganak.
+  * Nagka-anak ulit si David at Bathsheba ng isang batang lalaki, Solomon ang  ipinangalan nila sa bata at siya ang sumunod na naging hari ng Israel kasunod ni David.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[uriah]], [[david]], [[solomon]])
-
+(Tignan rin sa: [[:tl:obe:other:uriah|Uriah]], [[:tl:obe:other:david|David]], [[:tl:obe:other:solomon|Solomon]])
 
 ===== Bible References: =====
 
