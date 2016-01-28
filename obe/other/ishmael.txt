@@ -1,19 +1,17 @@
 ====== Ishmael ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Ishmael was the son of Abraham and Sarah's servant, Hagar. 
+Si Ishmael ay ang anak ni Abraham at ng alipin ni Sarah na si Hagar.
 
-    * The name "Ishmael" means, "God hears."
-    * Ishmael received the benefit of a divine promise made to Hagar about himself and his future
-    * However, Ishmael was not the son through whom God would fulfill his promise to Abraham to make his descendants as numerous as the stars.
+  * Ang ibig sabihin ng Ishmael ay “Dininig ng Diyos.”
+  * Hindi kay Ishamael tutuparin ng Diyos ang pangako niya kay Abraham na anak niya na magmamana sa Lupang pangako kundi kay Isaac.
+  * Hindi si Ishmael ang anak na ipinangako ng Diyos kay Abraham at kay Sarah.
 
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
-
-(See also: [[tl:obe:other:Abraham]], [[:tl:obe:other:Sarah]], [[:En:obe:other:Isaac]] )
-
+(Tignan rin sa: [[:tl:obe:other:abraham|Abraham, Abram]], [[:tl:obe:other:sarah|Sarah, Sarai]], [[:en:obe:other:isaac|Isaac]] )
 
 ===== Bible References: =====
 
