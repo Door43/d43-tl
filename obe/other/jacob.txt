@@ -1,21 +1,18 @@
 ====== Jacob, Israel  ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Jacob was the second of the twin sons that were born to Isaac and Rebekah. The first twin born was Esau.
+Si Jacob ay ang mas bata sa kambal na anak ni Isaac at Rebekah. Si Esau ang mas naunang kakambal.
 
-    * Jacob's name means "deceiver" or "trickster." 
-    * Jacob was clever and deceptive. He found ways to take both the firstborn inheritance rights and the blessing from his older brother, Esau.
-    * Esau was angry and planned to kill him, so Jacob left his homeland. But he later returned and lived peacefully with his brother.
-    * God changes Jacob's name to Israel, which means, "He struggles with God." 
-    * God kept his covenant to Abraham and his descendants through Abraham's son, Isaac, and Isaac's son, Jacob.
-    * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
+  * Ang pangalan ni Jacob ay nangangahulugan ng "manloloko."
+  * Matalino at magaling manloko si Jacob. Niloko niya si Esau at ang ama nilang si Isaac nang agawin niya ang pagpapala para sa panganay na para sana kay Esau, kaya galit nag alit si Esau sa kanya pero dumating din ang panahon na pinatawad niya si Jacob at namuhay sila ng tahimik sa Canaan.
+  * Pinalitan ng Diyos ang pangalan ni Jacob ng “Israel” na ang ibig sabihin ay “Nakipaglaban siya sa Diyos.”
+  * May labindalawang anak na lalaki si Jacob at sila ang pinagmulan ng labindalawang lahi ng Israel.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[isaac]], [[rebekah]], [[esau]], [[israel]])
-
+(Tignan rin sa: [[:tl:obe:other:isaac|Isaac]], [[:tl:obe:other:rebekah|Rebekah]], [[:tl:obe:other:esau|Esau]], [[:tl:obe:other:israel|Israel, Israelita]])
 
 ===== Bible References: =====
 
