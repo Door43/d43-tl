@@ -5,7 +5,7 @@
 
 Si Paul ay isa sa mga pinuno ng unang simbahan na pinili at inatasan ng Diyos para ipangaral ang mabuting balita sa mga tao sa iba’t ibang mga bansa.
 
-  * Ipinanganak si Saul sa isang bayan sa Roma na kung  tawagin ay Tarsus, kaya si Saul ay mamamayang Romano.
+  * Ipinanganak si Saul sa isang bayan sa Roma na kung tawagin ay Tarsus, kaya si Saul ay mamamayang Romano.
   * “Saul” ang pangalan niya sa Hudyo at “Paul” naman ang pangalang romano niya.
   * Si Saul ay pinuno ng relihiyon at lahat ng naniniwala kay Jesus ay kanyang ipinapadakip at ipinapapatay dahil hindi siya naniniwalang si Jesus ang Messiah.
   * Nagpakilala si Jesus kay Saul sa pamamagitan ng isang liwanag na naging sanhi ng kanyang pagkakabulag. Pinagsabihan siya ni Jesus na itigil na niya ang pagdakip at pagpatay sa mga Kristiyano.
@@ -13,9 +13,9 @@ Si Paul ay isa sa mga pinuno ng unang simbahan na pinili at inatasan ng Diyos pa
   * Inatasan ng Diyos si Saul na mangaral sa iba’t ibang mga tao sa mga bansang sakop ng imperyo ng Roma, dito na ginamit ni Saul ang kanyang pangalang romano na “Paul.”
   * Gumawa si Paul ng maraming sulat para turuan at palakasin ang loob ng mga Kristiyano sa iba’t ibang mga lugar. Naging bahagi ng Bibliya ang mga sulat niyang ito.
 
-(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
+(Mga Mungakahi sa Pagsasalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:tl:obe:other:rome|Rome]], [[:tl:obe:other:jewishleaders|Jewish Leaders]], [[:tl:obe:kt:christian|Christian]])
+(Tignan rin sa: [[:tl:obe:other:rome|Roma,]] [[:tl:obe:other:jewishleaders|Pinuno ng Hudyo, Kristiyano]])
 
 ===== Bible References: =====
 
