@@ -2,15 +2,13 @@
 
 ===== Facts: =====
 
-The Nile is a very long and wide river in northeastern Africa. It is especially well-known as the main river of Egypt.
+Ang Ilog Nile ay isang napakalaking ilog na makikita sa hilagang-silangang bahagi ng Africa.
 
-  * The Nile River flows north through Egypt and empties into the Mediterranean Sea.
-  * Crops grow well in its fertile valley.
-  * Most Egyptians live near the Nile River since it is an important source of water and food crops.
-  * As a baby, Moses was placed in a basket among the reeds of the Nile. 
+  * Marami sa mga Egipcio ang naninirahan malapit sa Ilog Nile dahil isa ang ilog sa pangunahing pinagkukuhanan ng tubig at pagkain.
+  * Tumutubo ng maayos at malago ang mga halaman sa paligid ng ilog nile.
+  * Noong sanggol pa lang si Moses, sa Ilog na ito siya ipinaanod gamit ang basket
 
-(See: [[egypt]], [[moses]] other)
-
+(tingnan: [[:tl:obe:other:egypt|Egypt]], [[:tl:obe:other:moses|Moses]] other)
 
 ===== Bible References: =====
 
