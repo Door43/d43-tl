@@ -6,12 +6,11 @@ Halos 2,000 na taon na ang nakalipas, nadaragdagan ng nadaragdagan ang mga taong
 
 ===== Important Terms: =====
 
-  * **[[:tl:obe:kt:goodnews]]**
-  * **[[:tl:obe:kt:jesus]]**
-  * **[[:tl:obe:kt:christ]]**
-  * **[[:tl:obe:kt:church]]**
-  * **[[:tl:obe:kt:promise]]**
-
+  * **[[:tl:obe:kt:goodnews|mabuting balita]]**
+  * **[[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:tl:obe:kt:christ|Christ, Messiah]]**
+  * **[[:tl:obe:kt:church|simbahan, Iglesia]]**
+  * **[[:tl:obe:kt:promise|pangako]]**
 
 ===== Translation Notes: =====
 
