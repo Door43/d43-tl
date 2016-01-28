@@ -1,18 +1,17 @@
 ====== Pilate ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Pilate was the Roman governor who sentenced Jesus to death.
+Si Pilate ay ang gobernador na sumang-ayon na mamatay si Jesus sa pamamagitan ng pagpako sa krus.
 
-  * Because Pilate was the governor, he had the authority to put criminals to death.
-  * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-  * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+  * Dahil gobernador si Pilate, may kapangyarihan siyang humatol ng kamatayan sa mga kriminal.
+  * Dahil sa kagustuhan ng mga pinuno ng relihiyon na  hatulan ni Pilate si Jesus ng kamatayan, nagsinungaling sila at sinabing kriminal si Jesus.
+  * Alam ni Pilate na walang kasalanan si Jesus, pero natatakot siya sa mga tao kaya pumayag siyang ipako ng kanyang mga sundalo si Jesus sa krus.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names|How to Translate Names]])
+(Mungkahi sa Pagsasalin: [[:tl:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[rome|Rome, Roman]], [[tl:obe:kt:crucify|crucify]], [[tl:obe:kt:guilt|guilt, guilty]], [[governor]])
-
+(Tignan rin sa: [[:tl:obe:other:rome|Roma, Romano,]] [[:tl:obe:kt:crucify|crucify,]] [[:tl:obe:other:governor|gobernador]])
 
 ===== Bible References: =====
 
