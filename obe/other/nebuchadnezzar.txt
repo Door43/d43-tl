@@ -1,17 +1,16 @@
 ====== Nebuchadnezzar ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire during the time of the kingdom of Israel and the kingdom of Judah.
+Si Nebuchadnezzar ay naging hari sa imperyo ng Babylon. Isang napakamakapangyarihang imperyo noong unang panahon.
 
-  * Nebuchadnezzar had a powerful army that conquered many other people groups.
-  * Under Nebuchadnezzar's leadership, the Babylonian army attacked and conquered the kingdom of Judah, and took most of the people of Judah to Babylon as captives. This "Babylonian Exile" lasted 70 years.
+  * Si Nebuchadnezzar ay may malalakas na kawal na sumakop sa maraming kaharian at bansa.
+  * Noong panahon ng paghahari ni Nebuchadnezzar, sinalakay ng mga kawal niya ang kaharian ng Judah at dinala nila ang karamihan sa mga mamamayan nito sa Babylon at nanatili sila doon sa loob ng 70 na taon.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mungkahi sa pagsasalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[babylon]], [[kingdomofjudah]])
-
+(See also: [[:tl:obe:other:babylon|Babylon, taga-Babylon]], [[:tl:obe:other:kingdomofjudah|Judah, kaharian ng Judah]])
 
 ===== Bible References: =====
 
