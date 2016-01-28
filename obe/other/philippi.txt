@@ -1,16 +1,15 @@
 ====== Philippi ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-Philippi was a city located in the northern part of ancient Greece.
+Makikita ang Philippi sa hilagang bahagi ng Greece.
 
-    * Paul and Silas traveled to Philippi to preach about Jesus to the people there.
-    * Paul and Silas were arrested in Philippi, but God miraculously freed them.
-    * Paul wrote the letter to the Philippians in the Bible to the Christians in Philippi.
+  * Naglakbay si Paul at Silas sa Philippi para ipangaral sa mga tao ang mabuting balita tungkol kay Jesus.
+  * Dinakip at ikinulong sa Philippi si Paul at Silas, pero gumawa ng himala ang Diyos kaya nakalaya sila.
+  * Ang mga sulat ni Paul para sa  mga Kristiyano sa Philippi ay naging bahagi ng Bibliya.
 
-(See also: [[paul]], [[silas]], [[tl:obe:kt:christian]])
-
+(Tignan rin sa: [[:tl:obe:other:paul|Paul, Saul]], [[:tl:obe:other:silas|Silas, ]], [[:tl:obe:kt:christian|Kristiyano]])
 
 ===== Bible References: =====
 
