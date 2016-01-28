@@ -6,19 +6,17 @@ Ipinangako din ng Diyos na gagawa siya ng Bagong Kasunduan sa pamamagitan ng pro
 
 ===== Important Terms: =====
 
-
-  * **[[:tl:obe:kt:prophet]]**
-  * **[[:tl:obe:other:jeremiah]]**
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:promise]]**
-  * **[[:tl:obe:kt:newcovenant]]**
-  * **[[:tl:obe:kt:covenant]]**
-  * **[[:tl:obe:other:israel]]**
-  * **[[:tl:obe:other:sinai]]**
-  * **[[:tl:obe:kt:forgive]]**
-  * **[[:tl:obe:kt:sin]]**
-  * **[[:tl:obe:kt:christ]]**
-
+  * **[[:tl:obe:kt:prophet|propeta, propesiya]]**
+  * **[[:tl:obe:other:jeremiah|Jeremiah]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:promise|pangako]]**
+  * **[[:tl:obe:kt:newcovenant|Bagong Kasunduan]]**
+  * **[[:tl:obe:kt:covenant|Kasunduan]]**
+  * **[[:tl:obe:other:israel|Israel, Israelita]]**
+  * **[[:tl:obe:other:sinai|Sinai, Bundok Sinai]]**
+  * **[[:tl:obe:kt:forgive|forgive, forgiveness]]**
+  * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
+  * **[[:tl:obe:kt:christ|Christ, Messiah]]**
 
 ==== Translation Notes: ====
 
