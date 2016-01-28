@@ -6,14 +6,12 @@ Kahit pinarusahan ng Diyos ang mga tao dahil sa kasalanan nila sa pamamagitan ng
 
 ===== Important Terms: =====
 
-
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:other:punish]]**
-  * **[[:tl:obe:kt:sin]]**
-  * **[[:tl:obe:kt:promise]]**
-  * **[[:tl:obe:kt:prophet]]**
-  * **[[:tl:obe:kt:promisedland]]**
-
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:other:punish|parusa, kaparusahan]]**
+  * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
+  * **[[:tl:obe:kt:promise|pangako]]**
+  * **[[:tl:obe:kt:prophet|propeta, propesiya]]**
+  * **[[:tl:obe:kt:promisedland|Lupang Pangako]]**
 
 ==== Translation Notes: ====
 
