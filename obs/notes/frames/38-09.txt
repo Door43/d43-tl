@@ -6,11 +6,12 @@ Sumagot si Peter kay Jesus, “Kahit iwanan pa kayo ng lahat, hindi ko kayo iiwa
 
 ===== Important Terms: =====
 
-  * **[[:tl:obe:other:peter]]**
-  * **[[:tl:obe:kt:jesus]]**
-  * **[[:tl:obe:kt:satan]]**
-  * **[[:tl:obe:other:pray]]**
-  * **[[:tl:obe:kt:faith]]**
+  * **[[:tl:obe:other:peter|Peter, Simon Peter, Cephas]]**
+  * **[[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:tl:obe:kt:satan|Satan, demonyo]]**
+  * **[[:tl:obe:other:pray|panalangin, dalangin, dasal]]**
+  * **[[:tl:obe:kt:faith|faith]]**
+
 ===== Translation Notes: =====
 
   * **abandon you**  - Check to see how you translated this in **[[:tl:obs:notes:frames:38-08|[38-08]]]**.
