@@ -1,20 +1,19 @@
 ====== Peter, Simon Peter, Cephas ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-These names are different ways of referring to Peter, who was one of Jesus' twelve apostles. He was an important leader of the early Church.
+Si Peter ay isa sa labindalawang apostol ni Jesus at sa rin siya sa mga pangunahing pinuno ng unang tatag na Simbahan o Iglesya.
 
-  * Before Jesus called him to be his disciple, this man's name was Simon.
-  * Later, Jesus also named him Cephas, which means "stone" or "rock" in the Aramaic language. He was also called Peter, which is a name meaning "stone" or "rock" in the Greek language.
-  * He is most well-known by the names Peter or Simon Peter.
-  * God worked through Peter to heal people and to preach the good news about Jesus.
-  * Two books in the New Testament are letters that Peter wrote to encourage and teach fellow believers.
+  * Bago siya naging alagad ni Jesus ay Simon ang kanyang pangalan.
+  * Ang ibig sabihin ng Peter at Cephas ay “Bato.”
+  * Mas kilala siya sa pangalan niyang Simon Peter
+  * Ginamit ng Diyos si Peter para magpagaling ng mga may sakit at para ipangaral ang salita ng Diyos.
+  * Sumulat ng dalawang liham si Peter para turuan at palakasin loob ng mga Kristiyano sa iba’t ibang lugar, ang mga liham na ito ay naging bahagi ng Bibliya.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names|How to Translate Names]])
+(Mungkahi a pagsasalin: [[:tl:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[tl:obe:kt:disciple]], [[tl:obe:kt:apostle]])
-
+(See also:[[:tl:obe:kt:apostle|alagad, apostol]])
 
 ===== Bible References: =====
 
