@@ -2,16 +2,13 @@
 
 ===== Facts: =====
 
-In ancient times, the kings who ruled over the country of Egypt were called pharaohs.
+Ang tawag sa hari ng Egypt noong unang panahon ay Paraon.
 
-  * Altogether, over 300 pharaohs ruled Egypt for more than 2,000 years.
-  * These Egyptians kings were very powerful and wealthy.
-  * Several of these pharaohs are mentioned in the Bible.
-  * Often this title is used as a name rather than as a title. In these cases, it is capitalized as "Pharaoh."
+  * Sa loob ng 2,000 na taon, may 300 na Paraon na ang namuno sa Egypt.
+  * Ang mga Paraon ay sobrang yaman at makapangyarihan.
+  * Ang ilan sa mga Paraon ay nabanggit sa Bibliya.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names|How to Translate Names]])
-
-(See also: [[:tl:obe:other:egypt|Egypt, Egyptian]], [[:tl:obe:other:king|king]])
+(tingnan: [[:tl:obe:other:egypt|Egypt, Egipcio]], [[:tl:obe:other:king|Hari]])
 
 ===== Bible References: =====
 
