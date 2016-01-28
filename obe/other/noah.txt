@@ -1,6 +1,6 @@
 ====== Noah ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
 Si Noah ay nabuhay 4,000 taon na ang nakakalipas, noong panahong ginunaw ng Diyos ang mundo sa pamamagitan ng baha dahil sa sobrang kasamaan ng mga tao. Inutusan ng Diyos si Noah na gumawa ng isang malaking Bangka para makaligtas sila ng pamilya niya mula sa baha.
 
@@ -8,7 +8,7 @@ Si Noah ay nabuhay 4,000 taon na ang nakakalipas, noong panahong ginunaw ng Diyo
   * Nang inutusan ng Diyos si Noah na gumawa ng malaking Bangka, ginawa niya ito ng na-aayon sa kagustuhan ng Diyos.
   * Sa loob ng malaking Bangka, naging ligtas sila Noah at ang kanyang pamilya. Lumipas ang panahon dumami ng dumami ang mga apo ni Noah at muling dumami ang mga tao sa mundo.
 
-(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
+(Mungkahi sa Pagsalin: [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
 ===== Bible References: =====
 
