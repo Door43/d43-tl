@@ -12,9 +12,8 @@ Sinagot ng ahas ang babae at sinabi, “Hindi totoo iyan! Hindi kayo mamamatay. 
   * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
   * **[[:tl:obe:kt:evil|masama, kasamaan]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-  * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
- 
-**[[tl/obs/notes/frames/02-03|<<]] | [[tl/obs/notes/02|Up]] | [[tl/obs/notes/frames/02-05|>>]]**
+  * **tulad ng Diyos**  - Ang lalaki at ang babae ay ginawa na katulad ng Diyos. Sinasabi ng ahas sa babae na mas magiging katulad niya ang Diyos kapag mauunawaan niya rin kung ano ang masama. Gayunpaman hindi kagustuhan ng Diyos na magkaroon siya ng kaalamang ito..
+  * **Pag-unawa sa mabuti at masama**  - Ang kakayahang malaman kung ang isang bagay ay mabuti o masama o kaalaman tungkol sa anong mga bagay ang mabubuti at masasama ayon sa mga naging karanasan..
+**[[:tl:obs:notes:frames:02-03|<<]] | [[:tl:obs:notes:02|Up]] | [[:tl:obs:notes:frames:02-05|>>]]**
