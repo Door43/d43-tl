@@ -10,11 +10,9 @@ Masayang masaya si Adam at ang asawa niya sa pagtira nila sa magandang halamanan
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-   * **garden** - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[en/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
-   * **talked with God** - The word for “talk” should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
-   * **shame** - The feeling that comes with knowing we have sinned or that we fall short in some way.
-
-
-**[[tl/obs/notes/frames/01-16|<<]] | [[tl/obs/notes/02|Up]] | [[/tl/obs/notes/frames/02-02|>>]]**
+  * **halamanan**  - Isang lugar kung saan itinatanim ang mga puno at mga halaman para makapagbigay ng pagkain o para mapaganda ang kapaligiran.
+  * **nakikipag-usap sa Diyos**  - Ang salitang ito ay dapat malinaw na maglarawan na kagaya ng pakikipag-usap sa isang tao. Maaaring nakipag-usap sa babae at lalaki ang Diyos sa anyong pisikal dahil sinasabi rito na sila ay nag-uusap ng harapan.
+  * **hiya**  - Ang pakiramdam kung saan alam nating tayo ay nakagawa ng pagkakamali o pagkukulang.
+**[[:tl:obs:notes:frames:01-16|<<]] | [[:tl:obs:notes:02|Up]] | [[:tl:obs:notes:frames:02-02|>>]]**
