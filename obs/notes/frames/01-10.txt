@@ -10,17 +10,14 @@ Kaya kumuha ng alikabok ang Diyos, ginawa niya itong hugis tao, hiningahan niya 
   * **[[:tl:obe:kt:life|buhay, nabubuhay]]**
   * **[[:tl:obe:other:adam|Adam]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-
-  * **took some dirt** - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
-  * **formed it** - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
-  * **a man** - Only the man was created at this time; the woman was created later by a different method.
-  * **breathed life** - This phrase expresses God's very personal, intimate action as he transferred life from himself into Adam's body, comparing this to how a human being breathes out air.
-  * **life** - In this event, God breathed both physical and spiritual life into the man.
-  * **Adam** - Adam's name is the same as the Old Testament word for "man," and similar to the word for "dirt" from which he was formed.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **care for it** - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
-
-
+  * **kumuha ng alikabok**  - Ginawa ng Diyos ang tao mula sa alikabok.  Maaaring gumamit ng ibang salita maliban sa “lupa.”.
+  * **ihinugis**  - Ang salitang ito ay naglalarawan na ang Diyos mismo ang gumawa ng tao, ihinahambing ito kung paano gumawa ang tao ng isang bagay gamit ang mga kamay.  Siguraduhing gumamit ng ibang salita maliban sa “lumikha”.  Tandaan na ito ay ibang-iba sa paggawa ng Diyos sa mga naunang bagay kung saan ginawa niya ang mga ito pamamagitan pagbigkas niya ng utos..
+  * **isang lalaki**  - Tanging ang lalaki pa lamang ang nalilikha. Ang babae ay sumunod na nilikha sa ibang pamamaraan.
+  * **hiningahan Niya ito para mabuhay**  - Ito ay naglalarawan kung paano ginawa ng Diyos ang tao sa isang espesyal na paraan kagaya ng  pagbibigay niya ng buhay sa katawan ni Adam na galing mismo sa Diyos. Maaari itong ihambing sa kung paano naglalabas ng hininga o hangin ang tao..
+  * **buhay**  - Sa pagkakataong ito, ibinigay ng Diyos ang buhay pisikal at buhay espirituwal sa tao.
+  * **Adam**  - Ang pangalan ni Adam ay pareho sa salita na "tao" na nakasaad sa Lumang Tipan at katulad ng salita para sa "alikabok" na ginamit ng Diyos para sa paglikha sa kanya.
+  * **halamanan**  - Isang lugar kung saan itinatanim ang mga puno at mga halaman para makapagbigay ng pagkain o para mapaganda ang kapaligiran.
+  * **pangalagaan**  - Ito ay pagpapanatili ng hardin sa pamamagitan ng pag-aalaga, pagtatanggal ng damo, pagdidilig, pag-aani, pagtatanim, at iba pa..
 **[[:tl:obs:notes:frames:01-09|<<]] | [[:tl:obs:notes:01|Up]] | [[:tl:obs:notes:frames:01-11|>>]]**
