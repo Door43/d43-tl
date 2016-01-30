@@ -8,13 +8,10 @@ Sa ikalawang araw, nagsalita ang Diyos at ginawa niya ang kalangitan sa ibabaw n
 
   * **[[:tl:obe:kt:god|Diyos]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-
-  * **the second day** - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  * **God spoke** - God created the sky by speaking a command.
-  * **created** - God made the sky out of nothing.
-  * **sky** - This term refers to all of the space above the earth, including the air we breathe and the heavens.
-
-
+  * **Ang ikalawang araw**  - Ang paggawa ng paglikha ng Diyos ay may kaayusan, may layunin at may pagkakasunod-sunod. Ang mga naunang bagay na nilikha niya sa bawat araw ay kinakailangan para sa mga bagay na malilikha pa lang.
+  * **Nagsalita ang Diyos**  - Nilikha ng Diyos ang kalangitan sa pamamagitan ng pagbigkas ng isang utos.
+  * **ginawa o nilikha**  - Ginawa ng Diyos ang kalangitan mula sa wala.
+  * **kalangitan**  - Tinutukoy nito ang lahat ng nasa ibabaw ng mundo, kasama dito ang hangin at ang langit.
 **[[:tl:obs:notes:frames:01-02|<<]] | [[:tl:obs:notes:01|Up]] | [[:tl:obs:notes:frames:01-04|>>]]**
