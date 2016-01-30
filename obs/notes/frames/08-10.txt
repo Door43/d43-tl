@@ -4,11 +4,12 @@
 
 Hindi lang sa Egypt matindi ang tag-gutom, pati na rin sa Canaan kung saan nakatira si Jacob at ang pamilya niya.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:egypt]]**
-  * **[[:tl:obe:other:canaan]]**
-  * **[[:tl:obe:other:jacob]]**
+  * **[[:tl:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:tl:obe:other:canaan|Canaan, Canaaneo]]**
+  * **[[:tl:obe:other:jacob|Jacob]]**
+
 ==== Translation Notes: ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
