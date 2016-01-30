@@ -8,11 +8,10 @@ Pero may isang tusong ahas sa halamanan, tinanong niya ang babae, “Talaga bang
 
   * **[[:tl:obe:kt:god|Diyos]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-  * **crafty**  - Clever and sly, with the intent to deceive.
-  * **snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * **fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden. 
- 
- **[[tl/obs/notes/frames/02-01|<<]] | [[/tl/obs/notes/02|Up]] | [[/tl/obs/notes/frames/02-03|>>]]**
+  * **tuso**  - Mahusay manlinlang.
+  * **ahas**  - Ito ay uri ng hayop na walang mga paa at gumagapang sa lupa. Sa kuwento ang tinutukoy na ahas ay si Satan. Hindi pa ito maaaring sabihin sa talatang ito.
+  * **talaga bang sinabi ng Diyos sa inyo**  - Tinanong ng ahas sa babae kung talagang sinabi ng Diyos na huwag kumain mula sa anumang puno sa halamanan pero nagkukunwari lang siya na hindi niya alam kung ano ang sinabi ng Diyos dahil gusto niyang  magduda ang babae tungkol sa kabutihan ng Diyos.
+  * **bunga sa kahit na anong puno**  -Ito ang iba't ibang uri ng bunga mula sa iba’t-ibang mga puno sa halamanan.
+**[[:tl:obs:notes:frames:02-01|<<]] | [[:tl:obs:notes:02|Up]] | [[:tl:obs:notes:frames:02-03|>>]]**
