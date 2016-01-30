@@ -10,11 +10,8 @@ Inutusan ni Jacob ang mga pinakamatatanda sa mga anak niyang lalaki na pumunta s
   * **[[:tl:obe:other:egypt|Egypt, Egyptian]]**
   * **[[:tl:obe:other:josephot|Joseph (OT)]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-
-  * **his older sons** - These were Joseph's older brothers who had sold him into slavery.
-  * **did not recognize Joseph** - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
-
-
+  * **ang mga pinakamatatanda sa mga anak niyang lalaki**  - Ito ay ang mga nakakatandang kapatid ni Joseph na nagbenta sa kanya para maging alipin.
+  * **hindi nila namukhaan si Joseph**  -  Hindi nila alam na si Joseph ang taong kaharap nila dahil mas matanda na siya kaysa nang huling beses na makita nila siya. Maliban doon, nakasuot si Joseph ng damit para sa isang pinuno ng Egypt.
 **[[:tl:obs:notes:frames:08-10|<<]] | [[:tl:obs:notes:08|Up]] | [[:tl:obs:notes:frames:08-12|>>]]**
