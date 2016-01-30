@@ -10,12 +10,9 @@
   * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
   * **[[:tl:obe:other:adam|Adam]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-
-  * **not good** - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * **alone** - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * **Adam's helper** - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
-
-
+  * **hindi maganda**  - Ito ang unang pagkakataon na mayroong bagay na hindi mabuti para sa mga nilikha. Ang ibig sabihin ito ay "hindi pa mabuti" dahil hindi pa tapos ang Diyos sa paglikha ng mga tao..
+  * **nag-iisa**  - Si Adam lang ang tanging taong nalikha. Wala siyang mabubuong ugnayan sa ibang tao at hindi siya maaaring magkaroon ng mga anak upang dumami ang mga tao..
+  * **katuwang ni Adam**  - Walang kahit sino ang katulad ni Adam para makasama siya at upang maisagawa ang tungkulin na ibinigay ng Diyos sa kanya. Wala sa mga hayop ay maaaring makagawa nito..
 **[[:tl:obs:notes:frames:01-11|<<]] | [[:tl:obs:notes:01|Up]] | [[:tl:obs:notes:frames:01-13|>>]]**
