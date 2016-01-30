@@ -9,11 +9,11 @@ Pagkatapos sinabi ng Diyos, “Magkaroon ng liwanag!”At nagkaroon nga ng liwan
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-  * **God said**  - God created light by means of a simple verbal command.
-  * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
-  * **light**  - This was a special light that God created–the sun was not created until later.
-  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-  * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
+  * **Sinabi ng Diyos**  - Nilikha ng Diyos ang liwanag sa pamamagitan ng pagbigkas niya sa isang simpleng utos
+  * **“Magkaroon...”**  - Ito ay utos na nangyari agad nang magsalita ang Diyos.  Maaari itong isalin ito na gumagamit ng mga salitang nagsasabi na siguradong mangyayari ito.  Halimbawa: “Sinabi ng Diyos, ‘Magkakaroon ng liwanag.’”
+  * **liwanag**  - Ito ay isang natatanging  liwanag na nilikha ng Diyos. Hindi pa nalilikha ang araw
+  * **maganda**  - Ito ay kadalasang nauulit sa buong kwento ng  Paglikha at binibigyang-diin nito na ikinatuwa ng Diyos at natapos niya ang kaniyang plano at layunin sa  bawat paglikha ng mga bagay.
+  * **paglikha**  - Ang salitang ito ay ginamit dito para tukuyin ang anim na araw kung saan ginawa ng Diyos ang lahat.
 **[[:tl:obs:notes:frames:01-01|<<]] | [[:tl:obs:notes:01|Up]] | [[:tl:obs:notes:frames:01-03|>>]]**
