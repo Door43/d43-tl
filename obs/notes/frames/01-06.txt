@@ -9,14 +9,11 @@ Sa ika-apat na araw, nagsalita ang Diyos at ginawa niya ang araw, buwan, at mga 
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
-
-  * **the fourth day** - The next in the orderly series of days in which God created.
-  * **God spoke** - God created the sun, moon, and stars by speaking a command.
-  * **light** - Shining objects in the sky now provided light for the earth.
-  * **day and night, seasons and years** - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time.
-  * **created** - This word is used here in the sense of making something out of nothing.
-
-
+  * **Ang ika-apat na araw**  - Ang araw na kasunod sa mga araw na ginawa ng Diyos.
+  * **Sinabi ng Diyos**  - Nilikha ng Diyos ang araw, buwan at mga bituwin sa pamamagitan ng pagbigkas ng isang utos.
+  * **Liwanag**  - Mga nagniningning na bagay sa kalangitan na ngayon ay nagbibigay ng liwanag dito sa lupa o sa mundo.
+  * **araw at gabi, mga panahon at mga taon **- Nilikha ng Diyos ang iba't-ibang liwanag upang maging tanda ng bawat bahagi ng oras sandali man ito o mas matagal. Itinakda ang mga ito na magpatuloy hanggang sa katapusan ng panahon.
+  * **ginawa**  - Ginamit ang salitang ito na ang ibig sabihin ay pag-gawa ng isang bagay mula sa wala..
 **[[:tl:obs:notes:frames:01-05|<<]] | [[:tl:obs:notes:01|Up]] | [[:tl:obs:notes:frames:01-07|>>]]**
