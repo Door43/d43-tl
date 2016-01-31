@@ -10,12 +10,11 @@ Sinabi ng Diyos sa ahas, “Susumpain kita! Gagapang ka sa lupa at alikabok ang 
   * **[[:tl:obe:kt:curse|Sumpa, Sinumpa, Sumpain]]**
   * **[[:tl:obe:other:descendant|Apo, Kaapu-apuhan, Susunod na Salinlahi]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **you are cursed**  - This could also be translated as, “I curse you” or, “Great harm will come to you.” Do not use a word that implies magic.
-  * **hate each other**  - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
-  * **woman's descendant**  - Refers to one of her descendants in particular.
-  * **crush your head**  - The descendant of the woman will destroy the descendant of the snake.
-  * **wound his heel**  - The descendant of the snake will wound the descendant of the woman. 
-
-**[[tl/obs/notes/frames/02-08|<<]] | [[tl/obs/notes/02|Up]] | [[tl/obs/notes/frames/02-10|>>]]**
+  * **“Isinusumpa kita...”**  - Maaari itong isalin ng ganito, “Isinusumpa kita” o “Matinding paghihirap ang darating sa iyo”.  Huwag gumamit ng salitang nagpapahiwatig ng mahika.
+  * **Magkakagalit**  - Magkakagalit ang babae at ang ahas at magkakagalit rin ang mga angkan nila.
+  * **apo ng babae**  - Tumutukoy ito sa isang tao na manggagaling sa angkan ng babae.
+  * **Dudurog sa ulo mo**  - Wawasakin ng taong manggagaling sa angkan ng babae ang isang ahas.
+  * **tutuklaw sa sakong niya**  - Sasaktan ng isang ahas ang isang tao na manggagaling sa angkan ng babae.
+**[[:tl:obs:notes:frames:02-08|<<]] | [[:tl:obs:notes:02|Up]] | [[:tl:obs:notes:frames:02-10|>>]]**
