@@ -12,7 +12,7 @@ Ito ang mga kaganapan nang likhain ng diyos ang mundo at ang lahat ng nandito sa
 Click on the images below to translate each frame of the story.
 
 [[:tl:obs:notes:frames:01-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&200}}]]\\
-The Beginning [01-01]\\
+Ang Simula [01-01]\\
 \\
 [[:tl:obs:notes:frames:01-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&200}}]]\\
 God Created Light [01-02]\\
