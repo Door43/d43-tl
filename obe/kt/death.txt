@@ -14,17 +14,16 @@ Ang salitang ito ay ginagamit para parehong tukuyin ang pisikal at espiritwal na
 
 {{topic>:en:bible?death&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:01-11|[01-11]]]** God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
-  * **[[:tl:obs:notes:frames:02-11|[02-11]]]**"Then you will **die**, and your body will return to dirt."
-  * **[[:tl:obs:notes:frames:07-10|[07-10]]]** Then Isaac **died**, and Jacob and Esau buried him.
-  * **[[:tl:obs:notes:frames:37-05|[37-05]]]**"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
-  * **[[:tl:obs:notes:frames:40-08|[40-08]]]** Through his **death**, Jesus opened a way for people to come to God.
-  * **[[:tl:obs:notes:frames:43-07|[43-07]]]**"Although Jesus **died**, God raised him from the dead."
-  * **[[:tl:obs:notes:frames:48-02|[48-02]]]** Because they sinned, everyone on earth gets sick and everyone **dies**.
-  * **[[:tl:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or **death**.
-  *
+  * **[[:tl:obs:notes:frames:01-11|[01-11]]]** Sinabi ng Diyos kay Adam na pwede niyang kainin ang mga bunga ng puno sa halamanan maliban lang sa bunga ng puno na nagbibigay ng kaalaman ng mabuti’t masama dahil **ikamamatay**  niya kapag kinain niya ang bunga nito.
+  * **[[:tl:obs:notes:frames:02-11|[02-11]]]**"**Mamamatay**  ka at babalik sa lupa ang katawan mo."
+  * **[[:tl:obs:notes:frames:07-10|[07-10]]]** Pagkatapos, **namatay**  si Isaac at sila ang naglibing sa ama nila.
+  * **[[:tl:obs:notes:frames:37-05|[37-05] ]]** Sumagot naman si Jesus, “Ako ang nagbibigay buhay at ako rin bumubuhay muli sa mga **patay**. Lahat ng **namatay ** na naniniwala sa akin ay muling mabubuhay. Lahat ng nabubuhay na naniniwala sa akin ay hindi **mamamatay**."
+  * **[[:tl:obs:notes:frames:40-08|[40-08]]]** Ang **pagkamatay**  ni Jesus ang nagbigay daan para makalapit ang mga tao sa Diyos.
+  * **[[:tl:obs:notes:frames:43-07|[43-07]]]**“Kahit pa **namatay**  si Jesus, binuhay siyang muli ng Diyos."
+  * **[[:tl:obs:notes:frames:48-02|[48-02]]]** Dahil sa pagkakasala nila lahat ng tao sa mundo ay nagkakasakit at **namamatay**.
+  * **[[:tl:obs:notes:frames:50-17|[50-17]]]** Pupunasan niya (Jesus )ang mga luha, mawawala ang mga paghihirap, kalungkutan, pag-iyak, kasamaan, hinagpis o** kamatayan**.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
