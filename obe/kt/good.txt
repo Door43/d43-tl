@@ -22,7 +22,7 @@ Ang salitang “Mabuti” ay may iba’t ibang kahulugan depende  sa paggamit.
 
 {{topic>:en:bible?good&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
   * **[[:tl:obs:notes:frames:01-04|[01-04]]]** Nakita ng Diyos na **manganda**  ang kanyang nilikha.
   * **[[:tl:obs:notes:frames:01-11|[01-11]]]** Nagtanim ang Diyos ng dalawang di-pangkaraniwang puno. Ang puno ng buhay at ang puno ng kaalaman ng **mabuti**'t masama.
@@ -31,7 +31,7 @@ Ang salitang “Mabuti” ay may iba’t ibang kahulugan depende  sa paggamit.
   * **[[:tl:obs:notes:frames:08-12|[08-12]]]**"Gumawa kayo ng masama nang ibinenta ninyo ako para maging alipin ngunit ginamit naman ito ng Diyos para sa ating **ikabubuti**!
   * **[[:tl:obs:notes:frames:14-15|[14-15]]]** Pagkatapos si Joshua na ang pumalit na bagong pinuno nila. Siya ay naging **mabuting pinuno**  dahil nagtitiwala siya at sumusunod sa Diyos.
   * **[[:tl:obs:notes:frames:18-13|[18-13]]]** Ang ilan sa kanila ay **mabubuting**  tao na namuno ng matuwid at sumasamba sila sa Diyos.
-  * **[[:tl:obs:notes:frames:28-01|[28-01]]]**"**Mabuting ** guro, ano ba ang dapat kong gawin para magkaroon ng buhay na walang hanggan?" Sumagot si Jesus, “Bakit mo ako tinawag na mabuti? Isa lang ang mabuti, ang Diyos."
+  * **[[:tl:obs:notes:frames:28-01|[28-01]]]**"**Mabuting **  guro, ano ba ang dapat kong gawin para magkaroon ng buhay na walang hanggan?" Sumagot si Jesus, “Bakit mo ako tinawag na mabuti? Isa lang ang mabuti, ang Diyos."
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
