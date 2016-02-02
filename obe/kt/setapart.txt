@@ -7,9 +7,10 @@ Ang salitang "ibukod" ay nangangahulugang ihiwalay para sa isang layunin.
   * Ang mga Israelita ay ibinukod ng Diyos para maglingkod sa kanya.
   * Sinabi ng Banal na Espiritu sa mga Kristiyano sa Antioch na ibukod nila sina Barnabas at Saul para sa gawaing inilaan ng Diyos para sa kanila
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * Ways to translate "to set apart" could include, "to specially select" or "to separate from among you" or "to take aside to do a special task."
+  * Ang mga paraan para isalin ang salitang "ibukod" ay ganito, "para piliin" o "para ihiwalay sa inyo"
+  * Ang salitang para "maibukod" ay maaaring isalin ng ganito, "ihiwalay sa" o "para italaga sa"
   * To "be set apart" could be translated as "be separated (from)" or "be specially appointed (for)."
 
 (Tignan rin sa:[[:tl:obe:kt:holy|banal, kabanalan]], [[:tl:obe:kt:sanctify|sanctify, sanctification]], [[:en:obe:kt:appoint|appoint, appointed]])
