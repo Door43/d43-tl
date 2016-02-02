@@ -4,49 +4,45 @@
 
 Lumikha ang Diyos ng isang mundong perpekto para kay Adam at Eve, ngunit sa kabila noon hindi sila naging kontento at kinain nila ang bunga na ipinagbabawal ng Diyos na kainin nila. Ito ang dahilan kaya may kasalanan at paghihirap sa mundo. Nakaramdam ng hiya at takot sa Diyos si Adam at Eve at nalayo sila sa Diyos. Dahil sa ginawa nilang kasalanan, pinaalis sila ng Diyos sa may halamanan ng Eden.
 
-====== Translate the Story ======
+====== Isalin ang Kwento ======
 
+Pindutin sa mga larawan sa baba para isalin ang bawat talata rito.
 
-Click on the images below to translate each frame of the story. 
-
-
-[[:tl:obs:notes:frames:02-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?200||Frame 02-01}}]]\\
+[[:tl:obs:notes:frames:02-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&200}}]]\\
 A Perfect World [02-01]\\
 \\
-[[:tl:obs:notes:frames:02-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?200|Frame 02-02}}]]\\
+[[:tl:obs:notes:frames:02-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&200}}]]\\
 The Snake [02-02]\\
 \\
-[[:tl:obs:notes:frames:02-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?200|Frame 02-03}}]]\\
+[[:tl:obs:notes:frames:02-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?nolink&200}}]]\\
 Do Not Touch [02-03]\\
 \\
-[[:tl:obs:notes:frames:02-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?200|Frame 02-04}}]]\\
+[[:tl:obs:notes:frames:02-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&200}}]]\\
 The Lie [02-04]\\
 \\
-[[:tl:obs:notes:frames:02-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?200|Frame 02-05}}]]\\
+[[:tl:obs:notes:frames:02-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink&200}}]]\\
 Disobedience [02-05]\\
 \\
-[[:tl:obs:notes:frames:02-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?200|Frame 02-06}}]]\\
+[[:tl:obs:notes:frames:02-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink&200}}]]\\
 Open Eyes [02-06]\\
 \\
-[[:tl:obs:notes:frames:02-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?200|Frame 02-07}}]]\\
+[[:tl:obs:notes:frames:02-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&200}}]]\\
 Where Are You? [02-07]\\
 \\
-[[:tl:obs:notes:frames:02-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?200|Frame 02-08}}]]\\
+[[:tl:obs:notes:frames:02-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?nolink&200}}]]\\
 The Blame [02-08]\\
 \\
-[[:tl:obs:notes:frames:02-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?200|Frame 02-09}}]]\\
+[[:tl:obs:notes:frames:02-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&200}}]]\\
 God Cursed the Snake [02-09]\\
 \\
-[[:tl:obs:notes:frames:02-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-10.jpg?200|Frame 02-10}}]]\\
+[[:tl:obs:notes:frames:02-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-10.jpg?nolink&200}}]]\\
 God Cursed the Woman [02-10]\\
 \\
-[[:tl:obs:notes:frames:02-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?200|Frame 02-11}}]]\\
+[[:tl:obs:notes:frames:02-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&200}}]]\\
 God Cursed the Man [02-11]\\
 \\
-[[:tl:obs:notes:frames:02-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?200|Frame 02-12}}]]\\
+[[:tl:obs:notes:frames:02-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&200}}]]\\
 Out of the Garden [02-12]\\
-\\
-
 //A Bible story from: Genesis 3//
 
 **[[:en:obs:notes:01|<< Previous]] | [[:en:obs:notes:03|Next >>]]**
