@@ -12,11 +12,16 @@ Isang araw nang malaki na si Moses, nakita niya ang isang Egipcio na nambubugbog
   * **[[:tl:obe:other:servant|lingkod, alipin, pagkaka-alipin]]**
   * **[[:tl:obe:kt:save|iligtas, ligtas]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **malaki na**  -
+Maaaring sabihing, “nagbinata o kaya naman nagka edad.”
 
 
-  * **grown up** - Another way to say this would be, "grown into a man."
-  * **fellow Israelite** - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
+  * **kapwa niya Israelita**
+ -
+Tinutukoy nito ang aliping Israelita. Ang salitang “kapwa” ay nangangahulugang si Moises ay isa ring Israelita. Bagaman ang nagpalaki sa kaniya ay ang anak na babae ng Paraon, alam ni Moses na isa siyang tunay na Israelita.
+
 
 
 **[[:tl:obs:notes:frames:09-07|<<]] | [[:tl:obs:notes:09|Up]] | [[:tl:obs:notes:frames:09-09|>>]]**
