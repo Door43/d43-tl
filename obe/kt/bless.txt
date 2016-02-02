@@ -18,14 +18,13 @@ Ang pagpapala ay ang mga mabuti at kapaki-pakinabang na bagay na mula sa Diyos. 
 
 {{topic>:en:bible?bless&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya : =====
 
-  * **[[:tl:obs:notes:frames:01-07|[01-07]]]** God saw that it was good and he **blessed**  them.
-  * **[[:tl:obs:notes:frames:01-15|[01-15]]]** God made Adam and Eve in his own image. He **blessed**  them and told them, "Have many children and grandchildren and fill the earth."
-  * **[[:tl:obs:notes:frames:01-16|[01-16]]]** So God rested from all he had been doing. He **blessed**  the seventh day and made it holy, because on this day he rested from his work.
-  * **[[:tl:obs:notes:frames:04-04|[04-04]]]**"I will make your name great. I will **bless**  those who **bless**  you and curse those who curse you. All families on earth will be **blessed**  because of you."
-  * **[[:tl:obs:notes:frames:04-07|[04-07]]]** Melchizedek **blessed**  Abram and said, "May God Most High who owns heaven and earth **bless**  Abram."
-  * **[[:tl:obs:notes:frames:07-03|[07-03]]]** Isaac wanted to give his **blessing**  to Esau.
-  * **[[:tl:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained faithful to God, and God **blessed**  him.
-
+  * **[[:tl:obs:notes:frames:01-07|[01-07]]]** Nakita niyang (Diyos) maganda ang mga ginawa niya kaya **pinagpala**  niya lahat ng mga ito.
+  * **[[:tl:obs:notes:frames:01-15|[01-15]]]** Ginawa ng Diyos ang lalaki at babae na katulad niya. **Pinagpala**  niya ang dalawa at sinabing, “Magkaanak kayo ng marami para dumami ang tao sa mundo."
+  * **[[:tl:obs:notes:frames:01-16|[01-16]]]** kaya nagpahinga ang Diyos sa lahat ng ginawa Niya. **Pinagpala**  niya ang ikapitong araw at ginawa niya itong natatangi dahil nagpahinga siya sa araw na ito.
+  * **[[:tl:obs:notes:frames:04-04|[04-04]]]**"Gagawin kong dakila ang pangalan mo. **Pagpapalain**  ko lahat ng magpapala sa iyo at susumpain ko lahat ng susumpa sa iyo. Dahil sa iyo pagpapalain ko lahat ng pamilya sa mundo."
+  * **[[:tl:obs:notes:frames:04-07|[04-07]]]****Pinagpala**  niya (Melchizedek) si Abram at sinabing, “Pagpalain ka nawa ng Diyos na may ari ng langit at lupa.”
+  * **[[:tl:obs:notes:frames:07-03|[07-03]]]** Gustong ibigay ni Isaac kay Esau ang **pagpapala**  niya.
+  * **[[:tl:obs:notes:frames:08-05|[08-05]]]** Kahit nakakulong na siya nanatiling pa ring tapat  sa Diyos si Joseph kaya **pinagpala**  siya ng Diyos.
 ~~DISCUSSION~~{{tag>publish ktobs}}
