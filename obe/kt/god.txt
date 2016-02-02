@@ -24,9 +24,9 @@ Sa Bibliya, ang salitang “Diyos.” Ay tumutukoy sa lumikha ng lahat ng bagay 
 
 {{topic>:en:bible?god&nocomments&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:01-01|[01-01]]]****God**  created the universe and everything in it in six days.
+  * **[[:tl:obs:notes:frames:01-01|[01-01]]]** Anim na araw nilikha ng **Diyos**  ang kalawakan pati na rin ang lahat ng mga bagay.
   * **[[:tl:obs:notes:frames:01-15|[01-15]]]****God**  made man and woman in his own image.
   * **[[:tl:obs:notes:frames:05-03|[05-03]]]**"I am **God**  Almighty. I will make a covenant with you."
   * **[[:tl:obs:notes:frames:09-14|[09-14]]]****God**  said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am Yahweh, the **God**  of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
