@@ -11,13 +11,20 @@ Natakot si Moses at ayaw niya magpunta sa Paraon, naisip niya kasi na hindi siya
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:other:aaron|Aaron]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **natakot si Moses at ayaw niya magpunta**
+ -
+Alam ni Moses na gusto siyang patayin ng Paraon, at hindi siya naniniwalang kaya niyang gawin ang ipinagagawa sa kaniya ng Diyos.
 
 
-  * **was afraid and did not want to go** - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
-  * **Moses' brother, Aaron** - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
-  * **stubborn** - This means the Pharaoh would refuse to obey God. You may also want to add, "stubborn and refuse to listen (or obey)."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+  * **kapatid na lalaki**  -
+Si Aaron ay kapatid ni Moses sa kaniyang tunay na ama at ina. Mas matanda si Aaron kaysa kay Moses ng ilang taon.
+
+
+  * **magmamatigas**  -
+Ibig sabihin nito, hindi susundin ng paraon ang mga ipinag-uutos ng Diyos. Maaari mong idagdag, “magmamatigas at hindi makikinig (o susunod).”
+
 
 
 **[[:tl:obs:notes:frames:09-14|<<]] | [[:tl:obs:notes:09|Up]] | [[:tl:obs:notes:frames:10-01|>>]]**
