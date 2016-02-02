@@ -1,6 +1,6 @@
 ====== Ilog Nile ======
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
 Ang Ilog Nile ay isang napakalaking ilog na makikita sa hilagang-silangang bahagi ng Africa.
 
@@ -8,7 +8,7 @@ Ang Ilog Nile ay isang napakalaking ilog na makikita sa hilagang-silangang bahag
   * Tumutubo ng maayos at malago ang mga halaman sa paligid ng Ilog Nile.
   * Noong sanggol pa lang si Moses, sa Ilog na ito siya ipinaanod gamit ang basket.
 
-(tingnan: [[:tl:obe:other:egypt|Egypt]], [[:tl:obe:other:moses|Moses]])
+(Tignan rin sa: [[:tl:obe:other:egypt|Egypt]], [[:tl:obe:other:moses|Moses]])
 
 ===== Bible References: =====
 
