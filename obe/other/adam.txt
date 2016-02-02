@@ -18,13 +18,13 @@ Sinuway nina Adam at Eve ang Diyos.  Ginawa nila ang ipinagbabawal ng Diyos.  It
 
 {{topic>:en:bible?adam&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:01-09|[01-09]]]** Then God said, "Let us make human beings in our image to be like us."
-  * **[[:tl:obs:notes:frames:01-10|[01-10]]]** This man's name was **Adam**. God planted a garden where **Adam**  could live, and put him there to care for it.
-  * **[[:tl:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's**  helper.
-  * **[[:tl:obs:notes:frames:02-11|[02-11]]]** And God clothed **Adam**  and Eve with animal skins.
-  * **[[:tl:obs:notes:frames:02-12|[02-12]]]** So God sent **Adam**  and Eve away from the beautiful garden.
-  * **[[:tl:obs:notes:frames:49-08|[49-08]]]** When **Adam**  and Eve sinned, it affected all of their descendants.
-  * **[[:tl:obs:notes:frames:50-16|[50-16]]]** Because **Adam**  and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it.
+  * **[[:tl:obs:notes:frames:01-09|[01-09]]]** Pagkatapos, sinabi ng Diyos, "Gawin natin ang tao na maging katulad natin.
+  * **[[:tl:obs:notes:frames:01-10|[01-10]]]**"**Adam**" ang pangalan niya. Gumawa ang Diyos ng halamanan para tirahan niya at pangalagaan.
+  * **[[:tl:obs:notes:frames:01-12|[01-12]]]**"Hindi maganda sa lalaki ang nag-iisa", sabi ng Diyos. Pero wala naman sa mga hayop ang pwedeng makatuwang ni** Adam**.
+  * **[[:tl:obs:notes:frames:02-11|[02-11]]]** Pagkatapos dinamitan ng Diyos sila **Adam**  at Eve ng damit na gawa sa balat ng hayop.
+  * **[[:tl:obs:notes:frames:02-12|[02-12]]]** Kaya pinaalis ng Diyos si** Adam**  at Eve sa magandang halamanan.
+  * **[[:tl:obs:notes:frames:49-08|[49-08]]]** Nang magkasala si **Adam**  at Eve pati mga kaapu-apuan nila ay nadamay.
+  * **[[:tl:obs:notes:frames:50-16|[50-16]]]** Dahil sinuway ni **Adam**  at Eve ang Diyos at nagdala sila ng kasalanan dito sa mundo, isinumpa ng Diyos ang mundo at napagdesisyunan niya itong sirain.
 ~~DISCUSSION~~{{tag>publish ktobs}}
