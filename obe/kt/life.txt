@@ -18,15 +18,14 @@ Ang salitang ito ay ginagamit sa Bibliya na tumutukoy sa “buhay na pisikal” 
 
 {{topic>:en:bible?life&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:01-10|[01-10]]]** So God took some dirt, formed it into a man, and breathed **life**  into him.
-  * **[[:tl:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living **  in the world.
-  * **[[:tl:obs:notes:frames:08-13|[08-13]]]** When Joseph's brothers returned home and told their father, Jacob, that Joseph was still **alive**, he was very happy.
-  * **[[:tl:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life**  he sinned terribly before God.
-  * **[[:tl:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
-  * **[[:tl:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
-  * **[[:tl:obs:notes:frames:44-05|[44-05]]]** "You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
+  * **[[:tl:obs:notes:frames:01-10|[01-10]]]** Kaya kumuha ng alikabok ang Diyos, ginawa niya itong hugis tao, hiningahan niya ito para **mabuhay**.
+  * **[[:tl:obs:notes:frames:08-13|[08-13]]]** Pag-uwi ng mga kapatid ni Joseph, ikinuwento nila kay Jacob na** buhay**  pa pala si Joseph. Masayang- Masaya si Jacob nang malaman ito.
+  * **[[:tl:obs:notes:frames:17-09|[17-09]]]** Ngunit sa mga huling bahagi ng **buhay**  niya, nakagawa siya ng matinding kasalanan sa Diyos.
+  * **[[:tl:obs:notes:frames:27-01|[27-01]]]** Isang araw, may lumapit kay Jesus na dalubhasa sa batas ng mga Hudyo. Gusto niyang subukin si Jesus kaya nagtanong siya, “Guro, ano po ba ang dapat kong gawin para magkaroon ng** buhay**  na walang hanggan?”
+  * **[[:tl:obs:notes:frames:35-05|[37-05]]]** Sumagot naman si Jesus, "Ako ang nagbibigay **buhay ** at ako rin bumubuhay muli sa mga patay."
+  * **[[:tl:obs:notes:frames:44-05|[44-05]]]**"Kayo ang nagsabi sa gobernador na si Pilate na patayin si Jesus. Pinatay niyo ang pinagmulan ng **buhay**, pero binuhay siyang muli ng Diyos
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
