@@ -11,9 +11,9 @@ Ang salitang ito ay ginagamit para parehong tukuyin ang pisikal at espiritwal na
   * Many languages use figurative expressions to describe death, such as "to pass away" in English. However in the Bible it is best to use the most direct term for death that is used in everyday language, unless that would be offensive.
   * In the Bible, physical life and death are often compared to spiritual life and death. It is important in a translation to use the same word or phrase for both physical death and spiritual death.
   * In some languages it may be more clear to say "spiritual death" when the context requires that meaning. Some translators may also feel it is best to say "physical death" in contexts where it is being contrasted to spiritual death.
-  * The phrase, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died."  (See: nominal adjective)
+  * The phrase, "the dead" is a nominal adjective that refers to people who have died. Some languages will translate this as, "dead people" or "people who have died." (See: nominal adjective)
 
-(See also: [[:tl:obe:kt:life]], [[:tl:obe:kt:believe|]], [[:tl:obe:kt:faith]], [[:tl:obe:kt:spirit]])
+(Tignan rin sa: [[:tl:obe:kt:life|buhay, nabubuhay]], [[:tl:obe:kt:faith|pananampalataya, pananalig]], [[:tl:obe:kt:spirit|espiritu, pang-espiritwal]])
 
 ===== Bible References: =====
 
