@@ -4,17 +4,15 @@
 
 Ang salitang ito ay ginagamit sa Bibliya na tumutukoy sa “buhay na pisikal” at “buhay na espiritwal.”
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * Depending on the context, "life" can be translated as "existence" or "person" or "soul" or "being" or "experience."
-  * The term "live" could be translated by "dwell" or "reside" or "exist."
-  * The phrase "end of his life" could be translated as, "when he stopped living."
-  * The idiom "spared their lives' could be translated as, "allowed them to live" or "did not kill them."
-  * The idiom "they risked their lives" could be translated as, "they put themselves in danger" or "they did something that could have killed them."
-  * When the Bible text talks about being alive spiritually. "Life" could be translated as "spiritual life" or "eternal life," depending on the context.
-  * The concept of spiritual life could also be translated by a phrase that means, "God making us alive in our spirits" or "new life by God's Spirit" or "being made alive in our inner self."
+  * Ang salitang "buhay" ay maaaring isalin ng ganito, "tao" o "kaluluwa" o nilalang" o "karanasan" depende sa dapat na gamit nito o konteksto.
+  * Ang salitang "nabuhay" ay maaaring isalin ng ganito, "tumira" o "mabuhay"
+  * Ang salitang "hindi pinatay" ay nangangahulugang "hinayaang mabuhay"
+  * Ang salitang "itinaya ang kanilang mga buhay" ay nangangahulugang "inilagay nila ang mga buhay sa panganib" o "maaari nilang ikamatay ang gagawin nila."
+  * Kapag sinasabi sa Bibliya ang tungkol sa buhay espiritwal. dapat isalin ang salitang "buhay" ng ganito, "buhay na walang hanggan" depende sa dapat na gamit o konteksto.
 
-(See also: [[:tl:obe:kt:death]], [[:En:obe:kt:eternity]])
+(Tignan rin sa: [[:tl:obe:kt:death|Kamatayan, Patay, Mamatay]], [[:en:obe:kt:eternity|walang hanggan]])
 
 ===== Bible References: =====
 
