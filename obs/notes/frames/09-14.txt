@@ -13,13 +13,21 @@ Tinanong ni Moses ang Diyos “Paano po kapag tinanong ako ng mga tao kung sino 
   * **[[:tl:obe:other:isaac|Isaac]]**
   * **[[:tl:obe:other:jacob|Jacob]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **mga tao**  - Tignan sa Kwento **[[:tl:obs:notes:frames:09-13|[09-13]]]**.
+  * **AKO AY KUNG SINO AKO**  -
+Ipinapakita dito na Diyos lamang ang tanging makapagpapaliwanag kung sino siya at hindi ng kahit na ano na nalalaman natin at hindi siya maaaring ihambing sa kahit na kanino.
 
 
-  * **the people** - See "my people" in **[[:tl:obs:notes:frames:09-13|[09-13]]]**.
-  * **I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
-  * **I AM** - This name emphasizes that God is the only one who has always lived and always will live.
-  * **my name** - The name that God told Moses and all of Israel to use for him is "Yahweh," which is related to "I AM" and appears to mean, "HE IS."
+  * **AKO**  -
+Binibigyang diin ng pangalan na ito na ang Diyos lamang ang tanging nabuhay at nabubuhay magpakailanman.
+
+
+  * **ito ang pangalan ko**
+ -
+Ang sinabing pangalan ng Diyos kay Moses at sa mga Israelita para gamitin nila na itawag sa kaniya ay “Yahweh”, na may kaugnayan sa “AKO” na nangangahulugang “SIYA”.
+
 
 
 **[[:tl:obs:notes:frames:09-13|<<]] | [[:tl:obs:notes:09|Up]] | [[:tl:obs:notes:frames:09-15|>>]]**
