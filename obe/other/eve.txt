@@ -1,18 +1,17 @@
 ====== Eve ======
 
 
-===== Facts: =====
+===== Mga Katotohanan: =====
 
-This was the name of the first woman. Her name means "life" or "living."
+Eve ang pangalan ng unang babaeng nilikha ng Diyos. Ibig sabihin ng "Eve" ay, "buhay" o "nagbibigay buhay"
 
-    * God personally formed Eve from a rib that he took out of Adam.
-    * Eve was created to be Adam's "helper." She came alongside Adam to assist him in the work that God gave him to do.
-    * Eve was tempted by the snake (Satan) and was the first to sin by eating the fruit that God said not to eat.
+  * Si Eve ay nilikha ng Diyos nang patulugin niya si Adam at kunin ang isang buto sa kanyang tagiliran at ginawa itong "babae."
+  * Nilikha si Eve para maging katuwang ni Adam sa pangangalaga sa mundo at mga hayop.
+  * Tinukso ng ahas (Satan) si Eve at dahil dito nagkasala sila ni Adam.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names]])
+(Mga mungkahi sa pagsasalin : [[:tl:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[adam]])
-
+(Tignan rin sa: [[:tl:obe:other:adam|Adam]])
 
 ===== Bible References: =====
 
