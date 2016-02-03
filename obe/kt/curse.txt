@@ -21,11 +21,11 @@ Ang salitang “sumpa” o “sumpain” ay ang pagsasabi ng mga hindi kaaya-aya
 
 {{topic>:en:bible?curse&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * **[[:tl:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * **[[:tl:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * **[[:tl:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * **[[:tl:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  * **[[:tl:obs:notes:frames:02-09|[02-09]]]** Sinabi ng Diyos sa ahas, “**Susumpain ** kita! Gagapang ka sa lupa at alikabok ang kakainin mo."
+  * **[[:tl:obs:notes:frames:02-11|[02-11]]]**"Ngayon ay **sinumpa**  ang lupa, kailangan mong maghirap sa pagtatrabaho para may makain. Mamamatay ka at babalik sa lupa ang katawan mo.”
+  * **[[:tl:obs:notes:frames:04-04|[04-04]]]**"Pagpapalain ko lahat ng magpapala sa iyo at **susumpain**  ko lahat ng **susumpa**  sa iyo."
+  * **[[:tl:obs:notes:frames:39-07|[39-07]]]** Madiin na sinabi ni Peter, **“Sumpain**  sana ako ng Diyos kung kilala ko nga ang taong ito!”
+  * **[[:tl:obs:notes:frames:50-16|[50-16]]]** Dahil sinuway ni Adam at Eve ang Diyos at nagdala sila ng kasalanan dito sa mundo, **isinumpa ** ng Diyos ang mundo at napagdesisyunan niya itong sirain.
 ~~DISCUSSION~~{{tag>publish ktobs}}
