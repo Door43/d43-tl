@@ -4,21 +4,22 @@
 
 Sinabi ni Moses sa mga Israelita, “Huwag kayong matakot! Ililigtas kayo ng Diyos sa araw na ito, at siya ang lalaban para sa atin!” Sinabi naman ng Diyos kay Moses, “Sabihin mo sa mga tao na lumakad sila patungo sa Dagat na Pula.”
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
+
+  * **[[:tl:obe:other:moses|Moses]]**
+  * **[[:tl:obe:other:israel|Israel, Israelita]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:save|iligtas, ligtas]]**
+  * **[[:tl:obe:other:redsea|Pulang Dagat]]**
+
+==== Talaan para sa Pagsasalin: ====
+
+  * **
+Ililigtas tayo ng Diyos ngayon, at siya ang lalaban para sa atin!
+
+ **-
+Isa pang paraan para sabihin ito ay, “Ngayong araw na ito, tatalunin ng Diyos ang mga Egipcio para sa inyo at ilalayo niya kayo sa kapahamakan.”
 
 
-  * **[[:tl:obe:other:moses]]**
-  * **[[:tl:obe:other:israel]]**
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:save]]**
-  * **[[:tl:obe:other:redsea]]**
-
-
-==== Translation Notes: ====
-
-
-  * **God will fight for you today and save you** - Another way to say this would be, "Today God will defeat the Egyptians for you and keep them from harming you."
-  * **move** – Some languages will be more specific and say, "walk."
-
-
+  * **lumakad**  – lumakad
 **[[:tl:obs:notes:frames:12-04|<<]] | [[:tl:obs:notes:12|Up]] | [[:tl:obs:notes:frames:12-06|>>]]**
