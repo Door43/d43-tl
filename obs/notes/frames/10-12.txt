@@ -10,13 +10,20 @@ Pagkatapos ng siyam na salot talagang ayaw pa ring palayain at payagang umalis n
   * **[[:tl:obe:other:israel|Israel, Israelita]]**
   * **[[:tl:obe:kt:god|Diyos]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **siyam na salot**
+ -
+Ibig sabihin nito, “siyam na dilubyo na ipinadala ng Diyos.”
 
 
-  * **these nine plagues** - This means, "these nine disasters that God had caused."
-  * **Since Pharaoh would not listen** - This could be translated as, "Since Pharaoh would not do what God was telling him to do" or, "Since Pharaoh refused to obey God."
-  * **This would change Pharaoh's mind** - Another way to say this would be, "This last plague would cause Pharaoh to change how he thought about God and as a result he would let the Israelites go free."
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
+  * **ayaw parin pumayag ng Paraon**  -
+Maaaring sabihing, “Dahil ayaw sundin ng Paraon ang mga ipinag-uutos ng Diyos” o “Dahil ayaw sumunod ng Paraon.”
+
+
+  * **makakapagpabago sa isip ng Paraon**  -
+Isang paraan para sabihin ito ay, “ang huling salot na ito ang makakapagpabago ng isip ng Paraon tungkol sa Diyos at palalayain na niya ang mga Israelita.
+
 
 
 **[[:tl:obs:notes:frames:10-11|<<]] | [[:tl:obs:notes:10|Up]] | [[:tl:obs:notes:frames:11-01|>>]]**
