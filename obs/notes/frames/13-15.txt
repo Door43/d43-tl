@@ -4,16 +4,17 @@
 
 Gumawa ulit si Moses ng bagong tipak ng bato para sa sampung kautusan para mapalitan ang unang tipak ng batong nasira. Umakyat ulit siya sa may bundok at idinasal niyang patawarin nawa ng Diyos ang mga tao. Dininig naman ng Diyos ang dasal ni Moses at pinatawad niya ang mga Israelita. Bumaba si Moses dala ang dalawang bagong tipak ng bato na kinasusulatan ng sampung utos. Pagkatapos noon, ginabayan na sila ng Diyos mula sa Bundok ng Sinai papunta sa Lupang Ipinangako.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:moses]]**
-  * **[[:tl:obe:other:pray]]**
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:forgive]]**
-  * **[[:tl:obe:other:tencommandments]]**
-  * **[[:tl:obe:other:israel]]**
-  * **[[:tl:obe:other:sinai]]**
-  * **[[:tl:obe:kt:promisedland]]**
+  * **[[:tl:obe:other:moses|Moses]]**
+  * **[[:tl:obe:other:pray|panalangin, dalangin, dasal]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:forgive|magpatawad, pagpapatawad]]**
+  * **[[:tl:obe:other:tencommandments|Ten Commandments]]**
+  * **[[:tl:obe:other:israel|Israel, Israelita]]**
+  * **[[:tl:obe:other:sinai|Sinai, Bundok Sinai]]**
+  * **[[:tl:obe:kt:promisedland|Lupang Pangako]]**
+
 ==== Translation Notes: ====
 
   * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
