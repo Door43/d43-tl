@@ -9,10 +9,11 @@ Sinabi ng Diyos kay Moses na itaas niya ang kanyang kamay paharap sa dagat at ma
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:other:moses|Moses]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
+  * **itaas mo ang iyong kamay paharap sa dagat**  -
+Ito ay kilos na nagpapakita na ginagawa ng Diyos ang isang himala sa pamamagitan ni Moses.
 
-  * **raise his hand over the sea** - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
 
 
 **[[:tl:obs:notes:frames:12-06|<<]] | [[:tl:obs:notes:12|Up]] | [[:tl:obs:notes:frames:12-08|>>]]**
