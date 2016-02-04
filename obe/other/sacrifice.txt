@@ -18,14 +18,13 @@ Ang “handog”ay tumutukoy sa mga bagay na ibinibigay sa Diyos o sa diyus-diyo
 
 {{topic>:en:bible?sacrifice&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an altar and **sacrificed**  some of each kind of animal which could be used for a **sacrifice**. God was happy with the **sacrifice**  and blessed Noah and his family.
-  * **[[:tl:obs:notes:frames:05-06|[05-06]]]**"Take Isaac, your only son, and kill him as a **sacrifice**  to me." Again Abraham obeyed God and prepared to **sacrifice**  his son.
-  * **[[:tl:obs:notes:frames:05-09|[05-09]]]** God had provided the ram to be the **sacrifice**  instead of Isaac.
-  * **[[:tl:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the Tent of Meeting as a **sacrifice**  to God. A priest would kill the animal and burn it on the altar. The blood of the animal that was **sacrificed**  covered the person's sin and made that person clean in God's sight.
-  * **[[:tl:obs:notes:frames:17-06|[17-06]]]** David wanted to build a temple where all the Israelites could worship God and offer him **sacrifices**.
-  * **[[:tl:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great High Priest. Unlike other priests, he offered himself as the only **sacrifice**  that could to take away the sin of all the people in the world.
-  * **[[:tl:obs:notes:frames:48-08|[48-08]]]** But God provided Jesus, the Lamb of God, as a **sacrifice**  to die in our place.
-  * **[[:tl:obs:notes:frames:49-11|[49-11]]]** Because Jesus **sacrificed**  himself, God can forgive any sin, even terrible sins.
+  * **[[:tl:obs:notes:frames:03-14|[03-14]]]** Paglabas nila Noah sa barko, gumawa siya ng altar. Nag-**alay ** siya ng ilan sa mga uri ng mga hayop na pwedeng ialay sa Diyos. Natuwa ang Diyos sa mga alay kaya pinagpala niya si Noah at ang pamilya niya.
+  * **[[:tl:obs:notes:frames:05-06|[05-06]]]**"Nang nagbinata na si Isaac, sinubukan ng Diyos ang pananalig sa kanya ni Abraham. Sinabi ng Diyos, “Isama mo ang nag-iisa mong anak na si Isaac at patayin mo siya bilang **alay**  para sa akin.”
+  * **[[:tl:obs:notes:frames:05-09|[05-09]]]** Sa di kalayuan nakakita si Abraham ng lalaking tupa na nakasabit ang sungay sa sanga. Binigay ng Diyos na **alay**  ang tupa kapalit ni Isaac.
+  * **[[:tl:obs:notes:frames:13-09|[13-09]]]** Kailangang **maghandog**  ng hayop ang sinumang susuway sa utos ng Diyos. Kakatayin ng pari ang hayop at susunugin ito sa altar..
+  * **[[:tl:obs:notes:frames:17-06|[17-06]]]** Gusto ni David na makapagtayo ng templo kung saan pwedeng sumamba at mag-**alay**  sa Diyos.
+  * **[[:tl:obs:notes:frames:48-06|[48-06]]]** Si Jesus ay Kataas-taasan at Dakilang Pari. Hindi siya katulad ng ibang pari dahil **inialay**  niya ang sarili niya bilang sakripisyo na tanging makakapag-alis sa lahat ng kasalanan ng mga tao sa mundo.
+  * **[[:tl:obs:notes:frames:49-11|[49-11]]]** Dahil **isinakripisyo**  ni Jesus ang sarili niya, patatawarin ng Diyos kahit anong kasalanan kahit sukdulan ng sama ng mga kasalanang ito.
 ~~DISCUSSION~~{{tag>publish ktobs}}
