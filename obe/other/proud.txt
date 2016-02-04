@@ -17,12 +17,8 @@ Ang salitang ito ay tumutukoy sa taong masyadong mataas ang tingin ang sarili. I
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tl:obs:notes:frames:04-02|[04-02]]]** They were very **proud**, and they did not care about what God said.
-  ***[[:tl:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the tax collector's prayer and declared him to be righteous. But he did not like the prayer of the religious leader. God will humble everyone who is **proud**, and he will lift up whoever humbles himself."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:04-02|[04-02]]]** Naging **mayabang**  sila at wala na silang pakialam sa mga sinasabi ng Diyos.
+  * **[[:tl:obs:notes:frames:34-10|[34-10]]]**“Pagkatapos sinabi ni Jesus ‘Sinasabi ko sa inyo ang katotohanan, dininig ng Diyos ang dasal ng maniningil ng buwis at matuwid na siya sa paningin ng Diyos. Hindi naman niya nagustuhan ang panalangin ng pinuno ng relihiyon. Ibabagsak ng Diyos ang **mayayabang**  at itataas naman niya ang mga nagpapakumbaba.”’
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
