@@ -14,14 +14,10 @@
 
 {{topic>:en:bible?sarah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:05-01|[05-01]]]** "So Abram's wife, **Sarai**, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
-  ***[[:tl:obs:notes:frames:05-04|[05-04]]]** "'Your wife, **Sarai**, will have a son--he will be the son of promise.'"
-  ***[[:tl:obs:notes:frames:05-04|[05-04]]]** "God also changed **Sarai's** name to **Sarah**, which means "princess."
-  ***[[:tl:obs:notes:frames:05-05|[05-05]]]** "About a year later, when Abraham was 100 years old and **Sarah** was 90, **Sarah** gave birth to Abraham's son. They named him Isaac as God had told them to do."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tl:obs:notes:frames:05-01|[05-01]]]** kaya sinabi ni **Sarai**  kay Abram, “Tutal hindi ako pinayagang magkaroon ng anak at ngayon napakatanda ko na para magkaroon pa ng anak. Heto ang alipin ko na si Hagar, gawin mo rin siyang asawa para mabigyan niya din ako ng anak.”
+  * **[[:tl:obs:notes:frames:05-04|[05-04]]]** “Ang asawa mong si **Sarai**  ay magkakaroon ng anak na lalaki. Siya ang anak na ipinangako.
+  * **[[:tl:obs:notes:frames:05-04|[05-04]]]** Pinalitan din ng Diyos ang pangalan ni **Sarai**  ng **Sarah**  na ang ibig sabihin, “prinsesa”.
+  * **[[:tl:obs:notes:frames:05-05|[05-05]]]** Mga isang taon na ang nakakalipas nang 100 taon na si Abraham at 90 naman si **Sarah**, ipinanganak ni **Sarah**  ang anak niya kay Abraham. Pinangalanan nila itong Isaac gaya ng inutos sa kanila ng Diyos .
+~~DISCUSSION~~{{tag>publish ktobs}}
