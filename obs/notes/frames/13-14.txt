@@ -10,12 +10,20 @@ Pagkatapos, dinurog ni Moses ang rebulto hanggang napulbos. Itinapon niya ito sa
   * **[[:tl:obe:other:idol|diyus-diyusan]]**
   * **[[:tl:obe:kt:god|Diyos]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **dinurog anng rebulto hanggang napulbos**
+ -
+Winasak ng husto ni Moses ang rebulto hanggang sa nadurog nito.
 
 
-  * **beat the idol into powder** - Moses utterly destroyed the idol by pounding it into fine particles.
-  * **into some water** - Moses scattered the gold powder over a large expanse of water.
-  * **a plague** - This could be translated as, "a terrible disease."
+  * **sa tubig**  -
+Ikinalat ni Moses ang gintong pulbos sa isang malaking bahagi ng tubig.
+
+
+  * **salot**  - “
+isang malubhang karamdaman”
+
 
 
 **[[:tl:obs:notes:frames:13-13|<<]] | [[:tl:obs:notes:13|Up]] | [[:tl:obs:notes:frames:13-15|>>]]**
