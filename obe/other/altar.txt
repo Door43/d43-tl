@@ -14,12 +14,12 @@ Ang altar ay isang bagay na parang mesa na ginaganit sa pag-aalay sa Diyos. Dito
 
 {{topic>:en:bible?altar&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar**  and sacrificed some of each kind of animal which could be used for a sacrifice.
-  * **[[:tl:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
-  * **[[:tl:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
-  * **[[:tl:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar**  to the idol used to be and made a sacrifice to God on it.
+  * **[[:tl:obs:notes:frames:03-14|[03-14]]]** Paglabas nila Noah sa barko, gumawa siya ng **altar**. Nag-alay siya ng ilan sa mga uri ng mga hayop na pwedeng ialay sa Diyos.
+  * **[[:tl:obs:notes:frames:05-08|[05-08]]]** Pagdating nila sa lugar na pupuntahan nila, itinali ni Abraham si Isaac at inihiga sa **altar**.
+  * **[[:tl:obs:notes:frames:13-09|[13-09]]]** Kailangang maghandog ng hayop ang sinumang susuway sa utos ng Diyos. Kakatayin ng pari ang hayop at susunugin ito sa **altar**.
+  * **[[:tl:obs:notes:frames:16-06|[16-06]]]** Pagkatapos gumawa siya ng bagong **altar**  na malapit sa pinagtayuan ng **altar**  ng diyus-diyosan at doon siya naghandog sa Diyos.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
