@@ -4,19 +4,17 @@
 
 Isinulat ng Diyos ang mga utos na ito sa dalawang tipak ng bato at ibinigay kay Moses at may iba pang mga utos na ibinigay ang Diyos para sundin ng mga Israelita. Kapag sinunod ng mga tao ang mga utos na ito, ipinangako ng Diyos na pagpapalain sila at iingatan. Kapag hindi naman nila ito sinunod, paparusahan sila ng Diyos.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:other:tencommandments]]**
-  * **[[:tl:obe:other:moses]]**
-  * **[[:tl:obe:kt:lawofmoses]]**
-  * **[[:tl:obe:other:obey]]**
-  * **[[:tl:obe:kt:promise]]**
-  * **[[:tl:obe:kt:bless]]**
-  * **[[:tl:obe:other:disobey]]**
-  * **[[:tl:obe:other:punish]]**
-
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:other:tencommandments|Ten Commandments]]**
+  * **[[:tl:obe:other:moses|Moses]]**
+  * **[[:tl:obe:kt:lawofmoses|Batas ng Diyos, Kautusan, Kautusan ng Diyos, Batas ni Moses]]**
+  * **[[:tl:obe:other:obey|sumunod, pagsunod, masunurin, tumalima]]**
+  * **[[:tl:obe:kt:promise|pangako]]**
+  * **[[:tl:obe:kt:bless|pinagpala, pagpapala]]**
+  * **[[:tl:obe:other:disobey|sumuway, suwail, pagsuway]]**
+  * **[[:tl:obe:other:punish|parusa, kaparusahan]]**
 
 ==== Translation Notes: ====
 
