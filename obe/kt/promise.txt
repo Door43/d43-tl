@@ -7,12 +7,11 @@ Ang pangako ay isang panata kung saan isinusumpa ng isang tao na gagawin niya an
   * Ang pangako ay kailangan para mabuo ang isang kasunduan.
   * Ang pangako ay may kasamang panata bilang katibayan na matutupad ito.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
-  * The phrase, "make a careless promise" could be translated as, "hastily promise something without thinking first."
+  * Ang salitang, "nangako na lang basta basta" ay maaaring isalin ng ganito, "nangako kaagad ng hindi muna pinag-iisipan."
 
-(See also: [[:tl:obe:kt:covenant]], [[:tl:obe:other:oath]], [[:tl:obe:kt:vow]])
+(Tignan rin sa: [[:tl:obe:kt:covenant|Kasunduan]], [[:tl:obe:other:oath|panata, sumumpa]],)
 
 ===== Bible References: =====
 
