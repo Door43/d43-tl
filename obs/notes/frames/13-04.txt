@@ -4,18 +4,16 @@
 
 Gumawa ng isang kasunduan ang Diyos sa mga Israelita. Sinabi niya, “Ako si Yahweh, ang Diyos niyo na nagligtas sa inyo mula sa pagkakaalipin mula sa Egypt. Huwag kayong sasamba sa ibang diyos.”
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:covenant]]**
-  * **[[:tl:obe:kt:yahweh]]**
-  * **[[:tl:obe:kt:save]]**
-  * **[[:tl:obe:other:servant]]**
-  * **[[:tl:obe:other:egypt]]**
-  * **[[:tl:obe:kt:worship]]**
-  * **[[:tl:obe:kt:falsegod]]**
-
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:covenant|Kasunduan]]**
+  * **[[:tl:obe:kt:yahweh|Yahweh]]**
+  * **[[:tl:obe:kt:save|iligtas, ligtas]]**
+  * **[[:tl:obe:other:servant|lingkod, alipin, pagkaka-alipin]]**
+  * **[[:tl:obe:other:egypt|Egypt, Egyptian]]**
+  * **[[:tl:obe:kt:worship|sumamba, pagsamba]]**
+  * **[[:tl:obe:kt:falsegod|false god, foreign god, god, goddess]]**
 
 ==== Translation Notes: ====
 
