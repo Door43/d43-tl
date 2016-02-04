@@ -21,12 +21,11 @@ Ang salitang “matuwid” ay tumutukoy sa pagiging makatarungan ng Diyos at sa 
 
 {{topic>:en:bible?righteous&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:03-02|[03-02]]]** But Noah found favor with God. He was a **righteous**  man, living among wicked people.
-  * **[[:tl:obs:notes:frames:04-08|[04-08]]]** God declared that Abram was **righteous**  because he believed in God's promise.
-  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** David was a humble and **righteous**  man who trusted and obeyed God.
-  * **[[:tl:obs:notes:frames:23-01|[23-01]]]** Joseph, the man Mary was engaged to, was a **righteous**  man.
-  * **[[:tl:obs:notes:frames:50-10|[50-10]]]** Then the **righteous**  ones will shine like the sun in the kingdom of God their Father."
-
+  * **[[:tl:obs:notes:frames:03-02|[03-02]]]** Pero nalulugod ang Diyos kay Noah dahil **matuwid**  siya kahit na kasama niyang namumuhay ang mga masasamang tao.
+  * **[[:tl:obs:notes:frames:04-08|[04-08]]]** Naniwala si Abram sa pangako ng Diyos. Dahil doon sinabi ng Diyos na **matuwid**  siyang tao dahil naniniwala siya sa pangako niya.
+  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** Mapagpakumbaba at **matuwid**  na tao si David.Nagtitiwala at sumusunod siya sa Diyos.
+  * **[[:tl:obs:notes:frames:23-01|[23-01]]]** Nakatakda nang makasal si Mary sa **mabuting taong**  si Joseph..
+  * **[[:tl:obs:notes:frames:50-10|[50-10]]]** Ang mga **matutuwid**  naman ay magniningning na parang araw sa kaharian ng Diyos na kanilang Ama.”r."
 ~~DISCUSSION~~{{tag>publish ktobs}}
