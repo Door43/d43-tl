@@ -17,15 +17,13 @@ Ang pangako ay isang panata kung saan isinusumpa ng isang tao na gagawin niya an
 
 {{topic>:en:bible?promise&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise**  I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
-  * **[[:tl:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised**  and so would his people.
-  * **[[:tl:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised**  again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
-  * **[[:tl:obs:notes:frames:05-04|[05-04]]]**"Your wife, Sarai, will have a son—he will be the son of **promise**."
-  * **[[:tl:obs:notes:frames:08-15|[08-15]]]** The covenant **promises**  that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
-  * **[[:tl:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
-  * **[[:tl:obs:notes:frames:50-01|[50-01]]]** Jesus **promised**  he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
-~~DISCUSSION~~{{tag>publish ktobs}}
-
+  * **[[:tl:obs:notes:frames:03-15|[03-15]]]** Sinabi ng Diyos, “**Nangagako**  ako na hindi ko na susumpain ang lupa dahil sa ginagawang masasama ng mga tao at hindi ko na rin sisirain ang mundo sa pamamagitan ng baha kahit pa makasalanan ang mga tao mula sa pagkabata nila.”
+  * **[[:tl:obs:notes:frames:03-16|[03-16]]]** Pagkatapos ay gumawa ang Diyos ng bahaghari bilang palatandaan ng **pangako**  niya. people.
+  * **[[:tl:obs:notes:frames:04-08|[04-08]]]** Nangusap ulit ang Diyos sa kanya at **ipinangako**  niyang muli na magkakaroon siya ng anak na lalaki at magiging marami ang mga kaapu-apuhan niya gaya ng mga bituin sa langit. Naniwala si Abram sa **pangako**  ng Diyos.
+  * **[[:tl:obs:notes:frames:05-04|[05-04]]]**"Ang asawa mong si Sarai ay magkakaroon ng anak na lalaki. Siya ang anak na **ipinangako**.
+  * **[[:tl:obs:notes:frames:08-15|[08-15]]]** Ang kasunduang** ipinangako**  ng Diyos kay Abraham na naipasa kay Isaac ay naipasa rin kay Jacob, at ganoon din sa labing dalawang anak ni Jacob at mga pamilya nila.
+  * **[[:tl:obs:notes:frames:17-14|[17-14]]]** Pero kahit na nagkasala si David sa Diyos, tinupad pa rin ng Diyos ang mga** pangako**  niya kay David.
+  * **[[:tl:obs:notes:frames:50-01|[50-01]]]****Ipinangako**  ni Jesus na babalik siya sa katapusan ng mundo. Kahit hindi pa siya bumabalik tutuparin niya ang **pangako**  niya.
 ~~NOCACHE~~
