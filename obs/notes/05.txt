@@ -4,42 +4,40 @@
 
 Tinupad ng Diyos ang pangako niya kay Abram, niloob niyang magbuntis si Sarai at magka-anak ng lalaki kahit pa matandang-matanda na sila. Pinalitan ng Diyos ang pangalan nila at ginawang Abraham at Sarah, inutusan ng Diyos si Abraham na tuliin ang lahat ng mga lalaki sa pamilya niya bilang pagsamba. Sinubok din ng Diyos ang pananalig ni Abraham sa kanya nang utusan niya itong ialay si Isaac. Dahil hindi nagdalawang isip si Abraham na sundin ang Diyos, nangako ulit ang Diyos na gagawin niyang isang makapangyarihang bansa ang lahi ni Abraham at lahat ng pamilya sa buong mundo ay pagpapalain sa pamamagitan niya.
 
-===== Translate the Story =====
+===== Isalin ang Kwento =====
 
+Pindutin ang larawan sa baba para isalin ang bawat talata rito.
 
-Click on the images below to translate each frame of the story.
+[[:tl:obs:notes:frames:05-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&200}}]]\\
+Si Hagar [05-01]\\
+\\
+[[:tl:obs:notes:frames:05-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&200}}]]\\
+Ipinanganak si Ishmael [05-02]\\
+\\
+[[:tl:obs:notes:frames:05-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink&200}}]]\\
+Ipinaalala ng Diyos ang kasunduan [05-03]\\
+\\
+[[:tl:obs:notes:frames:05-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?nolink&200}}]]\\
+Ipinangako ng Diyos ang kapanganakan ni Isaac [05-04]\\
+\\
+[[:tl:obs:notes:frames:05-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&200}}]]\\
+Ipinanganak si Isaac [05-05]\\
+\\
+[[:tl:obs:notes:frames:05-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&200}}]]\\
+Ang pagsubok ni Abraham [05-06]\\
+\\
+[[:tl:obs:notes:frames:05-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&200}}]]\\
+Ang kaloob ng Diyos [05-07]\\
+\\
+[[:tl:obs:notes:frames:05-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&200}}]]\\
+Ang pag-aalay [05-08]\\
+\\
+[[:tl:obs:notes:frames:05-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&200}}]]\\
+Ang alay na tupa [05-09]\\
+\\
+[[:tl:obs:notes:frames:05-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink&200}}]]\\
+Pinagpala ng Diyos si Abraham [05-10]
 
+//Kwento mula sa: Genesis 16-22//
 
-[[:tl:obs:notes:frames:05-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&200|Frame 05-01}}]]\\ 
-Hagar [05-01]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-02.jpg?nolink&200|Frame 05-02}}]]\\ 
-Ishmael Was Born [05-02]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink&200|Frame 05-03}}]]\\ 
-God Renewed the Covenant [05-03]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?nolink&200|Frame 05-04}}]]\\ 
-God Promised Isaac's Birth [05-04]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&200|Frame 05-05}}]]\\ 
-Birth of Isaac [05-05]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&200|Frame 05-06}}]]\\ 
-Test of Faith [05-06]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-07.jpg?nolink&200|Frame 05-07}}]]\\ 
-God Will Provide [05-07]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&200|Frame 05-08}}]]\\ 
-The Sacrifice [05-08]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&200|Frame 05-09}}]]\\ 
-The Ram [05-09]\\ 
-\\ 
-[[:tl:obs:notes:frames:05-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink&200|Frame 05-10}}]]\\ 
-The Blessing [05-10]\\ 
-
-//A Bible story from: Genesis 16-22//
-
-**[[:en:obs:notes:04|<< Previous]] | [[:en:obs:notes:06|Next >>]]**
+**[[:en:obs:notes:04|<< Nakaraan]] | [[:en:obs:notes:06|Susunod >>]]**
