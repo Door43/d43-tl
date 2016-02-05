@@ -11,13 +11,25 @@ Nalungkot ang mga tao nang marinig nila ito. Nagsisi sila sa hindi pagsunod sa D
   * **[[:tl:obe:other:moses|Moses]]**
   * **[[:tl:obe:kt:god|Diyos]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **hindni pagsunod**  -
+Maaaring mahalagang idagdag na, “nagkasala sila sa pamamagitan ng hindi pagsunod sa utos ng Diyos na salakayain ang mga taga-Canaan.”
 
 
-  * **they had sinned** - It may be necessary to add, "they had sinned by disobeying God's command to conquer the peoples of Canaan."
-  * **Moses warned them not to go** - This means that Moses told them not to go to fight against the Canaanites because they would be in danger if they did that.
-  * **God was not with them** – In other words, God would not be with them to help them. Because of the Israelites' disobedience, God withdrew from them his presence, protection, and power.
-  * **but they did not listen to him** - They did not obey Moses. They went to attack the Canaanites anyway.
+  * **binalaan sila ni Moses na hindi sila dapat tumuloy**
+ -
+Ibig sabihin nito, sinabi ni Moses na huwag nilang labanan ang mga taga-Canaan dahil magiging mapanganib kung gagawin nila iyon.
+
+
+  * **hindi sila tutulungan ng Diyos** –
+Sa madaling salita, hindi sila tutulungan ng Diyos. Dahil sa pagsuway ng mga Israelita, tinalikuran sila ng Diyos at hindi na sila sakop ng kapangyarihan at kaligtasan na kayang ibigay ng Diyos.
+
+
+  * **hindi sila nakinig**
+ -
+Hindi nila sinunod si Moses. Sinalakay parin nila ang Canaan.
+
 
 
 **[[:tl:obs:notes:frames:14-08|<<]] | [[:tl:obs:notes:14|Up]] | [[:tl:obs:notes:frames:14-10|>>]]**
