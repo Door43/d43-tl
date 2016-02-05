@@ -4,14 +4,15 @@
 
 Matapos sabihin ng Diyos ang kautusan niya sa mga Israelita na dapat nilang sundin bilang bahagi ng kanilang kasunduan, iniwan nila ang Bundok Sinai. Pinangunahan ng Diyos sa paglalakbay ang mga Israelita papunta sa lugar na tinatawag na Canaan, ang lupang ipinangako ng Diyos sa kanila. Ang haliging ulap ang nangunguna sa kanila papunta sa Canaan at sinusundan nila ito.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:other:israel]]**
-  * **[[:tl:obe:kt:covenant]]**
-  * **[[:tl:obe:other:sinai]]**
-  * **[[:tl:obe:kt:promisedland]]**
-  * **[[:tl:obe:other:canaan]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:other:israel|Israel, Israelita]]**
+  * **[[:tl:obe:kt:covenant|Kasunduan]]**
+  * **[[:tl:obe:other:sinai|Sinai, Bundok Sinai]]**
+  * **[[:tl:obe:kt:promisedland|Lupang Pangako]]**
+  * **[[:tl:obe:other:canaan|Canaan, Canaaneo]]**
+
 ==== Translation Notes: ====
 
   * **pillar of cloud**  - See how you translated this phrase in **[[:tl:obs:notes:frames:12-02|[12-02]]]**.
