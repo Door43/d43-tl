@@ -3,7 +3,7 @@
 
 
 **OBS Translation Notes**
-  - [[:tl:obs:notes:01|The Creation]]
+  - [[:tl:obs:notes:01]]
   - [[:tl:obs:notes:02|Sin Enters the World]]
   - [[:tl:obs:notes:03|The Flood]]
   - [[:tl:obs:notes:04|God's Covenant with Abraham]]
