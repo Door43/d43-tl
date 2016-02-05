@@ -10,12 +10,19 @@ Nang malapit na sa Canaan ang mga Israelita pumili si Moses ng labing dalawang l
   * **[[:tl:obe:other:canaan|Canaan, Canaaneo]]**
   * **[[:tl:obe:other:moses|Moses]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **tignan ng palihim anng lupain**  -
+Maaaring isalin ng ganito, “alamin ng patago ang mga bagay tungkol sa lupain..” o “patagong pag-aralan ang lupain.” Kasama na dito na dapat alamin ng mga espiya kung anong mga pagkain ang maaaring makuha sa lupaing iyon.
 
 
-  * **spy on the land** - This could be translated as, "secretly get information about the land" or, "secretly learn about the land." Part of the spies' task was to find out what kinds of food the land could produce.
-  * **spy on the Canaanites** - This could be translated as, "secretly get information about the people of Canaan" or, "secretly learn about the Canaanites."
-  * **to see if they were strong or weak** - They wanted to know if the Canaanites were prepared to fight against them. This could be translated as, "to find out how powerful the Canaanite armies were."
+  * **tignan ng palihim ang mga Canaaneo**  -
+Maaaring isalin ng ganito, “alamin ng patago ang mga bagay tungkol sa mga taga-Canaan.”
+
+
+  * **tignan kung malakas o mahina ang mga tao doon**  -
+Gusto nilang malaman kung handa ba ang mga Cananeo sa pakikipaglaban sa kanila. Maaaring isalin ng ganito, “alamin kung gaano kalakas ang sundalo ng mga taga-Canaan.”
+
 
 
 **[[:tl:obs:notes:frames:14-03|<<]] | [[:tl:obs:notes:14|Up]] | [[:tl:obs:notes:frames:14-05|>>]]**
