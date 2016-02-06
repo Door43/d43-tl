@@ -6,15 +6,13 @@ Biglang gumuho ang pader ng Jericho! Sinira ng mga Israelita ang lahat ng makita
 
 .
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-
-  * **[[:tl:obe:other:jericho]]**
-  * **[[:tl:obe:other:israel]]**
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:other:rahab]]**
-  * **[[:tl:obe:other:canaan]]**
-
+  * **[[:tl:obe:other:jericho|Jericho]]**
+  * **[[:tl:obe:other:israel|Israel, Israelita]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:other:rahab|Rahab]]**
+  * **[[:tl:obe:other:canaan|Canaan, Canaaneo]]**
 
 ==== Translation Notes: ====
 
