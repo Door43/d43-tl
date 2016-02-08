@@ -16,17 +16,13 @@ Si Esau ay  ang unang anak ni Rebekah at Isaac sa kambal. Jacob ang pangalan ng 
 
 {{topic>:en:bible?esau&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:06-07|[06-07]]]** When Rebekah's babies were born, the older son came out red and hairy, and they named him **Esau**.
-  ***[[:tl:obs:notes:frames:07-02|[07-02]]]** So **Esau ** gave Jacob his rights as the oldest son.
-  ***[[:tl:obs:notes:frames:07-04|[07-04]]]** When Isaac felt the goat hair and smelled the clothes, he thought it was **Esau** and blessed him.
-  ***[[:tl:obs:notes:frames:07-05|[07-05]]]** **Esau** hated Jacob because Jacob had stolen his rights as oldest son and also his blessing.
-  ***[[:tl:obs:notes:frames:07-10|[07-10]]]** But **Esau ** had already forgiven Jacob, and they were happy to see each other again.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:06-07|[06-07]]]** Nang maipanganak ang kambal ni Rebekah, lumabas na mamula-mula at mabalahibo ang nakakatanda kaya tinawag nila siyang **Esau**.
+  * **[[:tl:obs:notes:frames:07-02|[07-02]]]** Isang araw pagbalik ni **Esau**  galing sa pangangaso, gutom na gutom siya kaya sinabi niya kay Jacob, “Pwede mo ba akong bigyan ng pagkaing niluto mo?” Sumagot naman si Jacob, “Ibigay mo muna sa akin ang mga karapatan mo bilang panganay.” Pumayag naman si **Esau**  kaya naman binigyan siya ni Jacob ng pagkain.
+  * **[[:tl:obs:notes:frames:07-04|[07-04]]]** Nang mahawakan ni Isaac ang balahibo ng kambing at maamoy ang damit niya, inakala ni Isaac na siya nga si **Esau**  at pinagpala niya ito.
+  * **[[:tl:obs:notes:frames:07-05|[07-05]]]** Nagalit si **Esau**  dahil inagaw ni Jacob ang mga karapatan niya bilang panganay at pati na rin ang pagpapala ng kanilang ama. Dahil doon, plinano ni **Esau**  na patayin si Jacob kapag namatay na Isaac.
+  * **[[:tl:obs:notes:frames:07-10|[07-10]]]** Pero matagal nang napatawad ni **Esau**  si Jacob kaya masayang-masaya silang nagkita ulit.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
