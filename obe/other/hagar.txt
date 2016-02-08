@@ -16,14 +16,10 @@ Si Hagar ay ang alipin ni Sarah na asawa ni Abraham
 
 {{topic>:en:bible?Hagar&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
-  ***[[:tl:obs:notes:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:05-01|[05-01]]]** Kaya sinabi ni Sarai kay Abram, “Tutal hindi ako pinayagang magkaroon ng anak at ngayon napakatanda ko na para magkaroon pa ng anak. Heto ang alipin ko na si **Hagar**, gawin mo rin siyang asawa para mabigyan niya din ako ng anak.”
+  * **[[:tl:obs:notes:frames:05-02|[05-02]]]** Napangasawa nga asawa ni Abram si **Hagar**. Nagkaroon sila ng anak na lalaki. Ishmael ang tinawag nila sa bata.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
