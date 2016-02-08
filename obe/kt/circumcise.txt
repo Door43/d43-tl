@@ -7,12 +7,10 @@ Ang pagtutuli ay ang pag aalis ng balat sa unahan ng ari ng isang lalaki sa pama
   * Iniutos ng Diyos kay Abraham na Tuliin niya ang lahat ng lalaking kabilang sa pamilya at mga lingkod niya bilang tanda ng kasunduan nila ng Diyos.
   * Iniutos ng Diyos kay Abraham at sa mga kaapu-apuhan niya na panatilihin ang Pagtutuli habang panahon.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * If the culture of the target language performs circumcisions on males, the word used to refer to this should be used for this term.
-  * Other ways to translate this term would be, "cut around" or "cut in a circle" or "cut off the foreskin."
-  * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
-  * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
+  * Sa mga lugar na hindi alam ang salitang "tuli" o "pagtutuli" ay dapat maglagay ng talaan para ipaliwanag ang salitang ito.
+  * Tiyakin na ang salitang "tuli" o "pagtutuli" rito ay tumutukoy sa mga lalaki at hindi sa mga babae.
 
 (Tignan rin sa: [[:tl:obe:kt:covenant|Kasunduan]])
 
