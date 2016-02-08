@@ -22,11 +22,10 @@ Ang Kasunduan ay ang pagpayag o pagsang-ayon ng dalawang partido o higit pa. dap
 
 ===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
-  * **[[:tl:obs:notes:frames:05-04|[05-04]]]**"I will make Ishmael a great nation, too, but my **covenant**  will be with Isaac."
-  * **[[:tl:obs:notes:frames:06-04|[06-04]]]** After a long time, Abraham died and all of the promises that God had made to him in the **covenant**  were passed on to Isaac.
-  * **[[:tl:obs:notes:frames:07-10|[07-10]]]** The **covenant**  promises God had promised to Abraham and then to Isaac now passed on to Jacob."
-  * **[[:tl:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey my voice and keep my **covenant**, you will be my prized possession, a kingdom of priests, and a holy nation."
-  * **[[:tl:obs:notes:frames:13-04|[13-04]]]** Then God gave them the **covenant**  and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  * **[[:tl:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the **covenant**  that God had made with the Israelites at Sinai.
+  * **[[:tl:obs:notes:frames:04-09|[04-09]]]** Pagkatapos gumawa ang Diyos ng **kasunduan ** niya kay Abram. Ang** kasunduan**  ay pagpayag ng dalawang panig.
+  * **[[:tl:obs:notes:frames:05-04|[05-04]]]**"Magiging makapangyarihang bansa din si Ishmael pero mananatili kay Isaac ang **kasunduan**  ko.”
+  * **[[:tl:obs:notes:frames:06-04|[06-04]]]** Matapos ang mahabang panahon, namatay si Abraham at lahat ng ipinangako ng Diyos sa naging **kasunduan**  nila ni Abraham ay naipasa kay Isaac.
+  * **[[:tl:obs:notes:frames:13-02|[13-02]]]** Sinabi ng Diyos kay Moses at sa mga Israelita, “Kung susundin niyo ako at tutuparin ang **kasunduan ** ko sa inyo, kayo ay lubos at higit kong pahahalagahan. Kayo ay magiging kaharian ng mga pari. Kayo ay magiging banal na bansa.”
+  * **[[:tl:obs:notes:frames:13-04|[13-04]]]** Gumawa ng isang **kasunduan**  ang Diyos sa mga Israelita. Sinabi niya, “Ako si Yahweh, ang Diyos niyo na nagligtas sa inyo mula sa pagkakaalipin mula sa Egypt. Huwag kayong sasamba sa ibang diyos.”
+  * **[[:tl:obs:notes:frames:15-13|[15-13]]]** Nang tumanda na si Joshua, tinipon niya lahat ng mga Israelita. Ipinaalala niya sa mga tao ang tungkulin nila sa pagsunod sa **kasunduan**  nila sa Diyos na ginawa sa Bundok ng Sinai.
 ~~DISCUSSION~~{{tag>publish ktobs}}
