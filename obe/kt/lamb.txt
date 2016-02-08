@@ -20,18 +20,14 @@ Ang tupa ay inaalagaan at pinalalaki para pagkunan ng balahibong magagamit sa pa
 
 {{topic>:en:bible?lamb&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:05-07|[05-07]]]** As Abraham and Isaac walked to the place of the sacrifice Isaac asked, "Father, we have wood for the sacrifice, but where is the **lamb**?"
-  ***[[:tl:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn son of anyone who believed in him. Each family had to choose a perfect **lamb** or goat and kill it.
-  ***[[:tl:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be baptized by John. When John saw him, he said, "Look! There is the **Lamb of God** who will take away the sin of the world."
-  ***[[:tl:obs:notes:frames:45-08|[45-08]]]** He read, "They led him like a **lamb** to be killed, and as a **lamb** is silent, he did not say a word.
-  ***[[:tl:obs:notes:frames:48-08|[48-08]]]** When God told Abraham to offer his son, Isaac, as a sacrifice, God provided a **lamb** for the sacrifice instead of his son, Isaac. We all deserve to die for our sins! But God provided Jesus, the **Lamb** of God, as a sacrifice to die in our place.
-  ***[[:tl:obs:notes:frames:48-09|[48-09]]]** When God sent the last plague on Egypt, he told each Israelite family to kill a perfect **lamb** and spread its blood around the tops and sides of their door frames. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:05-07|[05-07]]]** Sumagot si Abraham, “Ibibigay ng Diyos ang******tupa**ng**** pang-alay natin, anak.”
+  * **[[:tl:obs:notes:frames:11-02|[11-02]]]** Gumawa ng paraan ang Diyos para iligtas ang mga panganay ng sinumang naniniwala sa kanya. Bawat pamilya ay dapat pumili ng **tupa**ng walang kapintasan, kakatayin nila ito.
+  * **[[:tl:obs:notes:frames:24-06|[24-06]]]** Sinabi ni John pagkakita niya kay Jesus, "Pagmasdan niyo, narito na ang **Kordero**  ng Diyos na nag-aalis ng mga kasalanan ng mga tao dito sa mundo."
+  * **[[:tl:obs:notes:frames:45-08|[45-08]]]** binabasa ng opisyal ang isinulat ng propetang si Isaiah na nagsasabing, "Dinala nila siya na parang **tupa**ng nakatakdang katayin, katulad din ng tahimik na tupa ni hindi man lang siya umimik.
+  * **[[:tl:obs:notes:frames:48-08|[48-08]]]** Nang sinabi ng Diyos kay Abraham na ialay niya ang kanyang anak na si Isaac bilang sakripisyo, nagbigay ang Diyos ng **tupa**  bilang kapalit na alay ni Isaac.
+  * **[[:tl:obs:notes:frames:48-09|[48-09]]]** Nang ipinadala ng Diyos ang huling salot sa Egypt sinabihan niya ang bawat pamilya ng mga Israelita na magkatay sila ng** tupa**  na walang kapintasan at ipahid nila ang dugo nito sa itaas o sa gilid ng pinto ng mga bahay nila.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
