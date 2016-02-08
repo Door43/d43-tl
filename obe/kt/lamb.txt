@@ -8,15 +8,13 @@ Ang tupa ay inaalagaan at pinalalaki para pagkunan ng balahibong magagamit sa pa
   * Iniutos ng Diyos sa mga tao na mag-alay sila ng tupang walang kapintasan sa kanya.
   * Si Jesus ay tinatawag ding “Kordero ng Diyos” na inihandog para maging kabayaran sa mga kasalanan ng mga tao.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * If sheep are known in the language area, the name for their young should be used to translate the terms "lamb" and "Lamb of God."
-  * "Lamb of God" could be translated as "God's (sacrificial) Lamb," or "Lamb sacrificed to God" or "(sacrificial) Lamb from God."
-  * If sheep are not known, this term could be translated as "the young of a sheep" with a footnote that describes what sheep are like. The note could also compare sheep and lambs to an animal from that area that lives in herds, is timid and defenseless, and which often wanders off.
-  * Also consider how this term is translated in a Bible translation of a nearby local or national language. (See: [[tl:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ang salitang "Kordero ng Diyos" ay maaaring isalin ng ganito, "sakripisyong tupa para sa Diyos"
+  * Kung ang tupa o kordero ay hindi alam sa inyong lugar, dapat maglagay ng isang talaan para ipaliwanag o ilarawan ang tupa o kordero para sa ika-uunawa. Sa talaan na gagawin niyo, maaaring ikumpara ang tupa sa isang hayop na mahina at hindi kaya ipagtanggol ang sarili at madalas maligaw o mawala kagaya ng kambing.
+  * Isaalang-alang rin kung paano ito ginagamit sa wika ng mga taga-ibang lugar. (Tignan: [[:tl:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[tl:obe:other:sheep]], [[tl:obe:other:shepherd]])
-
+(Tignan rin sa: [[:tl:obe:other:sheep|tupa]], [[:tl:obe:other:shepherd|pastol, nagpapastol]])
 
 ===== Bible References: =====
 
