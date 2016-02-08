@@ -17,9 +17,9 @@ Si Ishmael ay ang anak ni Abraham at ng alipin ni Sarah na si Hagar.
 
 {{topic>:en:bible?ishmael&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:05-02|[05-02]]]** Napangasawa nga asawa ni Abram si Hagar. Nagkaroon sila ng anak na lalaki.** Ishmael ** ang tinawag nila sa bata.
+  * **[[:tl:obs:notes:frames:05-02|[05-02]]]** Napangasawa nga asawa ni Abram si Hagar. Nagkaroon sila ng anak na lalaki.** Ishmael **  ang tinawag nila sa bata.
   * **[[:tl:obs:notes:frames:05-04|[05-04]]]**"Magiging makapangyarihang bansa din si **Ishmael**  pero mananatili kay Isaac ang kasunduan ko."
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
