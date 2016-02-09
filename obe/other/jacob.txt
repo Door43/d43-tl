@@ -17,18 +17,12 @@ Si Jacob ay ang mas bata sa kambal na anak ni Isaac at Rebekah. Si Esau ang mas 
 
 {{topic>:en:bible?jacob&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob** loved to stay at home, but Esau loved to hunt.
-  ***[[:tl:obs:notes:frames:07-07|[07-07]]]**  **Jacob** lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
-  ***[[:tl:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in Canaan, **Jacob** returned there with his family, his servants, and all his herds of animals.
-  ***[[:tl:obs:notes:frames:07-10|[07-10]]]** The covenant promises God had promised to Abraham and then to Isaac now passed on to **Jacob**.
-  ***[[:tl:obs:notes:frames:08-01|[08-01]]]** Many years later, when **Jacob** was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:07-01|[07-01]]]** Habang lumalaki ang mga bata, mas gusto ni** Jacob ** na manatili lang sa bahay, pangangaso naman ang hilig ni Esau. Mahal ni Rebekah si Jacob at mahal naman ni Isaac si Esau.
+  * **[[:tl:obs:notes:frames:07-07|[07-07]]]** Tumira si **Jacob**  sa mga kamag-anak ni Rebekah sa loob ng maraming taon. Nang mga panahon na iyon nakapag-asawa siya at nagkaroon ng 12 na anak na lalaki at isang anak na babae.
+  * **[[:tl:obs:notes:frames:07-10|[07-10]]]** Pero matagal nang napatawad ni Esau si **Jacob**  kaya masayang-masaya silang nagkita ulit. Namuhay na ng tahimik si **Jacob**  sa Canaan. Pagkatapos, namatay si Isaac at sila ang naglibing sa ama nila. At ang pangako ng Diyos kay Abraham at Isaac ay naipasa na kay **Jacob**.
+  * **[[:tl:obs:notes:frames:08-01|[08-01]]]** Pagkalipas ng maraming taon at matandang matanda na si **Jacob**. Isang araw pinapunta niya si Joseph na paboritong niyang anak para alamin ang sitwasyon ng mga kapatid niyang lalaki na nag-aalaga ng mga tupa.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
