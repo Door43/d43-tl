@@ -15,10 +15,11 @@ Gusto ni David na makapagpatayo ng templo kung saan pwedeng sumamba at mag-alay 
   * **[[:tl:obe:other:tentofmeeting|Tolda ng Pagpupulong]]**
   * **[[:tl:obe:other:moses|Moses]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
+  * **nagpatayo ng templo**  -
+Gusto ni David na magpatayo ng isang gusali kung saan sasamba ang mga tao sa Diyos. Ito ay gagawin para maging kapalit ng Tolda ng Pagpupulong.
 
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
 
 
 **[[:tl:obs:notes:frames:17-05|<<]] | [[:tl:obs:notes:17|Up]] | [[:tl:obs:notes:frames:17-07|>>]]**
