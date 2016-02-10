@@ -1,6 +1,6 @@
 
 
-  - [[:tl:obs:01|1. Ang kuwento tungkol sa paglikha.]]
+  - [[:tl:obs:01|1. Ang Kwento Tungkol sa Paglikha.]]
   - [[:tl:obs:02|2. Nagkasala ang mga Tao]]
   - [[:tl:obs:03|3. Ang Napakalaking Baha]]
   - [[:tl:obs:04|4. Ang Kasunduan ng Diyos at ni Abraham]]
