@@ -1,103 +1,53 @@
-[[1. Ang Kwento Tungkol sa Paglikha.]]
 
-[[2. Nagkasala ang mga Tao]]
 
-[[3. Ang Napakalaking Baha]]
+  - [[:tl:obs:01|Ang Paglikha sa Lahat]]
+  - [[:tl:obs:02|Nagkasala ang mga Tao]]
+  - [[:tl:obs:03|Ang Napakalaking Baha]]
+  - [[:tl:obs:04|Ang Kasunduan ng Diyos at ni Abraham]]
+  - [[:tl:obs:05|Ang Ipinangakong Anak]]
+  - [[:tl:obs:06|Ibinigay ng Diyos ang Kailangan ni Isaac]]
+  - [[:tl:obs:07|Pinapala ng Diyos si Jacob]]
+  - [[:tl:obs:08|Iniligtas ng Diyos si Jose at ang Kanyang Pamilya]]
+  - [[:tl:obs:09|Inutusan ng Diyos si Moises]]
+  - [[:tl:obs:10|Ang Sampung Salot]]
+  - [[:tl:obs:11|Ang Paskwa]]
+  - [[:tl:obs:12|Ang pag-alis sa Ehipto]]
+  - [[:tl:obs:13|Ang Kasunduan ng Diyos at ng mga Israelita]]
+  - [[:tl:obs:14|Naglakbay ng mga Israelita sa Ilang]]
+  - [[:tl:obs:15|Ang Lupaing Ipinangako ng Diyos sa mga Israelita]]
+  - [[:tl:obs:16|Ang mga Tagapagtanggol ng Israel]]
+  - [[:tl:obs:17|Ang Kasunduan ng Diyos at ni David]]
+  - [[:tl:obs:18|Nahati ang Kaharian ng Israel]]
+  - [[:tl:obs:19|Ang mga Propeta]]
+  - [[:tl:obs:20|Nabihag at Nakabalik]]
+  - [[:tl:obs:21|Ang Tagapagligtas na Ipinangako ng Diyos]]
+  - [[:tl:obs:22|Ipinanganak si Juan]]
+  - [[:tl:obs:23|Ipinanganak si Hesus]]
+  - [[:tl:obs:24|Binawtismuhan ni Juan si Hesus]]
+  - [[:tl:obs:25|Tinukso ni Satanas si Jesus]]
+  - [[:tl:obs:26|Jesus Starts His Ministry]]
+  - [[:tl:obs:27|The Story of the Good Samaritan]]
+  - [[:tl:obs:28|The Rich Young Ruler]]
+  - [[:tl:obs:29|The Story of the Unmerciful Servant]]
+  - [[:tl:obs:30|Jesus Feeds Five Thousand People]]
+  - [[:tl:obs:31|Jesus Walks on Water]]
+  - [[:tl:obs:32|Jesus Heals a Demon Possessed Man]]
+  - [[:tl:obs:33|The Story of the Farmer]]
+  - [[:tl:obs:34|Jesus Teaches Other Stories]]
+  - [[:tl:obs:35|The Story of the Compassionate Father]]
+  - [[:tl:obs:36|The Transfiguration]]
+  - [[:tl:obs:37|Jesus Raises Lazarus from the Dead]]
+  - [[:tl:obs:38|Jesus Is Betrayed]]
+  - [[:tl:obs:39|Jesus Is Put on Trial]]
+  - [[:tl:obs:40|Jesus Is Crucified]]
+  - [[:tl:obs:41|God Raises Jesus from the Dead]]
+  - [[:tl:obs:42|Jesus Returns to Heaven]]
+  - [[:tl:obs:43|The Church Begins]]
+  - [[:tl:obs:44|Peter and John Heal a Beggar]]
+  - [[:tl:obs:45|Philip and the Ethiopian Official]]
+  - [[:tl:obs:46|Paul Becomes a Christian]]
+  - [[:tl:obs:47|Paul and Silas in Philippi]]
+  - [[:tl:obs:48|Jesus is the Promised Messiah]]
+  - [[:tl:obs:49|God's New Covenant]]
+  - [[:tl:obs:50|Jesus Returns]]
 
-[[4. Ang Kasunduan ng Diyos at ni Abraham]]
-
-[[5. Ang Ipinangakong Anak]]
-
-[[6. Ibinigay ng Diyos ang Kailangan ni Isaac]]
-
-[[7. Pinapala ng Diyos si Jacob]]
-
-[[8. Iniligtas ng Diyos si Jose at ang Kanyang Pamilya]]
-
-[[9. Inutusan ng Diyos si Moises]]
-
-[[10. Ang Sampung Salot]]
-
-[[11. Ang Paskwa]]
-
-[[12. Ang pag-alis sa Ehipto]]
-
-[[13. Ang Kasunduan ng Diyos at ng mga Israelita]]
-
-[[14. Naglakbay ng mga Israelita sa Ilang]]
-
-[[15. Ang Lupaing Ipinangako ng Diyos sa mga Israelita]]
-
-[[16. Ang mga Tagapagtanggol ng Israel]]
-
-[[17. Ang Kasunduan ng Diyos at ni David]]
-
-[[18. Nahati ang Kaharian ng Israel]]
-
-[[19. Ang mga Propeta]]
-
-[[20. Nabihag at Nakabalik]]
-
-[[21. Ang Tagapagligtas na Ipinangako ng Diyos]]
-
-[[22. Ipinanganak si Juan]]
-
-[[23. Ipinanganak si Hesus]]
-
-[[24. Binawtismuhan ni Juan si Hesus]]
-
-[[25. Tinukso ni Satanas si Jesus]]
-
-[[26. Naglingkod si Jesus sa mga Tao]]
-
-[[27. Ang Kuwento tungkol sa Mabuting Kapwa-Tao (Samaritano)]]
-
-[[28. Ang Mayamang Binatang Pinuno]]
-
-[[29. Ang Kuwento tungkol sa Aliping Ayaw Magpatawad]]
-
-[[30. Pinakain ni Jesus ang Limang Libong Lalaki]]
-
-[[31. Lumakad si Jesus sa Ibabaw ng Tubig]]
-
-[[32. Pinagaling ni Jesus ang Lalaking Sinasapian at ang Babaeng Maysakit (Dinudugo)]]
-
-[[33. Ang Kuwento tungkol sa Magsasaka]]
-
-[[34. Ang Iba pang mga Kuwento ni Jesus]]
-
-[[35. Ang Kuwento tungkol sa Mapagmahal na Ama]]
-
-[[36. Nagbago ang Anyo ni Jesus]]
-
-[[37. Binuhay ni Jesus si Lazaro]]
-
-[[38. Pinagtaksilan ni Judas si Jesus]]
-
-[[39. Nilitis si Jesus]]
-
-[[40. Ipinako si Jesus sa Krus]]
-
-[[41. Muling Nabuhay si Jesus]]
-
-[[42. Bumalik si Jesus sa Langit]]
-
-[[43. Ang Simula ng Iglesya]]
-
-[[44. Pinagaling nina Pedro at Juan ang Isang Pulubi]]
-
-[[45. Si Esteban at si Felipe]]
-
-[[46. Naging Cristiano si Saulo]]
-
-[[47. Nangaral sina Pablo at Silas sa Filipos]]
-
-[[48. Si Jesus ang Ipinangakong Tagapagligtas]]
-
-[[49. Ang Bagong Kasunduan ng Diyos at ng mga Tagasunod Niya]]
-
-[[50. Babalik si Jesus]]
-
-  * [[Front Matter]]
-  * [[Back Matter]]
-  * [[Mobile App Words]]
