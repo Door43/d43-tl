@@ -1,57 +1,103 @@
+[[:tl:obs:01|1. Ang Kwento Tungkol sa Paglikha.]]
 
+[[:tl:obs:02|2. Nagkasala ang mga Tao]]
 
-  - [[:tl:obs:01|1. Ang kuwento tungkol sa paglikha.]]
-  - [[:tl:obs:02|2. Nagkasala ang mga Tao]]
-  - [[:tl:obs:03|3. Ang Napakalaking Baha]]
-  - [[:tl:obs:04|4. Ang Kasunduan ng Diyos at ni Abraham]]
-  - [[:tl:obs:05|5. Ang Ipinangakong Anak]]
-  - [[:tl:obs:06|6. Ibinigay ng Diyos ang Kailangan ni Isaac]]
-  - [[:tl:obs:07|7. Pinapala ng Diyos si Jacob]]
-  - [[:tl:obs:08|8. Iniligtas ng Diyos si Jose at ang Kanyang Pamilya]]
-  - [[:tl:obs:09|9. Inutusan ng Diyos si Moises]]
-  - [[:tl:obs:10|10. Ang Sampung Salot]]
-  - [[:tl:obs:11|11. Ang Paskwa]]
-  - [[:tl:obs:12|12. Ang pag-alis sa Ehipto]]
-  - [[:tl:obs:13|13. Ang Kasunduan ng Diyos at ng mga Israelita]]
-  - [[:tl:obs:14|14. Naglakbay ng mga Israelita sa Ilang]]
-  - [[:tl:obs:15|15. Ang Lupaing Ipinangako ng Diyos sa mga Israelita]]
-  - [[:tl:obs:16|16. Ang mga Tagapagtanggol ng Israel]]
-  - [[:tl:obs:17|17. Ang Kasunduan ng Diyos at ni David]]
-  - [[:tl:obs:18|18. Nahati ang Kaharian ng Israel]]
-  - [[:tl:obs:19|19. Ang mga Propeta]]
-  - [[:tl:obs:20|20. Nabihag at Nakabalik]]
-  - [[:tl:obs:21|21. Ang Tagapagligtas na Ipinangako ng Diyos]]
-  - [[:tl:obs:22|22. Ipinanganak si Juan]]
-  - [[:tl:obs:23|23. Ipinanganak si Hesus]]
-  - [[:tl:obs:24|24. Binawtismuhan ni Juan si Hesus]]
-  - [[:tl:obs:25|25. Tinukso ni Satanas si Jesus]]
-  - [[:tl:obs:26|26. Naglingkod si Jesus sa mga Tao]]
-  - [[:tl:obs:27|27. Ang Kuwento tungkol sa Mabuting Kapwa-Tao (Samaritano)]]
-  - [[:tl:obs:28|28. Ang Mayamang Binatang Pinuno]]
-  - [[:tl:obs:29|29. Ang Kuwento tungkol sa Aliping Ayaw Magpatawad]]
-  - [[:tl:obs:30|30. Pinakain ni Jesus ang Limang Libong Lalaki]]
-  - [[:tl:obs:31|31. Lumakad si Jesus sa Ibabaw ng Tubig]]
-  - [[:tl:obs:32|32. Pinagaling ni Jesus ang Lalaking Sinasapian at ang Babaeng Maysakit (Dinudugo)]]
-  - [[:tl:obs:33|33. Ang Kuwento tungkol sa Magsasaka]]
-  - [[:tl:obs:34|34. Ang Iba pang mga Kuwento ni Jesus]]
-  - [[:tl:obs:35|35. Ang Kuwento tungkol sa Mapagmahal na Ama]]
-  - [[:tl:obs:36|36. Nagbago ang Anyo ni Jesus]]
-  - [[:tl:obs:37|37. Binuhay ni Jesus si Lazaro]]
-  - [[:tl:obs:38|38. Pinagtaksilan ni Judas si Jesus]]
-  - [[:tl:obs:39|39. Nilitis si Jesus]]
-  - [[:tl:obs:40|40. Ipinako si Jesus sa Krus]]
-  - [[:tl:obs:41|41. Muling Nabuhay si Jesus]]
-  - [[:tl:obs:42|42. Bumalik si Jesus sa Langit]]
-  - [[:tl:obs:43|43. Ang Simula ng Iglesya]]
-  - [[:tl:obs:44|44. Pinagaling nina Pedro at Juan ang Isang Pulubi]]
-  - [[:tl:obs:45|45. Si Esteban at si Felipe]]
-  - [[:tl:obs:46|46. Naging Cristiano si Saulo]]
-  - [[:tl:obs:47|47. Nangaral sina Pablo at Silas sa Filipos]]
-  - [[:tl:obs:48|48. Si Jesus ang Ipinangakong Tagapagligtas]]
-  - [[:tl:obs:49|49. Ang Bagong Kasunduan ng Diyos at ng mga Tagasunod Niya]]
-  - [[:tl:obs:50|50. Babalik si Jesus]]
+[[:tl:obs:03|3. Ang Napakalaking Baha]]
+
+[[:tl:obs:04|4. Ang Kasunduan ng Diyos at ni Abraham]]
+
+[[:tl:obs:05|5. Ang Ipinangakong Anak]]
+
+[[:tl:obs:06|6. Ibinigay ng Diyos ang Kailangan ni Isaac]]
+
+[[:tl:obs:07|7. Pinapala ng Diyos si Jacob]]
+
+[[:tl:obs:08|8. Iniligtas ng Diyos si Jose at ang Kanyang Pamilya]]
+
+[[:tl:obs:09|9. Inutusan ng Diyos si Moises]]
+
+[[:tl:obs:10|10. Ang Sampung Salot]]
+
+[[:tl:obs:11|11. Ang Paskwa]]
+
+[[:tl:obs:12|12. Ang pag-alis sa Ehipto]]
+
+[[:tl:obs:13|13. Ang Kasunduan ng Diyos at ng mga Israelita]]
+
+[[:tl:obs:14|14. Naglakbay ng mga Israelita sa Ilang]]
+
+[[:tl:obs:15|15. Ang Lupaing Ipinangako ng Diyos sa mga Israelita]]
+
+[[:tl:obs:16|16. Ang mga Tagapagtanggol ng Israel]]
+
+[[:tl:obs:17|17. Ang Kasunduan ng Diyos at ni David]]
+
+[[:tl:obs:18|18. Nahati ang Kaharian ng Israel]]
+
+[[:tl:obs:19|19. Ang mga Propeta]]
+
+[[:tl:obs:20|20. Nabihag at Nakabalik]]
+
+[[:tl:obs:21|21. Ang Tagapagligtas na Ipinangako ng Diyos]]
+
+[[:tl:obs:22|22. Ipinanganak si Juan]]
+
+[[:tl:obs:23|23. Ipinanganak si Hesus]]
+
+[[:tl:obs:24|24. Binawtismuhan ni Juan si Hesus]]
+
+[[:tl:obs:25|25. Tinukso ni Satanas si Jesus]]
+
+[[:tl:obs:26|26. Naglingkod si Jesus sa mga Tao]]
+
+[[:tl:obs:27|27. Ang Kuwento tungkol sa Mabuting Kapwa-Tao (Samaritano)]]
+
+[[:tl:obs:28|28. Ang Mayamang Binatang Pinuno]]
+
+[[:tl:obs:29|29. Ang Kuwento tungkol sa Aliping Ayaw Magpatawad]]
+
+[[:tl:obs:30|30. Pinakain ni Jesus ang Limang Libong Lalaki]]
+
+[[:tl:obs:31|31. Lumakad si Jesus sa Ibabaw ng Tubig]]
+
+[[:tl:obs:32|32. Pinagaling ni Jesus ang Lalaking Sinasapian at ang Babaeng Maysakit (Dinudugo)]]
+
+[[:tl:obs:33|33. Ang Kuwento tungkol sa Magsasaka]]
+
+[[:tl:obs:34|34. Ang Iba pang mga Kuwento ni Jesus]]
+
+[[:tl:obs:35|35. Ang Kuwento tungkol sa Mapagmahal na Ama]]
+
+[[:tl:obs:36|36. Nagbago ang Anyo ni Jesus]]
+
+[[:tl:obs:37|37. Binuhay ni Jesus si Lazaro]]
+
+[[:tl:obs:38|38. Pinagtaksilan ni Judas si Jesus]]
+
+[[:tl:obs:39|39. Nilitis si Jesus]]
+
+[[:tl:obs:40|40. Ipinako si Jesus sa Krus]]
+
+[[:tl:obs:41|41. Muling Nabuhay si Jesus]]
+
+[[:tl:obs:42|42. Bumalik si Jesus sa Langit]]
+
+[[:tl:obs:43|43. Ang Simula ng Iglesya]]
+
+[[:tl:obs:44|44. Pinagaling nina Pedro at Juan ang Isang Pulubi]]
+
+[[:tl:obs:45|45. Si Esteban at si Felipe]]
+
+[[:tl:obs:46|46. Naging Cristiano si Saulo]]
+
+[[:tl:obs:47|47. Nangaral sina Pablo at Silas sa Filipos]]
+
+[[:tl:obs:48|48. Si Jesus ang Ipinangakong Tagapagligtas]]
+
+[[:tl:obs:49|49. Ang Bagong Kasunduan ng Diyos at ng mga Tagasunod Niya]]
+
+[[:tl:obs:50|50. Babalik si Jesus]]
 
   * [[:tl:obs:front-matter|Front Matter]]
   * [[:tl:obs:back-matter|Back Matter]]
   * [[:tl:obs:app_words|Mobile App Words]]
-
