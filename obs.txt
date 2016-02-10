@@ -12,7 +12,6 @@ To find out more about Open Bible Stories, visit [[https://unfoldingword.org/sto
 
 ==== How You Can Help ====
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[en:obs:help|here]], and useful information may also be found at [[en:get-started|"Getting Started"]] and [[en:tips-tricks|"Tips & Tricks"]]. If you need help, [[/contact|just ask]]!
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[:en:obs:help|here]], and useful information may also be found at [[:en:get-started|"Getting Started"]] and [[:en:tips-tricks|"Tips & Tricks"]]. If you need help, [[:contact|just ask]]!
 
 {{page>tl:obs:stories}}
-
