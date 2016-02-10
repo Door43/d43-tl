@@ -14,10 +14,14 @@ Paulit-ulit lang ang ganitong mga pangyayari. Magkakasala ang mga Israelita, par
   * **[[:tl:obe:kt:deliverer|deliver, deliverer]]**
   * **[[:tl:obe:kt:save|iligtas, ligtas]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
+  * **
+Paulit-ulit lang ang mga pangyayari
 
-  * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
+ **-
+Maaaring isalin ng ganito, “paulit-uli na nangyayari ang ganitong bagay” o “maraming beses na itong nangyari.”
+
 
 
 **[[:tl:obs:notes:frames:16-16|<<]] | [[:tl:obs:notes:16|Up]] | [[:tl:obs:notes:frames:16-18|>>]]**
