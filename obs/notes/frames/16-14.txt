@@ -14,12 +14,20 @@ Nilito naman ng Diyos ang mga Midianita kaya sila-sila na mismo ang naglabanan a
   * **[[:tl:obe:kt:save|iligtas, ligtas]]**
 ~~COMPLEX_TABLES~~
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **nilito naman ng Diyos ang mga Midianita **
+ -
+Gumawa ng paraan ang Diyos para mailto ang mga Midianita. Gusto nilang salakayin ang mga Israelita, pero ang mga kasamahan nila ang mga nasalakay nila.
 
 
-  * **God confused the Midianites** - God caused the Midianites to be confused. They wanted to attack the Israelites, but instead, they attacked each other.
-  * **the rest of the Israelites** - This could be translated as, "many other Israelite men." This refers to the soldiers previously sent home in **[[:tl:obs:notes:frames:16-10|[16-10]]]**.
-  * **were called** – That is, "were called out" or, "were summoned." This sentence could also be translated as, "Gideon sent messengers to summon many other Israelite men from their homes."
+  * **ang ibang mga sundalong Israelita **  -
+Maaaring isalin ng ganito, “maraming iba pang Israelita.” tinutukoy nito ang mga sundalong pinauwi sa Kwento #
+
+ **[[:tl:obs:notes:frames:16-10|[16-10]]]**.
+  * **ipinatawag**  –
+Ibig sabihin, “ipinatawag sila” o kaya “pinapunta”. Maari rin itong isalin ng ganito “Ipinatawag sila ni Gideon mula sa kani-kanilang mga bahay.”
+
 
 
 **[[:tl:obs:notes:frames:16-13|<<]] | [[:tl:obs:notes:16|Up]] | [[:tl:obs:notes:frames:16-15|>>]]**
