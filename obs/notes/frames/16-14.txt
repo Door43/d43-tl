@@ -6,15 +6,13 @@ Nilito naman ng Diyos ang mga Midianita kaya sila-sila na mismo ang naglabanan a
 
 .
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:other:midian]]**
-  * **[[:tl:obe:other:israel]]**
-  * **[[:tl:obe:kt:save]]**
-  * **[[:tl:obe:other:israel]]**
-
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:other:midian|Midianita]]**
+  * **[[:tl:obe:other:israel|Israel, Israelita]]**
+  * **[[:tl:obe:kt:save|iligtas, ligtas]]**
+~~COMPLEX_TABLES~~
 
 ==== Translation Notes: ====
 
