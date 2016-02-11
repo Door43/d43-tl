@@ -11,12 +11,20 @@ Pinarusahan ng Diyos ang dalawang kaharian kaya pinayagan niya na salakayin at s
   * **[[:tl:obe:other:assyria|Assyria, Assyrian, Assyrian Empire, Asshur]]**
   * **[[:tl:obe:other:kingdomofisrael|kaharian ng Israel]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **dalawang kaharian**
+ -
+Tinutukoy nito ang kaharian ng Judah at Israel.
 
 
-  * **both kingdoms** - This refers to both the kingdoms of Israel and Judah.
-  * **Empire** - A country was called an "empire" when it was powerful enough to extend its authority over many other countries.
-  * **took away** - That is, "stole." They stole these valuable things and carried them back to Assyria.
+  * **imperyo**  -
+Ay isang bansa ay tinatawag na “imperyo” kapag ang kapangyarihan nito ay kinikilala hanggang sa mga kalapit na bansa.
+
+
+  * **kinuha**  -
+Ang ibig sabihin, “ninakaw.” Ninakaw nila ang ilang mahahalagang bagay at dinala ito pabalik sa Assyria.
+
 
 
 **[[:tl:obs:notes:frames:20-01|<<]] | [[:tl:obs:notes:20|Up]] | [[:tl:obs:notes:frames:20-03|>>]]**
