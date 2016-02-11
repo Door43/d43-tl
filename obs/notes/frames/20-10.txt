@@ -12,14 +12,25 @@ Kahit pinarusahan ng Diyos ang mga tao dahil sa kasalanan nila sa pamamagitan ng
   * **[[:tl:obe:kt:promise|pangako]]**
   * **[[:tl:obe:kt:prophet|propeta, propesiya]]**
   * **[[:tl:obe:kt:promisedland|Lupang Pangako]]**
+==== Talaan para sa Pagsasalin: ====
 
-==== Translation Notes: ====
+  * **pagpapatapon**  -
+Ang salitang “pagpapatapon” ay nangangahulugan ng sapilitang pagpapalayas sa sariling bansa. Ang salitang “pagpapatapon” ay ang ginamit dito para ilarawan ang pagpapaalis sa mga Israelita at 70 na taon silang sapilitang pinatira sa Babylon.
 
 
-  * **exile** - See how you translated this term in **[[:tl:obs:notes:frames:20-09|[20-09]]]**.
-  * **did not forget** - This could be translated as, "did not ignore" or, "did not neglect." Or the whole phrase could be translated as, "continued to honor his commitment to his people and his promises."
-  * **watch over** - That is, "take care of."
-  * **speak to them through his prophets** - This could be translated as, "tell his prophets messages that he wanted them to tell his people."
+  * **hindi kinalimutan**
+ -
+Maari ring isalin ng ganito, “hindi pinabayaan” o kaya “nanatili siyang tapat sa mga tao at tinupad niya pa rin ang mga pangako niya.”
+
+
+  * **ginabayan **-
+Ang ibig sabihin, “inalagaan”
+
+
+  * **kinausap ng Diyos sa pamamagitan ng mga propeta**
+ -
+Maaaring isalin ng ganito, “sinasabi niya sa mga propeta ang mga mensaheng gusto niyang sabihin sa kaniyang mga tao.”
+
 
 
 **[[:tl:obs:notes:frames:20-09|<<]] | [[:tl:obs:notes:20|Up]] | [[:tl:obs:notes:frames:20-11|>>]]**
