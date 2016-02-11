@@ -10,12 +10,21 @@ Kaagad bumagsak mula sa langit ang apoy at tinupok nito ang alay, ang kahoy at a
   * **[[:tl:obe:kt:yahweh|Yahweh]]**
   * **[[:tl:obe:kt:god|Diyos]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **bumagsak mula sa langit**
+ -
+Maaaring isalin ng ganito, “biglang bumagsak mula sa langit.”
 
 
-  * **fell from the sky** - This may be translated as, "suddenly came down from the sky."
-  * **fell on the ground** - They quickly lay down or knelt down on the ground. They were afraid of Yahweh because they had seen his power. They knew that only the true God could do that and bowed down to honor and worship him.
-  * **Yahweh is God** - This expression means that they understood that Yahweh is the only God, not just one god among others.
+  * **nahulog sa lupa**  -
+Kaagad silang dumapa o lumuhod sa lupa. Natakot sila kay Yahweh dahil nakita nila ang kapangyarihan niya. Alam nila na ang tunay na Diyos lamang ang maaaring makagawa noon kaya yumuko sila para papurihan at sambahin siya.
+
+
+  * **Si Yahweh ang Diyos**
+ -
+Ito ay nangangahulugan na alam na nila na si Yahweh lamang ang nag-iisang Diyos, hindi siya katulad ng ibang mga diyos.
+
 
 
 **[[:tl:obs:notes:frames:19-10|<<]] | [[:tl:obs:notes:19|Up]] | [[:tl:obs:notes:frames:19-12|>>]]**
