@@ -1,40 +1,39 @@
 ====== 33. Ang Kuwento tungkol sa Magsasaka ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-Isang araw, nasa baybayin ng lawa si Jesus. Tinuturuan niya ang mga tao. Napakarami nila kaya sumakay si Jesus sa bangka at doon siya nagturo.
+Isang araw nagtuturo si Jesus malapit sa pampang at maraming tao ang nagpunta para pakinggan siya kaya kinailangang sumakay ni Jesus sa bangka na nasa lawa para magkaroon ng sapat na espasyo para makapagturo sa kanila. Umupo siya sa bangka at nagturo sa mga tao.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
-Nagkuwento si Jesus sa kanila, “May isang magsasaka na nagtanim ng mga binhi. Habang inihahagis niya ang mga binhi, may ilang binhi na nahulog sa daan. Kinain lang ng mga ibon ang mga binhi.
+Ito ang kwentong sinabi ni Jesus, “May isang magsasaka ang lumabas para maghagis ng mga buto, ang ilan ay nahulog sa daan at may dumating na mga ibon at tinuka lahat ng mga ito.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-“Nahulog naman ang ibang binhi sa mabatong lugar. Kaunti lang ang lupa doon. Mabilis na tumubo ang mga binhi. Kaya lang, nang sumikat ang araw, nalanta ang halaman at namatay dahil mababaw lang ang mga ugat nito.
+“Ang ibang mga buto naman ay nahulog sa mabatong lupa. Tumubo kaagad ang buto doon pero hindi naman nag-ugat ng malalim. Sa tindi ng init ng araw nalanta ang mga ito at namatay.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
-“May mga binhing nahulog sa madawag na lugar. Tumubo ang binhi pero hindi ito namunga dahil naiipit ng mga tinik at dawag.
+“May iba namang mga buto na nahulog sa lupang may matitinik na damo. Nagsimulang umusbong ang mga buto pero nasakal ang mga ito ng damo kaya hindi tumubo at nagbunga.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-Mayroon ding binhing napatanim sa matabang lupa. Tumubo ang mga binhi at namunga ng 30, 60 at 100. Kung nakakarinig kayo, pakinggan ninyo ang sinasabi ko.”
+“Mayroon ding mga buto na nahulog sa matabang lupa. Tumubo ang mga buto at may namunga ng tig-tatatlumpu, tig-aanimnapu at tig- iisandaan. Kayong may mga tainga, makinig kayo!”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
-Nalito ang mga alagad sa kuwentong ito ni Jesus. Kaya ipinaliwanag ito ni Jesus sa kanila. “Ang binhi ay ang salita ng Diyos. Ang mga binhing nahulog sa daanan ay kagaya ng mga tao na nakinig sa Salita ng Diyos pero hindi nila ito inunawa. Kaya inagaw ng dyablo sa kanila ang Salita ng Diyos.
+Naguluhan ang mga alagad sa kwento kaya ipinaliwanag ni Jesus ang kahulugan nito, “Ang buto ay ang salita ng Diyos, ang daanan naman ay ang taong nakikinig ng salita ng Diyos pero hindi niya ito naintindihan kaya inaalis ng diyablo ang salita ng Diyos sa puso niya kaya nalimutan niya ito.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-“Ang mga binhi namang nahulog sa mabatong lugar ay kagaya ng mga taong nakarinig ng Salita ng Diyos at tinanggap nila ito kaagad. Pero nang makaranas sila ng hirap at pag-uusig, lumayo sila kaya hindi sila lumagong mabuti.
+“Ang mabatong lupa naman ay ang taong nakinig at tumanggap sa salita ng Diyos na may galak pero nang makaranas na ng hirap at pasakit unti-unti na siyang hindi sumusunod sa Diyos.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
-“Ang mga binhing napatanim sa madawag na lugar ay kagaya ng mga taong nakarinig ng Salita ng Diyos at sumampalataya. Pero sa paglipas ng panahon, nawala ang pagmamahal nila sa Diyos dahil sa mga problema, sa mga kayamanan at sa mga layaw sa buhay. Hindi nagkaroon ng bunga sa kanila ang mga salitang napakinggan nila.
+“Ang lupang may matitinik na damo ay ang taong nakinig ng salita ng Diyos pero habang lumilipas ang panahon nadadaig ng mga alalahanin, kayamanan at luho sa buhay ang pagmamahal niya sa Diyos. Dahil dito hindi niya naipamuhay ang mga aral na narinig niya.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-“Pero ang mga binhing napatanim sa mabuting lupa ay kagaya ng mga taong nakinig sa Salita ng Diyos, sumampalataya at nagbunga.
+“Pero ang matabang lupa ay ang taong nakinig, naniwala at naipamahuhay ang salita ng Diyos.”
 
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
+//Kwento mula sa Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
