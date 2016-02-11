@@ -8,17 +8,23 @@ Bilang parusa sa hari ng Judah dahil sa paghihimagsik, pinatay ng mga sundalo ni
 
   * **[[:tl:obe:other:punish|parusa, kaparusahan]]**
   * **[[:tl:obe:other:king|hari]]**
-  * **[[:tl:obe:other:kingdom-of-judah|[[:tl:obe:kt:god|Judah, Kaharian ng Judah]]** **]]**
-  * **[[:tl:obe:other:kingdom-of-judah|[[:tl:obe:other:nebuchadnezzar|Nebuchadnezzar]]**]]**
+  * **[[:tl:obe:other:kingdom-of-judah|kingdom-of-judah]]**
+  * **[[:tl:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
   * **[[:tl:obe:kt:son|anak na lalaki]]**
   * **[[:tl:obe:other:babylon|Babylon, Babylonian]]**
+==== Talaan para sa Pagsasalin: ====
 
-==== Translation Notes: ====
+  * **para parusahan**  -
+Pinarusahan ni Nebuchadnezzar ang hari ng Judah sa pamamagitan ng pag-uutos sa kaniyang kawal na gawin ang mga ito.
 
 
-  * **To punish** - Nebuchadnezzar punished the king of Judah by telling his soldiers to do these things.
-  * **in front of him** - This may be translated as, "where he could see," or "so that he could see it," or "before his eyes."
-  * **made him blind** - This may also be translated as, "destroyed his eyes."
+  * **sa harapan niya**  -
+Maaaring isalin ng ganito, “kung saan makikita niya” o “para makita niya”
+
+
+  * **binulag siya**  -
+Maaaring sabihin na “sinugatan ang mga mata niya”
+
 
 
 **[[:tl:obs:notes:frames:20-07|<<]] | [[:tl:obs:notes:20|Up]] | [[:tl:obs:notes:frames:20-09|>>]]**
