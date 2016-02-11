@@ -11,14 +11,28 @@ Mga 70 taon na ang lumipas tinalo ng hari ng Persia na si Cyrus ang Babylon kaya
   * **[[:tl:obe:other:israel|Israel, Israelita]]**
   * **[[:tl:obe:other:jew|Hudyo]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **70 taon na ang lumipas**
+ -
+Tinutukoy nito ang 70 taong lumipas matapos ipatapon ng mga taga Babylon ang mga tao ng Jerusalem.
 
 
-  * **seventy years later** - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
-  * **Cyrus** - Cyrus was also called, "Cyrus the Great." The name "Cyrus" meant "like the sun" in the Persian language. However, since Cyrus was an important historical person, it might be best to transliterate his name, rather than translating the meaning.
-  * **Persians** - The Persian Empire grew to cover the area from central Asia to Egypt. Its home was located in the general area of modern-day Iran.
-  * **The Israelites were now called Jews** - This could also be translated as, "People now called the Israelites by the name 'Jews.'"
-  * **the land of Judah** - That is, the area where the kingdom of Judah was located before the Exile. Jerusalem was the capital city of Judah.
+  * **Persia**
+ -
+Lumawak ang imperyo ng Persia at nasakop nito ang Gitnang Asya hanggang Egypt. Ito ay matatagpuan ngayon sa Iran.
+
+
+  * **
+Nagsimulang tinawag ang mga Israelita na mga “Hudyo”
+
+ **-
+Maaaring isalin ito ng ganito, “Ang mga Israelita ay tinawag na mga ‘Hudyo.’”
+
+
+  * **lupain ng Judah**  -
+Ito ay ang lugar kung saan dating nakatayo ang kaharian ng Judah bago ang Pagkakatapon. Ang Jerusalem ay kabisera ng Judah.
+
 
 
 **[[:tl:obs:notes:frames:20-10|<<]] | [[:tl:obs:notes:20|Up]] | [[:tl:obs:notes:frames:20-12|>>]]**
