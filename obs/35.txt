@@ -1,56 +1,55 @@
 ====== 35. Ang Kuwento tungkol sa Mapagmahal na Ama ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?direct&}}
 
-Isang araw, tinuturuan ni Jesus ang mga maniningil ng buwis at ang mga makasalanang tao.
+Isang araw nagtuturo si Jesus sa mga maniningil ng buwis at sa mga makasalanang tao na nagsama-sama para pakinggan siya.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?direct&}}
 
-Nagbubulungan ang mga pinuno ng relihiyong Judio dahil itinuturing sila ni Jesus na mga kaibigan. Kaya nagkuwento si Jesus.
+Naroon rin ang ilan sa mga pinuno ng relihiyon at napansin nilang tinuturing na kaibigan ni Jesus ang mga makasalanan at pinintasan nila ito kaya sinabi ni Jesus ang kwentong ito.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?direct&}}
 
-“May isang lalaki na may dalawang anak na lalaki. Minsan, sinabi ng bunso sa tatay niya, “Ama, gusto ko na pong kuhanin ang mamanahin ko!” Kaya hinati ng ama ang lahat ng kayamanan niya sa dalawa.”
+“May isang ama na may dalawang anak na lalaki. Isang araw sinabi ng bunso sa ama niya, ‘Ama, ibigay mo na ang mamanahin ko ngayon!’Hinati ng ama nila ang lahat ng ari-arian niya para sa dalawang anak niya.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?direct&}}
 
-“Nang makuha na niya ang bahagi niya, pumunta ang bunso sa malayong lugar. Doon niya inubos ang pera niya sa layaw at kasamaan.”
+“Nang makuha ng bunso ang mana niya, nagpakalayo-layo siya at winaldas ang pera niya sa masasamang gawain.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?direct&}}
 
-“Nang panahong iyon, nagkaroon ng matinding taggutom sa lugar na iyon. Ubos na ang pera ng bunso kaya hindi na siya makabili ng pagkain. Pumasok siya para magtrabaho na magpakain ng mga baboy. Sa sobrang hirap at gutom, pati pagkain ng baboy ay gusto na rin niyang kainin.”
+“Hindi nagtagal nagkaroon ng matinding tag-gutom sa lugar na kinaroroonan ng bunsong anak. Wala na siyang perang pambili ng pagkain kaya tinanggap niya ang nag-iisang trabahong nahanap niya na tagapakain lang ng baboy. Kawawang-kawawa siya at gutom na gutom kaya napilitan na siyang kumain ng kanimbaboy.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?direct&}}
 
-“Sa bandang huli, naisip niya, ‘Ano ang ginagawa ko dito? Lahat ng alipin ng tatay ko ay sagana sa pagkain samantalang ako ay halos mamatay sa gutom dito. Babalik ako sa tatay ko ang mamamasukan bilang alipin niya.’”
+“Bigla siyang napaisip dahil sa hirap ng kalagyan niya kaya nasabi niya sa sarili niya, ‘Ano ba itong ginagawa ko? Maraming pagkain ang mga utusan ng ama ko, samantalang ako dito ay mamamatay na sa gutom. Babalik na lang ako sa ama ko at makikiusap na ibilang niya akong isa sa mga utusan.’’’
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?direct&}}
 
-“Pero malayo pa lang siya, nakita na siya ng tatay niya. Awang-awa sa kanya ang tatay niya. Patakbo siyang sinalubong nito, niyakap at saka hinalikan.”
+“Kaya umuwi siya pabalik sa bahay ng ama niya. Malayo pa lang, natanaw siya agad ng ama niya at ito'y nahabag sa kanya. Patakbo niyang sinalubong ang anak niya. Niyakap at hinagkan niya ito.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?direct&}}
 
-“Sinabi ng anak, ‘Ama, nagkasala po ako sa Diyos at sa iyo. Hindi na po ako karapat-dapat na tawaging anak ninyo.’”
+“Humingi ng tawad ang bunsong anak at sinabing, ‘Ama, inaamin kong nagkasala ako sa Diyos at sa iyo. Hindi na ako nararapat na tawaging anak mo”’
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?direct&}}
 
-“Pero sinabi ng ama sa mga alipin. ‘Magdala kayo dito ng pinakamagandang damit at isuot ninyo sa anak ko! Suotan ninyo siya ng singsing at sandalyas. Pagkatapos, patayin ninyo ang pinakamasarap na batang baka para magsasalu-salo tayo. Dahil namatay na ang anak ko pero nabuhay siya ulit. Nawala siya pero ngayon ay nahanap na!’”
+“Pero agad na inutusan ng ama ang isa sa mga alipin niya, “Dali! Kunin mo ang pinakamagarang damit at isuot mo sa anak ko.  Suotan niyo siya ng singsing at sandalyas pagkatapos katayin niyo ang pinakamatabang baka at magdiwang tayo dahil namatay ang anak ko pero nabuhay siyang muli. Nawala siya pero ngayon, nahanap na.”’
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?direct&}}
 
-“Nagsaya ang mga tao. Hindi nagtagal, umuwi mula sa pagtatrabaho sa bukid ang panaganay na anak. Narinig niya ang mga tugtugan at sayawan. Inisip niya kung ano ang nangyayari sa bahay nila.”
+“Kaya nagdiwang ang mga tao. Hindi nagtagal umuwi galing sa pagtatrabaho sa bukid ang panganay na anak. Narinig niya ang mga tugtugan at sayawan at nagtaka siya kung ano ang nangyayari.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?direct&}}
 
-“Nang malaman niya mayroong kasayahan sa bahay nila dahil bumalik na ang kapatid niyang bunso, nagalit siya. Ayaw niyang pumasok sa loob ng bahay. Kaya lumabas ang tatay niya at nakiusap sa kanya na sumama sa kasayahan, pero tumanggi siya.”
+“Nang malaman niya na nagdidiwang sila dahil bumalik na sa bahay nila ang bunso niyang kapatid, galit na galit siya at ayaw niyang pumasok sa loob ng bahay. Kaya lumabas ang ama nila at nakiusap sa kanya na sumama sa kasayahan pero tumanggi siya.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?direct&}}
 
-“Sinabi ng panganay sa tatay niya, ‘Palagi po akong sumusunod sa iyo! Hindi po kita sinuway kahit minsan. Pero hindi mo ako binigyan ng kahit maliit na kambing man lang para magsaya kami ng mga kaibigan ko. Pero ngayon na bumalik ang anak mo na umubos ng pera mo sa masamang pamumuhay, pinatay mo ang espesyal na baka para sa kanya!’”
+“Sinabi ng panganay sa ama nila, ‘Sa mga nagdaang taon, nagtatrabaho ako ng tapat para sa iyo. Ni minsan hindi kita sinuway pero hindi mo man lang ako nabigyan kahit maliit na kambing man lang para makapagsaya kami ng mga kaibigan ko, pero nang bumalik ang anak mong ito na lumustay ng pera mo sa masasamang gawain, nakuha mo pa siyang ipagkatay ng pinakamatabang baka.”’
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?direct&}}
 
-“Sinabi ng ama, ‘Anak, palagi kitang kasama. Lahat ng akin ay iyo. Pero dapat tayong magsaya dahil patay na ang kapatid mo pero ngayon ay nabuhay siya. Nawala siya pero ngayon ay nahanap na siya!”
+“Sumagot naman ang ama, ‘Anak, palagi kitang kasama at lahat ng akin ay sa iyo rin. Dapat lang na magsaya tayo dahil namatay ang kapatid mo at ngayon, nabuhay siya. Nawala siya pero ngayon, nahanap na!”’
 
-
-//A Bible story from: Luke 15:11-32//
+//Kwento mula sa Luke 15:11-32//
