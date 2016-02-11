@@ -7,21 +7,26 @@ Mga isang daang taon na ang lumipas matapos sirain ng mga taga Assyria ang Kahar
 ===== Mga Mahahalagang Salita: =====
 
   * **[[:tl:obe:other:assyria|Assyria, Assyrian, Assyrian Empire, Asshur]]**
-  * **[[:tl:obe:kt:god|Kaharian ng Israel]]**
+  * **[[:tl:obe:other:kingdom-of-israel|kingdom-of-israel]]**
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
   * **[[:tl:obe:other:king|hari]]**
   * **[[:tl:obe:other:babylon|Babylon, Babylonian]]**
-  * **[[:tl:obe:other:kingdom-of-judah|[[:tl:obe:kt:god|Judah, Kaharian ng Judah]]**]]**
-  * **[[:tl:obe:other:babylon|Babylon, Babylonian]]**
+  * **[[:tl:obe:other:kingdom-of-judah|kingdom-of-judah]]**
   * **[[:tl:obe:other:servant|lingkod, alipin, pagkaka-alipin]]**
+==== Talaan para sa Pagsasalin: ====
 
-==== Translation Notes: ====
+  * **imperyo**  -
+Tignan sa Kwento #
+
+ **[[:tl:obs:notes:frames:20-02|[20-02]]]**.
+  * **pumayag**  –
+Napilitan ang hari ng Judah na pagsilbihan ang hari ng Babylon dahil kung hindi ay papatayin nila siya.
 
 
-  * **empire** - See how you translated this in **[[:tl:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be** – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant** - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
+  * **na maging alipin ni Nebuchadnezzar**  -
+Maaari rin isalin ng ganito, “pamunuan ang Judah ayon sa kagustuhan ni Nebuchadnezzar.”
+
 
 
 **[[:tl:obs:notes:frames:20-05|<<]] | [[:tl:obs:notes:20|Up]] | [[:tl:obs:notes:frames:20-07|>>]]**
