@@ -6,18 +6,25 @@ Pero pagkatapos ng ilang taon naghimagsik ang hari ng Judah laban sa hari ng Bab
 
 ===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:kingdom-of-judah|[[:tl:obe:kt:god|Judah, Kaharian ng Judah]]** **]]**
-  * **[[:tl:obe:other:kingdom-of-judah|[[:tl:obe:other:rebel|rebelde, pagrerebelde]]**]]**
+  * **[[:tl:obe:other:kingdom-of-judah|kingdom-of-judah]]**
+  * **[[:tl:obe:other:rebel|rebelde, pagrerebelde]]**
   * **[[:tl:obe:other:babylon|Babylon, Babylonian]]**
   * **[[:tl:obe:other:jerusalem|Jerusalem]]**
   * **[[:tl:obe:kt:temple|temple]]**
+==== Talaan para sa Pagsasalin: ====
 
-==== Translation Notes: ====
+  * **bumalik**  -
+Maaaring isalin ng ganito, “bumalik sa Judah.”
 
 
-  * **came back** - This may also be translated as, "returned" or "came to Judah again."
-  * **captured the city** - That is, "took control of the city and the people there."
-  * **took away** - They carried the treasures with them back to Babylon.
+  * **salakayin ang kaharian**
+ -
+Ibig sabihin, “sila na ang namahala sa buong siyudad at maging sa mga tao doon.”
+
+
+  * **kinuha**  -
+Kinuha nila ang mga kayamanan at dinala ito sa Babylon.
+
 
 
 **[[:tl:obs:notes:frames:20-06|<<]] | [[:tl:obs:notes:20|Up]] | [[:tl:obs:notes:frames:20-08|>>]]**
