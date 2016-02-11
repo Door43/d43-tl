@@ -4,14 +4,12 @@
 
 Pagdating nila sa Jerusalem itinayo ulit nila ang Templo at pinalibutan ng pader ang lungsod. Kahit na iba ang namumuno sa kanila, ang mahalaga doon na ulit sila titira sa Templo at sasamba.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-
-  * **[[:tl:obe:other:jerusalem]]**
-  * **[[:tl:obe:kt:temple]]**
-  * **[[:tl:obe:kt:promisedland]]**
-  * **[[:tl:obe:kt:worship]]**
-
+  * **[[:tl:obe:other:jerusalem|Jerusalem]]**
+  * **[[:tl:obe:kt:temple|temple]]**
+  * **[[:tl:obe:kt:promisedland|Lupang Pangako]]**
+  * **[[:tl:obe:kt:worship|sumamba, pagsamba]]**
 
 ==== Translation Notes: ====
 
