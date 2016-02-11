@@ -10,11 +10,15 @@ Pagkatapos iniutos ni Elijah, “Huwag niyong pabayaang makatakas ang kahit isa 
   * **[[:tl:obe:kt:prophet|propeta, propesiya]]**
   * **[[:tl:obe:other:baal|Baal]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
+
+  * **makatakas**  -
+Sinubukang tumakas ng mga propeta ni Baal matapos nilang mapatunayan na hindi totoo ang diyos nila.
 
 
-  * **escape** - The prophets of Baal tried to run away after their god was proven to be a false god.
-  * **captured** – That is, "seized and held onto" or, "took hold of."
+  * **hinuli**  –
+Ibig sabihin, “dinakip”
+
 
 
 **[[:tl:obs:notes:frames:19-11|<<]] | [[:tl:obs:notes:19|Up]] | [[:tl:obs:notes:frames:19-13|>>]]**
