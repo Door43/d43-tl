@@ -14,16 +14,12 @@ Ang Ilog Nile ay isang napakalaking ilog na makikita sa hilagang-silangang bahag
 
 {{topic>:en:bible?nileriver&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:08-04|[08-04]]]** Egypt was a large, powerful country located along the **Nile River**.
-  ***[[:tl:obs:notes:frames:09-04|[09-04]]]** Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
-  ***[[:tl:obs:notes:frames:09-06|[09-06]]]** When the boy's parents could no longer hide him, they put him in a floating basket among the reeds along the edge of the **Nile River** in order to save him from being killed. 
-  ***[[:tl:obs:notes:frames:10-03|[10-03]]]** God turned the **Nile River** into blood, but Pharaoh still would not let the Israelites go.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:08-04|[08-04]]]** Samantala dinala naman si Joseph ng mga nakabili sa kanya sa Egypt. Ang Egypt ay isang napakalawak at napakalakas na bansa na makikita sa may bandang **Ilog Nile.**
+  * **[[:tl:obs:notes:frames:09-04|[09-04]]]** Nakita din ng Paraon na maraming anak ang mga Israelita kaya inutusan niya ang mga tauhan niya na patayin lahat ang mga sanggol na lalaki na anak ng mga Israelita sa pamamagitan ng pagtapon sa kanila sa **Ilog Nile**.
+  * **[[:tl:obs:notes:frames:09-06|[09-06]]]** Nang hindi na kayang itago ng mga magulang ang batang lalaki, inilagay nila ito sa basket at pinalutang sa may mga talahiban sa gilid ng **Ilog Nile ** para hindi siya mapatay.
+  * **[[:tl:obs:notes:frames:10-03|[10-03]]]** Naging dugo ang tubig sa** Ilog Nile**  dahil sa kapangyarihan ng Diyos pero ayaw pa rin palayain ng Paraon ang mga Israelita.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
