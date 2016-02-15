@@ -14,13 +14,13 @@ Ang tawag sa hari ng Egypt noong unang panahon ay Paraon.
 
 {{topic>:en:bible?pharaoh&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-  * **[[:tl:obs:notes:frames:08-08|[08-08]]]****Pharaoh**  was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
-  * **[[:tl:obs:notes:frames:09-02|[09-02]]]** So the **Pharaoh**  who was ruling over Egypt at that time made the Israelites slaves to the Egyptians.
-  * **[[:tl:obs:notes:frames:09-13|[09-13]]]**"I will send you to **Pharaoh**  so that you can bring the Israelites out of their slavery in Egypt."
-  * **[[:tl:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed **Pharaoh **  that he is more powerful than **Pharaoh**  and all of Egypt's gods.
+  * **[[:tl:obs:notes:frames:08-06|[08-06]]]** Isang gabi nanaginip ng dalawang beses ang** Paraon**, ito ang tawag ng mga tao sa Egypt sa hari nila.
+  * **[[:tl:obs:notes:frames:08-08|[08-08]]]** Talagang napahanga ang **Paraon**  kay Joseph kaya ginawa niya itong pangalawang pinakamataas na pinuno sa buong Egypt.
+  * **[[:tl:obs:notes:frames:09-02|[09-02]]]** Natakot sila sa mga Israelita dahil masyado na silang marami kaya ginawang alipin ng namumunong** Paraon**  noon sa Egypt ang mga Israelita.
+  * **[[:tl:obs:notes:frames:09-13|[09-13]]]**"Pumunta ka sa** Paraon**  para mapalaya ang mga Israelita sa pagkakaalipin sa Egypt. Ibibigay ko sa kanila ang lupain ng Canaan, ang lupang ipinangako ko kay Abraham, Isaac at Jacob.
+  * **[[:tl:obs:notes:frames:10-02|[10-02]]]** Patuloy na nagmatigas ang** Paraon**  at ayaw niya talagang pakawalan ang mga Israelita, kaya nagpadala ng sampung salot ang Diyos sa Egypt.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
