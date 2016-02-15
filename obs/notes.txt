@@ -3,7 +3,7 @@
 //In order to help translators of [[:en:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
   - [[:tl:obs:notes:01|Ang Kwento Tungkol sa Paglikha]]
   - [[:tl:obs:notes:02|Nagkaroon ng Kasalanan sa Mundo]]
-  - [[:tl:obs:notes:03|The Flood]]
+  - Ang Baha
   - [[:tl:obs:notes:04|God's Covenant with Abraham]]
   - [[:tl:obs:notes:05|The Son of Promise]]
   - [[:tl:obs:notes:06|God Provides for Isaac]]
