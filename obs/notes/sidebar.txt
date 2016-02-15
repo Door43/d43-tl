@@ -10,7 +10,7 @@
 [[:tl:obs:notes:05]]\\
 [[:tl:obs:notes:06]]\\
 [[:tl:obs:notes:07]]\\
-[[:tl:obs:notes:08]]\\
+
 [[:tl:obs:notes:09]]\\
 [[:tl:obs:notes:10]]\\
 [[:tl:obs:notes:11]]\\
