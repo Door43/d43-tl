@@ -13,19 +13,14 @@ Ang hari ay pinuno ng isang lugar o isang bansa. Ang isang tao ay maaaring magin
 
 {{topic>:en:bible?king&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:08-06|[08-06]]]**  One night, the Pharaoh, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
-  ***[[:tl:obs:notes:frames:16-01|[16-01]]]**  The Israelites had no **king**, so everyone did what they thought was right for them.
-  ***[[:tl:obs:notes:frames:16-18|[16-18]]]**  Finally, the people asked God for a **king** like all the other nations had.
-  ***[[:tl:obs:notes:frames:17-05|[17-05]]]**  Eventually, Saul died in battle, and David became **king** of Israel. He was a good **king**, and the people loved him.
-  ***[[:tl:obs:notes:frames:21-06|[21-06]]]**  God's prophets also said that the Messiah would be a prophet, a priest, and a **king**.
-  ***[[:tl:obs:notes:frames:48-14|[48-14]]]**  David was the **king** of Israel, but Jesus is the **king** of the entire universe! 
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:08-06|[08-06]]]** Isang gabi nanaginip ng dalawang beses ang Paraon, ito ang tawag ng mga tao sa Egypt sa **hari**  nila.
+  * **[[:tl:obs:notes:frames:16-01|[16-01]]]** Palibhasa’y wala pang **hari**  ang mga Israelita noon kaya ginagawa na lang nila ang tama sa paningin nila.
+  * **[[:tl:obs:notes:frames:16-18|[16-18]]]** Sa bandang huli **hari**  naman ang hinihiling nila sa Diyos para matulad sila sa ibang mga bansang may hari.
+  * **[[:tl:obs:notes:frames:17-05|[17-05]]]** Namatay rin si Saul sa isang digmaan at si David ang pumalit na** hari ** ng Israel.
+  * **[[:tl:obs:notes:frames:21-06|[21-06]]]** Sinabi din ng mga propeta ng Diyos na ang Messiah ay isang Propeta, Pari at **Hari**.
+  * **[[:tl:obs:notes:frames:48-14|[48-14]]]** Si David ang naging hari ng Israel pero si Jesus ang** hari**  ng buong kalawakan! Babalik siya upang mamuno sa kanyang kaharian na may katarungan at kapayapaan magpakailanman.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
