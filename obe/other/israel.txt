@@ -13,16 +13,14 @@ Israel ang ipinangalan ng Diyos kay Jacob na nangangahulugang "Nakipaglaban siya
 
 {{topic>:en:bible?israel&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:08-15|[08-15]]]** The descendants of the twelve sons became the twelve tribes of **Israel**.
-  ***[[:tl:obs:notes:frames:09-03|[09-03]]]** The Egyptians forced the **Israelites** to build many buildings and even whole cities.
-  ***[[:tl:obs:notes:frames:09-05|[09-05]]]** A certain **Israelite** woman gave birth to a baby boy.
-  ***[[:tl:obs:notes:frames:10-01|[10-01]]]** They said, "This is what the God of **Israel** says, 'Let my people go!'"
-  ***[[:tl:obs:notes:frames:14-12|[14-12]]]** But despite all this, the people of **Israel ** complained and grumbled against God and against Moses.
-  ***[[:tl:obs:notes:frames:15-09|[15-09]]]** God fought for **Israel** that day. He caused the Amorites to be confused and he sent large hailstones that killed many of the Amorites.
-  ***[[:tl:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of **Israel ** its own section of the Promised Land. Then God gave **Israel** peace along all its borders.
-  ***[[:tl:obs:notes:frames:16-16|[16-16]]]** So God punished **Israel ** again for worshiping idols.
-  ***[[:tl:obs:notes:frames:43-06|[43-06]]]** "Men of **Israel**, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know."
-
+  * **[[:tl:obs:notes:frames:08-15|[08-15]]]** Ang angkan ng labing dalawang anak ni Jacob ay naging labing dalawang tribo ng **Israel**.
+  * **[[:tl:obs:notes:frames:09-03|[09-03]]]** Pinilit ng mga Egipcio na gumawa ang mga **Israelita**  ng madaming gusali at pati mga lungsod.
+  * **[[:tl:obs:notes:frames:09-05|[09-05]]]** May isang babaeng **Israelita**  na nanganak ng sanggol na lalaki.
+  * **[[:tl:obs:notes:frames:10-01|[10-01]]]** Pumunta sina Moses at Aaron sa Paraon. Sinabi nila, “Pinapasabi ng Diyos ng Israel, ‘Palayain mo ang mga tao ko!”’ Pero hindi sumunod ang Paraon sa kanila at sa halip na palayain ang mga **Israelita**  ay sapilitan pa silang pinagtrabaho ng mas mabigat.
+  * **[[:tl:obs:notes:frames:15-09|[15-09]]]** Ang Diyos ang lumaban para sa** Israel**  nang araw na iyon.
+  * **[[:tl:obs:notes:frames:15-12|[15-12]]]** Pagkatapos ng labanan, binigyan ng Diyos ang bawat tribo ng **Israel**  ng kanya kanyang bahagi sa Lupaing Ipinangako ng Diyos at sa tulong din ng Diyos naging mapayapa ang buong** Israel**  at mga kalapit bansa.
+  * **[[:tl:obs:notes:frames:16-16|[16-16]]]** Dahil dito muling pinarusahan ng Diyos ang Bayan ng Israel.
+  * **[[:tl:obs:notes:frames:43-06|[43-06]]]** “Mga mamamayan ng **Israel**  si Jesus ay isang taong gumawa ng mga pambihirang pangitain at mga himala sa pamamagitan ng kapangyarihan ng Diyos, gaya ng alam niyo at nakita niyo siya pero ipinapako niyo sa krus!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
