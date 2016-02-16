@@ -16,10 +16,10 @@ Ang tupa ay uri ng hayop na may katamtamang laki na may apat na paa. Puno ito ng
 
 {{topic>:en:bible?sheep&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
-  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
-  * **[[:tl:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
-  * **[[:tl:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
+  * **[[:tl:obs:notes:frames:09-12|[09-12]]]** Isang araw habang pinapastol ni Moses ang mga** tupa**, nakakita siya ng maliit na punong- kahoy na nag-aapoy pero hindi natutupok ang punong-kahoy na ito.
+  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** Pinili ng Diyos ang binatang Israelita na si David para pumalit na hari kay Saul. Pastol siya ng** tupa**  sa Bethlehem. Sa magkakaibang pagkakataon ng pagbabantay niya sa mga** tupa**  ng ama niya, nakalaban at napatay niya ang isang leon at oso na sumalakay sa mga **tupa**.
+  * **[[:tl:obs:notes:frames:30-03|[30-03]]]** Mahigit limanlibong mga lalaki ang naroon at hindi pa kasama sa bilang ang mga babae at mga bata. Naawa sa kanila si Jesus dahil para silang mga** tupa**  na walang tagapag-alaga kaya nangaral si Jesus sa ang mga tao at pinagaling niya ang mga may sakit.
+  * **[[:tl:obs:notes:frames:38-08|[38-08]]]** Sinabi ni Jesus, “Iiwanan niyo na akong lahat ngayong gabi dahil nakasulat sa salita ng Diyos, ‘Papatayin ko ang pastol at magkakawatak-watak ang mga** tupa**.”’
 ~~DISCUSSION~~{{tag>publish ktobs}}
