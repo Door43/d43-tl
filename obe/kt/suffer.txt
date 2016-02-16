@@ -16,15 +16,15 @@ Ang ibig sabihin ng salitang “mahirap” at “paghihirap” ay pagdanas ng mg
 
 {{topic>:en:bible?suffer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:09-13|[09-13]]]** God said, "I have seen the **suffering**  of my people."
-  * **[[:tl:obs:notes:frames:38-12|[38-12]]]** Jesus prayed three times, "My Father, if it is possible, please let me not have to drink this cup of **suffering**."
-  * **[[:tl:obs:notes:frames:42-03|[42-03]]]** He (Jesus) reminded them that the prophets said the Messiah would **suffer**  and be killed, but would rise again on the third day.
-  * **[[:tl:obs:notes:frames:42-07|[42-07]]]** He (Jesus) said, "It was written long ago that the Messiah would **suffer**, die, and rise from the dead on the third day."
-  * **[[:tl:obs:notes:frames:44-05|[44-05]]]**"Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would **suffer**  and die."
-  * **[[:tl:obs:notes:frames:46-04|[46-04]]]** God said, "I have chosen him (Saul) to declare my name to the unsaved. I will show him how much he must **suffer**  for my sake."
-  * **[[:tl:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more **suffering**, sadness, crying, evil, pain, or death.
+  * **[[:tl:obs:notes:frames:09-13|[09-13]]]** Sinabi ng Diyos, “Nakita ko kung paano** pahirapan**  ang aking mga tao. Pumunta ka sa Paraon para mapalaya ang mga Israelita sa pagkakaalipin sa Egypt.
+  * **[[:tl:obs:notes:frames:38-12|[38-12]]]** JesusTatlong beses nanalangin si Jesus, “Ama, hangga’t maaari huwag mong hayaang maranasan ko ang **pagdurusang ** ito pero kung ito lang ang paraan para mapatawad ang mga tao sa mga kasalanan nila, gawin mo ang nararapat.”
+  * **[[:tl:obs:notes:frames:42-03|[42-03]]]** Ipinaliwanag ni Jesus sa kanila ang salita ng Diyos tungkol sa Messiah. Ipinaalala ni Jesus sa kanila ang sinabi ng mga propeta na** pahihirapan**  at papatayin ang Messiah pero muling bubuhayin pagkalipas ng tatlong araw.
+  * **[[:tl:obs:notes:frames:42-07|[42-07]]]** Sinabi niya (Jesus), “Nasusulat na noon pa na** maghihirap ** at mamamatay ang Messiah pero muling mabubuhay pagkalipas ng tatlong araw.”
+  * **[[:tl:obs:notes:frames:44-05|[44-05]]]**"Hindi niyo alam kung ano ang nagawa niyo pero ginamit iyon ng Diyos para matupad ang propesiya na** papahirapan**  ang Messiah at mamamatay kaya dapat magsisi kayo at sumunod sa Diyos para malinis ang mga kasalanan ninyo."
+  * **[[:tl:obs:notes:frames:46-04|[46-04]]]**”Sinabi naman sa kanya ng Diyos, “Pumunta ka dahil pinili ko siya (Paul) para ihayag ang pangalan ko sa mga Hudyo at sa iba pang mga tao. Marami siyang pagdaraanan na** hirap ** sa ngalan ko.”
+  * **[[:tl:obs:notes:frames:50-17|[50-17]]]** Pupunasan niya (Jesus) ang mga luha, mawawala ang mga **paghihirap**, kalungkutan, pag-iyak, kasamaan, hinagpis o kamatayan.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
