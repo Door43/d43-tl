@@ -18,21 +18,13 @@ Si Moses ay isang propeta. Naging pinuno siya ng mga Israelita sa loob ng 40 na 
 
 {{topic>:en:bible?moses&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
-  ***[[:tl:obs:notes:frames:12-05|[12-05]]]** **Moses** told the Israelites, "Stop being afraid! God will fight for you today and save you."
-  ***[[:tl:obs:notes:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
-  ***[[:tl:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  ***[[:tl:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:09-12|[09-12]]]** Isang araw habang pinapastol ni **Moses**  ang mga tupa, nakakita siya ng maliit na punong- kahoy na nag-aapoy pero hindi natutupok ang punong-kahoy na ito.
+  * **[[:tl:obs:notes:frames:12-05|[12-05]]]** Sinabi ni** Moses**  sa mga Israelita, “Huwag kayong matakot! Ililigtas kayo ng Diyos sa araw na ito, at siya ang lalaban para sa atin!” Sinabi naman ng Diyos kay **Moses**, “Sabihin mo sa mga tao na lumakad sila patungo sa Dagat na Pula.”
+  * **[[:tl:obs:notes:frames:12-07|[12-07]]]** Sinabi ng Diyos kay **Moses**  na itaas niya ang kanyang kamay paharap sa dagat at mahahati ang tubig.
+  * **[[:tl:obs:notes:frames:12-12|[12-12]]]** Nang makita ng mga Israelita na patay na ang mga Egipcio nagtiwala sila sa Diyos at naniwala din sila na si **Moses**  ay propeta nga ng Diyos.
+  * **[[:tl:obs:notes:frames:13-07|[13-07]]]** Isinulat ng Diyos ang mga utos na ito sa dalawang tipak ng bato at ibinigay kay **Moses**  at may iba pang mga utos na ibinigay ang Diyos para sundin ng mga Israelita.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
