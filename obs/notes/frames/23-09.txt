@@ -11,13 +11,28 @@ Sa malayong bayan ng Silangan, may mga lalaking dalubhasa at nakakita sila ng na
   * **[[:tl:obe:other:bethlehem|Bethlehem]]**
   * **[[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, "From their studies, these scholars realized."
-  * **the house** - They were no longer staying in the place for animals where he was born.
+  * **lumipas ang panahon**
+ -
+Hindi malinaw kung gaano na katagal na panahon na ang lumipas matapos ipanganak si Jesus bago nakita ng mga dalubhasa ang bituin pero maaaring inabot sila ng dalawang taon para maghanda sa kanilang paglalakbay papuntang Bethlehem.
+
+
+  * **mga lalaking dalubhasa**  -
+Ang “mga dalubhasa” ay maaaring may mga kaalaman tungkol sa mga bituin. Maaaring nakakabasa din sila ng mga kasulatan ng mga propeta mula sa Lumang Tipan at may nakapagsabi doon tungkol sa kapanganakan ng Messiah o Tagapagligtas.
+
+
+  * **naiibang bituwin**  -
+Ang nakita nilang bituwin ay hindi pangkaraniwang bituwin. Ito ay lumitaw lamang noong kapanganakan ni Jesus.
+
+
+  * **naisip nila**  -
+Maaarig idagdag, “Ayon sa pag-aaral, naisip ng mga dalubhasa na..”
+
+
+  * **ang tirahan**  -
+Hindi na sila nananatili sa lugar kung saan nakatira ang mga hayop kung saan ipinanganak si Jesus.
+
 
 
 **[[:tl:obs:notes:frames:23-08|<<]] | [[:tl:obs:notes:23|Up]] | [[:tl:obs:notes:frames:23-10|>>]]**
