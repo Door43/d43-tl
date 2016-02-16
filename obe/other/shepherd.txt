@@ -23,11 +23,11 @@ Ang pastol ay isang taong tagapag-alaga ng mga tupa. Ang ibig sabihin ng salitan
 
 {{topic>:en:bible?shepherd&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
-  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
-  * **[[:tl:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
-  * **[[:tl:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
-  * **[[:tl:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
+  * **[[:tl:obs:notes:frames:09-11|[09-11]]]** Naging** pastol**  si Moses sa ilang malayo sa Egypt.
+  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** Pinili ng Diyos ang binatang Israelita na si David para pumalit na hari kay Saul.** Pastol**  siya ng tupa sa Bethlehem.
+  * **[[:tl:obs:notes:frames:23-06|[23-06]]]** Nang gabing iyon may mga** pastol**  sa malapit na nagbabantay ng mga tupa nila.
+  * **[[:tl:obs:notes:frames:23-08|[23-08]]]** ‘Di nagtagal dumating nga ang mga **pastol**  sa lugar kung nasaan si Jesus at nakita nila siyang nakahiga sa lalagyan ng pagkain ng mga hayop gaya ng sinabi ng anghel.
+  * **[[:tl:obs:notes:frames:30-03|[30-03]]]** Mahigit limanlibong mga lalaki ang naroon at hindi pa kasama sa bilang ang mga babae at mga bata. Naawa sa kanila si Jesus dahil para silang mga tupa na walang **tagapag-alaga**  kaya nangaral si Jesus sa ang mga tao at pinagaling niya ang mga may sakit.
 ~~DISCUSSION~~{{tag>publish ktobs }}
