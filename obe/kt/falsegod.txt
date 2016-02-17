@@ -19,13 +19,13 @@ ang diyos – diyosan ay isang bagay na sinasamba ng mga tao sa halip na sambahi
 
 {{topic>:en:bible?falsegod&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
-  * **[[:tl:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
-  * **[[:tl:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
-  * **[[:tl:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
-  * **[[:tl:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
+  * **[[:tl:obs:notes:frames:10-02|[10-02]]]** Dahil sa mga salot na ito, pinatunayan ng Diyos sa Paraon na mas makapangyarihan siya sa kanya at sa lahat ng mga **diyos**  ng Egypt.
+  * **[[:tl:obs:notes:frames:13-04|[13-04]]]** Gumawa ng isang kasunduan ang Diyos sa mga Israelita. Sinabi niya, “Ako si Yahweh, ang Diyos niyo na nagligtas sa inyo mula sa pagkakaalipin mula sa Egypt. Huwag kayong sasamba sa ibang **diyos**.”
+  * **[[:tl:obs:notes:frames:14-02|[14-02]]]** Hindi sumasamba at sumusunod sa Diyos ang mga Canaanneo.** diyos-diyosan ** ang sinasamba nila at marami silang ginagawang masasama.
+  * **[[:tl:obs:notes:frames:16-01|[16-01]]]** Sinasamba na rin nila ang mga **diyus-diyosan ** ng mga Canaaneo sa halip na ang tunay na Diyos na si Yahweh.
+  * **[[:tl:obs:notes:frames:18-13|[18-13]]]**Pero karamihan rin sa mga naging hari (ng judah) ay masasama at gumagawa ng mali para makuha lang ang gusto nila, sumasamba rin sila sa mga** diyos-diyosan**  at ang ilan sa mga haring ito ay naghahandog rin ng sarili nilang anak. Karamihan din sa mga mamamayan ng Judah ay tinalikuran na rin ang Diyos at sumamba na rin sa mga **diyos-diyosan.**
 ~~DISCUSSION~~{{tag>publish knobs}}
 
 ~~NOCACHE~~
