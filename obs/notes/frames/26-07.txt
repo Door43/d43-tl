@@ -9,10 +9,19 @@ Kinaladkad ng mga taga Nazareth si Jesus palabas mula sa pinagsasambahan ng mga 
   * **[[:tl:obe:other:nazareth|Nazareth, Nazarene]]**
   * **[[:tl:obe:kt:worship|sumamba, pagsamba]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **place of worship** - That is, "the building where the Jewish people gathered to worship God." This can also be translated as "worship building." See how you translated it in **[[:tl:obs:notes:frames:26-02|[26-02]]]**.
-  * **But Jesus walked through the crowd** - "But" could be translated with a strong contrast word or phrase such as "But instead" or, "However" to show that the people were not able to do to Jesus what they had planned to do.
+  * **pinagsasambahan**
+ -
+Tignan kung paano naisalin sa kwento #
+
+ **[[:tl:obs:notes:frames:26-02|[26-02]]]**.
+  * **
+lumakad lang si Jesus palayo sa kalagitnaan ng maraming tao
+
+ **-
+Ang salitang “pero” ay maaaring gamitin o kaya naman ang mga salita kagaya ng “pero sa halip...” o kaya, “kahit papaano” para maipakita na hindi nagawa ng mga tao ang gusto nilang gawin kay Jesus.
+
 
 
 **[[:tl:obs:notes:frames:26-06|<<]] | [[:tl:obs:notes:26|Up]] | [[:tl:obs:notes:frames:26-08|>>]]**
