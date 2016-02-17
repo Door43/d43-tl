@@ -9,9 +9,14 @@ Nilibot ni Jesus ang rehiyon ng Galilee at maraming tao ang sumunod sa kanya. Di
   * **[[:tl:obe:other:galilee|Galilee, Galilean]]**
   * **[[:tl:obe:other:heal|Gumaling, Pagpapagaling]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **went throughout the region of Galilee** - That is, "all around in Galilee" or, "from place to place in Galilee."
+  * **
+nilibot ni Jesus ang rehiyon ng Galilee
+
+ **-
+Ibig sabihin, “sa buong ng Galilee” o kaya “lahat ng lugar sa Galilee.”
+
 
 
 **[[:tl:obs:notes:frames:26-07|<<]] | [[:tl:obs:notes:26|Up]] | [[:tl:obs:notes:frames:26-09|>>]]**
