@@ -9,15 +9,11 @@ ang diyos – diyosan ay isang bagay na sinasamba ng mga tao sa halip na sambahi
   * Sa Bibliya, palaging sinusuway ng mga tao ang Diyos sa pamamagitan ng pagsamba nila sa mga imahe o rebulto ng kanilang mga diyos – diyosan.
   * Palaging nililinlang ng mga demonyo ang mga tao para maniwala silang may kapangyarihan ang mga diyos – diyosan na sinasamba nila.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * There may already be a word for "god" or "false god" in the language or in a nearby language.
-  * The term "idol" could be used to refer to false gods.
-  * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
-  * Another option would be to use a different word to refer to the false gods.
-  * Some languages may add a word to specify whether the false god is described as male or female.
-
-(See also: [[:tl:obe:kt:god]], [[:En:obe:other:asherah]], [[:tl:obe:other:baal]], [[:En:obe:other:molech]], [[:tl:obe:other:idol]], [[:tl:obe:kt:demon]], [[:En:obe:other:image]])
+  * ang salitang "rebulto" ay maaaring tumutukoy sa diyos-diyosan.
+  * kapag ang Diyos ay nagsisimula sa malaking titik "D" tinutukoy nito ang tunay na Diyos. kapag "d" naman ito ay tumutukoy sa diyos-diyosan.
+  * ang salitang "diyosa"(godess) ay tumutukoy sa babaeng diyos-diyosan.
 
 ===== Bible References: =====
 
