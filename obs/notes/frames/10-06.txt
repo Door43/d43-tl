@@ -14,7 +14,5 @@ Ang sumunod na salot ay ang pagkakasakit at pagkamatay ng mga alagang hayop ng m
 ==== Talaan para sa Pagsasalin: ====
 
   * **alagang hayop**  - Tinutukoy nito ang mga hayop na ginagamit ng mga Egipcio sa kanilang pagtatrabaho, kagaya ng kabayo, kamelyo, kambing at mga tupa.
-  * **napakatigas nng puso**  - Tignan sa Kwento #
-**[[:tl:obs:notes:frames:10-04|[10-04]]]**.
-
-**[[:tl:obs:notes:frames:10-05|<<]] | [[:tl:obs:notes:10|Up]] | [[:tl:obs:notes:frames:10-07|>>]]**
+  * **napakatigas nng puso**  - Tignan sa Kwento **[[:tl:obs:notes:frames:10-04|[10-04]]]**.
+**[[:tl:obs:notes:frames:10-05|<<]] | [[:tl:obs:notes:10|Pataas]]**** | [[:tl:obs:notes:frames:10-07|>>]]**
