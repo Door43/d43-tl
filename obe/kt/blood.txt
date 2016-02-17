@@ -16,15 +16,14 @@ Ang Dugo ay simbolo ng buhay at ang pagdanak ng dugo ay sumisimbolo sa kamatayan
 
 {{topic>:en:bible?blood&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:08-03|[08-03]]]** Before Joseph's brothers returned home, they tore Joseph's robe and dipped it in goat's **blood**.
-  * **[[:tl:obs:notes:frames:10-03|[10-03]]]** God turned the Nile River into **blood**, but Pharaoh still would not let the Israelites go.
-  * **[[:tl:obs:notes:frames:11-05|[11-05]]]** All the houses of the Israelites had **blood**  around the doors, so God passed over those houses and everyone inside was safe. They were saved because of the lamb's **blood**.
-  * **[[:tl:obs:notes:frames:13-09|[13-09]]]** The **blood**  of the animal that was sacrificed covered the person's sin and made that person clean in God's sight.
-  * **[[:tl:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my **blood**  of the New Covenant that is poured out for the forgiveness of sins.
-  * **[[:tl:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the **blood**  of Jesus takes away that person's sin, and God's punishment passes over him.
-
+  * **[[:tl:obs:notes:frames:08-03|[08-03]]]** Bago umuwi ang mga kapatid ni Joseph kinuha nila ang damit niya. Pinagpupunit nila ito at isinawsaw sa **dugo**  ng kambing.
+  * **[[:tl:obs:notes:frames:10-03|[10-03]]]** Naging** dugo**  ang tubig sa Ilog Nile dahil sa kapangyarihan ng Diyos pero ayaw pa rin palayain ng Paraon ang mga Israelita.
+  * **[[:tl:obs:notes:frames:11-05|[11-05]]]** Lahat naman ng bahay ng mga Israelita ay may **dugo**  sa palibot ng kanilang mga pintuan  kaya nilampasan ng Diyos ang mga bahay nila. Lahat ng nasa loob ay ligtas dahil sa **dugo ** ng tupa.
+  * **[[:tl:obs:notes:frames:13-09|[13-09]]]** Ang **dugo**  ng inihandog na hayop ang magtatakip sa kasalanan ng tao at maglilinis sa kanya sa harapan ng Diyos.
+  * **[[:tl:obs:notes:frames:38-05|[38-05]]]** Pagkatapos ay kinuha niya ang baso at sinabi, “Inumin niyo ito. Ito ang aking **dugo**  na dadanak para sa kapatawaran ng mga kasalanan na siya ring simula ng Bagong Kasunduan.
+  * **[[:tl:obs:notes:frames:48-10|[48-10]]]** Ang **dugo**  ni Jesus ang nagiging kabayaran sa kasalanan ng taong iyon at hindi rin siya maisasali sa mga paparusahan ng Diyos.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
