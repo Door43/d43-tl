@@ -12,9 +12,14 @@ Pagkatapos sinabi ni Jesus, “Totoo ngang hindi talaga tinatanggap ang isang pr
   * **[[:tl:obe:other:israel|Israel, Israelita]]**
   * **[[:tl:obe:kt:god|Diyos]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **no prophet is accepted in his hometown** - This phrase means, "people do not recognize the authority of a prophet that has grown up among them."
+  * **
+hindi talaga tinatanggap ang isang propeta sa sarili niyang bayan
+
+ **-
+Ang ibig sabihin nito, “hindi kinikilala ng mga tao ang isang propeta na lumaki kasama nila.”
+
 
 
 **[[:tl:obs:notes:frames:26-04|<<]] | [[:tl:obs:notes:26|Up]] | [[:tl:obs:notes:frames:26-06|>>]]**
