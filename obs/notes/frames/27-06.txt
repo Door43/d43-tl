@@ -4,12 +4,11 @@
 
 “Hindi nagtagal, isang Paring Hudyo ang napadaan din doon. Nang makita ng Pari ang lalaking binugbog at pinagnakawan, lumihis siya ng daan, hindi niya pinansin ang lalaking nangangailangan ng tulong, at nagpatuloy sa pag-alis.”
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:jew]]**
-  * **[[:tl:obe:kt:priest]]**
-  * **[[:tl:obe:other:jewishleaders]]**
-
+  * **[[:tl:obe:other:jew|Hudyo]]**
+  * **[[:tl:obe:kt:priest|pari, pagkapari]]**
+  * **[[:tl:obe:other:jewishleaders|Pinuno ng Hudyo]]**
 
 ===== Translation Notes: =====
 
