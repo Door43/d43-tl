@@ -4,12 +4,11 @@
 
 “Maya-maya pa, isang Levita ang napadaan din doon. (Ang Levita ay isang tribo ng mga Hudyo na tumutulong sa mga Pari sa templo). Lumihis din ang Levita ng daan at hindi niya din pinansin ang taong pinagnakawan at binugbog.”
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:jew]]**
-  * **[[:tl:obe:kt:priest]]**
-  * **[[:tl:obe:kt:temple]]**
-
+  * **[[:tl:obe:other:jew|Hudyo]]**
+  * **[[:tl:obe:kt:priest|pari, pagkapari]]**
+  * **[[:tl:obe:kt:temple|temple]]**
 
 ===== Translation Notes: =====
 
