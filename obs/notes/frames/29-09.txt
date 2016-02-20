@@ -10,14 +10,29 @@ Pagkatapos sinabi ni Jesus, “Ito rin ang gagawin ng aking Amang nasa langit sa
   * **[[:tl:obe:kt:godthefather|Diyos Ama, Amang nasa Langit]]**
   * **[[:tl:obe:kt:forgive|magpatawad, pagpapatawad]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **Then Jesus said** - Some languages may add, "to his disciples."
-  * **This** - "This" refers back to the way the king punished the unforgiving servant in **[[:tl:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father** - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother** - See how you translated this in **[[:tl:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Pagkatapos, sinabi ni Jesus**  -
+Maaaring idagdag sa ibang wika, “sa kaniyang mga disipulo.”
 
+
+  * **Ito**  -
+Tinutukoy nito kung paano pinarusahan sa lingkod na hindi nagpatawad sa Kwento #
+
+ **[[:tl:obs:notes:frames:29-08|[29-08]]]**.
+  * **Aking Amang nansa langit**  -
+Ang ibig sabihin, “ang Ama kong nasa langit.” Ipinapaalam ni Jesus ang mamalim niyang kaugnayan sa Diyos Ama.
+
+
+  * **ng kapwa**  -
+Tignan sa Kwento #
+
+ **[[:tl:obs:notes:frames:29-01|[29-01]]]**.
+  * **ng buong puso**  -
+Ang ibig sabihin, “taos puso” o kaya “tunay” o kaya “ng may katapatan”.
+
+
+  * //Ito ay Kwento mula sa//
+ - Ang pinagmulan nito ay maaaring may pagkakaiba mila sa ilang mga naisalin sa Bibliya
 
 **[[:tl:obs:notes:frames:29-08|<<]] | [[:tl:obs:notes:29|Up]] | [[:tl:obs:notes:frames:30-01|>>]]**
