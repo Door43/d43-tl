@@ -9,10 +9,16 @@ Isang araw si Jesus at ang mga alagad niya ay sumakay ng bangka at tumawid sa ka
   * **[[:tl:obe:kt:jesus|Examples from the Bible stories:]]**
   * **[[:tl:obe:kt:disciple|alagad, disipulo]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
+  * **Isang araw**
+ -
+Sinasabi nito ang isang pangyayari sa nakaraan pero walang nakasaad na tiyak na oras. Maraming mga salita sa ibang mga wika ang maaaring gamitin para sa pagsisimula ng kwento.
+
+
+  * **taga-Gerasene**  -
+Ang mga Gerasenes ay naninirahan sa silangang bahagi ng Dagat ng Galilee. Sila ay mula sa lahi ng mga Hudyo, pero kaunti lamang ang nalalaman natin tungkol sa kanila.
+
 
 
 **[[:tl:obs:notes:frames:31-08|<<]] | [[:tl:obs:notes:32|Up]] | [[:tl:obs:notes:frames:32-02|>>]]**
