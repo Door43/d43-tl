@@ -9,10 +9,16 @@ Nakita ng mga tagapag-alaga ng baboy ang mga pangyayari kaya nagtakbuhan sila pa
   * **[[:tl:obe:kt:jesus|Examples from the Bible stories:]]**
   * **[[:tl:obe:kt:demon|demonyo]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **what happened** - That is, "how Jesus sent the demons out of the man and into the pigs."
-  * **who used to have the demons** - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
+  * **ang mga pangyayari**  -
+Ibig sabihin, “kung paano pinalabas ni Jesus mula sa sinapian ang mga demonyo at pinapasok sa mga baboy.”
+
+
+  * **sinapian ng demonyo**
+ -
+Ibig sabihin, “kung kanino nanahan ang mga demonyo” o kaya, “kung sino ang napasailalim ng mga demonyo.”
+
 
 
 **[[:tl:obs:notes:frames:32-08|<<]] | [[:tl:obs:notes:32|Up]] | [[:tl:obs:notes:frames:32-10|>>]]**
