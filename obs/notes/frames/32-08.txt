@@ -8,9 +8,12 @@ Lumabas ang mga demonyo sa lalaki at sumanib nga sila sa mga baboy. Nagtakbuhan 
 
   * **[[:tl:obe:kt:demon|demonyo]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **herd** - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
+  * **mga baboy**
+ -
+Ang ibig sabihin, “grupo ng mga baboy.” Maraming mga wika ang gumagamit ng mga salita para sa grupo ng mg hayop. Gumamit ng salita na naaayon para sa malaking grupo ng baboy.
+
 
 
 **[[:tl:obs:notes:frames:32-07|<<]] | [[:tl:obs:notes:32|Up]] | [[:tl:obs:notes:frames:32-09|>>]]**
