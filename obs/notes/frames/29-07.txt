@@ -4,11 +4,10 @@
 
 “Nakita naman ito ng mga kasamahan nilang mga lingkod at lubos silang nabahala kaya pumunta sila sa hari at nagsumbong.”
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:servant]]**
-  * **[[:tl:obe:other:king]]**
-
+  * **[[:tl:obe:other:servant|lingkod, alipin, pagkaka-alipin]]**
+  * **[[:tl:obe:other:king|hari]]**
 
 ===== Translation Notes: =====
 
