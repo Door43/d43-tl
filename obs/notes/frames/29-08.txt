@@ -4,14 +4,13 @@
 
 “Ipinatawag ng hari ang lingkod at sinabi sa kanya, ‘Napakasama mong lingkod! Kinalimutan ko lahat ng utang mo dahil nagmakaawa ka sa akin. Ganun din dapat ang ginawa mo.’ Sa sobrang galit ng hari, ipinakulong niya ang masamang lingkod hanggang sa makabayad siya sa lahat ng mga utang niya.”
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:king]]**
-  * **[[:tl:obe:other:servant]]**
-  * **[[:tl:obe:kt:forgive]]**
-  * **[[:tl:obe:other:beg]]**
-  * **[[:tl:obe:kt:evil]]**
-
+  * **[[:tl:obe:other:king|hari]]**
+  * **[[:tl:obe:other:servant|lingkod, alipin, pagkaka-alipin]]**
+  * **[[:tl:obe:kt:forgive|magpatawad, pagpapatawad]]**
+  * **[[:tl:obe:other:beg|Nagmakaawa, pagmamakaawa]]**
+  * **[[:tl:obe:kt:evil|masama, kasamaan]]**
 
 ===== Translation Notes: =====
 
