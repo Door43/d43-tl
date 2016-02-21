@@ -8,10 +8,12 @@
 
   * **[[:tl:obe:other:servant|lingkod, alipin, pagkaka-alipin]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * (Jesus continues the story.)
-  * **What am I doing?** - That is, "Why am I living like this?" or, " I should not be living like this!" or, "It doesn't make sense for me to live like this." The son isn't really asking a question, so some languages will have to translate this as a statement.
+  * **Ano ba itong ginagawa ko?**
+ -
+Ang ibig sabihin, “Bakit ako namumuhay ng ganito?” o kaya, “Hindi dapat ako namumuhay ng ganito!” Hindi nagtatanong ang anak dito kaya sa ibang mga wika maaaring sabihin ito ng pasalaysay.
+
 
 
 **[[:tl:obs:notes:frames:35-05|<<]] | [[:tl:obs:notes:35|Up]] | [[:tl:obs:notes:frames:35-07|>>]]**
