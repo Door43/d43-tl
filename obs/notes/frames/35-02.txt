@@ -10,9 +10,11 @@ Naroon rin ang ilan sa mga pinuno ng relihiyon at napansin nilang tinuturing na 
   * **[[:tl:obe:kt:jesus|Examples from the Bible stories:]]**
   * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **story** - Jesus used this story to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
+  * **kwentong ito**  -
+Ginamit ni Jesus ang mga kwentong ito para ituro ang katotohanan tungkol sa kaharian ng Diyos. Hindi malinaw kung totoong nangyari ang mga pangyayaring iyon o hindi. Kung may mga ibang salitang magagamit sa iyong wika para sa mga kwentong totoong nangyari o kathang isip lamang, mas maigi kung gagamitin ang mga ito.
+
 
 
 **[[:tl:obs:notes:frames:35-01|<<]] | [[:tl:obs:notes:35|Up]] | [[:tl:obs:notes:frames:35-03|>>]]**
