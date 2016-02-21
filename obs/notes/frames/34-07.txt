@@ -4,14 +4,13 @@
 
 “Nagdasal ng ganito ang pinuno ng relihiyon, ‘Salamat po oh Diyos, dahil hindi ako makasalanan gaya ng ibang mga tao na mga magnanakaw, na mga mandaraya, na mga nangangalunya o kagaya ng taong iyan na maniningil ng buwis.”’
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:jewishleaders]]**
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:kt:sin]]**
-  * **[[:tl:obe:kt:adultery]]**
-  * **[[:tl:obe:other:taxcollector]]**
-
+  * **[[:tl:obe:other:jewishleaders|Pinuno ng Hudyo]]**
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
+  * **[[:tl:obe:kt:adultery|adultery, adulterous, adulterer, adulteress]]**
+  * **[[:tl:obe:other:taxcollector|maniningil ng buwis]]**
 
 ===== Translation Notes: =====
 
