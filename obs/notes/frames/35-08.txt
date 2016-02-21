@@ -10,11 +10,15 @@
   * **[[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]]**
   * **[[:tl:obe:kt:god|Diyos]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * (Jesus continues the story.)
-  * **sinned against God and against you** - This could be translated as, "sinned against God, and I have also sinned against you."
-  * **I am not worthy** - It is also possible to say, "So I am not worthy" or, "As a result, I am not worthy."
+  * **nagkasala ako sa Diyos at sa iyo**  -
+Maaring isalin ng ganito “nagkasala ako sa Diyos at nagkasala rin ako sa iyo.”
+
+
+  * **Hindi ako nararapat**  -
+Maaaring sabihin na, “kaya hindi ako karapat-dapat.”
+
 
 
 **[[:tl:obs:notes:frames:35-07|<<]] | [[:tl:obs:notes:35|Up]] | [[:tl:obs:notes:frames:35-09|>>]]**
