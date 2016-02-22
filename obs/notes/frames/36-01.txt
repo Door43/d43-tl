@@ -12,10 +12,15 @@ Isang araw isinama ni Jesus ang tatlo sa mga apostol niyang sina Peter, James at
   * **[[:tl:obe:other:johntheapostle|John (ang Apostol)]]**
   * **[[:tl:obe:kt:baptize|bawtismo]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **James** - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
+  * **Isang araw**  -
+Sinasabi nito ang isang pangyayari sa nakaraan pero walang nakasaad na tiyak na oras. Maraming mga salita sa ibang mga wika ang maaaring gamitin para sa pagsisimula ng kwento.
+
+
+  * **James**  -
+Ang James na ito ay iba sa James na sumulat ng Aklat ng James sa Bibliya. Para maging mas malinaw sa ibang wika, maaaring pag-ibahin ang pagkakasulat ng titik kanilang pangalan para makita ang pagkakaiba nila.
+
 
 
 **[[:tl:obs:notes:frames:35-13|<<]] | [[:tl:obs:notes:36|Up]] | [[:tl:obs:notes:frames:36-02|>>]]**
