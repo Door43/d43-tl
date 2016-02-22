@@ -10,12 +10,24 @@ Ang libingan ni Lazarus ay kwebang tinakpan ng bato. Pagdating doon ni Jesus sin
   * **[[:tl:obe:kt:jesus|Examples from the Bible stories:]]**
   * **[[:tl:obe:kt:death|Kamatayan, Patay, Mamatay]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **he told them** - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
-  * **Roll the stone away** - Some languages may prefer to say, "Roll the stone away from the opening of the tomb."
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:tl:obs:notes:frames:37-01|[37-01]]]**.
-  * **He has been dead for four days** - This could also be translated as, "He died four days ago and his body is lying there."
+  * **sinabi niya**  -
+Ibig sabihin, “sinabi niya sa mga lalaking nandoon.” Marahil hindi niya kina Mary at Martha sinabi na pagulungin ang bato.
+
+
+  * **igulong ninyo palayo ang bato**
+ -
+Sa ibang mga wika, maaaring sabihing, “igulong ang bato papalayo mula sa pasukan ng libingan.”
+
+
+  * **Martha**  -
+Tignan sa Kwento #
+
+ **[[:tl:obs:notes:frames:37-01|[37-01]]]**.
+  * **Apat na araw nang patay si Lazarus**  -
+Maaaring isalin ng ganito, “namatay siya apat na araw na ang nakalipas at nakaratay na ang kanyang katawan doon.”
+
 
 
 **[[:tl:obs:notes:frames:37-06|<<]] | [[:tl:obs:notes:37|Up]] | [[:tl:obs:notes:frames:37-08|>>]]**
