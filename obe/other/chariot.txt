@@ -10,14 +10,10 @@ Ang kalesa ay isang kariton na may dalawang gulong at hinihila ng mga kabayo.
 
 {{topic>:en:bible?chariot&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Halimbawa sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:12-10|[12-10]]]** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their **chariots** to get stuck. 
-  ***[[:tl:obs:notes:frames:45-07|[45-07]]]** As he walked along the road, Philip saw an important official from Ethiopia riding in his **chariot**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:12-10|[12-10]]]** Gumawa ng paraan ang Diyos para mataranta sila at ang **kalesa**  nila ay hindi makausad kaya nagsigawan sila at sinabi, “Umatras na tayo dahil ipinaglalaban ng Diyos ang mga Israelita!”
+  * **[[:tl:obs:notes:frames:45-07|[45-07]]]** Habang naglalakad siya sa daan nakita ni Philip ang isang mataas na opisyal na galing sa Ethiopia na nakasakay sa **kalesa**. Sinabi ng Banal na Espiritu kay Philip na lapitan niya at kausapin ang taong ito.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
