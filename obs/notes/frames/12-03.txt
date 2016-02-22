@@ -10,7 +10,7 @@ Hindi nagtagal nagbago ang isip ng Paraon at ng mga tauhan niya at gusto nilang 
   * **[[:tl:obe:other:israel|Israel, Israelita]]**
   * **[[:tl:obe:other:servant|lingkod, alipin, pagkaka-alipin]]**
   * **[[:tl:obe:kt:god|Diyos]]**
-  * **[[:tl:obe:kt:falsegod|diyos-diyosan]]**
+  * **[[:tl:obe:kt:falsegod|diyos-diyosan, diyos]]**
 
 ==== Talaan para sa Pagsasalin: ====
 
