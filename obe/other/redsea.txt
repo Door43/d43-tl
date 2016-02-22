@@ -10,13 +10,9 @@ Ito ay anyo ng tubig na naghihiwalay sa Hilagang Africa at Arabian Peninsula.
 (Tignan rin sa: [[:tl:obe:other:egypt|Egypt, Egipcio]], [[:tl:obe:kt:promisedland|Lupang Pangako]])
 
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:12-04|[12-04]]]**  When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
-  ***[[:tl:obs:notes:frames:12-05|[12-05]]]**  Then God told Moses, "Tell the people to move toward the **Red Sea**."
-  ***[[:tl:obs:notes:frames:13-01|[13-01]]]**  After God led the Israelites through the **Red Sea**, he led them through the wilderness to a mountain called Sinai.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tl:obs:notes:frames:12-04|[12-04]]]** Nang makita ng mga Israelita ang mga sundalo ng Egypt na parating, naisip nila na wala silang mapupuntahan dahil nasa pagitan sila ng sundalo at** Dagat na Pula**.
+  * **[[:tl:obs:notes:frames:12-05|[12-05]]]** Sinabi ni Moses sa mga Israelita, “Huwag kayong matakot! Ililigtas kayo ng Diyos sa araw na ito, at siya ang lalaban para sa atin!” Sinabi naman ng Diyos kay Moses, “Sabihin mo sa mga tao na lumakad sila patungo sa **Dagat na Pula**.”
+  * **[[:tl:obs:notes:frames:13-01|[13-01]]]** Pagkatapos samahan ng Diyos ang mga Israelita sa pagtawid sa** Dagat na Pula**, ginabayan niya ang mga ito sa paglalakbay sa ilang papunta sa Bundok ng Sinai.
+~~DISCUSSION~~{{tag>publish ktobs}}
