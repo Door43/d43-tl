@@ -6,7 +6,7 @@ Lumikha ang Diyos ng isang mundong perpekto para kay Adam at Eve, ngunit sa kabi
 
 ====== Isalin ang Kwento ======
 
-Pindutin ang mga larawan sa baba para isalin ang bawat talata rito.
+Pindutin ang mga larawan sa baba para maisalin ang bawat talata rito.
 
 [[:tl:obs:notes:frames:02-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&200}}]]\\
 Ang Mundong Walang Kapintasan [02-01]\\
@@ -43,6 +43,6 @@ Isinumpa ng Diyos ang Lalaki [02-11]\\
 \\
 [[:tl:obs:notes:frames:02-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&200}}]]\\
 Pinaalis si Adam at Eve [02-12]\\
-//Kwento mula sa: Genesis 3//
+//Kwento mula sa Genesis 3//
 
 **[[:en:obs:notes:01|<< Nakaraan]] | [[:en:obs:notes:03|Susunod >>]]**
