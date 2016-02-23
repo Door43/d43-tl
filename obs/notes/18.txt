@@ -6,50 +6,47 @@ Biniyayaan ng Diyos ng karunungan at Kayamanan si Solomon. Nagpagawa ng magandan
 
 ====== Translate the Story ======
 
-
 Click on the links below to translate each frame of the story.
 
+[[:tl:obs:notes:frames:18-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-01.jpg?nolink&200}}]]\\
+Pinagkalooban ng Karunungan si Solomon [18-01]
 
-[[:tl:obs:notes:frames:18-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-01.jpg?200|Frame 18-01}}]]\\ 
-God Made Solomon Wise [18-01]\\ 
+[[:tl:obs:notes:frames:18-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?nolink&200}}]]\\
+Itinayo ni Solomon ang Templo [18-02]
 
-[[:tl:obs:notes:frames:18-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-02.jpg?200|Frame 18-02}}]]\\ 
-Solomon Built the Temple [18-02]\\ 
+[[:tl:obs:notes:frames:18-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-03.jpg?nolink&200}}]]\\
+Sumamba si Solomon sa mga Diyus-diyosan [18-03]
 
-[[:tl:obs:notes:frames:18-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-03.jpg?200|Frame 18-03}}]]\\ 
-Solomon Served Other Gods [18-03]\\ 
+[[:tl:obs:notes:frames:18-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?nolink&200}}]]\\
+Mahahati ang Kaharian [18-04]
 
-[[:tl:obs:notes:frames:18-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-04.jpg?200|Frame 18-04}}]]\\ 
-The Kingdom Would Divide [18-04]\\ 
+[[:tl:obs:notes:frames:18-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-05.jpg?nolink&200}}]]\\
+Naging Hari si Rehoboam [18-05]
 
-[[:tl:obs:notes:frames:18-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-05.jpg?200|Frame 18-05}}]]\\ 
-Rehoboam Became King [18-05]\\ 
+[[:tl:obs:notes:frames:18-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?nolink&200}}]]\\
+Ang Pabalang na Sagot ni Rehoboam [18-06]
 
-[[:tl:obs:notes:frames:18-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-06.jpg?200|Frame 18-06}}]]\\ 
-Rehoboam's Foolish Answer [18-06]\\ 
+[[:tl:obs:notes:frames:18-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?nolink&200}}]]\\
+Nagrebelde ang Sampung Tribo [18-07]
 
-[[:tl:obs:notes:frames:18-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-07.jpg?200|Frame 18-07}}]]\\ 
-Israel Rebelled against Judah [18-07]\\ 
+[[:tl:obs:notes:frames:18-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?nolink&200}}]]\\
+Naging Hari ng Israel si Jeroboam [18-08]
 
-[[:tl:obs:notes:frames:18-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-08.jpg?200|Frame 18-08}}]]\\ 
-Jeroboam Ruled Israel [18-08]\\ 
+[[:tl:obs:notes:frames:18-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?nolink&200}}]]\\
+Gumawa ng Diyus-diyosan si Jeroboam [18-09]
 
-[[:tl:obs:notes:frames:18-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-09.jpg?200|Frame 18-09}}]]\\ 
-Jeroboam Made an Idol [18-09]\\ 
+[[:tl:obs:notes:frames:18-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-10.jpg?nolink&200}}]]\\
+Naging Magkaaway ang Israel at Judah [18-10]
 
-[[:tl:obs:notes:frames:18-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-10.jpg?200|Frame 18-10}}]]\\ 
-Israel and Judah at War [18-10]\\ 
+[[:tl:obs:notes:frames:18-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?nolink&200}}]]\\
+Ang Masasamang Hari ng Israel [18-11]
 
-[[:tl:obs:notes:frames:18-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-11.jpg?200|Frame 18-11}}]]\\ 
-The Evil Kings of Israel [18-11]\\ 
+[[:tl:obs:notes:frames:18-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-12.jpg?nolink&200}}]]\\
+Sumamba sa mga Diyus-diyosan ang Kaharian ng Israel [18-12]
 
-[[:tl:obs:notes:frames:18-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-12.jpg?200|Frame 18-12}}]]\\ 
-Israel Worshiped Idols [18-12]\\ 
+[[:tl:obs:notes:frames:18-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink&200}}]]\\
+Hindi Nanatiling Tapat ang Judah [18-13]
 
-[[:tl:obs:notes:frames:18-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?200|Frame 18-13}}]]\\ 
-Judah Was Unfaithful [18-13]\\ 
+//Kwento mula sa 1 Kings 1-6; 11-12//
 
-
-//A Bible story from: 1 Kings 1-6; 11-12//
-
-**[[:tl:obs:notes:17|<< Previous]] | [[:tl:obs:notes:19|Next >>]]**
+**[[:tl:obs:notes:17|<< Nakaraan]] | [[:tl:obs:notes:19|Susunod >>]]**
