@@ -6,7 +6,7 @@ Ang salitang "Paglisan" ay tumutukoy sa panahon na ang mga Iraelita ay umalis sa
 
 ====== Isalin ang Kwento ======
 
-Pindutin ang mga larawan sa baba para isalin ang bawat talata rito.
+Pindutin ang mga larawan sa baba para maisalin ang bawat talata rito.
 
 [[:tl:obs:notes:frames:12-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?nolink&200}}]]\\
 Nilisan ng mga Israelita ang Egypt [12-01]
@@ -50,6 +50,6 @@ Nagdiwang ang mga Israelita [12-13]
 [[:tl:obs:notes:frames:12-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-14.jpg?nolink&200}}]]\\
 Ang Pagdiriwang Taon-taon [12-14]
 
-//Kwento mula sa: Exodus 12:33-15:21//
+//Kwento mula sa Exodus 12:33-15:21//
 
 **[[:tl:obs:notes:10|<< Nakaraan]] | [[:tl:obs:notes:12|Susunod >>]]**
