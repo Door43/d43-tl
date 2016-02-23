@@ -12,7 +12,7 @@ Pindutin ang mga larawan sa baba para maisalin ang bawat talata rito.
 Iisang Wika [04-01]\\
 \\
 [[:tl:obs:notes:frames:04-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&200}}]]\\
-AngPagpapatayo ng Tore [04-02]\\
+Ang Pagpapatayo ng Tore [04-02]\\
 \\
 [[:tl:obs:notes:frames:04-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&200}}]]\\
 Ang Pagdami ng Wika [04-03]\\
@@ -30,7 +30,7 @@ Pinagpala ng Diyos si Abram [04-06]\\
 si Melchizedek [04-07]\\
 \\
 [[:tl:obs:notes:frames:04-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&200}}]]\\
-Hindi Magka-anak si Abram at Sarai [04-08]\\
+Hindi Magkaanak si Abram at Sarai [04-08]\\
 \\
 [[:tl:obs:notes:frames:04-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&200}}]]\\
 Ang Kasunduan ng Diyos kay Abram at Sarai [04-09]
