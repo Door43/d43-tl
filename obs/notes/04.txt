@@ -6,7 +6,7 @@ Nagkaisa at nagsama-sama ang mga tao sa kanilang masamang hangarin na magtayo ng
 
 ===== Isalin ang Kwento =====
 
-Pindutin ang mga larawan sa baba para isalin ang bawat talata rito.
+Pindutin ang mga larawan sa baba para maisalin ang bawat talata rito.
 
 [[:tl:obs:notes:frames:04-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&200}}]]\\
 Iisang Wika [04-01]\\
@@ -33,7 +33,9 @@ si Melchizedek [04-07]\\
 Hindi Magka-anak si Abram at Sarai [04-08]\\
 \\
 [[:tl:obs:notes:frames:04-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&200}}]]\\
-Ang Kasunduan ng Diyos kay Abram at Sarai [04-09]\\
-//Kwento mula sa: Genesis 11-15//
+Ang Kasunduan ng Diyos kay Abram at Sarai [04-09]
+
+\\
+//Kwento mula sa Genesis 11-15//
 
 **[[:en:obs:notes:03|<< Nakaraan]] | [[:en:obs:notes:05|Susunod >>]]**
