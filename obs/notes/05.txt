@@ -6,7 +6,7 @@ Tinupad ng Diyos ang pangako niya kay Abram, niloob niyang magbuntis si Sarai at
 
 ===== Isalin ang Kwento =====
 
-Pindutin ang larawan sa baba para isalin ang bawat talata rito.
+Pindutin ang larawan sa baba para maisalin ang bawat talata rito.
 
 [[:tl:obs:notes:frames:05-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&200}}]]\\
 Si Hagar [05-01]\\
@@ -38,6 +38,6 @@ Ang alay na tupa [05-09]\\
 [[:tl:obs:notes:frames:05-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink&200}}]]\\
 Pinagpala ng Diyos si Abraham [05-10]
 
-//Kwento mula sa: Genesis 16-22//
+//Kwento mula sa Genesis 16-22//
 
 **[[:en:obs:notes:04|<< Nakaraan]] | [[:en:obs:notes:06|Susunod >>]]**
