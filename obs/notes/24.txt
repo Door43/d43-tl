@@ -4,39 +4,37 @@
 
 John became a prophet and told the people to confess their sins and obey God. He baptized them as a sign of their faith. John identified Jesus as the Lamb of God. He baptized Jesus, even though Jesus had not sinned. When Jesus was baptized, the Spirit of God came down on him and God the Father spoke from heaven to say that he was pleased with Jesus.
 
-====== Translate the Story ======
+====== Isalin ang Kwento ======
 
+Pindutin ang mga larawan sa ibaba para maisalin ang bawat talata nito.
 
-Click on the links below to translate each frame of the story.
+[[:tl:obs:notes:frames:24-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&200}}]]\\
+Si John ang Propeta [24-01]
 
+[[:tl:obs:notes:frames:24-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&200}}]]\\
+Dapat na Kayong Magsisi [24-02]
 
-[[:tl:obs:notes:frames:24-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?200|Frame 24-01}}]]\\ 
-John the Prophet [24-01]\\ 
+[[:tl:obs:notes:frames:24-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&200}}]]\\
+Nagbawtismo si John [24-03]
 
-[[:tl:obs:notes:frames:24-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?200|Frame 24-02}}]]\\ 
-A Call to Repent [24-02]\\ 
+[[:tl:obs:notes:frames:24-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&200}}]]\\
+Ihahanda ang Puso ng mga Tao [24-04]
 
-[[:tl:obs:notes:frames:24-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?200|Frame 24-03}}]]\\ 
-A Baptism of Repentance [24-03]\\ 
+[[:tl:obs:notes:frames:24-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&200}}]]\\
+Hindi si John ang Messiah [24-05]
 
-[[:tl:obs:notes:frames:24-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?200|Frame 24-04}}]]\\ 
-Preparing the Way [24-04]\\ 
+[[:tl:obs:notes:frames:24-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&200}}]]\\
+Si Jesus ang Kordero ng Diyos [24-06]
 
-[[:tl:obs:notes:frames:24-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?200|Frame 24-05}}]]\\ 
-Not the Messiah [24-05]\\ 
+[[:tl:obs:notes:frames:24-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&200}}]]\\
+Binawtismuhan ni John siJesus [24-07]
 
-[[:tl:obs:notes:frames:24-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?200|Frame 24-06}}]]\\ 
-Jesus Is the Lamb of God [24-06]\\ 
+[[:tl:obs:notes:frames:24-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?nolink&200}}]]\\
+Ikaw ang Minamahal Kong Anak [24-08]
 
-[[:tl:obs:notes:frames:24-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?200|Frame 24-07}}]]\\ 
-John Baptized Jesus [24-07]\\ 
+[[:tl:obs:notes:frames:24-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&200}}]]\\
+Si Jesus ay ang Anak ng Diyos  [24-09]
 
-[[:tl:obs:notes:frames:24-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?200|Frame 24-08}}]]\\ 
-You Are My Beloved Son [24-08]\\ 
+//Kwento mula sa  Matthew 3; Mark 1:9-11; Luke 3:1-23//
 
-[[:tl:obs:notes:frames:24-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?200|Frame 24-09}}]]\\ 
-Jesus Is the Son of God [24-09]\\ 
-
-//A Bible story from: Matthew 3; Mark 1:9-11; Luke 3:1-23// 
-
-**[[:tl:obs:notes:23|<< Previous]] | [[:tl:obs:notes:25|Next >>]]**
+**[[:tl:obs:notes:23|<< Nakaraan]] | [[:tl:obs:notes:25|Susunod >>]]**
