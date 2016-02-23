@@ -20,17 +20,16 @@ Ang salitang “Panginoon” ay ginagamit para tukuyin ang isang tao na nagmamay
 
 {{topic>:en:bible?lord&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:25-05|[25-05]]]** But Jesus replied to Satan by quoting from the Scriptures. He said, "In God's word, he commands his people, 'Do not test the **Lord**  your God.'"
-  * **[[:tl:obs:notes:frames:25-07|[25-07]]]** Jesus replied, "Get away from me, Satan! In God's word he commands his people, 'Worship only the **Lord**  your God and only serve him.'"
-  * **[[:tl:obs:notes:frames:26-03|[26-03]]]** This is the year of the **Lord's**  favor.
-  * **[[:tl:obs:notes:frames:27-02|[27-02]]]** The law expert replied that God's law says, "Love the **Lord**  your God with all your heart, soul, strength, and mind."
-  * **[[:tl:obs:notes:frames:31-05|[31-05]]]** Then Peter said to Jesus, "**Master**, if it is you, command me to come to you on the water"
-  * **[[:tl:obs:notes:frames:43-09|[43-09]]]**"But know for certain that God has caused Jesus to become both **Lord**  and Messiah!"
-  * **[[:tl:obs:notes:frames:47-03|[47-03]]]** By means of this demon she predicted the future for people, she made a lot of money for her **masters**  as a fortuneteller.
-  * **[[:tl:obs:notes:frames:47-11|[47-11]]]** Paul answered, "Believe in Jesus, the **Master**, and you and your family will be saved."
-  *
-~~DISCUSSION~~{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:25-05|[25-05]]]** Pero sumagot din si Hesus na gamit din ang salita ng Diyos at sinabi, “ Nakasulat din sa Salita ng Diyos na iniutos niya sa mga tao ‘huwag mong subukin ang  ** Panginoong  ** mong Diyos.”’
+  * **[[:tl:obs:notes:frames:25-07|[25-07]]]** Sumagot si Jesus, “Layuan mo ako Satan! Ayon sa Salita ng Diyos, ‘Tanging ang  ** Diyos ** lang ang dapat mong sambahin at sa kanya lang dapat maglingkod.”’
+  * ** [26-03]]]I ** to ang panahong mararanasan ng mga tao ang kabutihan ng  ** Diyos ** .”
+  * ** [27-02]]]  ** Sumagot ang dalubhasa na ito ang nakasulat sa batas ng Diyos, "Mahalin mo ang ** Panginoon ** mong Diyos ng buong puso, kaluluwa, lakas at pag-iisip.
+  * **[[:tl:obs:notes:frames:31-05|[31-05]]] ** Sinabi ni Peter kay Jesus, “ ** Panginoon ** , kung ikaw talaga iyan, papuntahin mo ako diyan.”
+  * **[[:tl:obs:notes:frames:43-09|[43-09]]]** “Ipinako niyo sa krus ang taong ito na si Jesus. Tandaan niyo ito, Ginawa siyang ** Panginoon ** at Tagapagligtas ng Diyos!”
+  * **[[:tl:obs:notes:frames:47-03|[47-03]]] ** Ang babaeng ito ay nakakapanghula ng mangyayari sa mga tao sa pamamagitan ng demonyong ito, kaya kumikita ng maraming pera ang mga ** amo  ** niya dahil sa panghuhula niya.
+  * ** [47-11]]] **  Sumagot si Pablo, “Maniwala ka kay Jesus, ang **  Panginoon **, ikaw at ang pamilya mo ay maliligtas.”
+~~DISCUSSION~
 
 ~~NOCACHE~~
