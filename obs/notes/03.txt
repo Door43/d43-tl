@@ -6,7 +6,7 @@ Ang kasalanan na nagmula kay Adam at Eve ay lumaganap sa mga tao sa buong mundo.
 
 ===== Isalin ang Kwento =====
 
-Pindutin ang mga larawan sa baba para isalin ang bawat talata rito.
+Pindutin ang mga larawan sa baba para maisalin ang bawat talata rito.
 
 [[:tl:obs:notes:frames:03-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?nolink&200}}]]\\
 Naging Napakasama ng mga Tao [03-01]\\
@@ -54,7 +54,9 @@ Ang Alay ni Noah [03-14]\\
 Ang Pangako ng Diyos [03-15]\\
 \\
 [[:tl:obs:notes:frames:03-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&200}}]]\\
-Ang Bahaghari [03-16]\\
-//Kwento mula sa: Genesis 6-8//
+Ang Bahaghari [03-16]
+
+\\
+//Kwento mula sa Genesis 6-8//
 
 **[[:en:obs:notes:02|<< Nakaraan]] | [[:en:obs:notes:04|Susunod >>]]**
