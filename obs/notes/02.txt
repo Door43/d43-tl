@@ -42,7 +42,9 @@ Isinumpa ng Diyos ang Babae[02-10]\\
 Isinumpa ng Diyos ang Lalaki [02-11]\\
 \\
 [[:tl:obs:notes:frames:02-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&200}}]]\\
-Pinaalis si Adam at Eve [02-12]\\
+Pinaalis si Adam at Eve [02-12]
+
+\\
 //Kwento mula sa Genesis 3//
 
 **[[:en:obs:notes:01|<< Nakaraan]] | [[:en:obs:notes:03|Susunod >>]]**
