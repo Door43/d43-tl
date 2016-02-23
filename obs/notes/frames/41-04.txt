@@ -11,11 +11,19 @@ Biglang nagkaroon ng malakas na lindol. Isang anghel na kasing liwanag ng kidlat
   * **[[:tl:obe:other:tomb|libingan, nitso]]**
   * **[[:tl:obe:kt:death|Kamatayan, Patay, Mamatay]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **great earthquake** - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
-  * **that shone as bright as lightning** - That is, "whose appearance was as bright as lightning."
-  * **fell to the ground like dead men** - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
+  * **malakas na lindol**  -
+Maaaring sabihing, “napakalakas na pagyanig ng lupa.”
+
+
+  * **na kasing liwanag ng kidlat**  -
+Ang ibig sabihin, “ang anyo niya ay kasing liwanag ng kidlat”
+
+
+  * **nawalan ng malay**  -
+Hindi sila namantay, hindi lang sila gumagalaw. Maaaring hinimatay sila dahil sa matinding takot.
+
 
 
 **[[:tl:obs:notes:frames:41-03|<<]] | [[:tl:obs:notes:41|Up]] | [[:tl:obs:notes:frames:41-05|>>]]**
