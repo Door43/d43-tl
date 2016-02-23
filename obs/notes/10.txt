@@ -6,7 +6,7 @@ Nagbalik sa Egypt si Moses at sinabi niya sa Paraon na palayain ang mga Israelit
 
 ====== Isalin ang Kwento ======
 
-Pindutin ang mga larawan sa baba para isalin ang bawat talata rito.
+Pindutin ang mga larawan sa baba para maisalin ang bawat talata rito.
 
 [[:tl:obs:notes:frames:10-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&200}}]]\\
 Iniutos ng Diyos ang Pagpapalaya sa mga Israelita [10-01]
@@ -44,6 +44,6 @@ Ang Pagdilim [10-11]
 [[:tl:obs:notes:frames:10-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-12.jpg?nolink&200}}]]\\
 Hindi Nakinig ang Paraon [10-12]
 
-//Kwento mula sa: Exodus 5-10//
+//Kwento mula sa Exodus 5-10//
 
 **[[:tl:obs:notes:09|<< Nakaraan]] | [[:tl:obs:notes:11|Susunod >>]]**
