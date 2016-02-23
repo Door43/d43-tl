@@ -14,11 +14,21 @@ Sinabi ni Jesus, “Sinabi ko naman sa inyo na lahat ng nasusulat sa salita ng D
   * **[[:tl:obe:kt:death|Kamatayan, Patay, Mamatay]]**
   * **[[:tl:obe:kt:raise|nabuhay, muling nabuhay, bumuhay]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **must be fulfilled** - This can be translated as, "must happen."
-  * **opened their minds so that they could understand** - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
-  * **on the third day** - That is, "after three days" or, "three days later."
+  * **matutupad**  -
+Maaari ring isalin ng ganito, “dapat mangyari.”
+
+
+  *
+**binigyan …ng kakayahang maintindihan**
+  -
+Maaaring isalin ng ganito, “gumawa ng paraan para maintindihan nila”
+
+
+  * **sa ikatlong araw**  -
+Ang ibig sabihin, “pagkatapos ng tatlong araw.”
+
 
 
 **[[:tl:obs:notes:frames:42-06|<<]] | [[:tl:obs:notes:42|Up]] | [[:tl:obs:notes:frames:42-08|>>]]**
