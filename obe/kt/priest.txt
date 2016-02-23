@@ -13,13 +13,12 @@ Sa Bibliya, ang mga pari ay ang mga taong pinili ng Diyos para mag-alay ng mga h
 
 ===== Translation Suggestions: =====
 
-  * The term "priest" could be translated as "sacrifice person (for God)" or "God's intermediary" or "sacrificial mediator" or "person God appoints to represent him".
-  * The translation of "priest" should be different from the translation of "mediator."
-  * Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" to make it clear that this does not refer to a modern-day type of priest.
-  * The term used to translate "priest" should be distinct from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
+  * Ang salitang "pari" ay maaaring isalin ng ganito," "taong itinalaga ng Diyos para kumatawan sa kanya."
+  * Sa ibang mga salin, karaniwang ginagamit ang mga salitang, "paring Israelita" o "paring Hudyo" para maging malinaw na ito ay hindi ang mga pari sa panahong kasalukuyan.
+  * Siguraduhin lang na ang ginamit na salita para isalin ang salitang "pari" ay hindi pareho sa mga salitang ito, "pinakapunong pari" at "punong pari" at "Levita" at "propeta."
+  *
 
-(See also: [[tl:obe:other:aaron]], [[tl:obe:other:sacrifice]], [[tl:obe:other:chiefpriests]], [[:tl:obe:kt:highpriest]], [[:tl:obe:other:mediator]])
-
+(Tignan rin sa: [[:tl:obe:other:aaron|Aaron]], [[:tl:obe:other:sacrifice|alay, sakripisyo]], [[:tl:obe:other:chiefpriests|chief pari]], [[:tl:obe:kt:highpriest|punong pari]], [[:tl:obe:other:mediator|tagapamagitan]])
 
 ===== Bible References: =====
 
