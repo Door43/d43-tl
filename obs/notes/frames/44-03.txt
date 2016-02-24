@@ -4,13 +4,12 @@
 
 Agad na pinagaling ng Diyos ang lumpong lalaki. Naglakad lakad siya, tumalon-talon at pinuri niya ang Diyos. Namangha ang mga tao na nasa labas ng Templo.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:kt:god]]**
-  * **[[:tl:obe:other:heal]]**
-  * **[[:tl:obe:other:praise]]**
-  * **[[:tl:obe:kt:temple]]**
-
+  * **[[:tl:obe:kt:god|Diyos]]**
+  * **[[:tl:obe:other:heal|Gumaling, Pagpapagaling]]**
+  * **[[:tl:obe:other:praise|papuri, pinuri]]**
+  * **[[:tl:obe:kt:temple|temple]]**
 
 ===== Translation Notes: =====
 
