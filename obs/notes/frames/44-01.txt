@@ -11,10 +11,16 @@ Isang araw pumunta sina Peter at John sa Templo. Habang papalapit sila sa pasuka
   * **[[:tl:obe:kt:temple|temple]]**
   * **[[:tl:obe:other:beg|Nagmakaawa, pagmamakaawa]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **a crippled man** - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk.
+  * **Isang araw**
+ -
+Sinasabi nito ang isang pangyayari sa nakaraan pero walang nakasaad na tiyak na oras. Maraming mga salita sa ibang mga wika ang maaaring gamitin para sa pagsisimula ng kwento.
+
+
+  * **lumpong lalaki**  -
+Tinutukoy nito ang isang taong hindi nagagamit ang kaniyang mga binti, hindi makalakad o kahit makatayo.
+
 
 
 **[[:tl:obs:notes:frames:43-13|<<]] | [[:tl:obs:notes:44|Up]] | [[:tl:obs:notes:frames:44-02|>>]]**
