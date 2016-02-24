@@ -4,39 +4,37 @@
 
 Peter asked Jesus how many times he should forgive a brother. So Jesus told the story of a servant who owed a huge debt to the king. The king took pity on him and cancelled the debt. But the servant sent another man who owed him a small amount to prison. This made the king very angry. Jesus told Peter that we should forgive others in the same way that we are forgiven.
 
-====== Translate the Story ======
+====== Isalin ang Kwento ======
 
+Pindutin ang mga larawan sa ibaba para maisalin ang bawat talata nito.
 
-Click on the links below to translate each frame of the story.
+[[:tl:obs:notes:frames:29-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&200}}]]\\
+Ilang beses dapat Magpatawad? [29-01]
 
+[[:tl:obs:notes:frames:29-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&200}}]]\\
+Ang Malaking Utang [29-02]
 
-[[:tl:obs:notes:frames:29-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?200|Frame 29-01}}]]\\ 
-How Many Times? [29-01]\\ 
+[[:tl:obs:notes:frames:29-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&200}}]]\\
+Ang Pagkabaon sa Utang [29-03]
 
-[[:tl:obs:notes:frames:29-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?200|Frame 29-02}}]]\\ 
-The Huge Debt [29-02]\\ 
+[[:tl:obs:notes:frames:29-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&200}}]]\\
+Hindi Pinabayaran ang Utang [29-04]
 
-[[:tl:obs:notes:frames:29-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?200|Frame 29-03}}]]\\ 
-Not Able to Repay [29-03]\\ 
+[[:tl:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&200}}]]\\
+Ang Utang na Maliit ang Halaga [29-05]
 
-[[:tl:obs:notes:frames:29-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?200|Frame 29-04}}]]\\ 
-The Debt Is Canceled [29-04]\\ 
+[[:tl:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&200}}]]\\
+Ang Pagpapakulong sa Kapwa Lingkod [29-06]
 
-[[:tl:obs:notes:frames:29-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?200|Frame 29-05}}]]\\ 
-The Small Debt [29-05]\\ 
+[[:tl:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&200}}]]\\
+Nagsumbong ang mga Lingkod [29-07]
 
-[[:tl:obs:notes:frames:29-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?200|Frame 29-06}}]]\\ 
-To Prison [29-06]\\ 
+[[:tl:obs:notes:frames:29-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&200}}]]\\
+Ang Masamang Lingkod [29-08]
 
-[[:tl:obs:notes:frames:29-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?200|Frame 29-07}}]]\\ 
-The King Heard [29-07]\\ 
+[[:tl:obs:notes:frames:29-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&200}}]]\\
+Ang Pangaral ni Jesus [29-09]
 
-[[:tl:obs:notes:frames:29-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?200|Frame 29-08}}]]\\ 
-The Wicked Servant [29-08]\\ 
+//Kwento mula sa  Matthew 18:21-35//
 
-[[:tl:obs:notes:frames:29-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?200|Frame 29-09}}]]\\ 
-Forgive Your Brother [29-09]\\ 
-
-//A Bible story from: Matthew 18:21-35//
-
-**[[:tl:obs:notes:28|<< Previous]] | [[:tl:obs:notes:30|Next >>]]**
+**[[:tl:obs:notes:28|<< Nakaraan]] | [[:tl:obs:notes:30|Susunod >>]]**
