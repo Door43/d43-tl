@@ -9,10 +9,15 @@ Habang naglalakbay si Philip at ang opisyal may nadaanan silang lugar na may tub
   * **[[:tl:obe:kt:baptize|bawtismo]]**
   * **[[:tl:obe:other:chariot|kalesa]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **some water** - Use a term that means a larger body of water such as a pond, lake, or stream.
-  * **May I be baptized?** - This could also be translated as, "Is there any reason that I cannot be baptized?"
+  * **may tubig**  -
+Gumamit ng salita na nangangahulugag malaking bahagi ng tubig gaya ng sapa o lawa.
+
+
+  * **Pwede mo ba kong bawtismuhan?**  -
+Maaaring isalin ng ganito “May dahilan ba para hindi ako mabawtismuhan?”
+
 
 
 **[[:tl:obs:notes:frames:45-10|<<]] | [[:tl:obs:notes:45|Up]] | [[:tl:obs:notes:frames:45-12|>>]]**
