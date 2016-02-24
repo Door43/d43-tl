@@ -7,13 +7,13 @@ Ang punong pari ay ang pinuno ng lahat ng mga pari ng Israel.
   * Maraming mga pari sa Israel pero may iisang punong pari.
   * Ang punong pari ang may pinakamahalagang responsibilidad. Siya lang ang maaaring pumasok sa pinakabanal na dako ng templo para maghandog ng natatanging alay isang beses sa isang taon.
 
-===== Translation Suggestions: ======
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * "High priest" could be translated as "supreme priest" or "highest ranking priest."
+  * Ang "punong pari" ay maaaring isalin ng ganito, "pinakapinuno ng mga pari."
+  *
   * Make sure this term is translated differently from the term "chief priest."
 
-(See also: [[priest]], [[tl:obe:other:chiefpriests]],   [[temple]])
-
+(See also: [[:tl:obe:kt:priest|pari, pagkapari]], [[:tl:obe:other:chiefpriests|chief priests]], [[:tl:obe:kt:temple|temple]])
 
 ===== Bible References: =====
 
