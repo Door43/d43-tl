@@ -11,11 +11,20 @@ Nang malapit na si Philip sa kalesa, narinig niya na binabasa ng opisyal ang isi
   * **[[:tl:obe:kt:lamb|kordero, tupa]]**
   * **[[:tl:obe:kt:life|buhay, nabubuhay]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **Ethiopian** - That is, a person from the country of Ethiopia. See note on **[[:tl:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot** - That is, "got close to the chariot" or, "came near to the chariot."
-  * **as a lamb is silent** - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
+  * **opisyal (na galing sa Ethopia)**  -
+Ang ibig sabihin, “isang tao mula sa bansang Ethiopia. Tignan sa Kwento #
+
+ **[[:tl:obs:notes:frames:45-07|[45-07]]]**.
+  * **malapit na... sa kalesa**
+ -
+Ibig sabihin, “nang malapit na sa karwahe.”
+
+
+  * **katulad din ng tahimik na tupa**  -
+Maaaring isalin ng ganito, “parang isang tupang tahimik kahit na malapit ng katayin.”
+
 
 
 **[[:tl:obs:notes:frames:45-07|<<]] | [[:tl:obs:notes:45|Up]] | [[:tl:obs:notes:frames:45-09|>>]]**
