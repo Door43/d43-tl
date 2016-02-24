@@ -10,14 +10,10 @@ Ang salitang “Ang Kautusan” o “Kautusan ni Moses” ay tumutukoy sa mga ba
 
 ===== Mga Mungkahi sa Pagsasalin: =====
 
-  *
-  * Since there are many instructions, some translations may prefer to translate this in the plural and say, "laws."
-  * The "law of Moses" could be translated as "the laws that God told Moses to give to the Israelites."
-  * Depending on the context, "the law of Moses" can also be translated as "the law that Moses wrote" or "God's laws that Moses wrote down" or "the laws that God told Moses to give to the Israelites."
-  * Ways to translate "the law" or "law of God" or "God's laws" could include: "laws from God" or "God's commands" or "laws that God gave" or "everything that God commanded" or "God's rules" or "the laws that God commanded."
-  * The phrase, "law of Yahweh" could also be translated as, "Yahweh's laws" or "laws that Yahweh said to obey" or "laws from Yahweh" or "things Yahweh commanded." (Also see translation suggestions above for "law of God" and "God's laws".)
+  * Dahil maraming kautusan, kaya ang ginagamit ng ibang mga salin ay "mga batas" na tumutukoy sa pangkalahatang kautusan
+  * Ang "batas ni Moses" ay maaaring isalin ng ganito, "mga kautusang sinabi ng Diyos kay Moses para sundin ng mga Israelita."
 
-(See also: [[:tl:obe:other:moses|Moses]], [[:tl:obe:other:tencommandments|Sampung Utos]], [[:tl:obe:other:lawful|lawful]],[[:tl:obe:kt:yahweh|Yahweh]])
+(Tignan rin sa: [[:tl:obe:other:moses|Moses]], [[:tl:obe:other:tencommandments|Sampung Utos]])
 
 ===== Bible References: =====
 
