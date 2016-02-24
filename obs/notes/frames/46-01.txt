@@ -14,11 +14,22 @@ Si Saul ang binatang lalaki na nagbantay sa mga kasuotan ng mga taong pumatay ka
   * **[[:tl:obe:other:jerusalem|Jerusalem]]**
   * **[[:tl:obe:kt:highpriest|pinakapunong pari]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **guarded the robes of the men who killed Stephen** - See **[[:tl:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
+  * **
+nagbantay sa mga kasuotan ng mga lalaking pumatay kay Stephen
+
+ **-
+Tignan sa Kwento #
+
+ **[[:tl:obs:notes:frames:45-06|[45-06]]]**.
+  * **sa bawat bahay**  -
+Ang ibig sabihin, “sa loob ng maraming tahanan”
+
+
+  * **Damascus**  -
+Ang Damascus ay ang kabisera na ng Syria ngayon. Noong kapanahunan ni Saul, ito ay isang lungsod na pinamamahalaan ng Imperyong Romano. Karamihan ng mga tao doon ay hindi Hudyo. May mga ilang kristiyano din ang naninirahan doon.
+
 
 
 **[[:tl:obs:notes:frames:45-13|<<]] | [[:tl:obs:notes:46|Up]] | [[:tl:obs:notes:frames:46-02|>>]]**
