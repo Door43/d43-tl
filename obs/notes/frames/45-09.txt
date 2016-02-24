@@ -8,9 +8,14 @@ Tinanong ni Philip ang taga-Ethiopia, “Naiintindihan mo ba ang binabasa mo?”
 
   * **[[:tl:obe:other:isaiah|Isaiah]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **Was Isaiah writing about** - This can also be translated as, "Was Isaiah referring to."
+  * **
+Tunkol ba sa sarili ni Isaiah ang nakasulat dito ot tungkol sa iba?
+
+ **-
+Maaaring isalin ng ganito, “Ang tinutukoy ba ni Isaiah ay..”
+
 
 
 **[[:tl:obs:notes:frames:45-08|<<]] | [[:tl:obs:notes:45|Up]] | [[:tl:obs:notes:frames:45-10|>>]]**
