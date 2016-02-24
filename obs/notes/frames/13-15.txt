@@ -10,7 +10,7 @@ Gumawa ulit si Moses ng bagong tipak ng bato para sa sampung kautusan para mapal
   * **[[:tl:obe:other:pray|panalangin, dalangin, dasal]]**
   * **[[:tl:obe:kt:god|Diyos]]**
   * **[[:tl:obe:kt:forgive|magpatawad, pagpapatawad]]**
-  * **[[:tl:obe:other:tencommandments|Ten Commandments]]**
+  * **[[:tl:obe:other:tencommandments|Sampung Utos]]**
   * **[[:tl:obe:other:israel|Israel, Israelita]]**
   * **[[:tl:obe:other:sinai|Sinai, Bundok Sinai]]**
   * **[[:tl:obe:kt:promisedland|Lupang Pangako]]**
