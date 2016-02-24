@@ -11,9 +11,11 @@ Agad na pinagaling ng Diyos ang lumpong lalaki. Naglakad lakad siya, tumalon-tal
   * **[[:tl:obe:other:praise|papuri, pinuri]]**
   * **[[:tl:obe:kt:temple|temple]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **courtyard of the Temple** - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
+  * **labas ng templo**  -
+Tanging mga pari lamang ang maaaring makapasok sa temple at ang mga karaniwang Hudyo ay maaaring pumunta sa palibot ng Templo.
+
 
 
 **[[:tl:obs:notes:frames:44-02|<<]] | [[:tl:obs:notes:44|Up]] | [[:tl:obs:notes:frames:44-04|>>]]**
