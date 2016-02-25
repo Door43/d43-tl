@@ -10,11 +10,20 @@ Nagkwento si Jesus sa mga disipulo niya para maipaliwanag ang mangyayari sa mga 
   * **[[:tl:obe:kt:disciple|alagad, disipulo]]**
   * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin : =====
 
-  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for "seed." If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, "good seed like rice."
-  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat** - That is, "wheat seeds." Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
+  * **buto ng mga trigo**  -
+Kung ang uri ng butong ito ay hindi kilala sa inyong wika, mas maganda kung gagamiting ang pangkaraniwang salitang, “buto.”
+
+
+  * **buto ng damo**
+ -
+Ang buto ng damo na naitanim ay tutubo ng husto pero hindi ito maaaring kainin at wala itong pakinabang.
+
+
+  * **trigo**  -
+Ang trigo ay isang uri ng palay na tumutubo na parang isang mataas na damo. May mga buto ito na kinakain ng mga tao.
+
 
 
 **[[:tl:obs:notes:frames:50-04|<<]] | [[:tl:obs:notes:50|Up]] | [[:tl:obs:notes:frames:50-06|>>]]**
