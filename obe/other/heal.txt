@@ -14,20 +14,16 @@ Ang kahulugan pagpapagaling ay ang pagbibigay ng karampatang lunas sa isang taon
 
 {{topic>:en:bible?heal&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to **heal** him.
-  ***[[:tl:obs:notes:frames:21-10|[21-10]]]** He (Isaiah) also predicted that the Messiah would **heal** sick people and those who could not hear, see, speak, or walk.
-  ***[[:tl:obs:notes:frames:26-06|[26-06]]]** Jesus continued saying, "And during the time of the prophet Elisha, there were many people in Israel with skin diseases. But Elisha did not **heal** any of them. He only **healed** the skin disease of Naaman, a commander of Israel's enemies."
-  ***[[:tl:obs:notes:frames:26-08|[26-08]]]** They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-  ***[[:tl:obs:notes:frames:32-14|[32-14]]]** She had heard that Jesus had **healed** many sick people and thought, "I'm sure that if I can just touch Jesus' clothes, then I will be **healed**, too!"
-  ***[[:tl:obs:notes:frames:44-03|[44-03]]]** Immediately, God **healed** the lame man, and he began to walk and jump around, and to praise God.
-  ***[[:tl:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you **healed** by the power of Jesus the Messiah."
-  ***[[:tl:obs:notes:frames:49-02|[49-02]]]** ] Jesus did many miracles that prove he is God. He walked on water, calmed storms, **healed** many sick people, drove out demons, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:19-14|[19-14]]] ** Isa sa mga himalang ito ang nangyari kay Naaman na isang pinuno ng kaaway na may nakakadiring sakit sa balat. Ganito ang nangyari. Nabalitaan niya ang tungkol kay Elisha kaya pumunta siya sa kanya para magpagamot at ** gumaling ** .
+  * **[[:tl:obs:notes:frames:21-10|[21-10]]]** ** Pagagalingin  ** din ng Messiah ang mga taong may sakit, mga hindi makarinig, makakita, makapagsalita, o makalakad.
+  * **[[:tl:obs:notes:frames:26-06|[26-06]]]** Pinagpatuloy ni Jesus ang pagsasalita, “Noong panahon ng propetang si Elisha marami din sa Israel ang may sakit sa balat pero hindi pinagaling ng propeta ang kahit isa sa kanila. Si Naaman lang na kapitan ng mga kaaway ng Israel ang  ** pinagaling ** ni Elisha.”
+  * **[[:tl:obs:notes:frames:26-08|[26-08]]] ** Dinala nila kay Jesus ang mga maysakit at may kapansanan pati ang mga bulag, pilay, bingi at pipi. ** Pinagaling ** silang lahat ni Jesus.
+  * **[[:tl:obs:notes:frames:32-14|[32-14]]] ** Nabalitaan niya na marami ng may sakit ang ** pinagaling ** ni Jesus kaya nasabi niya sa isip niya, “Siguradong  ** gagaling ** ako kahit mahipo ko man lang ang laylayan ng damit ni Jesus.”
+  * **[[:tl:obs:notes:frames:44-03|[44-03]]]** Agad na  ** pinagaling ** ng Diyos ang lumpong lalaki. Naglakad lakad siya, tumalon-talon at pinuri niya ang Diyos.
+  * **[[:tl:obs:notes:frames:44-08|[44-08]]] ** Sinagot sila ni Peter, “ ** Gumaling ** ang lalaking iyon dahil sa kapangyarihan ni Jesus, ang Messiah.
+  * **[[:tl:obs:notes:frames:49-02|[49-02]]]**]Gumawa si Jesus ng maraming himala na nagpapatunay na siya ay Diyos. Lumakad siya sa ibabaw ng tubig, nagpatigil ng mga bagyo,  ** nagpagaling ** ng maraming may sakit, nagpalayas ng mga demonyo, bumuhay ng patay, at ginawa niyang sapat ang limang pirasong tinapay at dalawang pirasong isda para mapakain ang 5,000 na katao.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
