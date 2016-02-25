@@ -13,10 +13,12 @@ Matapos ang maraming taon namatay si David at nagsimulang mamuno sa Israel ang a
   * **[[:tl:obe:kt:wise|marunong o matalino, karunungan]]**
   * **[[:tl:obe:kt:judge|hatol, husga]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
+  * **karunungan ang hiniling ni Solomon**
+ -
+Maaaring isalin ng ganito, “hiniling sa Diyos na gawin siyang matalino o marunong.”
 
-  * **asked for wisdom** - This could be translated as, "asked God to make him wise."
 
 
 **[[:tl:obs:notes:frames:17-14|<<]] | [[:tl:obs:notes:18|Up]] | [[:tl:obs:notes:frames:18-02|>>]]**
