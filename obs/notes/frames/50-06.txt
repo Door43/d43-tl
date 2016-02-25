@@ -10,10 +10,12 @@
   * **[[:tl:obe:kt:lord|panginoon]]**
   * **[[:tl:obe:kt:good|mabuti, kabutihan]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
+  * **Marahil itinanim iyon ng kaaway**
+ -
+Kung Maaari, isalin ito sa paraang nagpapahiwatig na hindi ito nakitang mangyari ng nagsasalita.
+
 
 
 **[[:tl:obs:notes:frames:50-05|<<]] | [[:tl:obs:notes:50|Up]] | [[:tl:obs:notes:frames:50-07|>>]]**
