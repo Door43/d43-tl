@@ -12,10 +12,12 @@ Mga diyus-diyosan ang sinasamba ng lahat mga naging ng hari at halos lahat ng mg
   * **[[:tl:obe:other:idol|diyos-diyosan, diyos]]**
   * **[[:tl:obe:other:sacrifice|alay, sakripisyo]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
+  * **nag-aalay sila ng bata**
+ -
+Pumapatay sila ng mga bata bilang alay para sa kanilang mga diyus-diyosan.
 
-  * **child sacrifice** - They killed children as offerings to some of their idols.
 
 
 **[[:tl:obs:notes:frames:18-11|<<]] | [[:tl:obs:notes:18|Up]] | [[:tl:obs:notes:frames:18-13|>>]]**
