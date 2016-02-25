@@ -8,12 +8,13 @@ Ang ibig sabihin ng pagsisisi ay ang pagtalikod sa makasalanang pamumuhay. Ito a
   * Ang resulta ng pagsisisi ay simula ng pagsunod sa Diyos.
   * Ang pagsisisi ay may kasamang pagbabago kung saan ang isang tao ay susunod sa kagustuhan ng Diyos at tatalikuran niya ang kasalanan o ang masamang pamumuhay.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * The term, "repent" can be translated with a word or phrase that means, "turn back (to God)" or "turn the mind away from sin and toward God" or "turn toward God, away from sin."
-  * The meaning includes having a change of heart, not just actions. It shows a change of thinking where sin is rejected and God is pursued.
+  * Ang salitang "pagsisisi" ay maaaring isalin ng ganito, "talikuran ang mga kasalanan at magbalik loob sa Diyos"
+  * Tiyakin na ang kahulugan ng salitang inyong gagamitin ay may kasamang pagbabago ng puso at isipan. Dahil ipinapakita ng salitang ito ang pagbabago ng isip kung saan itatakwil ng taong "nagsisisi" ang kasalanan at magbabalik sa pananalig at pagsunod sa Diyos.
 
-(See also: [[:tl:obe:kt:forgive]], [[:tl:obe:kt:sin]])
+(Tignan rin sa: [[:tl:obe:kt:forgive|magpatawad, pagpapatawad]], [[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?repent&nocomments}}
