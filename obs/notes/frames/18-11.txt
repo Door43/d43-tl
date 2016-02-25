@@ -12,10 +12,11 @@ Masama lahat ng naging hari sa bagong Kaharian ng Israel. Marami sa mga hari ay 
   * **[[:tl:obe:kt:evil|masama, kasamaan]]**
   * **[[:tl:obe:other:israel|Israel, Israelita]]**
 
-==== Translation Notes: ====
+==== Talaan para sa Pagsasalin: ====
 
+  * **mga Israelita**  -
+Dito, ang salitang “Israelita” ay tumutukoy lamang sa mga taong naninirahan sa hilagang bahagi ng kaharian ng Israel, hindi kabilang dito ang mga taong naninirahan sa kaharian ng Judah na matatagpuan sa Timog.
 
-  * **Israelites** - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah.
 
 
 **[[:tl:obs:notes:frames:18-10|<<]] | [[:tl:obs:notes:18|Up]] | [[:tl:obs:notes:frames:18-12|>>]]**
