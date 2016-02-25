@@ -11,12 +11,24 @@ Minsan nang magsimulang sumigaw ang babae, hinarap siya ni Paul at sinabi sa dem
   * **[[:tl:obe:kt:demon|demonyo]]**
   * **[[:tl:obe:kt:jesus|Examples from the Bible stories:]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **one day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **turned to her** - That is, "turned around and looked at her."
-  * **In the name of Jesus** - That is, "by the authority of Jesus." Because of Jesus' authority, Paul could command the demon to leave.
-  * **come out of her** - That is, "leave her" or, "go away from her."
+  * **minsan**  -
+Sinasabi nito ang isang pangyayari sa nakaraan pero walang nakasaad na tiyak na oras. Maraming mga salita sa ibang mga wika ang maaaring gamitin para sa pagsisimula ng kwento.
+
+
+  * **hinarap siya**  -
+Ang ibig sabihin, “lumingon sa kanya.”
+
+
+  * **sa pangalan ni Jesus**  -
+Ang ibig sabihin, “sa pamamagitan ng kapangyarihan ni Jesus.” Inutusan ni Paul na umalis ang mga demonyo sa pamamagitan ng kapangyarihan ni Jesus.”
+
+
+  * **umalis nga kaagad ang demonyo sa babaeng ito**
+ -
+Ang ibig sabihin, “iwanan mo siya” o kaya, “layuan mo siya.”
+
 
 
 **[[:tl:obs:notes:frames:47-04|<<]] | [[:tl:obs:notes:47|Up]] | [[:tl:obs:notes:frames:47-06|>>]]**
