@@ -13,13 +13,31 @@ Nang ipinadala ng Diyos ang huling salot sa Egypt sinabihan niya ang bawat pamil
   * **[[:tl:obe:kt:blood|dugo]]**
   * **[[:tl:obe:kt:passover|Paskua, nilampasan]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **sent the last plague on Egypt** - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
-  * **a perfect lamb** - That is, "a lamb without any defect."
-  * **its blood** - That is, "the lamb's blood."
-  * **door frames** - If door frames are not known, this could be translated as, "doors."
-  * **passed over** - This could also be translated as, "passed by" or, "went by." You may want to connect how this is translated with how "Passover" is translated.
+  * **
+ipinadala ng Diyos ang huling salot sa Egypt
+
+ **-
+Ang ibig sabihin, “dahilan ng huling salot sa Egypt.” Ito ang ikasampung salot kung saan pinatay ng Diyos ang lahat ng panganay na lalaki ng mga taga-Egypt.
+
+
+  * **tupa ng walang kapintasan**  -
+Ang ibig sabihin, “isang tupa na walang depekto.”
+
+
+  * **ang dugo nito**
+ -
+Ang ibig sabihin, “ang dugo ng tupa.”
+
+
+  * **gilid ng pinto**  -
+Kung hindi malinaw, maaaring gamitin ang salitang “pinto.”
+
+
+  * **nilampasan**  -
+Maaaring isalin ng ganito, “dinaanan.”
+
 
 
 **[[:tl:obs:notes:frames:48-08|<<]] | [[:tl:obs:notes:48|Up]] | [[:tl:obs:notes:frames:48-10|>>]]**
