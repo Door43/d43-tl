@@ -9,10 +9,15 @@ Nagising ang bantay at natakot siya nang makita niya na bukas ang pinto ng mga k
   * **[[:tl:obe:other:rome|Rome, Roman]]**
   * **[[:tl:obe:other:paul|Paul, Saul]]**
 
-===== Translation Notes: =====
+===== Talaan para sa Pagsasalin: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
+  * **Ang bantay**  -
+Ang ibig sabihin “ang nagbabantay na opisyal sa bilanguan.”
+
+
+  * **Kaming**  -
+Tinutukoy ng salitang “kami” si Paul at ang mga iba pang bilanggo.
+
 
 
 **[[:tl:obs:notes:frames:47-09|<<]] | [[:tl:obs:notes:47|Up]] | [[:tl:obs:notes:frames:47-11|>>]]**
