@@ -2,19 +2,21 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?nolink&}}
 
-Pagkatapos ang mga Kristiyanong nabubuhay ay pupunta rin sa kalangitan at makakasama nila ang mga Kristiyanong bumangon mula sa kamatayan. Makakasama nilang lahat doon si Jesus. Pagkatapos mamumuhay tayo  kasama ni Jesus na may kapayaaan at pagkakaisa magpakailanman.
+Pagkatapos ang mga Kristiyanong nabubuhay ay pupunta rin sa kalangitan at makakasama nila ang mga Kristiyanong bumangon mula sa kamatayan. Makakasama nilang lahat doon si Jesus. Pagkatapos mamumuhay tayo kasama ni Jesus na may kapayaaan at pagkakaisa magpakailanman.
 
-===== Important Terms: =====
+===== Mga Mahahalagang Salita: =====
 
   * **[[:tl:obe:kt:christian|Kristiyano]]**
   * **[[:tl:obe:kt:life|buhay, nabubuhay]]**
   * **[[:tl:obe:kt:raise|nabuhay, muling nabuhay, bumuhay]]**
   * **[[:tl:obe:kt:death|Kamatayan, Patay, Mamatay]]**
   * **[[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+===== Talaan para sa Pagsasalin: =====
 
-===== Translation Notes: =====
+  * **nabubuhay**
+ -
+Ang ibig sabihin, “nabubuhay pa sa pagbalik ni Jesus.”
 
-  * **still alive** - That is, "still alive when Jesus returns."
 
 
 **[[:tl:obs:notes:frames:50-11|<<]] | [[:tl:obs:notes:50|Up]] | [[:tl:obs:notes:frames:50-13|>>]]**
