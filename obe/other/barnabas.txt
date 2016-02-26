@@ -16,10 +16,9 @@ Si Barnabas ay isa sa mga sinaunang Kristiyano na naninrahan sa kapanahunan ng m
 
 {{topic>:en:bible?barnabas&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:46-08|[46-08]]]** Then a believer named **Barnabas** took Saul to the apostles and told them how Saul had preached boldly in Damascus. 
-  ***[[:tl:obs:notes:frames:46-09|[46-09]]]** **Barnabas** and Saul went there to teach these new believers more about Jesus and to strengthen the church. I
-  ***[[:tl:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were fasting and praying, the Holy Spirit said to them, "Set apart for me **Barnabas** and Saul to do the work I have called them to do." So the church in Antioch prayed for **Barnabas** and Saul and placed their hands on them. 
-
+  * **[[:tl:obs:notes:frames:46-08|[46-08]]]** Isang mananampalataya na ang pangalan ay  ** Barnabas ** ang nagdala kay Saul sa mga apostol.
+  * **[[:tl:obs:notes:frames:46-09|[46-09]]]** Pumunta roon si Saul at  ** Barnabas ** para turuan pa ang mga bagong mananampalataya tungkol kay Jesus at para lalo pa silang mapalakas. Sa Antioch unang tinawag ang mga mananampalataya ni Jesus na “Kristiyano.”
+  * **[[:tl:obs:notes:frames:46-10|[46-10]]]** Isang araw habang nananalangin at nag-aayuno ang mga Kristiyano sa Antioch sinabi sa kanila ng Banal na Espiritu, “Ibukod niyo sina  ** Barnabas ** at Saul para sa gawaing inilaan ko para sa kanila.” Kaya ipinanalangin ng mga mananampalataya sa Antioch sina  ** Barnabas ** at Saul.
 ~~DISCUSSION~~{{tag>publish ktobs}}
