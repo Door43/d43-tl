@@ -19,20 +19,16 @@ Si Elijah ay propeta ng Diyos noong panahon ni haring Ahab.
 
 {{topic>:en:bible?elijah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:19-02|[19-02]]]** **Elijah** was a prophet when Ahab was king over the kingdom of Israel.
-  ***[[:tl:obs:notes:frames:19-02|[19-02]]]** **Elijah** said to Ahab, "There will be no rain or dew in the kingdom of Israel until I say so."
-  ***[[:tl:obs:notes:frames:19-03|[19-03]]]** God told **Elijah** to go to a stream in the wilderness to hide from Ahab who wanted to kill him. Every morning and every evening, birds would bring him bread and meat.
-  ***[[:tl:obs:notes:frames:19-04|[19-04]]]** But they took care of **Elijah**, and God provided for them so that their flour jar and their bottle of oil never became empty.
-  ***[[:tl:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told **Elijah** to return to the kingdom of Israel and speak with Ahab because he was going to send rain again.
-  ***[[:tl:obs:notes:frames:19-07|[19-07]]]** Then **Elijah** said to the prophets of Baal, "Kill a bull and prepare it as a sacrifice, but do not light the fire."
-  ***[[:tl:obs:notes:frames:19-12|[19-12]]]** Then **Elijah** said, "Do not let any of the prophets of Baal escape!"
-  ***[[:tl:obs:notes:frames:36-03|[36-03]]]** Then Moses and the prophet **Elijah** appeared. These men had lived hundreds of years before this. They talked with Jesus about his death that would soon happen in Jerusalem.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:19-02|[19-02]]]** Noong si Ahab ang hari sa Kaharian ng Israel, si  ** Elijah ** ang propeta ng panahon na iyon.
+  * **[[:tl:obs:notes:frames:19-02|[19-02]]]** Dahil dito sinabi ni  ** Elijah ** kay Ahab, “Hindi uulan ni magkakaroon man lang ng hamog sa Kaharian ng Israel hangga’t hindi ko sinasabi.” Galit na galit si Ahab dahil dito.
+  * **[[:tl:obs:notes:frames:19-03|[19-03]]]** Sinabihan ng Diyos si  ** Elijah  ** na pumunta sa batis doon sa ilang para magtago dahil gusto siyang ipapatay ni Ahab.
+  * **[[:tl:obs:notes:frames:19-04|[19-04]]]** Kaya pumunta si  ** Elijah ** sa kalapit na bansa at mayroong babaeng balo sa lugar na iyon na may anak na lalaki.
+  * **[[:tl:obs:notes:frames:19-05|[19-05]]]** Pagkalipas ng tatlo’t kalahating taon sinabi ng Diyos kay  ** Elijah ** na bumalik na siya sa kaharian ng Israel at kausapin niya si Ahab dahil magkakaroon na ulit ng ulan.
+  * **[[:tl:obs:notes:frames:19-07|[19-07]]]** Pagkatapos ay sinabi ni  ** Elijah ** sa mga propeta ni Baal, “Magkatay kayo ng baka at ihanda bilang alay pero huwag kayong magsisindi ng apoy, ganoon din ang gagawin ko sa iaalay ko. Ang diyos na magpapaapoy dito sa mga alay ay siyang tunay na Diyos.” Kaya naghanda nga ang mga pari ni Baal ng mga alay at hindi sila nagsindi ng apoy.
+  * **[[:tl:obs:notes:frames:19-12|[19-12]]]** Pagkatapos iniutos ni  ** Elijah ** , “Huwag niyong pabayaang makatakas ang kahit isa sa mga propeta ni Baal.” Kaya hinuli ng mga tao ang mga propeta ni Baal at inilayo at saka pinagpapatay.
+  * **[[:tl:obs:notes:frames:36-03|[36-03]]]** Pagkatapos biglang lumitaw sina Moses at  ** Elijah ** . Nabuhay ang dalawang lalaking ito sa mundo daan-daang taon na ang nakalipas bago pa man ang pangyayaring ito.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
