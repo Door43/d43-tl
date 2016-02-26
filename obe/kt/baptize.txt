@@ -22,15 +22,15 @@ Sa bagong tipan ng bibliya, ang “Bawtismo” ay ang paglulubog sa tubig ng isa
 
 {{topic>:en:bible?baptize&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:24-03|[24-03]]]** When people heard John's message, many of them repented from their sins, and John **baptized**  them. Many religious leaders also came to be **baptized**  by John, but they did not repent or confess their sins.
-  * **[[:tl:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be **baptized**  by John.
-  * **[[:tl:obs:notes:frames:24-07|[24-07]]]** John said to Jesus, "I am not worthy to **baptize**  you. You should **baptize**  me instead."
-  * **[[:tl:obs:notes:frames:42-10|[42-10]]]** So go, make disciples of all people groups by **baptizing**  them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
-  * **[[:tl:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be **baptized**  in the name of Jesus Christ so that God will forgive your sins."
-  * **[[:tl:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were **baptized**  and became part of the church at Jerusalem.
-  * **[[:tl:obs:notes:frames:45-11|[45-11]]]** As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, "Look! There is some water! May I be **baptized**?"
-  * **[[:tl:obs:notes:frames:46-05|[46-05]]]** Saul immediately was able to see again, and Ananias **baptized**  him.
-  * **[[:tl:obs:notes:frames:49-14|[49-14]]]** Jesus invites you to believe in him and be **baptized**.
+  * **[[:tl:obs:notes:frames:24-03|[24-03]]]** Nang marinig nila ang mensahe ni John, marami sa kanila ang nagsisi sa kanilang kasalanan at ** nagpabawtismo  ** sila. Marami ring mga paring Hudyo ang  ** nagpabawtismo ** kay John ngunit hindi sila nagsisi sa mga kasalanan nila.
+  * **[[:tl:obs:notes:frames:24-06|[24-06]]]** Kinabukasan dumating si Jesus para  ** magpabawtismo ** kay John.
+  * **[[:tl:obs:notes:frames:24-07|[24-07]]]** Sinabi ni John kay Jesus, “Hindi ako ang karapat-dapat na  ** magbawtismo ** sa iyo, dapat pa nga ikaw ang  ** magbawtismo ** sa akin.” Sumagot si Jesus, “Dapat mo akong  ** bawtismuhan ** dahil iyon ang nararapat na mangyari”. Kaya ** binawtismuhan ** siya ni John kahit hindi kailanman nagkasala si Jesus.
+  * **[[:tl:obs:notes:frames:42-10|[42-10]]]** Sinabi ni Jesus sa mga apostol niya, “Ibinigay na sa akin ang lahat ng kapangyarihan sa langit at sa lupa. Kaya humayo kayo at gawin niyong mga alagad ko ang mga tao sa pamamagitan ng  ** pagbabawtismo ** sa kanila sa pangalan ng Ama, Anak at Banal na Espiritu at turuan niyo silang sundin lahat ng mga sinabi ko sa inyo. Tandaan niyo, kasama niyo ako palagi.”
+  * **[[:tl:obs:notes:frames:43-11|[43-11]]]** Sinagot naman sila ni Peter, “Lahat kayo ay dapat nang magsisi at  ** mabawtismuhan ** sa pangalan ni Jesus para patawarin ng Diyos ang mga kasalanan niyo. Ipagkakaloob din niya sa inyo ang kapangyarihang nagmumula sa Banal na Espiritu.
+  * **[[:tl:obs:notes:frames:43-12|[43-12]]]** Mga 3,000 katao ang naniwala sa sinabi ni Peter at naging alagad ni Jesus.  ** Nabawtismuhan ** sila at naging miyembro ng simbahan sa Jerusalem.
+  * **[[:tl:obs:notes:frames:45-11|[45-11]]]** Habang naglalakbay si Philip at ang opisyal may nadaanan silang lugar na may tubig. Sinabi ng opisyal “Tignan mo! May tubig sa banda roon! Pwede mo ba akong  ** bawtismuhan ** ?”Sinabi niya sa nagpapatakbo ng kalesa na ihinto muna ang kalesa.
+  * **[[:tl:obs:notes:frames:46-05|[46-05]]]** Nagbalik agad ang paningin niya at  ** binawtismuhan ** siya ni Ananias. Kumain na rin si Saul at bumalik ang lakas niya.
+  * **[[:tl:obs:notes:frames:49-14|[49-14]]]** Inaanyayahan ka ni Jesus na maniwala sa kanya at  ** mabawtismuhan ** .
 ~~DISCUSSION~~{{tag>publish ktobs}}
