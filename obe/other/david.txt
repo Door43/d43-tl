@@ -18,19 +18,15 @@ Si David ang ikalawang hari ng Bayan ng Israel. Naglingkod siya ng buong katapat
 
 {{topic>:en:bible?david&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:17-02|[17-02]]]** God chose a young Israelite named **David** to be king after Saul. **David** was a shepherd from the town of Bethlehem. … **David** was a humble and righteous man who trusted and obeyed God. 
-  ***[[:tl:obs:notes:frames:17-03|[17-03]]]** **David** was also a great soldier and leader. When **David** was still a young man, he fought against a giant named Goliath. 
-  ***[[:tl:obs:notes:frames:17-04|[17-04]]]** Saul became jealous of the people's love for **David**. Saul tried many times to kill him, so **David** hid from Saul. 
-  ***[[:tl:obs:notes:frames:17-05|[17-05]]]** God blessed **David** and made him successful. **David** fought many battles and God helped him defeat Israel's enemies.  
-  ***[[:tl:obs:notes:frames:17-06|[17-06]]]** **David** wanted to build a temple where all the Israelites could worship God and offer him sacrifices. 
-  ***[[:tl:obs:notes:frames:17-09|[17-09]]]** **David** ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly against God. 
-  ***[[:tl:obs:notes:frames:17-13|[17-13]]]** God was very angry about what **David** had done, so he sent the prophet Nathan to tell **David** how evil his sin was. **David** repented of his sin and God forgave him. For the rest of his life, **David** followed and obeyed God, even in difficult times.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** Pinili ng Diyos ang binatang Israelita na si  ** David ** para pumalit na hari kay Saul. Pastol siya ng tupa sa Bethlehem.
+  * **[[:tl:obs:notes:frames:17-03|[17-03]]]** Naging magaling na sundalo at pinuno si  ** David ** . Noong bata pa siya nilabanan niya si Goliath na isang higante at bihasang sundalo, malakas siya at halos tatlong metro ang taas niya! Pero tinulungan ng Diyos na patayin ni  ** David ** si Goliath at iligtas ang Israel.
+  * **[[:tl:obs:notes:frames:17-04|[17-04]]]** Nainggit si Saul sa pagmamahal ng mga tao kay  ** David ** kaya maraming beses niyang sinubukang patayin si  ** David ** kaya nagtago si  ** David ** mula kay Saul.
+  * **[[:tl:obs:notes:frames:17-05|[17-05]]]** Namatay rin si Saul sa isang digmaan at si  ** David  ** ang pumalit na hari ng Israel. Mabuti siyang hari at mahal na mahal siya ng mga tao.
+  * **[[:tl:obs:notes:frames:17-06|[17-06]]]** Gusto ni  ** David ** na makapagpatayo ng templo kung saan pwedeng sumamba at mag-alay sa Diyos. Sa loob ng halos 400 na taon, sumasamba at nag-aalay ang mga tao sa Toldang ginawa pa ni Moses.
+  * **[[:tl:obs:notes:frames:17-09|[17-09]]]** Sa maraming taon namuno ng may katapatan at may katarungan si  ** David ** at pinagpala siya ng Diyos. Ngunit sa mga huling bahagi ng buhay niya, nakagawa siya ng matinding kasalanan sa Diyos.
+  * **[[:tl:obs:notes:frames:17-13|[17-13]]]** Nang napatay si Uriah sa labanan napangasawa ni  ** David ** si Bathsheba at hindi nagtagal ipinanganak niya ang anak ni  ** David ** .
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
