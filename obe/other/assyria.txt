@@ -15,15 +15,11 @@ Ang Assyria ay isang makapangyarihang imperyo noong mga panahong ang mga Israeli
 
 {{topic>:en:bible?assyria&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:20-02|[20-02]]]** So God punished both kingdoms by allowing their enemies to destroy them. The kingdom of Israel was destroyed by the **Assyrian Empire**, a powerful, cruel nation. The **Assyrians** killed many people in the kingdom of Israel, took away everything of value, and burned much of the country.
-  ***[[:tl:obs:notes:frames:20-03|[20-03]]]** The **Assyrians** gathered all the leaders, the rich people, and the people with skills and took them to **Assyria**.
-  ***[[:tl:obs:notes:frames:20-04|[20-04]]]** Then the **Assyrians** brought foreigners to live in the land where the kingdom of Israel had been. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:20-02|[20-02]]]** Pinarusahan ng Diyos ang dalawang kaharian kaya pinayagan niya na salakayin at sirain sila ng mga kaaway. Sinira at sinunog ng malupit at makapangyarihang  ** imperyo ng Assyria ** ang Kaharian ng Israel.
+  * **[[:tl:obs:notes:frames:20-03|[20-03]]]** Tinipon ng mga taga  ** Assyria ** ang mga pinuno, mga mayayaman, at mga bihasang manggagawa at isinama nila sila sa ** Assyria ** . Tanging ang mga taong mahihirap na hindi pinatay ang naiwan sa kaharian ng Israel.
+  * **[[:tl:obs:notes:frames:20-04|[20-04]]]** Pagkatapos ay nagsama ang mga taga  ** Assyria ** ng mga dayuhan para tumira kung saan dating nakatayo ang kaharian ng Israel.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
