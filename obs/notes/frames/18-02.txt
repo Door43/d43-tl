@@ -8,7 +8,7 @@ Itinayo ni Solomon ang Templo sa Jerusalem na si David na ama niya ang nagplano 
 
   * **[[:tl:obe:other:jerusalem|Jerusalem]]**
   * **[[:tl:obe:other:solomon|Solomon]]**
-  * **[[:tl:obe:kt:temple|temple]]**
+  * **[[:tl:obe:kt:temple|templo]]**
   * **[[:tl:obe:other:david|David]]**
   * **[[:tl:obe:kt:worship|sumamba, pagsamba]]**
   * **[[:tl:obe:kt:god|Diyos]]**
