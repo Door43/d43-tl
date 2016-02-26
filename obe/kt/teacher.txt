@@ -20,13 +20,13 @@ Ang guro ay isang taong nagtuturo sa ibang mga tao. Tinutulungan ng isang guro a
 
 {{topic>:en:bible?teacher&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
-  * **[[:tl:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
-  * **[[:tl:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
-  * **[[:tl:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
-  * **[[:tl:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**, and he spoke with authority because he is the Son of God.
+  * **[[:tl:obs:notes:frames:27-01|[27-01]]]** Gusto niyang subukin si Jesus kaya nagtanong siya, “ ** Guro ** , ano po ba ang dapat kong gawin para magkaroon ng buhay na walang hanggan?” Sumagot si Jesus, “Ano ba ang nakasulat sa batas ng Diyos?”
+  * **[[:tl:obs:notes:frames:28-01|[28-01]]]** Isang araw may isang mayamang pinuno na lumapit kay Jesus at nagtanong, “Mabuting  ** guro ** , ano ba ang dapat kong gawin para magkaroon ng buhay na walang hanggan?”
+  * **[[:tl:obs:notes:frames:37-02|[37-02]]]** Sinabi naman ng mga apostol, “Pero  ** Guro ** , kailan lang, gusto kang patayin ng mga tao doon! Sumagot naman si Jesus, “Natutulog ang kaibigan nating si Lazarus at kailangan ko siyang gisingin.”
+  * **[[:tl:obs:notes:frames:38-14|[38-14]]]** Nilapitan ni Judas si Jesus at sinabi, “Magandang gabi po ** Guro ** .”
+  * **[[:tl:obs:notes:frames:49-03|[49-03]]]** Isa ring magaling na  ** guro ** si Jesus, makapangyarihan ang salita niya dahil siya ang Anak ng Diyos. Tinuro niya na dapat mong mahalin ang ibang tao gaya ng pagmamahal mo sa sarili mo.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
