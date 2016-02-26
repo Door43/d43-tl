@@ -13,21 +13,17 @@ Ang mga Pinunong Hudyo ay ang mga Pinuno ng relihiyon katulad ng mga Pari at mga
 
 {{topic>:en:bible?Jewishleaders&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:24-03|[24-03]]]** Many **religious leaders** also came to be baptized by John, but they did not repent or confess their sins.
-  ***[[:tl:obs:notes:frames:37-11|[37-11]]]** But the **religious leaders of the Jews** were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
-  ***[[:tl:obs:notes:frames:38-02|[38-02]]]** He (Judas) knew that the **Jewish leaders** denied that Jesus was the Messiah and that they were plotting to kill him.
-  ***[[:tl:obs:notes:frames:38-03|[38-03]]]** The **Jewish leaders**, led by the high priest, paid Judas thirty silver coins to betray Jesus.
-  ***[[:tl:obs:notes:frames:39-05|[39-05]]]** The **Jewish leaders** all answered the high priest, "He (Jesus) deserves to die!"
-  ***[[:tl:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the **Jewish leaders** brought Jesus to Pilate, the Roman governor.
-  ***[[:tl:obs:notes:frames:39-11|[39-11]]]** But the **Jewish leaders** and the crowd shouted, "Crucify him!"
-  ***[[:tl:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two **Jewish leaders** who believed Jesus was the Messiah, asked Pilate for Jesus' body.
-  ***[[:tl:obs:notes:frames:44-07|[44-07]]]** The next day, the **Jewish leaders** brought Peter and John to the high priest and the other **religious leaders**.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:24-03|[24-03]]]** Marami ring mga ** paring Hudyo ** ang nagpabawtismo kay John ngunit hindi sila nagsisi sa mga kasalanan nila.
+  * **[[:tl:obs:notes:frames:37-11|[37-11]]]** Pero marami sa mga ** pinuno ng relihiyon ng mga Hudyo ** ang naiinggit kaya nagtipon-tipon sila para planuhin kung paano nila papatayin si Jesus at Lazarus.
+  * **[[:tl:obs:notes:frames:38-02|[38-02]]]** Alam ni Judas na hindi naniniwala ang mga  ** pinuno ng mga Hudyo  ** na si Jesus ay ang “Messiah” plano pa nila itong patayin.
+  * **[[:tl:obs:notes:frames:38-03|[38-03]]] ** Sa pangunguna ng pinakapunong pari, binayaran ng mga ** pinuno ng mga Hudyo ** si Judas ng 30 pirasong baryang pilak para pagtaksilan niya si Jesus.
+  * **[[:tl:obs:notes:frames:39-05|[39-05]]]** Sumagot ang mga  ** pinuno ng mga Hudyo ** , “Dapat siyang mamatay!”
+  * **[[:tl:obs:notes:frames:39-09|[39-09]]]** Kinaumagahan, dinala ng mga  ** pinuno ng Hudyo ** si Jesus kay Pilate, ang gobernador noong mga panahong iyon.
+  * **[[:tl:obs:notes:frames:39-11|[39-11]]]** Pero nagsigawan ang mga ang ** pinuno ng mga Hudyo ** at ang mga tao, “Ipako siya sa krus!”
+  * **[[:tl:obs:notes:frames:40-09|[40-09]]]** Pagkatapos may dalawang  ** pinuno ng mga Hudyo ** na naniniwala sa Messiah. Ito ay sina Joseph na taga-Arimatea at si Nicodemus. Hiniling nila kay Pilate ang bangkay ni Jesus.
+  * **[[:tl:obs:notes:frames:44-07|[44-07]]] ** Kinabukasan dinala ng mga ** pinuno ng mga Hudy ** o sina Peter at John sa pinakapunong pari at sa mga iba pang  ** pinuno ng relihiyon ** .
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
