@@ -15,11 +15,10 @@ Ang Bethlehem ay isang maliit na lungsod sa lupain  ng Israel, malapit sa lungso
 
 {{topic>:en:bible?bethlehem&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
-  ***[[:tl:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
-  ***[[:tl:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem** because their ancestor was David whose hometown was **Bethlehem**.
-  ***[[:tl:obs:notes:frames:23-06|[23-06]]]** "The Messiah, the Master, has been born in **Bethlehem**!"
-
+  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** Pastol siya ng tupa sa  ** Bethlehem ** .
+  * **[[:tl:obs:notes:frames:21-09|[21-09]]]** Sinabi ng propetang si Micah na ipapanganak siya sa bayan ng  ** Bethlehem. **
+  * **[[:tl:obs:notes:frames:23-04|[23-04]]]** Naglakbay sila ng malayo papunta sa  ** Bethlehem ** dahil doon tumira si David na ninuno nila.
+  * **[[:tl:obs:notes:frames:23-06|[23-06]]]** Nang dumating sila sa ** Bethlehem ** , wala silang matuluyan na bahay. Ang nahanap lang nilang pwedeng matuluyan ay silungan ng mga hayop. Doon na niya naipanganak ang sanggol. Inihiga nila ang sanggol sa lalagyan ng pagkain ng mga hayop dahil walang higaan para sa kanya. Pinangalanan nila siyang Jesus.
 ~~DISCUSSION~~{{tag>publish ktobs}}
