@@ -20,6 +20,6 @@ A sign is an object, event, or action that communicates a special meaning.
 
 (See also: [[:tl:obe:kt:miracle|miracle, wonder, sign]], [[:tl:obe:kt:apostle|apostle, apostleship]], [[:tl:obe:kt:christ|Christ, Messiah]], [[:tl:obe:kt:covenant|covenant]], [[:tl:obe:kt:circumcise|circumcise, circumcision]])
 
-===== Bible References: =====
+===== Matatagpuan sa Bibliya: =====
 
 {{topic>:en:bible?sign&nocomments}}~~DISCUSSION~~{{tag>publish}}
