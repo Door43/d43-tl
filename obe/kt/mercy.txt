@@ -16,12 +16,12 @@ Ito ay pagtulong sa isang taong may hinaharap na mahirap na sitwasyon. Maaari ri
 
 {{topic>:en:bible?mercy}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:bn:obs:notes:frames:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping idols and to start showing justice and **mercy**  to others.
-  * **[[:bn:obs:notes:frames:19-17|[19-17]]]** He (Jeremiah) sank down into the mud that was in the bottom of the well, but then the king had **mercy**  on him and ordered his servants to pull Jeremiah out of the well before he died.
-  * **[[:bn:obs:notes:frames:20-12|[20-12]]]** The Persian Empire was strong but **merciful**  to the people it conquered.
-  * **[[:bn:obs:notes:frames:27-11|[27-11]]]** Then Jesus asked the law expert, "What do you think? Which one of the three men was a neighbor to the man who was robbed and beaten?" He replied, "The one who was **merciful**  to him."
-  * **[[:bn:obs:notes:frames:32-11|[32-11]]]** But Jesus said to him, "No, I want you to go home and tell your friends and family about everything that God has done for you and how he has had **mercy**  on you."
-  * **[[:bn:obs:notes:frames:34-09|[34-09]]]**"But the tax collector stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be **merciful**  to me because I am a sinner.'"
+  * **[[:bn:obs:notes:frames:19-16|[19-16]]]** Lahat ng mga propetang ito ay nagturo sa mga tao na dapat na silang mamuhay ng matuwid, itigil ang pagsamba sa mga diyus-diyosan at dapat magpakita na rin sila ng hustisya at  ** habag ** sa kapwa.
+  * **[[:bn:obs:notes:frames:19-17|[19-17]]]** Minsan din nilang inihulog ang propetang si Jeremiah sa isang balon na walang tubig at lumubog siya sa putik sa ilalim ng balon, iniwan siya doon para mamatay pero dahil  ** naawa ** sa kanya ang hari at iniutos niya sa mga lingkod niya na iahon si Jeremiah palabas ng balon bago pa siya tuluyang mamatay.
+  * **[[:bn:obs:notes:frames:20-12|[20-12]]]** Kahit makapangyarihan ang imperyo ng Persia  ** maawain ** sila sa mga taong nasasakupan nila.
+  * **[[:bn:obs:notes:frames:27-11|[27-11]]]** sumagot ang dalubhasa, “Ang taong nagpakita ng  ** habag ** sa taong binugbog at pinagnakawan” Sinabi ni Jesus, “Humayo ka at ganoon din ang dapat mong gawin.”
+  * **[[:bn:obs:notes:frames:32-11|[32-11]]]** Gusto kong umuwi ka na lang at ibalita mo sa pamilya at mga kaibigan mo ang ginawa ng Diyos sa iyo at kung paano siya nagpakita ng  ** habag ** .”
+  * **[[:bn:obs:notes:frames:34-09|[34-09]]]** “Samantala nakatayo naman sa di kalayuan ang maniningil ng buwis at hindi man lang siya makatingala sa langit at sa halip ay kinakabog niya ang dibdib niya habang nananalangin ng ganito, ‘Diyos ko,  ** maawa ** kayo sa akin dahil makasalanan ako.”’
 {{tag>publish ktobs}}
