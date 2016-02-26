@@ -19,13 +19,12 @@ Ito ang tawag kay Jesus, ang Messiah.
 
 {{topic>:en:bible?kingofthejews&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:23-09|[23-09]]]** Some time later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new **king of the Jews**  was born.
-  * **[[:tl:obs:notes:frames:39-09|[39-09]]]** Pilate asked Jesus, "Are you the **King of the Jews**?"
-  * **[[:tl:obs:notes:frames:39-12|[39-12]]]** The Roman soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the **King of the Jews**!"
-  * **[[:tl:obs:notes:frames:40-02|[40-02]]]** Pilate commanded that they write, "**King of the Jews**" on a sign and put it on the cross above Jesus' head.
-
+  * **[[:tl:obs:notes:frames:23-09|[23-09]]]** Naisip nila na ang ibig sabihin nito ay maaaring ipinanganak na nga ang bagong  ** Hari ng mga Hudyo ** kaya pumunta sila para makita ang haring ito kahit na napakalayo ng kailangan nilang lakbayin.
+  * **[[:tl:obs:notes:frames:39-09|[39-09]]]** Tinanong ni Pilate si Jesus, “Ikaw ba ang  ** hari ng mga Hudyo ** ?”
+  * **[[:tl:obs:notes:frames:39-12|[39-12]]]** Nilait nila si Jesus at sinabi, “Tignan niyo, ang  ** Hari ng mga Hudyo ** !”
+  * **[[:tl:obs:notes:frames:40-02|[40-02]]]** Iniutos ni Pilate na sumulat sila ng ganito at ilagay sa itaas ng ulunan ni Jesus, “ ** Hari ng mga Hudyo ** .”Ngunit kahit ganoon ang ginawa sa kanya sinabi niya, “Ama, patawarin ninyo ang mga taong ito dahil hindi nila alam kung ano ang ginagawa nila.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
