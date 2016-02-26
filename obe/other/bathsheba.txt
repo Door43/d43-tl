@@ -17,18 +17,13 @@ Si Bathsheba ay ang asawa ni Uriah, isang sundalo sa hukbo ni Haring David. Siya
 
 {{topic>:en:bible?bathsheba&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:17-10|[17-10]]]** One day, when all of David's soldiers were away from home fighting battles, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was **Bathsheba**.
-  ***[[:tl:obs:notes:frames:17-11|[17-11]]]** A short time later **Bathsheba** sent a message to David saying that she was pregnant.
-  ***[[:tl:obs:notes:frames:17-12|[17-12]]]** **Bathsheba's** husband, a man named Uriah, was one of David's best soldiers.
-  ***[[:tl:obs:notes:frames:17-13|[17-13]]]** After Uriah was killed, David married **Bathsheba**.
-  ***[[:tl:obs:notes:frames:17-14|[17-14]]]** Later,  David and **Bathsheba** had another son, and they named him Solomon.
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:17-10|[17-10]]]** May isang araw noong nasa malayo ang mga sundalo habang nakikipaglaban, sumilip siya sa labas ng palasyo at nakakita siya ng magandang babae na naliligo.  ** Bathsheba ** ang pangalan niya.
+  * **[[:tl:obs:notes:frames:17-11|[17-11]]]** Sa halip na umiwas si David, inutusan niya pa ang isang tauhan niya para papuntahin si  ** Bathsheba ** sa kanya. Natulog silang magkasama at pagkatapos pinauwi niya si  ** Bathsheba ** . Pagkalipas ng maikling panahon nagparating si  ** Bathsheba ** ng mensahe kay David na buntis siya.
+  * **[[:tl:obs:notes:frames:17-12|[17-12]]]** Si Uriah, ang asawa ni  ** Bathsheba ** , ay isa sa mga pinakamagagaling na kawal ni David.
+  * **[[:tl:obs:notes:frames:17-13|[17-13]]]** Nang napatay si Uriah sa labanan napangasawa ni David si  ** Bathsheba ** at hindi nagtagal ipinanganak niya ang anak ni David.
+  * **[[:tl:obs:notes:frames:17-14|[17-14]]]** Pero bilang parusa kay David, namatay ang anak nila ni  ** Bathsheba ** .
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
