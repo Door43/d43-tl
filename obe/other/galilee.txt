@@ -14,16 +14,12 @@ Ang Galilee ay ang nasa pinaka-hilagang bahagi ng Israel, mas hilagang bahagi pa
 
 {{topic>:en:bible?galilee&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:21-10|[21-10]]]**  The prophet Isaiah said the Messiah would live in **Galilee**, comfort broken-hearted people, and proclaim freedom to captives and release to prisoners. 
-  ***[[:tl:obs:notes:frames:26-01|[26-01]]]**  After overcoming Satan's temptations, Jesus returned in the power of the Holy Spirit to the region of **Galilee** where he lived.
-  ***[[:tl:obs:notes:frames:39-06|[39-06]]]**  Finally, the people said, "We know that you were with Jesus because you both are from **Galilee**."
-  ***[[:tl:obs:notes:frames:41-06|[41-06]]]**  Then the angel told the women, "Go and tell the disciples, 'Jesus has risen from the dead and he will go to **Galilee** ahead of you.'"
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:21-10|[21-10]]]** Sa propesiya ni Isaiah nasabi niya na maninirahan ang Messiah sa ** Galilee ** , papalakasin niya ang mga taong may mga pusong nasaktan, ihahayag niya ang kalayaan sa mga bihag at papalayain niya ang mga ito.
+  * **[[:tl:obs:notes:frames:26-01|[26-01]]]** Pagkatapos pagtagumpayan ni Jesus ang panunukso sa kanya ni Satan, bumalik siya sa tulong ng Banal na Espiritu sa  ** Galilee ** kung saan siya nakatira.
+  * **[[:tl:obs:notes:frames:39-06|[39-06]]]** Sa bandang huli sinabi sa kanya ng mga tao, “Alam naming kasamahan mo si Jesus dahil pareho kayong galing sa  ** Galilee ** .”
+  * **[[:tl:obs:notes:frames:41-06|[41-06]]]** Sinabihan ng anghel ang mga babae, “Puntahan niyo ang mga disipulo at sabihin, ‘Nabuhay nang muli si Jesus at mauuna na siya sa inyong pumunta sa  ** Galilee ** .’’’
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
