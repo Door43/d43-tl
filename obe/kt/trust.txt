@@ -18,12 +18,12 @@ Ang ibig sabihin ng salitang ito ay paniniwala sa isang bagay o sa isang tao na 
 
 {{topic>:en:bible?trust&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they **trusted**  in God and believed that Moses was a prophet of God.
-  * **[[:tl:obs:notes:frames:14-15|[14-15]]]** Joshua was a good leader because he **trusted**  and obeyed God.
-  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** David was a humble and righteous man who **trusted**  and obeyed God.
-  * **[[:tl:obs:notes:frames:34-06|[34-06]]]** Then Jesus told a story about people who **trusted**  in their own good deeds and despised other people.
-~~DISCUSSION~~{{tag>publish  ktobs}}
+  * **[[:tl:obs:notes:frames:12-12|[12-12]]]** Nang makita ng mga Israelita na patay na ang mga Egipcio ** nagtiwala  ** sila sa Diyos at naniwala din sila na si Moses ay propeta nga ng Diyos.
+  * **[[:tl:obs:notes:frames:14-15|[14-15]]]** Siya ay naging mabuting pinuno dahil  ** nagtitiwala  ** siya at sumusunod sa Diyos.
+  * **[[:tl:obs:notes:frames:17-02|[17-02]]] ** Mapagpakumbaba at matuwid na tao si David ** .Nagtitiwala ** at sumusunod siya sa Diyos
+  * **[[:tl:obs:notes:frames:34-06|[34-06]]] ** Nagkuwento din si Jesus sa mga tao na ** nagtitiwala ** sa mabubuti nilang gawa at kinamumuhian ang ibang tao.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
