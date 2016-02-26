@@ -14,9 +14,8 @@ Ang taong Mapagpakumbaba ay hindi itinuturing ang sarili niya na higit kaysa iba
 
 {{topic>:en:bible?humble&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:17-02|[17-02]]]** David was a **humble** and righteous man who trusted and obeyed God.
-  ***[[:tl:obs:notes:frames:34-10|[34-10]]]** "God will **humble** everyone who is proud, and he will lift up whoever **humbles** himself."
-
+  * **[[:tl:obs:notes:frames:17-02|[17-02]]]** ** Mapagpakumbaba ** at matuwid na tao si David.Nagtitiwala at sumusunod siya sa Diyos.
+  * **[[:tl:obs:notes:frames:34-10|[34-10]]] ** Ibabagsak ng Diyos ang mayayabang at itataas naman niya ang mga ** nagpapakumbaba ** .”’
 ~~DISCUSSION~~{{tag>publish ktobs}}
