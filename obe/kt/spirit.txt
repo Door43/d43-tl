@@ -27,12 +27,12 @@ Ang espiritu ay ang katauhan ng isang tao na hindi nakikita. Kapag namatay ang i
 
 {{topic>:en:bible?spirit&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves **spiritually**, God came down on top of Mount Sinai with thunder, lightning, smoke, and a loud trumpet blast.
-  * **[[:tl:obs:notes:frames:40-07|[40-07]]]** Then Jesus cried out, "It is finished! Father, I give my **spirit**  into your hands." Then he bowed his head and gave up his **spirit**.
-  * **[[:tl:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, receive my **spirit**."
-  * **[[:tl:obs:notes:frames:48-07|[48-07]]]** All the people groups are blessed through him, because everyone who believes in Jesus is saved from sin, and becomes a **spiritual**  descendant of Abraham.
+  * **[[:tl:obs:notes:frames:13-03|[13-03]]]** Pagkalipas ng tatlong araw, pagkatapos ihanda ng mga tao ang mga sarili nila sa pagdating ng Diyos, bumaba ang Diyos sa ibabaw ng Bundok ng Sinai. May kasamang kulog, kidlat, usok at malakas na tunog ng trumpeta sa pagbaba niya. Si Moses lang ang pinayagan ng Diyos na umakyat sa bundok.
+  * **[[:tl:obs:notes:frames:40-07|[40-07]]]** Sumigaw si Jesus, “Tapos ko na! Ama,ipinapaubaya ko po sa iyo ang aking  ** espiritu ** .”
+  * **[[:tl:obs:notes:frames:45-05|[45-05]]]** Bago malagutan ng hininga si Stephen sinabi niya, “Jesus, tanggapin mo ang aking  ** Espiritu ** .”
+  * **[[:tl:obs:notes:frames:48-07|[48-07]]]** Lahat ay pinagpala sa pamamagitan ni Abraham dahil lahat ng naniniwala kay Jesus ay naligtas sa kasalanan at nagiging kabilang sa mga anak ni Abraham.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
