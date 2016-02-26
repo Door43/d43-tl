@@ -22,12 +22,11 @@ Angn Mana o Mamanahin” ay isang bagay na mamahalin o sobrang importanteng baga
 
 {{topic>:en:bible?inherit&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
-  * **[[:tl:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to **inherit**  eternal life?"
-  * **[[:tl:obs:notes:frames:35-03|[35-03]]]**"There was a man who had two sons. The younger son told his father, 'Father, I want my **inheritance**  now!' So the father divided his property between the two sons."
-
+  * **[[:tl:obs:notes:frames:04-06|[04-06]]]** Pagdating ni Abram sa Canaan sinabi sa kanya ng Diyos, “Tumingin ka sa paligid mo,  ** ipapamana ** ko sa iyo at sa mga magiging apo mo ang lahat ng lupain na naaabot ng paningin mo.”
+  * **[[:tl:obs:notes:frames:27-01|[27-01]]] ** Isang araw, may lumapit kay Jesus na dalubhasa sa batas ng mga Hudyo. Gusto niyang subukin si Jesus kaya nagtanong siya, “Guro, ano po ba ang dapat kong gawin para  ** magkaroon ** ng buhay na walang hanggan?”
+  * **[[:tl:obs:notes:frames:35-03|[35-03]]]** “May isang ama na may dalawang anak na lalaki. Isang araw sinabi ng bunso sa ama niya, ‘Ama, ibigay mo na ang  ** mamanahin ** ko ngayon!’Hinati ng ama nila ang lahat ng ari-arian niya para sa dalawang anak niya.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
