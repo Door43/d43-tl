@@ -19,14 +19,13 @@ A "believer" is a person who trusts completely in a person or an idea.
 
 {{topic>:en:bible?believer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers**  there constantly gathered together to pray.
-  * **[[:tl:obs:notes:frames:43-03|[43-03]]]** While the **believers**  were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
-  * **[[:tl:obs:notes:frames:43-13|[43-13]]]** Every day, more people became **believers**.
-  * **[[:tl:obs:notes:frames:46-06|[45-06]]]** That day many people in Jerusalem started persecuting the followers of Jesus, so the **believers**  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
-  * **[[:tl:obs:notes:frames:46-01|[46-01]]]** Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the **believers**.
-  * **[[:tl:obs:notes:frames:46-09|[46-09]]]** Some **believers**  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that **believers**  in Jesus were first called "Christians."
-  * **[[:tl:obs:notes:frames:47-14|[47-14]]]** They also wrote many letters to encourage and teach the **believers**  in the churches.
-
+  * **[[:tl:obs:notes:frames:43-01|[43-01]]]** Nang makabalik ni Jesus sa langit nanatili ang mga alagad sa Jerusalem gaya ng inutos ni Jesus sa kanila. Lagi namang nagtitipon-tipon ang mga  ** mananampalataya ** doon para magdasal.
+  * **[[:tl:obs:notes:frames:43-03|[43-03]]]** Habang magkakasama ang lahat ng mga  ** mananampalataya ** , biglang napuno ng tunog na parang ugong ng malakas na hangin ang bahay kung nasaan sila.
+  * **[[:tl:obs:notes:frames:43-13|[43-13]]]** Araw-araw nadaragdagan ang mga tao na nagiging  ** mananampalataya. **
+  * **[[:tl:obs:notes:frames:46-06|[45-06]]]** Namangha ang mga Hudyo dahil sa naniniwala na rin si Saul kay Jesus samantalang gusto niyang patayin ang mga  ** mananampalataya ** dati.
+  * **[[:tl:obs:notes:frames:46-01|[46-01]]]** Si Saul ang binatang lalaki na nagbantay sa mga kasuotan ng mga taong pumatay kay Stephen. Hindi siya naniniwala kay Jesus kaya pinagmamalupitan niya ang mga  ** mananampalataya ** .
+  * **[[:tl:obs:notes:frames:46-09|[46-09]]]** Ang ilang mga  ** mananampalatayang ** umalis mula sa pagmamalupit sa Jersusalem ay nagpunta sa Antioch.
+  * **[[:tl:obs:notes:frames:47-14|[47-14]]]** Gumawa din sila ng mga sulat para sa mga  ** mananampalataya ** sa mga simbahan para palakasin at turuan sila. Naging bahagi ng Bibliya ang ibang sulat na ito.
 ~~DISCUSSION~~{{tag>publish ktobs}}
