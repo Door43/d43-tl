@@ -14,11 +14,11 @@ A sign is an object, event, or action that communicates a special meaning.
       * The miracles done by the prophets and apostles were signs that proved they were speaking God's message.\\
       * The miracles that Jesus performed were signs that proved he was truly the Messiah.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * Depending on its context, "sign" could also be translated as "signal" or "symbol" or "mark" or "evidence" or "proof" or "gesture."
+  * Ang salitang "tanda o katibayan" ay maaaring isalin ng ganito, "senyales" o "palatandaan."
 
-(See also: [[:tl:obe:kt:miracle|miracle, wonder, sign]], [[:tl:obe:kt:apostle|apostle, apostleship]], [[:tl:obe:kt:christ|Christ, Messiah]], [[:tl:obe:kt:covenant|covenant]], [[:tl:obe:kt:circumcise|circumcise, circumcision]])
+(Tignan rin sa: [[:tl:obe:kt:miracle|himala]], [[:tl:obe:kt:apostle|apostol]], [[:tl:obe:kt:christ|Christ, Messiah]], [[:tl:obe:kt:covenant|kasunduan]], [[:tl:obe:kt:circumcise|tuli, pagtutuli]])
 
 ===== Matatagpuan sa Bibliya: =====
 
