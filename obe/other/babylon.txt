@@ -14,12 +14,12 @@ Ang sinaunang lungsod ng Babylon ay ang kabisera ng Imperyo ng Babylon. Ito ay n
 
 {{topic>:en:bible?babylon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the **Babylonians**, to attack the kingdom of Judah. **Babylon**  was a powerful empire.
-  * **[[:tl:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah rebelled against **Babylon**. So, the **Babylonians**  came back and attacked the kingdom of Judah. They captured the city of Jerusalem, destroyed the Temple, and took away all the treasures of the city and the Temple.
-  * **[[:tl:obs:notes:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took almost all of the people of the kingdom of Judah to **Babylon**, leaving only the poorest people behind to plant the fields.
-  * **[[:tl:obs:notes:frames:20-11|[20-11]]]** About seventy years later, Cyrus, the king of the Persians, defeated **Babylon**.
+  * **[[:tl:obs:notes:frames:20-06|[20-06]]]** Inutusan ng Diyos si Nebuchadnezzar na hari ng makapangyarihang imperyo ng  ** Babylon ** para salakayin ang Kaharian ng Judah.
+  * **[[:tl:obs:notes:frames:20-07|[20-07]]]** Pero pagkatapos ng ilang taon naghimagsik ang hari ng Judah laban sa hari ng  ** Babylon ** kaya bumalik ang mga  ** taga-Babylon ** para salakayin ang kaharian ng Judah.
+  * **[[:tl:obs:notes:frames:20-09|[20-09]]]** Isinama ni Nebuchadnezzar at ng mga sundalo niya halos lahat ng mga tao sa kaharian ng Judah at sapilitang isinama sa  ** Babylon ** .
+  * **[[:tl:obs:notes:frames:20-11|[20-11]]]** Mga 70 taon na ang lumipas tinalo ng hari ng Persia na si Cyrus ang  ** Babylon ** kaya pinalitan ng imperyong Persia ang pamumuno ng imperyo ng  ** Babylon ** .
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
