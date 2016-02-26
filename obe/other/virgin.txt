@@ -12,15 +12,12 @@ Ang birhen ay isang babaeng walang sekswal na kaugnayan. Nasabi sa propesiya ni 
 
 {{topic>:en:bible?virgin&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a **virgin**.
-  ***[[:tl:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a **virgin** and was engaged to be married to a man named Joseph.
-  ***[[:tl:obs:notes:frames:22-05|[22-05]]]** Mary replied, "How can this be, since I am a **virgin**?"
-  ***[[:tl:obs:notes:frames:49-01|[49-01]]]** An angel told a **virgin** named Mary that she would give birth to God's Son. So while she was still a **virgin**, she gave birth to a son and named him Jesus.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:21-09|[21-09]]]** Ayon kay Malachi, may darating na dakilang propeta bago dumating ang Messiah at ayon kay Isaiah, ipapanganak ng isang  ** birhen ** ang Messiah.
+  * **[[:tl:obs:notes:frames:22-04|[22-04]]]** Nang anim na buwan ng buntis si Elizabeth nagpakita ulit ang nasabing anghel sa kamag-anak niya na si Mary.  ** Dalaga ** pa siya at nakatakdang magpakasal kay Joseph.
+  * **[[:tl:obs:notes:frames:22-05|[22-05]]]** Sumagot si Mary, “Paano po ito mangyayari gayong isa po akong  ** birhen ** ?”
+  * **[[:tl:obs:notes:frames:49-01|[49-01]]]** Isang anghel ang nagsabi sa isang  ** dalaga ** na nagngangalang Mary na ipanganganak niya ang batang tatawaging Anak ng Diyos.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
