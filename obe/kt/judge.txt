@@ -10,12 +10,12 @@ Ang salitang ito ay may kinalaman sa pagdedesiyon sa isang bagay kung ito ba ay 
   * Ang paghatol o paghuhusga ay isa ring pagpapasya kung sino sa dalawang panig ang tama.
   * Sa ibang aspeto, ang mga hatol ng Diyos ay naaayon sa kanyang mga kautusan.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * Depending on the context, other ways to translate "to judge" could include, "to decide" or "to condemn" or "to punish" or "to decree."
-  * The term "judgment" could be translated as, "punishment" or "decision" or "verdict" or "decree" or "condemnation."
+  * Ang salitang "husga" o "hatol" ay maaaring isalin ng ganito, "magpasya" o "mamili" o "humatol" o "magparusa" o "magpatupad ng batas" depende sa dapat na gamit o konteksto.
+  * Ang salitang "paghuhukom" ay maaaring isalin ng ganito, "kaparusahan" o "hatol."
 
-(See also: [[:tl:obe:kt:justice]], [[:tl:obe:other:judgeposition]], [[:tl:obe:other:law]], [[:tl:obe:kt:LawofMoses]])
+(Tignan rin sa: [[:tl:obe:kt:justice|makatarungan, katarungan]], [[:tl:obe:other:judgeposition|hukom]], [[:tl:obe:other:law|kautusan, batas]], [[:tl:obe:kt:lawofmoses|Batas ng Diyos, Kautusan, Kautusan ng Diyos, Batas ni Moses]])
 
 ===== Matatagpuan sa Bibliya: =====
 
