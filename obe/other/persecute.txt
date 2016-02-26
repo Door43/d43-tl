@@ -17,15 +17,12 @@ To persecute someone is to repeatedly attack him or to treat him cruelly.
 
 {{topic>:en:bible?persecute&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa sa mga Kwento sa Bibliya: =====
 
-    * **[[:tl:obs:notes:frames:33-07|[33-07]]]** "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
-    * **[[:tl:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting** the followers of Jesus, so the believers fled to other places. 
-    * **[[:tl:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute** me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting** me!"
-    * **[[:tl:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted** the believers."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:33-07|[33-07]]]** “Ang mabatong lupa naman ay ang taong nakinig at tumanggap sa salita ng Diyos na may galak pero nang makaranas na ng ** hirap at pasakit  ** unti-unti na siyang hindi sumusunod sa Diyos.”
+  * **[[:tl:obs:notes:frames:45-06|[45-06]]]** Nang araw ding iyon nagsimulang ** pagmalupitan  ** ng maraming tao sa Jesusalem ang mga mananampalataya ni Jesus kaya umalis sila at nagpunta sa iba’t-ibang mga bayan.
+  * **[[:tl:obs:notes:frames:46-02|[46-02]]]** Nakarinig siya ng boses na nagsasabing, “Saul! Bakit mo ako pinagmamalupitan?” Nagtanong si Saul, “Panginoon, sino po kayo?”Sinagot siya ni Jesus, “Ako si Jesus na ** pinagmamalupitan ** mo!”
+  * **[[:tl:obs:notes:frames:46-04|[46-04]]] ** Ngunit Sumagot naman si Ananias sa Diyos, “Panginoon, nabalitaan ko kung paano pagmalupitan ng taong ito ang mga mananampalataya.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
