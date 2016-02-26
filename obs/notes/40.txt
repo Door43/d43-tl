@@ -4,39 +4,37 @@
 
 Jesus carried his own cross to his crucifixion. The soldiers nailed him to the cross and gambled for his clothes. The crowd mocked Jesus, and God sent darkness over the whole land. Finally, Jesus asked God the Father to receive his spirit and he died. Two of the Jewish leaders who believed in him placed his body in a new tomb and closed it with a large stone.
 
-====== Translate the Story ======
+====== Isalin ang Kwento ======
 
+Pindutin ang mga larawan sa ibaba para maisalin ang bawat talata nito.
 
-Click on the links below to translate each frame of the story.
+[[:tl:obs:notes:frames:40-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&200}}]]\\
+Binuhat ni Jesus ang kaniyang Krus [40-01]
 
+[[:tl:obs:notes:frames:40-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&200}}]]\\
+Ang Pagpapako kay Jesus sa Krus [40-02]
 
-[[:tl:obs:notes:frames:40-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?200|Frame 40-01}}]]\\ 
-Jesus Carried His Cross [40-01]\\ 
+[[:tl:obs:notes:frames:40-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink&200}}]]\\
+Pinagpustahan ang Kaniyang Damit [40-03]
 
-[[:tl:obs:notes:frames:40-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?200|Frame 40-02}}]]\\ 
-Jesus Was Nailed to the Cross [40-02]\\ 
+[[:tl:obs:notes:frames:40-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&200}}]]\\
+Ang Dalawang Magnanakaw [40-04]
 
-[[:tl:obs:notes:frames:40-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?200|Frame 40-03}}]]\\ 
-Gambling for His Clothes [40-03]\\ 
+[[:tl:obs:notes:frames:40-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&200}}]]\\
+Bumaba sa Krus [40-05]
 
-[[:tl:obs:notes:frames:40-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?200|Frame 40-04}}]]\\ 
-The Two Robbers [40-04]\\ 
+[[:tl:obs:notes:frames:40-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?nolink&200}}]]\\
+Ang Pagdilim [40-06]
 
-[[:tl:obs:notes:frames:40-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?200|Frame 40-05}}]]\\ 
-Come Down from the Cross [40-05]\\ 
+[[:tl:obs:notes:frames:40-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&200}}]]\\
+Ang Pagkamatay ni Jesus [40-07]
 
-[[:tl:obs:notes:frames:40-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-06.jpg?200|Frame 40-06}}]]\\ 
-The Darkness [40-06]\\ 
+[[:tl:obs:notes:frames:40-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&200}}]]\\
+Ang Testimonya ng Sundalo [40-08]
 
-[[:tl:obs:notes:frames:40-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?200|Frame 40-07}}]]\\ 
-Jesus Died [40-07]\\ 
+[[:tl:obs:notes:frames:40-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&200}}]]\\
+Ang Pagkalibing kay Jesus [40-09]
 
-[[:tl:obs:notes:frames:40-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?200|Frame 40-08}}]]\\ 
-The Soldier's Testimony [40-08]\\ 
+//Kwento mula sa Matthew 27:27-61; Mark 15:16-47; Luke 23:26-56; John 19:17-42//
 
-[[:tl:obs:notes:frames:40-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?200|Frame 40-09}}]]\\ 
-The Burial of Jesus [40-09]\\ 
-
-//A Bible story from: Matthew 27:27-61; Mark 15:16-47; Luke 23:26-56; John 19:17-42//
-
-**[[:tl:obs:notes:39|<< Previous]] | [[:tl:obs:notes:41|Next >>]]**
+**[[:tl:obs:notes:39|<< Nakaraan]] | [[:tl:obs:notes:41|Susunod >>]]**
