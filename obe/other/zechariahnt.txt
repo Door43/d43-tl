@@ -16,15 +16,12 @@ Si Zechariah ay isang paring hudyo. Siya ang ama ni John na tagabawtismo. Mahal 
 
 {{topic>:en:bible?zechariahnt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:22-01|[22-01]]]** Suddenly an angel came with a message from God to an old priest named **Zechariah**. **Zechariah** and his wife, Elizabeth, were godly people, but she had not been able to have any children.
-  ***[[:tl:obs:notes:frames:22-02|[22-02]]]** The angel said to **Zechariah**, "Your wife will have a son. You will name him John."
-  ***[[:tl:obs:notes:frames:22-03|[22-03]]]** Immediately, **Zechariah** was unable to speak.
-  ***[[:tl:obs:notes:frames:22-07|[22-07]]]** Then God allowed **Zechariah** to speak again.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:22-01|[22-01]]]** Pero biglang may isang anghel mula sa Diyos ang dumating na mensahe para kay  ** Zecariah ** , isang matandang pari. Si  ** Zecariah  ** at asawa niyang si Elizabeth ay makadiyos pero hindi pinalad na magkaanak si Elizabeth.
+  * **[[:tl:obs:notes:frames:22-02|[22-02]]]** Sinabi ng anghel kay  ** Zecariah ** , “Manganganak ang asawa mo ng batang lalaki.
+  * **[[:tl:obs:notes:frames:22-03|[22-03]]] ** Biglang hindi na nga makapagsalita si  ** Zecariah ** at iniwan siya ng anghel.
+  * **[[:tl:obs:notes:frames:22-07|[22-07]]]** Pinayagan na rin ng Diyos na makapagsalita na muli si  ** Zecariah ** .
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
