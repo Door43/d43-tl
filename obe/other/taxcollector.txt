@@ -14,14 +14,11 @@ Ang trabaho ng maniningil ng buwis ay pagkokolekta ng buwis na kailangan bayaran
 
 {{topic>:en:bible?taxcollector&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:34-06|[34-06]]]** He said, "Two men went to the Temple to pray. One of them was a **tax collector**, and the other was a religious leader."
-  ***[[:tl:obs:notes:frames:34-07|[34-07]]]** "The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, adulterers, or even like that **tax collector**.'"
-  ***[[:tl:obs:notes:frames:34-09|[34-09]]]** "But the **tax collector** stood far away from the religious ruler, did not even look up to heaven. Instead, he pounded on his chest and prayed, 'God, please be merciful to me because I am a sinner.'"
-  ***[[:tl:obs:notes:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, God heard the **tax collector's** prayer and declared him to be righteous."
-  ***[[:tl:obs:notes:frames:35-01|[35-01]]]** One day, Jesus was teaching many **tax collectors** and other sinners who had gathered to hear him. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:34-06|[34-06]]] ** Nagkuwento din si Jesus sa mga tao na nagtitiwala sa mabubuti nilang gawa at kinamumuhian ang ibang tao. Sabi sa kwento niya, “May dalawang lalaking pumunta sa Templo para manalangin.  ** Maniningil ng buwis  ** ang isa at pinuno naman ng relihiyon ang isa.”
+  * **[[:tl:obs:notes:frames:34-07|[34-07]]]** “Nagdasal ng ganito ang pinuno ng relihiyon, ‘Salamat po oh Diyos, dahil hindi ako makasalanan gaya ng ibang mga tao na mga magnanakaw, na mga mandaraya, na mga nangangalunya o kagaya ng taong iyan na  ** maniningil ng buwis ** .”’
+  * **[[:tl:obs:notes:frames:34-09|[34-09]]]** “Samantala nakatayo naman sa di kalayuan ang  ** maniningil ng buwis ** at hindi man lang siya makatingala sa langit at sa halip ay kinakabog niya ang dibdib niya habang nananalangin ng ganito, ‘Diyos ko, maawa kayo sa akin dahil makasalanan ako.”’
+  * **[[:tl:obs:notes:frames:34-10|[34-10]]]** “Pagkatapos sinabi ni Jesus ‘Sinasabi ko sa inyo ang katotohanan, dininig ng Diyos ang dasal ng ** maniningil ng buwis  ** at matuwid na siya sa paningin ng Diyos.
+  * **[[:tl:obs:notes:frames:35-01|[35-01]]] ** Isang araw nagtuturo si Jesus sa mga ** maniningil ng buwis ** at sa mga makasalanang tao na nagsama-sama para pakinggan siya.
+~~DISCUSSION~~{{tag>publish ktobs}}
