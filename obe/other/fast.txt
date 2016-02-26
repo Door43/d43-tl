@@ -14,15 +14,11 @@ Ang pag aayuno ay ang hindi pagkain o pag inom sa loob ng ilang araw o higit pa.
 
 {{topic>:en:bible?fast&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:25-01|[25-01]]]** Immediately after Jesus was baptized, the Holy Spirit led him out into the wilderness, where he **fasted** for forty days and forty nights.
-  ***[[:tl:obs:notes:frames:34-08|[34-08]]]** "'For example, I **fast** two times every week and I give you ten percent of all the money and goods that I receive.'"
-  ***[[:tl:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were **fasting** and praying, the Holy Spirit said to them, "Set apart for me Barnabas and Saul to do the work I have called them to do." 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:25-01|[25-01]]]** Pagkatapos mabawtismuhan si Jesus, ginabayan siya ng Banal na Espiritu para magpunta sa ilang.  ** Nag-ayuno ** siya doon ng 40 na araw at 40 na gabi.
+  * **[[:tl:obs:notes:frames:34-08|[34-08]]]** “Dahil dalawang beses akong  ** nag-aayuno ** sa isang linggo at nagbibigay ako ng ikapung bahagi ng lahat ng pera at mga bagay na natatanggap ko.”
+  * **[[:tl:obs:notes:frames:46-10|[46-10]]]** Isang araw habang nananalangin at  ** nag-aayuno ** ang mga Kristiyano sa Antioch sinabi sa kanila ng Banal na Espiritu, “Ibukod niyo sina Barnabas at Saul para sa gawaing inilaan ko para sa kanila.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
