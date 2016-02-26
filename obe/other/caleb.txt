@@ -10,15 +10,11 @@ Si Caleb ay isa sa labindalawang mga Espiya na inutusan ni Moses na magmanman sa
 
 =====   =====
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like. 
-  ***[[:tl:obs:notes:frames:14-06|[14-06]]]** Immediately **Caleb** and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
-  ***[[:tl:obs:notes:frames:14-08|[14-08]]]** "Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:14-04|[14-04]]]** Nang malapit na sa Canaan ang mga Israelita pumili si Moses ng labing dalawang lalaki mula sa labing dalawang tribo ng Israel. Inutusan sila ni Moses na pumunta doon at manmanan ng palihim ang lupain at tingnan din kung malalakas o mahihina ang mga tao doon.
+  * **[[:tl:obs:notes:frames:14-06|[14-06]]]** Sumagot naman kaagad ang dalawa sa mga nagmanman na si ** Caleb  ** at Joshua at sinabing, “Totoong mga malalakas ang mga tagaroon pero siguradong kaya natin silang talunin dahil ang Diyos ang lalaban para sa atin!”
+  * **[[:tl:obs:notes:frames:14-08|[14-08]]]** Maliban kina Caleb at Joshua, Lahat ng may edad na 20 pataas ay hindi makakapasok sa Lupang Pangako dahil mamamatay sila sa ilang.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
