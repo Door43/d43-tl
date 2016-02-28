@@ -14,15 +14,11 @@ Ang Ilog Jordan ay isang ilog na dumadaloy mula sa hilaga patungong katimugan, a
 
 {{topic>:en:bible?jordanriver&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the **Jordan River** to enter into the Promised Land. 
-  ***[[:tl:obs:notes:frames:15-03|[15-03]]]** After the people crossed the **Jordan River**, God told Joshua how to attack the powerful city of Jericho. 
-  ***[[:tl:obs:notes:frames:19-14|[19-14]]]** Elisha told him (Naaman) to dip himself seven times in the **Jordan River**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:15-02|[15-02]]]** Nang tumapak ang mga pari sa  ** Ilog Jordan ** , biglang huminto ang pagdaloy ng tubig sa ilog at natuyo ito at nakatawid sila sa kabilang pampang.
+  * **[[:tl:obs:notes:frames:15-03|[15-03]]]** Nang nakatawid na ang mga Israelita sa ** Ilog Jordan ** , ipinaliwanag ng Diyos kay Joshua kung paano nila lulusubin at masasakop ang makapangyarihang lungsod ng Jericho.
+  * **[[:tl:obs:notes:frames:19-14|[19-14]]]** Sinabi ni Elisha sa kanya na ilublob niya ang sarili niya ng pitong beses sa Ilog Jordan.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
