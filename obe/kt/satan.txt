@@ -10,14 +10,13 @@ Ang mga demonyo ay mga espiritung lumalaban sa Diyos. Sila ang mga kampon ni Sat
 
 ===== Translation Suggestions: =====
 
-  * The word "devil" could also be translated as "the accuser" or "the evil one" or "the king of evil spirits" or "the chief evil spirit."
-  * "Satan" can be translated as "Opponent" or "Adversary" or some other name that shows that he is the devil.
-  * These terms should be translated differently from demon and evil spirit.
-  * Consider how these terms are translated in a local or national language. (See: [[tl:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ang salitang "Satan o Diyablo" ay maaaring isalin ng ganito, "Ang Masama" o "Ang hari ng kasamaan" o "ang pinuno ng mga masasamang espiritu."
+  * Ang iba pang kapamaraanan ng pagsasalin ng salitang "Satan" ay Ganito, "Kalaban" o "Kaaway."
+  * Ang salitang ito ay dapat iba sa pagkaksalin ng mga salitang ""demonyo" at "masamang espiritu" dahil magkakaiba ang tatlong salitang ito.
 
-(Translation suggestions: [[tl:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:tl:obe:kt:kingdomofgod]], [[:tl:obe:kt:evil]], [[:tl:obe:kt:tempt]], [[:En:obe:kt:demon]])
+(Tignan rin sa: [[:tl:obe:kt:kingdomofgod|kaharian ng Diyos, Kaharian ng langit]], [[:tl:obe:kt:evil|masama, kasamaan]], [[:tl:obe:kt:tempt|tuksuhin, tukso]], [[:en:obe:kt:demon|demonyo, masamang espiritu]])
 
 ===== Matatagpuan sa Bibliya: =====
 
