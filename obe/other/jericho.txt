@@ -9,15 +9,11 @@ Ang Jericho ay isang napakalakas na lungsod sa Canaan.
   * diyos-diyosan ang sinasamba ng mga taong nakatira sa Jericho.
 
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:15-01|[15-01]]]** Joshua sent two spies to the Canaanite city of **Jericho**.
-  ***[[:tl:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told Joshua how to attack the powerful city of **Jericho**.
-  ***[[:tl:obs:notes:frames:15-05|[15-05]]]** Then the walls around **Jericho** fell down! The Israelites destroyed everything in the city as God had commanded.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:15-01|[15-01]]]** Pinapunta ni Joshua ang dalawang espiya para tingnan ang lungsod ng Jericho
+  * **[[:tl:obs:notes:frames:15-03|[15-03]]]** Nang nakatawid na ang mga Israelita sa Ilog Jordan, ipinaliwanag ng Diyos kay Joshua kung paano nila lulusubin at masasakop ang makapangyarihang lungsod ng Jericho.
+  * **[[:tl:obs:notes:frames:15-05|[15-05]]]** Biglang gumuho ang pader ng Jericho! Sinira ng mga Israelita ang lahat ng makita nila sa lungsod, gaya ng utos sa kanila ng Diyos.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
