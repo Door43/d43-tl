@@ -14,21 +14,13 @@ Kapag pinagtatawanan natin ang isang tao na may kasamang pag-aalipusta sa maraha
 
 {{topic>:en:bible?mock&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah. 
-  ***[[:tl:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked** him.
-  ***[[:tl:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked** him by saying, "Look, the King of the Jews!"
-  ***[[:tl:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked** Jesus, but the other said, "Do you have no fear of God?"
-  ***[[:tl:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked** Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
-
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:21-12|[21-12]]]** Ayon kay Isaiah duduraan, lalaitin at hahampasin ang Messiah ng mga tao.
+  * **[[:tl:obs:notes:frames:39-05|[39-05]]]** Sumagot ang mga pinuno ng mga Hudyo, “Dapat siyang mamatay!” Pagkatapos, nilagyan nila ng piring ang mga mata ni Jesus, dinuraan siya, sinuntok, at ininsulto.
+  * **[[:tl:obs:notes:frames:39-12|[39-12]]]** Nilatigo ng mga Romanong sundalo si Jesus at dinamitan siya ng damit na pang hari. Sinuotan pa siya ng korona na gawa sa mga tinik. Nilait nila si Jesus at sinabi, “Tignan niyo, ang Hari ng mga Hudyo!”
+  * **[[:tl:obs:notes:frames:40-04|[40-04]]]** Ipinako si Jesus sa gitna ng dalawang magnanakaw. Ininsulto ng isa sa kanila si Jesus pero pinagsabihan naman siya ng isa pang magnanakaw, “Dapat kang matakot sa Diyos dahil walang kasalanan ang taong ito at tayo ang may nagawang kasalanan.
+  * **[[:tl:obs:notes:frames:40-05|[40-05]]]** Hinamak din ng mga pinuno ng Hudyo at ng mga ibang tao si Jesus. Sinabi pa nila kay Jesus, “Kung talagang ikaw nga ang Anak ng Diyos, bumaba ka nga mula sa krus at iligtas mo ang sarili mo at saka kami maniniwala sa iyo.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
-
-\\
-
