@@ -8,9 +8,10 @@ Pero pagkatapos ng ilang taon naghimagsik ang hari ng Judah laban sa hari ng Bab
 
   * **[[:tl:obe:other:kingdom-of-judah|kingdom-of-judah]]**
   * **[[:tl:obe:other:rebel|rebelde, pagrerebelde]]**
-  * **[[:tl:obe:other:babylon|Babylon, Babylonian]]**
+  * **[[:tl:obe:other:babylon|Babylon, taga-Babylon]]**
   * **[[:tl:obe:other:jerusalem|Jerusalem]]**
-  * **[[:tl:obe:kt:temple|temple]]**
+  * **[[:tl:obe:kt:temple|templo]]**
+
 ==== Talaan para sa Pagsasalin: ====
 
   * **bumalik**  - Maaaring isalin ng ganito, “bumalik sa Judah.”
