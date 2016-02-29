@@ -18,14 +18,10 @@ Ang “Impyerno” ay ang lugar na pupuntahan ng mga lumaban at hindi sumusunod 
 
 {{topic>:en:bible?hell&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-    * **[[:tl:obs:notes:frames:50-14|[50-14]]]** He (God) will throw them into **hell**, where they will weep and grind their teeth in anguish forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
-    * **[[:tl:obs:notes:frames:50-15|[50-15]]]** He will throw Satan into **hell** where he will burn forever, along with everyone who chose to follow him rather than to obey God. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:50-14|[50-14]]]** Itatapon niya sila sa ** impiyerno ** kung saan iiyak sila at magngingitngit ang ngipin nila sa sobrang paghihirap na mararanasan nila magpakailanman.
+  * **[[:tl:obs:notes:frames:50-15|[50-15]]]** Itatapon niya si Satan sa  ** impiyerno ** at masusunog siya roon magpakailanman kasama ng mga taong mas pinili pang sumunod sa kanya kaysa sa Diyos.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
