@@ -20,13 +20,13 @@ Ang kaharian ay binubuo ng grupo ng maraming tao na pinamumunuan ng isang hari. 
 
 {{topic>:en:bible?kingdom&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey me and keep my covenant, you will be my prized possession, a **kingdom**  of priests, and a holy nation."
-  * **[[:tl:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon's unfaithfulness, he promised to divide the nation of Israel in two **kingdoms**  after Solomon's death.
-  * **[[:tl:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the **kingdom**  of Judah.
-  * **[[:tl:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their **kingdom**  in the northern part of the land and were called the **kingdom**  of Israel.
-  * **[[:tl:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a **kingdom**  and judges the people.
+  * **[[:tl:obs:notes:frames:13-02|[13-02]]]** “Kung susundin niyo ako at tutuparin ang kasunduan ko sa inyo, kayo ay lubos at higit kong pahahalagahan. Kayo ay magiging  ** kaharian ** ng mga pari. Kayo ay magiging banal na bansa.”
+  * **[[:tl:obs:notes:frames:18-04|[18-04]]]** Nagalit ang Diyos kay Solomon. Bilang parusa dahil hindi siya naging tapat, ipinangako ng Diyos na hahatiin niya ang bansang Israel sa dalawang  ** kaharian ** pagkatapos niyang mamatay.
+  * **[[:tl:obs:notes:frames:18-07|[18-07]]] ** Sampung tribo ng Israel ang nagrebelde laban kay Reheboam. Dalawang tribo lang ang nanatiling tapat sa kanya. Nabuo sa dalawang tribong iyon ang  ** kaharian ** ng Judah.
+  * **[[:tl:obs:notes:frames:18-08|[18-08]]]** Pumili ng hari ang sampung tribo ng Israel na nagrebelde laban kay Reheboam at ang pinili nila ay si Jeroboam. Itinayo nila ang  ** kaharian ** nila sa hilagang bahagi ng lupain at tinawag nila iyon na  ** Kaharian ** ng Israel.
+  * **[[:tl:obs:notes:frames:21-08|[21-08]]]** Ang isang hari ay namumuno sa  ** kaharian ** at nagbibigay hatol sa mga tao.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
