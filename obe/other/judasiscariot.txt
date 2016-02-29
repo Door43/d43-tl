@@ -17,16 +17,12 @@ Si Judas ay isa sa labindalawang apostol ni Jesus. Kahit apostol siya ay nagawa 
 
 {{topic>:en:bible?Judasiscariot&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:38-02|[38-02]]]** One of Jesus' disciples was a man named **Judas**. ... After Jesus and the disciples arrived in Jerusalem, **Judas** went to the Jewish leaders and offered to betray Jesus to them in exchange for money. 
-  ***[[:tl:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the high priest, paid **Judas** thirty silver coins to betray Jesus.
-  ***[[:tl:obs:notes:frames:38-14|[38-14]]]** **Judas** came with the Jewish leaders, soldiers, and a large crowd. They were all carrying swords and clubs. **Judas** came to Jesus and said, "Greetings, teacher," and kissed him.
-  ***[[:tl:obs:notes:frames:39-08|[39-08]]]** Meanwhile, **Judas**, the betrayer, saw that the Jewish leaders had condemned Jesus to die. He became full of sorrow and went away and killed himself.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:38-02|[38-02]]]** May isang apostol si Jesus na Judas ang pangalan... Pagdating ni Jesus kasama ng mga apostol niya sa Jerusalem lumapit na si Judas sa mga pinuno ng mga Hudyo at nakipagkasundo siyang pagtaksilan si Jesus kapalit ng pera.
+  * **[[:tl:obs:notes:frames:38-03|[38-03]]]** Sa pangunguna ng pinakapunong pari, binayaran ng mga pinuno ng mga Hudyo si Judas ng 30 pirasong baryang pilak para pagtaksilan niya si Jesus.
+  * **[[:tl:obs:notes:frames:38-14|[38-14]]]** Dumating si Judas kasama ang mga pinuno ng Hudyo, mga sundalo at maraming tao. May dala dala silang tabak at pamalo. Nilapitan ni Judas si Jesus at sinabi, “Magandang gabi po Guro.” Sabay halik kay Jesus
+  * **[[:tl:obs:notes:frames:39-08|[39-08]]]** Samantala nakita ng taksil na si Judas na hinatulan ng mga pinuno ng mga Hudyo si Jesus ng kamatayan. Dinamdam niya ito ng labis. Umalis siya at nagpakamatay.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
