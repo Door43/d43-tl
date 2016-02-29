@@ -1,4 +1,4 @@
-====== natupad, katuparan, tinupad, tumupad ======
+====== natupad, katuparan ======
 
 ===== Kahulugan: =====
 
@@ -7,13 +7,12 @@ Ang salitang “Natupad” ay ngangahulugang Nangyari na ang isang bagay na nasa
   * Kapag ang isang propesiya na sinabi ng isang propeta ng Diyos, ito ay matutupad.
   * Ang karamihan sa mga propesiya tungkol kay Jesus na Tagapagligtas ay “Natupad na.” ang iba naman ay hindi pa natutupad sa ngayon pero matutupad ang mga ito sa muling pagbabalik ni Jesus.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * Depending on the context, "fulfill" could be translated as "accomplish" or "complete" or "cause to happen" or "obey" or "perform."
-  * The phrase "has been fulfilled" could also be translated as, "has come true" or "has happened" or "has taken place."
-  * Ways to translate "fulfill" as in "fulfill your ministry" could include, "complete" or "perform" or "practice" or "serve other people as God has called you to do."
+  * Ang salitang "natupad" at "tinupad" ay maaaring isalin ng ganito, ":tinapos" o "ginawa" o "pinangyari" o"sinunod" depende sa dapat na gamit o konteksto.
+  * Ang salitang "natupad na" ay maaaring isalin ng ganito, "nangyari na" o "naganap na."
 
-(See also: [[:tl:obe:kt:prophet]], [[:tl:obe:kt:christ]], [[:tl:obe:kt:minister]], [[:tl:obe:kt:call]])
+(Tignan rin sa: [[:tl:obe:kt:prophet|propeta, propesiya]], [[:tl:obe:kt:christ|Christ, Messiah]], [[:tl:obe:kt:minister|ministeryo, gawain]], [[:tl:obe:kt:call|tawag]])
 
 ===== Matatagpuan sa Bibliya: =====
 
