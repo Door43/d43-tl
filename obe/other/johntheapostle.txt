@@ -17,15 +17,11 @@ Si John ay isa sa labindalawang Apostol at isa sa mga malalapit na kaibigan ni J
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tl:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, Peter, James, and **John** with him. (The disciple named **John** was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
-  ***[[:tl:obs:notes:frames:44-01|[44-01]]]** One day, Peter and **John** were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money. 
-  ***[[:tl:obs:notes:frames:44-06|[44-06]]]** The leaders of the Temple were very upset by what Peter and **John** were saying. So they arrested them and put them into prison.
-  ***[[:tl:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and **John** to the high priest and the other religious leaders. They asked Peter and **John**, "By what power did you heal this crippled man?" 
-  ***[[:tl:obs:notes:frames:44-09|[44-09]]]** The leaders were shocked that Peter and **John** spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and **John**, they let them go.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:36-01|[36-01]]]** Isang araw isinama ni Jesus ang tatlo sa mga apostol niyang sina Peter, James at John. (Ang John na ito ay hindi ang John na nagbawtismo kay Jesus). Umakyat sila sa mataas na bundok para magdasal.
+  * **[[:tl:obs:notes:frames:44-01|[44-01]]] ** Isang araw pumunta sina Peter at John sa Templo. Habang papalapit sila sa pasukan ng templo may nakita silang isang lumpong lalaki na namamalimos.
+  * **[[:tl:obs:notes:frames:44-06|[44-06]]]** Hindi natuwa ang mga pinuno ng Templo sa mga sinabi nina Peter at John kaya hinuli sila at ikinulong.
+  * **[[:tl:obs:notes:frames:44-07|[44-07]]]** Kinabukasan dinala ng mga pinuno ng mga Hudyo sina Peter at John sa pinakapunong pari at sa mga iba pang pinuno ng relihiyon. Tinanong nila sina Peter at John “Anong kapangyarihan ang ginamit niyo para pagalingin ang lumpo?”
+  * **[[:tl:obs:notes:frames:44-09|[44-09]]]** Nagulat ang mga pinuno sa katapangan ng pananalita nila Peter at John dahil nakita naman nilang mga karaniwang tao lang sila at ni hindi nakapag-aral pero naalala nilang nakasama nila si Jesus. Pagkatapos nilang pagbantaan sina Peter at John pinalaya rin sila.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
