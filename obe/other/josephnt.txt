@@ -17,12 +17,12 @@ Si Joseph ay ang makamundong ama ni Jesus at ang nangpalaki sa kaniya.
 
 {{topic>:en:bible?josephnt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:22-04|[22-04]]]** Dalaga pa siya at nakatakdang magpakasal kay Joseph.
-  * **[[:tl:obs:notes:frames:23-01|[23-01]]]** Nakatakda nang makasal si Mary sa mabuting taong si Joseph. Nang malaman niya na buntis si Mary alam niyang hindi niya anak iyon kaya binalak niya itong hiwalayan ng palihim para hindi siya mapahiya.
-  * **[[:tl:obs:notes:frames:23-02|[23-02]]]** Sinabi ng anghel kay Joseph, “Huwag kang matakot na pakasalan si Mary dahil nabuntis siya sa pamamagitan ng Banal na Espiritu at lalaki ang magiging anak niya. Jesus ang ipangalan niyo kanya (Yahweh na nagliligtas ang ibig sabihin) dahil siya ang magligligtas sa mga tao mula sa mga kasalanan nila.”
-  * **[[:tl:obs:notes:frames:23-03|[23-03]]]** Kaya pinakasalan nga ni Joseph si Mary at isinama niya sa bahay nila pero hindi sila magkatabing natutulog hanggang manganak si Mary.
+  * **[[:tl:obs:notes:frames:22-04|[22-04]]]** Dalaga pa siya at nakatakdang magpakasal kay **Joseph**.
+  * **[[:tl:obs:notes:frames:23-01|[23-01]]]** Nakatakda nang makasal si Mary sa mabuting taong si **Joseph**. Nang malaman niya na buntis si Mary alam niyang hindi niya anak iyon kaya binalak niya itong hiwalayan ng palihim para hindi siya mapahiya.
+  * **[[:tl:obs:notes:frames:23-02|[23-02]]]** Sinabi ng anghel kay **Joseph**, “Huwag kang matakot na pakasalan si Mary dahil nabuntis siya sa pamamagitan ng Banal na Espiritu at lalaki ang magiging anak niya. Jesus ang ipangalan niyo kanya (Yahweh na nagliligtas ang ibig sabihin) dahil siya ang magligligtas sa mga tao mula sa mga kasalanan nila.”
+  * **[[:tl:obs:notes:frames:23-03|[23-03]]]** Kaya pinakasalan nga ni **Joseph**  si Mary at isinama niya sa bahay nila pero hindi sila magkatabing natutulog hanggang manganak si Mary.
   * **[[:tl:obs:notes:frames:23-04|[23-04]]]** Naglakbay sila ng malayo papunta sa Bethlehem dahil doon tumira si David na ninuno nila.
-  * **[[:tl:obs:notes:frames:26-04|[26-04]]]** Kaya sinabi ni Jesus, “Ang mga bagay na binasa ko sa inyo ay nangyayari na sa mga oras na ito”. Namangha lahat ng mga tao doon at sinabi nila, “Hindi ba’t siya ang anak ni Joseph?”
+  * **[[:tl:obs:notes:frames:26-04|[26-04]]]** Kaya sinabi ni Jesus, “Ang mga bagay na binasa ko sa inyo ay nangyayari na sa mga oras na ito”. Namangha lahat ng mga tao doon at sinabi nila, “Hindi ba’t siya ang anak ni **Joseph**?”
 ~~DISCUSSION~~{{tag>publish ktobs}}
