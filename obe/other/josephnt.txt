@@ -19,11 +19,10 @@ Si Joseph ay ang makamundong ama ni Jesus at ang nangpalaki sa kaniya.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:tl:obs:notes:frames:22-04|[22-04]]]** She (Mary) was a virgin and was engaged to be married to a man named **Joseph**.
-  ***[[:tl:obs:notes:frames:23-01|[23-01]]]** **Joseph**, the man Mary was engaged to, was a righteous man. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame her, so he planned to quietly divorce her.
-  ***[[:tl:obs:notes:frames:23-02|[23-02]]]** The angel said, "**Joseph**, do not be afraid to take Mary as your wife. The baby in her body is from the Holy Spirit. She will give birth to a son. Name him Jesus (which means, 'Yahweh saves'), because he will save the people from their sins."
-  ***[[:tl:obs:notes:frames:23-03|[23-03]]]** So **Joseph** married Mary and took her home as his wife, but he did not sleep with her until she had given birth.
-  ***[[:tl:obs:notes:frames:23-04|[23-04]]]** **Joseph** and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
-  ***[[:tl:obs:notes:frames:26-04|[26-04]]]** Jesus said, "The words I just read to you are happening right now." All the people were amazed. "Isn't this the son of **Joseph**?" they said.
-
+  * **[[:tl:obs:notes:frames:22-04|[22-04]]]** Dalaga pa siya at nakatakdang magpakasal kay Joseph.
+  * **[[:tl:obs:notes:frames:23-01|[23-01]]]** Nakatakda nang makasal si Mary sa mabuting taong si Joseph. Nang malaman niya na buntis si Mary alam niyang hindi niya anak iyon kaya binalak niya itong hiwalayan ng palihim para hindi siya mapahiya.
+  * **[[:tl:obs:notes:frames:23-02|[23-02]]]** Sinabi ng anghel kay Joseph, “Huwag kang matakot na pakasalan si Mary dahil nabuntis siya sa pamamagitan ng Banal na Espiritu at lalaki ang magiging anak niya. Jesus ang ipangalan niyo kanya (Yahweh na nagliligtas ang ibig sabihin) dahil siya ang magligligtas sa mga tao mula sa mga kasalanan nila.”
+  * **[[:tl:obs:notes:frames:23-03|[23-03]]]** Kaya pinakasalan nga ni Joseph si Mary at isinama niya sa bahay nila pero hindi sila magkatabing natutulog hanggang manganak si Mary.
+  * **[[:tl:obs:notes:frames:23-04|[23-04]]]** Naglakbay sila ng malayo papunta sa Bethlehem dahil doon tumira si David na ninuno nila.
+  * **[[:tl:obs:notes:frames:26-04|[26-04]]]** Kaya sinabi ni Jesus, “Ang mga bagay na binasa ko sa inyo ay nangyayari na sa mga oras na ito”. Namangha lahat ng mga tao doon at sinabi nila, “Hindi ba’t siya ang anak ni Joseph?”
 ~~DISCUSSION~~{{tag>publish ktobs}}
