@@ -14,18 +14,14 @@ Nang mamatay si Haring Solomon, nahati sa dalawa ang Kaharian ng Israel. Isa rit
 
 {{topic>:en:bible?kingdomofisrael&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
-  ***[[:tl:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel** became enemies and often fought against each other.
-  ***[[:tl:obs:notes:frames:18-11|[18-11]]]** In the new **kingdom of Israel**, all the kings were evil.
-  ***[[:tl:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel** and Judah both sinned against God.
-  ***[[:tl:obs:notes:frames:20-02|[20-02]]]** The **kingdom of Israel** was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the **kingdom of Israel**, took away everything of value, and burned much of the country.
-  ***[[:tl:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the **kingdom of Israel** had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called Samaritans.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:18-08|[18-08]]]** Pumili ng hari ang sampung tribo ng Israel na nagrebelde laban kay Reheboam at ang pinili nila ay si Jeroboam. Itinayo nila ang kaharian nila sa hilagang bahagi ng lupain at tinawag nila iyon na ** Kaharian ng Israel. **
+  * **[[:tl:obs:notes:frames:18-10|[18-10]]]** Naging magkaaway ang  ** Kaharian ng Israel at Judah ** at madalas silang maglaban.
+  * **[[:tl:obs:notes:frames:18-11|[18-11]]]** Masama lahat ng naging hari sa bagong  ** Kaharian ng Israel ** .
+  * **[[:tl:obs:notes:frames:20-01|[20-01]]] ** Parehong nagkasala sa Diyos Ang  ** kaharian ng Judah at Israel.  **
+  * **[[:tl:obs:notes:frames:20-02|[20-02]]]** Sinira at sinunog ng malupit at makapangyarihang imperyo ng Assyria ang  ** Kaharian ng Israel.  **
+  * **[[:tl:obs:notes:frames:20-04|[20-04]]]** Pagkatapos ay nagsama ang mga taga Assyria ng mga dayuhan para tumira kung saan dating nakatayo ang  ** kaharian ng Israel. **
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
