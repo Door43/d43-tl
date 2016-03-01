@@ -23,11 +23,10 @@ Sa Bibliya, ang mga pari ay ang mga taong pinili ng Diyos para mag-alay ng mga h
 
 {{topic>:en:bible?priest&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:04-07|[04-07]]]** "Melchizedek, the **priest** of God Most High"
-  ***[[:tl:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person's sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron's descendants to be his **priests**.
-  ***[[:tl:obs:notes:frames:19-07|[19-07]]]** So the **priests** of Baal prepared a sacrifice but did not light the fire.
-  ***[[:tl:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest** was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests** also prayed to God for the people. 
-
+  * **[[:tl:obs:notes:frames:04-07|[04-07]]]** Isang araw nakilala ni Abram ang  ** pari ** na lingkod ng dakilang Diyos.
+  * **[[:tl:obs:notes:frames:13-09|[13-09]]]** Kakatayin ng  ** pari ** ang hayop at susunugin ito sa altar. Ang dugo ng inihandog na hayop ang magtatakip sa kasalanan ng tao at maglilinis sa kanya sa harapan ng Diyos. Pinili ng Diyos si Aaron, ang kapatid ni Moses at ang mga anak nito para sila ang maging ** pari. **
+  * **[[:tl:obs:notes:frames:19-07|[19-07]]]** Kaya naghanda nga ang mga  ** pari ** ni Baal ng mga alay at hindi sila nagsindi ng apoy.
+  * **[[:tl:obs:notes:frames:21-07|[21-07]]]** Ang mga  ** paring ** Israelita ang naghahandog ng alay ng mga tao sa Diyos bilang kapalit ng kaparusahan sa mga kasalanan nila. Ipinagdarasal din ng mga  ** pari ** ang mga tao sa Diyos. Ang Messiah naman ay kataas-taasan at bukod tanging  ** Pari  ** na maghahandog ng mismong sarili niya bilang malinis at kaaya-ayang alay sa Diyos.
 ~~DISCUSSION~~{{tag>publish ktobs}}
