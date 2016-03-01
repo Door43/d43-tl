@@ -13,21 +13,17 @@ Ang pagpapahayag ay ang pagsasalita sa harapan ng maraming tao tungkol sa Diyos 
 
 {{topic>:en:bible?preach&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:24-02|[24-02]]]** He (John) **preached** to them, saying, "Repent, for the Kingdom of God is near!"
-  ***[[:tl:obs:notes:frames:30-01|[30-01]]]** Jesus sent his apostles to **preach** and to teach people in many different villages. 
-  ***[[:tl:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began **preaching** and teaching publicly, Jesus told his disciples that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:tl:obs:notes:frames:45-06|[45-06]]]** But in spite of this, they **preached** about Jesus everywhere they went.
-  ***[[:tl:obs:notes:frames:45-07|[45-07]]]** He (Philip) went to Samaria where he preached about Jesus and many people were saved. 
-  ***[[:tl:obs:notes:frames:46-06|[46-06]]]** Right away, Saul began **preaching** to the Jews in Damascus, saying, "Jesus is the Son of God!" 
-  ***[[:tl:obs:notes:frames:46-10|[46-10]]]** Then they sent them off to **preach** the good news of Jesus in many other places. 
-  ***[[:tl:obs:notes:frames:47-14|[47-14]]]** Paul and other Christian leaders traveled to many cities, **preaching** and teaching people the good news about Jesus. 
-  ***[[:tl:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will **preach** the good news about the kingdom of God to people everywhere in the world, and then the end will come."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:24-02|[24-02]]]****** ** Nangaral  ** siya sa kanila at sinabi, “Magsisi na kayo sa mga kasalanan niyo dahil malapit nang maghari ang Diyos.”
+  * **[[:tl:obs:notes:frames:30-01|[30-01]]] ** Pinapunta ni Jesus ang mga apostol niya sa mga ibat-ibang nayon para  ** mangaral  ** at magturo sa mga tao.
+  * **[[:tl:obs:notes:frames:38-01|[38-01]]] ** May tatlong taon na ang nakakaraan nang magsimulang  ** mangaral  ** at magturo si Jesus sa mga tao, sinabi niya sa mga apostol na gusto niyang ipagdiwang nila na magkakasama sa Jerusalem ang **//“// ****Paskua****//”// ** . Sa panahong ito rin siya papatayin.
+  * **[[:tl:obs:notes:frames:45-06|[45-06]]]** But in spite of this, they **preached**  about Jesus everywhere they went.
+  * **[[:tl:obs:notes:frames:45-07|[45-07]]]** Nagpunta siya sa Samaria at  ** nangaral  ** tungkol kay Jesus at maraming tao ang naligtas.
+  * **[[:tl:obs:notes:frames:46-06|[46-06]]] ** Kaagad na nangaral si Saul sa Damascus at  ** ipinapahayag ** niya sa mga Hudyo na, “Si Jesus ay ang Anak ng Diyos!”
+  * **[[:tl:obs:notes:frames:46-10|[46-10]]]**Pinapunta nila sila sa maraming lugar para ** ipangaral  ** ang mabuting balita tungkol kay Jesus. Nagturo sila sa mga iba’t-ibang lahi at marami ang naniwala kay Jesus.
+  * **[[:tl:obs:notes:frames:47-14|[47-14]]]** Si Paul at ang iba pang pinuno ng mga kristiyano ay naglakbay sa maraming lungsod para ** ipinangaral ** at itinuro nila ang mabuting balita tungkol kay Jesus sa mga tao.
+  * **[[:tl:obs:notes:frames:50-02|[50-02]]]** Noong namumuhay si Jesus dito sa mundo sinabi niya, “ ** Ihahayag ** ng mga disipulo ko ang mabuting balita tungkol sa kaharian ng Diyos sa lahat ng tao sa buong mundo at pagkatapos nito ay darating na ang katapusan.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
