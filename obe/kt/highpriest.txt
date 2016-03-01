@@ -18,21 +18,17 @@ Ang punong pari ay ang pinuno ng lahat ng mga pari ng Israel.
 
 {{topic>:en:bible?highpriest&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:13-08|[13-08]]]** No one could enter the room behind the curtain except the **high priest**, because God lived there.
-  ***[[:tl:obs:notes:frames:21-07|[21-07]]]** The Messiah who would come would be the perfect **high priest** who would offer himself as a perfect sacrifice to God.
-  ***[[:tl:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the **high priest**, paid Judas thirty silver coins to betray Jesus.
-  ***[[:tl:obs:notes:frames:39-01|[39-01]]]** The soldiers led Jesus to the house of the **high priest** in order for the **high priest** to question him. 
-  ***[[:tl:obs:notes:frames:39-03|[39-03]]]** Finally, the **high priest** looked directly at Jesus and said, "Tell us, are you the Messiah, the Son of the living God?"
-  ***[[:tl:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and John to the **high priest** and the other religious leaders.
-  ***[[:tl:obs:notes:frames:45-02|[45-02]]]** So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false witnesses lied about Stephen.
-  ***[[:tl:obs:notes:frames:46-01|[46-01]]]** The **high priest** gave Saul permission to go to the city of Damascus to arrest Christians there and bring them back to Jerusalem.
-  ***[[:tl:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great **High Priest**. Unlike other priests, he offered himself as the only sacrifice that could to take away the sin of all the people in the world. Jesus was the perfect **high priest** because he took the punishment for every sin that anyone has ever committed.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:13-08|[13-08]]]** Walang pwedeng pumasok sa kwarto sa likod ng kurtina maliban sa ** pinakapunong pari  ** dahil doon bumababa ang presensya ng Diyos.
+  * **[[:tl:obs:notes:frames:21-07|[21-07]]]** Ang Messiah naman ay kataas-taasan at ** bukod tanging Pari  ** na maghahandog ng mismong sarili niya bilang malinis at kaaya-ayang alay sa Diyos.
+  * **[[:tl:obs:notes:frames:38-03|[38-03]]]** Sa pangunguna ng ** pinakapunong pari ** , binayaran ng mga pinuno ng mga Hudyo si Judas ng 30 pirasong baryang pilak para pagtaksilan niya si Jesus.
+  * **[[:tl:obs:notes:frames:39-01|[39-01]]]** Malalim na ang gabi nang dinakip nila si Jesus at dinala sa bahay ng ** punong pari ** para gawin ang paglilitis doon.
+  * **[[:tl:obs:notes:frames:39-03|[39-03]]]** Nang wala silang makitang kasalanan kay Jesus tumingin ng diretso sa kanya ang ** pinakapunong pari ** at sinabi, “Sabihin mo, ikaw nga ba ang Messiah, ang Anak ng buhay na Diyos?”
+  * **[[:tl:obs:notes:frames:44-07|[44-07]]]** Kinabukasan dinala ng mga pinuno ng mga Hudyo sina Peter at John sa ** pinakapunong pari  ** at sa mga iba pang pinuno ng relihiyon.
+  * **[[:tl:obs:notes:frames:45-02|[45-02]]] ** Dinakip ng mga pinuno ng relihiyon si Stephen at dinala siya sa ** pinakapunong pari  ** at iba pang mga pinuno ng Hudyo kung saan mas marami pang sinungaling ang tumestigo laban kay Stephen.
+  * **[[:tl:obs:notes:frames:46-01|[46-01]]]** Binigyan siya ng pahintulot ng  ** pinakapunong pari  ** na pumunta sa Damascus para huliin ang mga Kristiyano doon at ibalik sila sa Jerusalem.
+  * **[[:tl:obs:notes:frames:48-06|[48-06]]]** Si Jesus ay Kataas-taasan at ** Dakilang Pari ** . Hindi siya katulad ng ibang pari dahil inialay niya ang sarili niya bilang sakripisyo na tanging makakapag-alis sa lahat ng kasalanan ng mga tao sa mundo. Si Jesus ay ang ** pinakapunong pari ** na walang kapintasan dahil inako niya ang kaparusahan ng bawat kasalanang nagawa ng sinuman.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
