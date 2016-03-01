@@ -19,12 +19,12 @@ Ang saksi ay isang taong nakarinig o nakakita sa isang bagay na nangyari. Sinasa
 
 {{topic>:en:bible?witness&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **false witnesses**  who lied about him.
-  * **[[:tl:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
-  * **[[:tl:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
-  * **[[:tl:obs:notes:frames:43-07|[43-07]]]**"We are **witnesses**  to the fact that God raised Jesus to life again."
+  * **[[:tl:obs:notes:frames:39-02|[39-02]]] ** Sa loob ng bahay sinimulan ng mga pinuno ng mga Hudyo ang paglilitis kay Jesus. Nagsama sila ng mga  ** saksi  ** na magsasabi ng mga kasinungalingan tungkol sa kanya
+  * **[[:tl:obs:notes:frames:39-04|[39-04]]]** Pinunit ng punong pari ang damit niya sa sobrang galit at pasigaw niyang sinabi, “Hindi na natin kailangan ng iba pang mga ** saksi ** . Narinig niyo naman ang sinabi ni Jesus na siya ang Anak ng Diyos. Ano ang ihahatol niyo sa kanya?”
+  * **[[:tl:obs:notes:frames:42-08|[42-08]]]** “Nasusulat din sa kasulatan na ipapangaral ng mga disipulo ko na dapat magsisi ang lahat ng tao para mapatawad ang mga kasalanan nila. Uumpisahan nila itong gawin sa Jerusalem at pagkatapos ay sa mga tao sa buong mundo.  ** Saksi  ** kayo sa mga bagay na ito.”
+  * **[[:tl:obs:notes:frames:43-07|[43-07]]]** ** Saksi  ** tayo sa katotohanan na muling binuhay ng Diyos si Jesus mula sa kamatayan.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
