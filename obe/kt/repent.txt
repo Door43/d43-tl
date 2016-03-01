@@ -19,13 +19,12 @@ Ang ibig sabihin ng pagsisisi ay ang pagtalikod sa makasalanang pamumuhay. Ito a
 
 {{topic>:en:bible?repent&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:16-02|[16-02]]]** After many years of disobeying God and being oppressed by their enemies, the Israelites **repented**  and asked God to rescue them.
-  * **[[:tl:obs:notes:frames:17-13|[17-13]]]** David **repented**  of his sin and God forgave him.
-  * **[[:tl:obs:notes:frames:19-18|[19-18]]]** They (prophets) warned people that God would destroy them if they did not **repent**.
-  * **[[:tl:obs:notes:frames:24-02|[24-02]]]** Many people came out to the wilderness to listen to John. He preached to them, saying, "**Repent**, for the kingdom of God is near!"
-  * **[[:tl:obs:notes:frames:42-08|[42-08]]]**""It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to **receive**  forgiveness for their sins. "
-  * **[[:tl:obs:notes:frames:44-05|[44-05]]]**"So now, **repent**  and turn to God so that your sins will be washed away."
-
+  * **[[:tl:obs:notes:frames:16-02|[16-02]]]** Pagkatapos ng maraming taon ng hindi nila pagsunod sa Diyos at pagpapahirap sa kanila ng mga kaaway,  ** nagsisi ** rin sila at nanghingi ng tulong sa Diyos.
+  * **[[:tl:obs:notes:frames:17-13|[17-13]]]** ** Nagsisi  ** si David sa kasalanan niya at pinatawad siya ng Diyos.
+  * **[[:tl:obs:notes:frames:19-18|[19-18]]]** Binalaan nila ang mga tao na kapag hindi sila  ** nagsisi ** , paparusahan sila ng Diyos.
+  * **[[:tl:obs:notes:frames:24-02|[24-02]]]** Nangaral siya sa kanila at sinabi, “ ** Magsisi ** na kayo sa mga kasalanan niyo dahil malapit nang maghari ang Diyos.”
+  * **[[:tl:obs:notes:frames:42-08|[42-08]]]** “Nasusulat din sa kasulatan na ipapangaral ng mga disipulo ko na dapat  ** magsisi  ** ang lahat ng tao para mapatawad ang mga kasalanan nila. Uumpisahan nila itong gawin sa Jerusalem at pagkatapos ay sa mga tao sa buong mundo. Saksi kayo sa mga bagay na ito.”
+  * **[[:tl:obs:notes:frames:44-05|[44-05]]]** “Kayo ang nagsabi sa gobernador na si Pilate na patayin si Jesus. Pinatay niyo ang pinagmulan ng buhay, pero binuhay siyang muli ng Diyos. Hindi niyo alam kung ano ang nagawa niyo pero ginamit iyon ng Diyos para matupad ang propesiya na papahirapan ang Messiah at mamamatay kaya dapat  ** magsisi  ** kayo at sumunod sa Diyos para malinis ang mga kasalanan ninyo.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
