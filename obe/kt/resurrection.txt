@@ -18,8 +18,8 @@ Ang ibig sabihin ng salitang ito ay ang pagbuhay sa isang patay. Tanging ang Diy
 
 {{topic>:en:bible?resurrection&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:21-14|[21-14]]]** Through the Messiah's death and **resurrection**, God would accomplish his plan to save sinners and start the New Covenant.
-  * **[[:tl:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the **Resurrection**  and the Life. Whoever believes in me will live, even though he dies.
+  * **[[:tl:obs:notes:frames:21-14|[21-14]]]** Sa pamamagitan ng pagkamatay ng Messiah at  ** muling pagkabuhay ** niya, tutuparin ng Diyos ang plano niya para iligtas ang mga makasalanan at sisimulan niya ang Bagong Kasunduan.
+  * **[[:tl:obs:notes:frames:37-05|[37-05]]]** Sumagot naman si Jesus, “Ako ang nagbibigay buhay at ako rin bumubuhay muli sa mga patay. Lahat ng namatay na naniniwala sa akin ay muling mabubuhay.
 ~~DISCUSSION~~{{tag>publish ktobs}}
