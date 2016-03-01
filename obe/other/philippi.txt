@@ -15,14 +15,10 @@ Makikita ang Philippi sa hilagang bahagi ng Greece.
 
 {{topic>:en:bible?philippi&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-    * **[[:tl:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of **Philippi** to proclaim the good news about Jesus. 
-    * **[[:tl:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and Silas from prison and asked them to leave **Philippi**. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:47-01|[47-01]]]** Isang araw, si Paul at ang kaibigan niyang si Silas ay nagpunta sa bayan ng  ** Philippi ** para ipangaral ang mabuting balita ni Jesus.
+  * **[[:tl:obs:notes:frames:47-13|[47-13]]]** Kinabukasan pumayag na ang mga pinuno ng lungsod na palayain sina Paul at Silas at kinausap na maaari na silang umalis sa  ** Philipi ** pero bago sila tuluyang umalis sa lungsod, dumaan muna sila Paul at Silas kina Lydia at iba pang mga kaibigan.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
