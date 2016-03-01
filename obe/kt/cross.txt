@@ -20,13 +20,13 @@ Ang krus ay isang nakapatayong posteng kahoy na nakabaon sa lupa, na may nakalih
 
 {{topic>:en:bible?cross&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:40-01|[40-01]]]** After the soldiers mocked Jesus, they led him away to crucify him. They made him carry the **cross**  on which he would die.
-  * **[[:tl:obs:notes:frames:40-02|[40-02]]]** The soldiers brought Jesus to a place called "the Skull" and nailed his arms and feet to the **cross**.
-  * **[[:tl:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd mocked Jesus. They said to him, "If you are the Son of God, come down from the **cross**  and save yourself! Then we will believe you."
-  * **[[:tl:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the **cross**, he received your punishment.
-  * **[[:tl:obs:notes:frames:49-12|[49-12]]]** You must believe that Jesus is the Son of God, that he died on the **cross**  instead of you, and that God raised him to life again.
+  * **[[:tl:obs:notes:frames:40-01|[40-01]]]** Pagkatapos laitin ng mga sundalo si Jesus pinalakad nila siya habang binubuhat ang ** krus ** kung saan siya ipapako at mamamatay.
+  * **[[:tl:obs:notes:frames:40-02|[40-02]]]** Ipinako nila ang mga kamay at mga paa niya sa  ** krus ** .
+  * **[[:tl:obs:notes:frames:40-05|[40-05]]]** “Kung talagang ikaw nga ang Anak ng Diyos, bumaba ka nga mula sa  ** krus ** at iligtas mo ang sarili mo at saka kami maniniwala sa iyo.”
+  * **[[:tl:obs:notes:frames:49-10|[49-10]]]** Dapat lang na magalit ang Diyos sa'yo pero ibinuhos niya ang galit niya kay Jesus sa halip na sa'yo, tinanggap ni Jesus ang kaparusahan mo nang mamatay siya sa  ** krus ** .
+  * **[[:tl:obs:notes:frames:49-12|[49-12]]]** Sa halip na ikaw ang dapat na mamatay, siya ang namatay sa ** krus ** para sa iyo ngunit binuhay siyang muli ng Diyos.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
