@@ -12,19 +12,15 @@ Ang ibig sabihin ng “parusa” o pagpaparusa ay pagpapahirap sa isang tao dahi
 
 {{topic>:en:bible?punish&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:13-07|[13-07]]]** God also gave many other laws and rules to follow. If the people obeyed these laws, God promised that he would bless and protect them. If they disobeyed them, God would **punish** them. 
-  ***[[:tl:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept disobeying God, he **punished** them by allowing their enemies to defeat them. 
-  ***[[:tl:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would judge them as guilty, and he would **punish** them. 
-  ***[[:tl:obs:notes:frames:48-06|[48-06]]]** Jesus was the perfect high priest because he took the **punishment** for every sin that anyone has ever committed.
-  ***[[:tl:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the blood of Jesus takes away that person's sin, and God's **punishment** passes over him.
-  ***[[:tl:obs:notes:frames:49-09|[49-09]]]** But God loved everyone in the world so much that he gave his only Son so that whoever believes in Jesus will not be **punished** for his sins, but will live with God forever.
-  ***[[:tl:obs:notes:frames:49-11|[49-11]]]** Jesus never sinned, but he chose to be **punished** and die as the perfect sacrifice to take away your sins and the sins of every person in the world. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:13-07|[13-07]]]** Kapag hindi naman nila ito sinunod,  ** paparusahan ** sila ng Diyos.
+  * **[[:tl:obs:notes:frames:16-02|[16-02]]]** Ngunit Bilang  ** parusa ** hinayaan sila ng Diyos na matalo ng mga kaaway nila.
+  * **[[:tl:obs:notes:frames:19-16|[19-16]]]** Binalaan din nila ang mga tao na kapag hindi nila sinunod ang Diyos hahatulan silang makasalanan at  ** paparusahan ** sila ng Diyos.
+  * **[[:tl:obs:notes:frames:48-06|[48-06]]]** Si Jesus ay ang pinakapunong pari na walang kapintasan dahil inako niya ang  ** kaparusahan ** ng bawat kasalanang nagawa ng sinuman.
+  * **[[:tl:obs:notes:frames:48-10|[48-10]]]** Kung naniniwala ang isang tao kay Jesus, ang dugo ni Jesus ang nagiging kabayaran sa kasalanan ng taong iyon at hindi rin siya maisasali sa mga  ** paparusahan ** ng Diyos.
+  * **[[:tl:obs:notes:frames:49-09|[49-09]]] ** Pero mahal na mahal ng Diyos ang lahat ng tao sa mundo kaya ibinigay niya ang nag-iisang Anak niya para ang sinumang maniwala kay Jesus ay hindi  ** maparusahan ** sa mga kasalanan niya kundi mabubuhay kasama ng Diyos magpakailanman.
+  * **[[:tl:obs:notes:frames:49-11|[49-11]]]** Hindi nagkasala si Jesus pero pinili niyang  ** maparusahan ** at mamatay bilang natatanging sakripisyo para alisin ang mga kasalanan mo pati ang mga kasalanan ng lahat ng tao dito sa mundo.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
