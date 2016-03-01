@@ -16,17 +16,16 @@ Kaibigan ni Jesus si Lazarus, binuhay siya ni Jesus mula sa kamatayan.
 
 {{topic>:en:bible?lazarus&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:37-01|[37-01]]]** One day, Jesus received a message that **Lazarus**  was very sick. **Lazarus**  and his two sisters, Mary and Martha, were close friends of Jesus.
-  * **[[:tl:obs:notes:frames:37-02|[37-02]]]** Jesus said, "Our friend **Lazarus**  has fallen asleep, and I must wake him."
-  * **[[:tl:obs:notes:frames:37-03|[37-03]]]** Jesus' disciples replied, "Master, if **Lazarus**  is sleeping, then he will get better." Then Jesus told them plainly, "**Lazarus**  is dead."
-  * **[[:tl:obs:notes:frames:37-04|[37-04]]]** When Jesus arrived at **Lazarus'**  hometown, **Lazarus**  had already been dead for four days.
-  * **[[:tl:obs:notes:frames:37-06|[37-06]]]** Jesus asked them, "Where have you put **Lazarus**?"
-  * **[[:tl:obs:notes:frames:37-09|[37-09]]]** Then Jesus shouted, "**Lazarus**, come out!"
-  * **[[:tl:obs:notes:frames:37-10|[37-10]]]** So **Lazarus**  came out! He was still wrapped in grave clothes.
-  * **[[:tl:obs:notes:frames:37-11|[37-11]]]** But the religious leaders of the Jews were jealous, so they gathered together to plan how they could kill Jesus and **Lazarus**.
-
+  * **[[:tl:obs:notes:frames:37-01|[37-01]]]** Isang araw nabalitaan ni Jesus na may malubhang sakit si  ** Lazarus. ** Malapit na kaibigan ni Jesus si  ** Lazarus ** pati na ang mga kapatid niyang sina Martha at Mary.
+  * **[[:tl:obs:notes:frames:37-02|[37-02]]]** “Natutulog ang kaibigan nating si  ** Lazarus ** at kailangan ko siyang gisingin.”
+  * **[[:tl:obs:notes:frames:37-03|[37-03]]]** “Patay na si  ** Lazarus ** . Mabuti na lang at wala ako doon nang mamatay siya para maniwala kayo sa akin.”
+  * **[[:tl:obs:notes:frames:37-04|[37-04]]]** Pagdating ni Jesus sa bayan ni  ** Lazarus  ** apat na araw na siyang patay.
+  * **[[:tl:obs:notes:frames:37-06|[37-06]]]** “Saan niyo inilagay ang katawan ni  ** Lazarus ** ?”
+  * **[[:tl:obs:notes:frames:37-09|[37-09]]]** Pagkatapos ay sumigaw siya ng ganito, “ ** Lazarus ** , Lumabas ka!”
+  * **[[:tl:obs:notes:frames:37-10|[37-10]]]** Lumabas nga si ** Lazarus ** ! Nakabalot pa siya ng mga telang panlibing.
+  * **[[:tl:obs:notes:frames:37-11|[37-11]]]** Pero marami sa mga pinuno ng relihiyon ng mga Hudyo ang naiinggit kaya nagtipon-tipon sila para planuhin kung paano nila papatayin si Jesus at  ** Lazarus ** .
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
