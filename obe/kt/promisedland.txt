@@ -17,15 +17,15 @@ Ang Lupang Pangako ay ang lupaing ipinangako ng Diyos kay Abraham at sa mga Kaap
 
 {{topic>:en:bible?promisedland&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:12-01|[12-01]]]** They (Israelites) were no longer slaves, and they were going to the **Promised Land**!
-  * **[[:tl:obs:notes:frames:14-01|[14-01]]]** After God had told the Israelites the laws he wanted them to obey as part of his covenant with them, God began leading them from Mount Sinai toward the **Promised Land**, which was also called Canaan.
-  * **[[:tl:obs:notes:frames:14-02|[14-02]]]** God had promised Abraham, Isaac, and Jacob that he would give the **Promised Land**  to their descendants, but now there were many people groups living there.
-  * **[[:tl:obs:notes:frames:14-14|[14-14]]]** Then God led the people to the edge of the **Promised Land**  again.
-  * **[[:tl:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the Jordan River to enter into the **Promised Land**.
-  * **[[:tl:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of Israel its own section of the **Promised Land**.
-  * **[[:tl:obs:notes:frames:20-09|[20-09]]]** This period of time when God's people were forced to leave the **Promised Land**  is called the Exile.
+  * **[[:tl:obs:notes:frames:12-01|[12-01]]]** Masayang-masaya ang mga Israelita sa pag-alis nila sa Egypt. Sa wakas hindi na sila alipin at pupunta na sila sa  ** Lupang pangako ** !
+  * **[[:tl:obs:notes:frames:14-01|[14-01]]]** Pinangunahan ng Diyos sa paglalakbay ang mga Israelita papunta sa lugar na tinatawag na Canaan, ang  ** lupang ipinangako ** ng Diyos sa kanila.
+  * **[[:tl:obs:notes:frames:14-02|[14-02]]]** Ipinangako ng Diyos kay Abraham, Isaac at Jacob na ibibigay niya sa mga anak nila ang ** lupain ng Canaan ** ngunit marami ng nakatira sa lupaing iyon na iba’t ibang lahi, Canaaneo ang tawag sa kanila.
+  * **[[:tl:obs:notes:frames:14-14|[14-14]]]** Ginabayan ng Diyos ang mga Israelita para bumalik muli sa malapit sa  ** Lupang Pangako ** .
+  * **[[:tl:obs:notes:frames:15-02|[15-02]]]** Kailangan tumawid ng mga Israelita sa Ilog Jordan bago sila makapasok sa  ** Lupang Ipinangako ** .
+  * **[[:tl:obs:notes:frames:15-12|[15-12]]]** Pagkatapos ng labanan, binigyan ng Diyos ang bawat tribo ng Israel ng kanya kanyang bahagi sa  ** Lupaing Ipinangako ** ng Diyos at sa tulong din ng Diyos naging mapayapa ang buong Israel at mga kalapit bansa.
+  * **[[:tl:obs:notes:frames:20-09|[20-09]]]** Ang panahon na ito kung saan sapilitang pinaalis ang mga tao ng Diyos mula sa  ** Lupang Ipinangako ** ay tinawag na “Pagkakatapon.”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
