@@ -17,17 +17,14 @@ Si Pilate ay ang gobernador na sumang-ayon na mamatay si Jesus sa pamamagitan ng
 
 {{topic>:en:bible?pilate&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate** would condemn Jesus as guilty and sentenced him to be killed. **Pilate** asked Jesus, "Are you the King of the Jews?"
-  ***[[:tl:obs:notes:frames:39-10|[39-10]]]** **Pilate** said, "What is truth?"
-  ***[[:tl:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate** went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate** replied, "He is not guilty." But they shouted even louder. Then **Pilate** said a third time, "He is not guilty!"
-  ***[[:tl:obs:notes:frames:39-12|[39-12]]]** **Pilate** became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
-  ***[[:tl:obs:notes:frames:40-02|[40-02]]]** **Pilate** commanded that a sign be put above Jesus' head that read, "King of the Jews."
-  ***[[:tl:obs:notes:frames:41-02|[41-02]]]** **Pilate** said, "Take some soldiers and make the tomb as secure as you can."
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:39-09|[39-09]]]** Kinaumagahan, dinala ng mga pinuno ng Hudyo si Jesus kay  ** Pilate ** , ang gobernador noong mga panahong iyon. Inasahan nilang hahatulan ni  ** Pilate ** si Jesus at paparusahan siya ng kamatayan. Tinanong ni  ** Pilate ** si Jesus, “Ikaw ba ang hari ng mga Hudyo?”
+  * **[[:tl:obs:notes:frames:39-10|[39-10]]]** Tinanong siya ni  ** Pilate ** , “Ano ang katotohanan?”
+  * **[[:tl:obs:notes:frames:39-11|[39-11]]]** Matapos niyang kausapin si Jesus lumabas si  ** Pilate ** at hinarap ang mga tao, “Wala akong nakitang kasalanan sa taong ito.” Pero nagsigawan ang mga ang pinuno ng mga Hudyo at ang mga tao, “Ipako siya sa krus!” Sumagot naman si  ** Pilate ** , “Wala siyang kasalanan.”Pero sumigaw sila ng mas malakas pa. Sa pangatlong pagkakataon, sinabi ni  ** Pilate ** , “Walang siyang kasalanan!”
+  * **[[:tl:obs:notes:frames:39-12|[39-12]]]** Natakot si  ** Pilate ** dahil baka gumawa ng gulo ang mga tao kaya pumayag siya na ipako ng mga sundalo si Jesus sa krus.
+  * **[[:tl:obs:notes:frames:40-02|[40-02]]]** Iniutos ni ** Pilate ** na sumulat sila ng ganito at ilagay sa itaas ng ulunan ni Jesus, “Hari ng mga Hudyo.”
+  * **[[:tl:obs:notes:frames:41-02|[41-02]]]** Sabi ni  ** Pilate ** , “Magsama kayo ng ilang mga sundalo at pabantayan niyong mabuti ang libingan sa abot ng makakaya niyo.”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
