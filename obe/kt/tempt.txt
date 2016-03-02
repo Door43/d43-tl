@@ -20,11 +20,11 @@ Ang panunukso ay nagagawa kapag sinusubukan ng isang tao na makagawa ang kapwa n
 
 {{topic>:en:bible?tempt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
-  * **[[:tl:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
-  * **[[:tl:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
+  * **[[:tl:obs:notes:frames:25-01|[25-01]]]** Dumating naman si Satan at sinubukan niyang  ** tuksuhin ** si Jesus na magkasala.
+  * **[[:tl:obs:notes:frames:25-08|[25-08]]]** Hindi hinayaan ni Jesus na  ** matukso  ** siya ni Satan kaya iniwan siya nito. Dumating naman ang mga anghel at pinaglingkuran si Jesus.
+  * **[[:tl:obs:notes:frames:38-11|[38-11]]]** Sinabihan ni Jesus ang mga apostol na manalangin sila para hindi sila  ** matukso ** .
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
