@@ -18,16 +18,13 @@ Si Solomon ay isa sa mga anak ng haring si David. Si Bathsheba ang kanyang ina.
 
 {{topic>:en:bible?solomon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:17-14|[17-14]]]** Later,  David and Bathsheba had another son, and they named him **Solomon**.
-  ***[[:tl:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his son **Solomon** began to rule. God spoke to **Solomon** and asked him what he wanted most. When **Solomon** asked for wisdom, God was pleased and made him the wisest man in the world. **Solomon** learned many things and was a very wise judge. God also made him very wealthy.
-  ***[[:tl:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, **Solomon** built the Temple for which his father David had planned and gathered materials.
-  ***[[:tl:obs:notes:frames:18-03|[18-03]]]** But **Solomon** loved women from other countries. ... When **Solomon** was old, he also worshiped their gods.
-  ***[[:tl:obs:notes:frames:18-04|[18-04]]]** God was angry with **Solomon** and, as a punishment for **Solomon's** unfaithfulness, he promised to divide the nation of Israel into two kingdoms after **Solomon's** death.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:17-14|[17-14]]]** Nagkaanak ulit sila ni Bathsheba ng lalaki. Pinangalanan nila ang sanggol ng ** Solomon ** .
+  * **[[:tl:obs:notes:frames:18-01|[18-01]]]** Matapos ang maraming taon namatay si David at nagsimulang mamuno sa Israel ang anak niyang si  ** Solomon ** . Kinausap ng Diyos si  ** Solomon ** sa panaginip at tinanong kung ano ang pinakagusto niyang matanggap. Karunungan ang hiniling ni  ** Solomon ** at natuwa sa kanya ang Diyos. Dahil doon pinagkalooban niya si  ** Solomon ** ng karunungan na higit kaninoman sa buong mundo. Maraming bagay pa ang natutunan ni  ** Solomon  ** at naging mahusay siyang hukom. Pinagpala siya ng Diyos kaya naging napakayaman niya.
+  * **[[:tl:obs:notes:frames:18-02|[18-02]]]** Itinayo ni  ** Solomon ** ang Templo sa Jerusalem na si David na ama niya ang nagplano at lumikom ng mga ginamit para doon.
+  * **[[:tl:obs:notes:frames:18-03|[18-03]]]** Sinuway ni  ** Solomon ** ang Diyos dahil marami siyang naging asawa mula sa iba’t-ibang mga bansa.
+  * **[[:tl:obs:notes:frames:18-04|[18-04]]]** Nagalit ang Diyos kay  ** Solomon ** . Bilang parusa dahil hindi siya naging tapat, ipinangako ng Diyos na hahatiin niya ang bansang Israel sa dalawang kaharian pagkatapos niyang mamatay.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
