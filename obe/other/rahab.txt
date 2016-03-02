@@ -16,13 +16,8 @@ Si Rahab ang babaeng nakatira sa Jericho nang sinalakay ng Israel ang lungsod. S
 
 {{topic>:en:bible?rahab&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:15-01|[15-01]]]** In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to escape. She did this because she believed God. They promised to protect **Rahab** and her family when the Israelites would destroy Jericho. 
-  ***[[:tl:obs:notes:frames:15-05|[15-05]]]** The Israelites destroyed everything in the city as God had commanded. **Rahab** and her family were the only people in the city that they did not kill. They became part of the Israelites. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
-
+  * **[[:tl:obs:notes:frames:15-01|[15-01]]] ** Sa loob ng lungsod, may nakatirang isang babaeng nagbebenta ng panandaliang aliw, si  ** Rahab ** . Itinago niya ang dalawang espiya at saka niya pinatakas. Ginawa niya iyon dahil naniniwala siya sa Diyos. Ipinangako nilang ililigtas nila si  ** Rahab ** at ang pamilya niya kapag sinalakay na nila ang Jericho.
+  * **[[:tl:obs:notes:frames:15-05|[15-05]]]** Si  ** Rahab ** lang at ang kanyang pamilya ang iniligtas nila na naging kabahagi na ng Bayang Israel.
+~~DISCUSSION~~{{tag>publish ktobs}}
