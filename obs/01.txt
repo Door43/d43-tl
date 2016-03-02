@@ -1,4 +1,4 @@
-====== Ang Kwento Tungkol sa Paglikha ======
+====== 1. Ang Kwento Tungkol sa Paglikha ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
@@ -22,11 +22,11 @@ Pagkatapos sinabi ng Diyos, “Magkaroon sa lupa ng lahat ng uri ng puno at hala
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}
 
-Sa ika-apat na araw, nagsalita ang Diyos at nilikha niya ang araw, buwan, at mga bituin. Ginawa niya ito para magbigay ng liwanag sa mundo at para maging palatandaan ng araw at gabi, panahon at mga taon. Nakita Niyang maganda lahat ng ginawa Niya.
+Sa ika-apat na araw, nagsalita ang Diyos at ginawa niya ang araw, buwan, at mga bituin. Ginawa niya ito para magbigay ng liwanag sa mundo at para maging palatandaan ng araw at gabi, panahon at mga taon. Nakita Niyang maganda lahat ng ginawa Niya.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
-Sa ikalimang araw, nagsalita ang Diyos at nilikha niya lahat ng lumalangoy sa tubig at lahat ng uri ng ibon.Nakita niyang maganda ang mga ginawa niya kaya pinagpala niya lahat ng mga ito.
+Sa ikalimang araw, nagsalita ang Diyos at ginawa niya lahat ng lumalangoy sa tubig at lahat ng uri ng ibon.Nakita niyang maganda ang mga ginawa niya kaya pinagpala niya lahat ng mga ito.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
 
@@ -46,7 +46,7 @@ Sa gitna ng halamanan nagtanim ang Diyos ng dalawang di-pangkaraniwang puno. Ang
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
 
-"Hindi maganda na nag-iisa ang lalaki", sabi ng Diyos. Pero wala naman sa mga hayop ang pwedeng makatuwang ni Adam.
+"Hindi maganda sa lalaki ang nag-iisa", sabi ng Diyos. Pero wala naman sa mga hayop ang pwedeng makatuwang ni Adam.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
@@ -64,4 +64,4 @@ Ginawa ng Diyos ang lalaki at babae na katulad niya. Pinagpala niya ang dalawa a
 
 Nang sumapit ang ikapitong araw, natapos na ng Diyos lahat ng ginawa niya kaya nagpahinga ang Diyos sa lahat ng ginawa Niya. Pinagpala niya ang ikapitong araw at ginawa niya itong natatangi dahil nagpahinga siya sa araw na ito. Ganito nilikha ng Diyos ang sandaigdig at lahat ng mga bagay dito.
 
-Kwento Mula sa Genesis 1-2
+//Kwento mula sa Genesis 1-2//
