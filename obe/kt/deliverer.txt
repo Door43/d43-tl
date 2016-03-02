@@ -20,11 +20,11 @@ Ang salitang "ipagtanggol o iligtas" ang isang tao ay nangangahulugang tulungan 
 
 {{topic>:en:bible?deliverer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:16-03|[16-03]]]** Then God provided a **deliverer**  who rescued them from their enemies and brought peace to the land.
-  * **[[:tl:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another **deliverer**.
-  * **[[:tl:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many **deliverers**  who saved the Israelites from their enemies.
+  * **[[:tl:obs:notes:frames:16-03|[16-03]]]** Pinakinggan sila ng Diyos at pumili siya ng ** tagapagtanggol  ** na nagligtas sa kanila laban sa mga kaaway nila kaya nagbalik ang kapayapaan sa lupain.
+  * **[[:tl:obs:notes:frames:16-16|[16-16]]]** Pumili nanaman ang Diyos ng panibagong  ** tagapagtanggol  ** nila.
+  * **[[:tl:obs:notes:frames:16-17|[16-17]]]** Magkakasala ang mga Israelita, parurusahan nanaman sila ng Diyos, magsisisi sila at pipili nanaman ng  ** tagapagtanggol ** ang Diyos para iligtas sila.
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
