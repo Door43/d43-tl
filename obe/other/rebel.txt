@@ -9,16 +9,12 @@ Ang pagrerebelde ay hindi pagsunod sa mga nasa katungkulan.
   * Isang uri rin ng pagrerebelde ang pagsali sa digmaan laban sa gobyerno o laban sa isang pinunong namumuno. Maaaring gawin ito ng mga tao kung nakikita nilang hindi namumuno ng matuwid ang isang pinuno o ang gobyerno.
 
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:14-14|[14-14]]]** After the Israelites had wandered in the wilderness for forty years, all of them who had **rebelled** against God were dead. 
-  ***[[:tl:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel **rebelled** against Rehoboam. 
-  ***[[:tl:obs:notes:frames:18-09|[18-09]]]** Jeroboam **rebelled** against God and caused the people to sin. 
-  ***[[:tl:obs:notes:frames:18-13|[18-13]]]** Most of the people of Judah also **rebelled** against God and worshiped other gods. 
-  ***[[:tl:obs:notes:frames:20-07|[20-07]]]** But after a few years, the king of Judah **rebelled** against Babylon. 
-  ***[[:tl:obs:notes:frames:45-03|[45-03]]]** Then he (Stephen) said, "You stubborn and **rebellious** people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:14-14|[14-14]]]** Pagkatapos ng 40 taon na pagpapalaboy-laboy nila sa ilang namatay na lahat ng mga taong ** hindi sumunod ** sa Diyos noon.
+  * **[[:tl:obs:notes:frames:18-07|[18-07]]]** Sampung tribo ng Israel ang  ** nagrebelde ** laban kay Reheboam.
+  * **[[:tl:obs:notes:frames:18-09|[18-09]]]** ** Nagrebelde ** si Jeroboam sa Diyos at nagkasala ang mga tao dahil gumawa siya ng dalawang diyus-diyosan para sambahin ng mga tao sa nasasakupan niya sa halip na ang Diyos ang sambahin nila sa Templo doon sa kaharian ng Judah.
+  * **[[:tl:obs:notes:frames:18-13|[18-13]]]** Karamihan din sa mga mamamayan ng Judah ay  ** tinalikuran ** na rin ang Diyos at sumamba na rin sa mga diyos-diyosan.
+  * **[[:tl:obs:notes:frames:20-07|[20-07]]]** Pero pagkatapos ng ilang taon ** naghimagsik  ** ang hari ng Judah laban sa hari ng Babylon kaya bumalik ang mga taga-Babylon para salakayin ang kaharian ng Judah.
+  * **[[:tl:obs:notes:frames:45-03|[45-03]]]** Sinabi niya sa kanila, “Kayong  ** matitigas ang ulo ** at mga mapaghimagsik, ayaw niyong tanggapin ang Banal na Espiritu gaya ng hindi pagtanggap ng mga ninuno niyo sa Diyos at pagpatay nila sa mga propeta niya. Pero kayo, mas masahol pa ang ginawa niyo kaysa sa kanila dahil pinatay niyo ang Messiah!”
+~~DISCUSSION~~{{tag>publish ktobs}}
