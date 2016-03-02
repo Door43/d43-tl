@@ -14,14 +14,10 @@ Ang Samaria ay isang rehiyon sa hilagang bahagi ng Israel. Nang masakop ng Assyr
 
 {{topic>:en:bible?samaria&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the land where the kingdom of Israel had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called **Samaritans**.
-  ***[[:tl:obs:notes:frames:27-08|[27-08]]]** "The next person to walk down that road was a **Samaritan**. (**Samaritans** were the descendants of Jews who had married people from other nations. **Samaritans** and Jews hated each other.)"
-  ***[[:tl:obs:notes:frames:27-09|[27-09]]]** "The **Samaritan** then lifted the man onto his own donkey and took him to a roadside inn where he took care of him."
-  ***[[:tl:obs:notes:frames:45-07|[45-07]]]** He (Philip) went to **Samaria** where he preached about Jesus and many people were saved. 
-
-~~DISCUSSION~~
-
-{{tag>publish}}
-
+  * **[[:tl:obs:notes:frames:20-04|[20-04]]]** Ang mga kaapu-apuhan ng mga Israelita na nakapag-asawa ng mga dayuhan ay tinawag na mga  ** Samaritano ** .
+  * **[[:tl:obs:notes:frames:27-08|[27-08]]]** “Ang sumunod naman na dumating sa lugar ay isang  ** Samaritano ** (ang  ** Samaritano ** ay mga anak ng mga Hudyong nakipag-asawa sa mga dayuhan. Magkagalit ang Hudyo at  ** Samaritano ** ). Ngunit nang makita niya ang Hudyo, nakaramdam siya ng habag at binendahan niya ang mga sugat nito.”
+  * **[[:tl:obs:notes:frames:27-09|[27-09]]]** “Isinakay ng ** Samaritano  ** ang Hudyo sa kanyang asno (donkey) at dinala niya ito sa isang matutuluyan at doon niya inalagaan”
+  * **[[:tl:obs:notes:frames:45-07|[45-07]]]** Nagpunta siya sa  ** Samaria ** at nangaral tungkol kay Jesus at maraming tao ang naligtas.
+~~DISCUSSION~~{{tag>publish}}
