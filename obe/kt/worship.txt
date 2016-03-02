@@ -19,19 +19,16 @@ Ang ibig sabihin ng “pagsamba” ay pagsunod, pagbibigay karangalan at papuri 
 
 {{topic>:en:bible?worship&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:13-04|[13-04]]]**  Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not **worship** other gods."
-  ***[[:tl:obs:notes:frames:14-02|[14-02]]]**  The Canaanites did not **worship** or obey God. They **worshiped** false gods and did many evil things.
-  ***[[:tl:obs:notes:frames:17-06|[17-06]]]**  David wanted to build a temple where all the Israelites could **worship** God and offer him sacrifices.
-  ***[[:tl:obs:notes:frames:18-12|[18-12]]]**  All of the kings and most of the people of the kingdom of Israel **worshiped** idols.
-  ***[[:tl:obs:notes:frames:25-07|[25-07]]]**  Jesus replied, "Get away from me, Satan! In God's word he commands his people, '**Worship** only the Lord your God and only serve him.'"
-  ***[[:tl:obs:notes:frames:26-02|[26-02]]]**  On the Sabbath, he (Jesus) went to the place of **worship**.
-  ***[[:tl:obs:notes:frames:47-01|[47-01]]]**  There they met a woman named Lydia who was a merchant. She loved and **worshiped** God.
-  ***[[:tl:obs:notes:frames:49-18|[49-18]]]**  God tells you to pray, to study his word, to **worship** him with other Christians, and to tell others what he has done for you. 
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:13-04|[13-04]]]** Sinabi niya, “Ako si Yahweh, ang Diyos niyo na nagligtas sa inyo mula sa pagkakaalipin mula sa Egypt. Huwag kayong  ** sasamba  ** sa ibang diyos.”
+  * **[[:tl:obs:notes:frames:14-02|[14-02]]]** Hindi sumasamba at sumusunod sa Diyos ang mga Canaanneo. Diyus-diyosan ang  ** sinasamba ** nila at marami silang ginagawang masasama.
+  * **[[:tl:obs:notes:frames:17-06|[17-06]]]** Gusto ni David na makapagpatayo ng templo kung saan pwedeng  ** sumamba ** at mag-alay sa Diyos. Sa loob ng halos 400 na taon,  ** sumasamba ** at nag-aalay ang mga tao sa Toldang ginawa pa ni Moses.
+  * **[[:tl:obs:notes:frames:18-12|[18-12]]]** Mga diyus-diyosan ang  ** sinasamba ** ng lahat mga naging ng hari at halos lahat ng mga tao sa kaharian ng Israel. Ang  ** pagsamba ** nila sa diyus-diyosan ay may kasamang imoralidad at kung minsan pa nga, nag-aalay sila ng bata.
+  * **[[:tl:obs:notes:frames:25-07|[25-07]]]** Sumagot si Jesus, “Layuan mo ako Satan! Ayon sa Salita ng Diyos, ‘Tanging ang Diyos lang ang dapat mong  ** sambahin ** at sa kanya lang dapat maglingkod.”’
+  * **[[:tl:obs:notes:frames:26-02|[26-02]]]** Sa Araw ng Pamamahinga, pumunta siya sa lugar kung saan  ** sumasamba ** ang mga tao.
+  * **[[:tl:obs:notes:frames:47-01|[47-01]]]** Nakilala nila doon ang babaeng nagngangalang Lydia na isang negosyante. Mahal niya ang Diyos at  ** sinasamba ** niya ito.
+  * **[[:tl:obs:notes:frames:49-18|[49-18]]]** Sinabi sa atin ng Diyos na magdasal tayo, mag-aral ng salita niya,  ** sambahin ** siya kasama ng mga ibang kristiyano at ibahagi sa iba ang mga ginawa niya para sa'yo.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
