@@ -15,14 +15,9 @@ Sa ngayon, ang Rome ang kapital ng bansang Italy.
 
 {{topic>:en:bible?rome&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:tl:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:tl:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:tl:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
-
+  * **[[:tl:obs:notes:frames:23-04|[23-04]]]** Malapit nang manganak si Mary ng mga panahong inutos ng pamahalaang  ** Romano ** sa lahat ng mga tao na umuwi sila sa kani-kanilang bayan kung saan tumira ang mga ninuno nila para maibilang sa sensus kaya umalis si Mary at Joseph mula sa Nazareth kung saan sila nakatira.
+  * **[[:tl:obs:notes:frames:32-06|[32-06]]]** Sumagot ang demonyo “Ako si Lehiyon, dahil marami kami.” (Lehiyon ang tawag sa libo-libong pulutong ng mga sundalong  ** Romano ** .)
+  * **[[:tl:obs:notes:frames:39-12|[39-12]]]** Nilatigo ng mga  ** Romanong ** sundalo si Jesus at dinamitan siya ng damit na pang hari.
+~~DISCUSSION~~{{tag>publish ktobs}}
