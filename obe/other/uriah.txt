@@ -13,13 +13,10 @@ Si Uriah ay isang matuwid na tao at isa siya sa mga pinakamagaling na sundalo ng
 (Tignan rin sa: [[:tl:obe:other:david|David]], [[:tl:obe:other:bathsheba|Bathsheba]])
 
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:17-12|[17-12]]]** Bathsheba's husband, a man named **Uriah**, was one of David's best soldiers. David called **Uriah** back from the battle and told him to go be with his wife. But **Uriah** refused to go home while the rest of the soldiers were in battle. So David sent **Uriah** back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
-  ***[[:tl:obs:notes:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:17-12|[17-12]]]** Si  ** Uriah ** , ang asawa ni Bathsheba, ay isa sa mga pinakamagagaling na kawal ni David. Ipinatawag ni David si  ** Uriah ** mula sa digmaan para umuwi sa asawa niya at makasama niya ito. Bumalik si  ** Uriah ** pero tumanggi siyang umuwi sa asawa niya habang nakikipaglaban ang iba pang mga sundalo sa digmaan kaya pinabalik na lang ni David si ** Uriah ** sa labanan.
+  * **[[:tl:obs:notes:frames:17-13|[17-13]]]** Nang napatay si  ** Uriah ** sa labanan napangasawa ni David si Bathsheba at hindi nagtagal ipinanganak niya ang anak ni David.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
