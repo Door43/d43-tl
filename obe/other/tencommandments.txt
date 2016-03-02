@@ -11,14 +11,11 @@ Maraming utos ang ibinigay ng Diyos kay Moses para sundin ng mga Israelita. Isin
 
 =====   =====
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  ***[[:tl:obs:notes:frames:13-07|[13-07]]]**  Then God wrote these **Ten Commandments** on two stone tablets and gave them to Moses.
-  ***[[:tl:obs:notes:frames:13-13|[13-13]]]**  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**. 
-  ***[[:tl:obs:notes:frames:13-15|[13-15]]]**  Moses wrote the **Ten Commandments** on new stone tablets to replace the ones he had broken.
-
-~~DISCUSSION~~
-
-{{tag>publish ktobs}}
+  * **[[:tl:obs:notes:frames:13-07|[13-07]]]** Isinulat ng Diyos ang  ** mga utos ** na ito sa dalawang tipak ng bato at ibinigay kay Moses at may iba pang mga utos na ibinigay ang Diyos para sundin ng mga Israelita.
+  * **[[:tl:obs:notes:frames:13-13|[13-13]]]** Galit na galit siya kaya naibagsak niya ang mga tipak ng bato na kinasusulatan ng ** Sampung utos ** ng Diyos.
+  * **[[:tl:obs:notes:frames:13-15|[13-15]]]** Gumawa ulit si Moses ng bagong tipak ng bato para sa  ** sampung kautusan ** para mapalitan ang unang tipak ng batong nasira.
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
