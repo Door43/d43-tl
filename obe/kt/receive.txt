@@ -19,11 +19,11 @@ Ang ibig sabihin ng salitang ito ay pagtanggap sa isang bagay na ibinibigay o in
 
 {{topic>:en:bible?receive&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== Mga Halimbawa mula sa mga Kwento sa Bibliya: =====
 
-  * **[[:tl:obs:notes:frames:21-13|[21-13]]]** The prophets also said that the Messiah would be perfect, having no sin. He would die to **receive**  the punishment for other people's sin. His punishment would bring peace between God and people.
-  * **[[:tl:obs:notes:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, "Jesus, **receive**  my spirit."
-  * **[[:tl:obs:notes:frames:49-06|[49-06]]]** He (Jesus) taught that some people will receive him and be saved, but other will not.
-  * **[[:tl:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the cross, he **received**  your punishment.
-  * **[[:tl:obs:notes:frames:49-13|[49-13]]]** God will save everyone who believes in Jesus and **receives**  him as their Master.
+  * **[[:tl:obs:notes:frames:21-13|[21-13]]]** Mamamatay siya para ** tanggapin  ** ang kaparusahan ng mga tao at ito ang magdadala ng kapayapaan sa pagitan ng tao at ng Diyos. Para matupad ito kasama sa plano ng Diyos na mamamatay ang Messiah.
+  * **[[:tl:obs:notes:frames:45-05|[45-05]]]** Bago malagutan ng hininga si Stephen sinabi niya, “Jesus,  ** tanggapin ** mo ang aking Espiritu.”
+  * **[[:tl:obs:notes:frames:49-06|[49-06]]]** Si Jesus ay nagturo sa ibang mga tao at  ** tinanggap ** nila siya at naligtas habang iba naman ay maaaring hindi.
+  * **[[:tl:obs:notes:frames:49-10|[49-10]]]** Dapat lang na magalit ang Diyos sa'yo pero ibinuhos niya ang galit niya kay Jesus sa halip na sa'yo,  ** tinanggap ** ni Jesus ang kaparusahan mo nang mamatay siya sa krus.
+  * **[[:tl:obs:notes:frames:49-13|[49-13]]]** Ililigtas ng Diyos ang lahat ng maniniwala at  ** tatanggap ** kay Jesus bilang Panginoon pero hindi niya ililigtas ang hindi maniniwala sa kanya.
 ~~DISCUSSION~~{{tag>publish ktobs}}
