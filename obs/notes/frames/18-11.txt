@@ -6,11 +6,11 @@ Masama lahat ng naging hari sa bagong Kaharian ng Israel. Marami sa mga hari ay 
 
 ===== Mga Mahahalagang Salita: =====
 
-  * **[[:tl:obe:other:kingdom|kaharian]]**
-  * **[[:tl:obe:other:israel|Israel, Israelita]]**
-  * **[[:tl:obe:other:king|hari]]**
-  * **[[:tl:obe:kt:evil|masama, kasamaan]]**
-  * **[[:tl:obe:other:israel|Israel, Israelita]]**
+  * **[[:tl:obe:other:kingdom]]**
+  * **[[:tl:obe:other:israel]]**
+  * **[[:tl:obe:other:king]]**
+  * **[[:tl:obe:kt:evil]]**
+  
 
 ==== Talaan para sa Pagsasalin: ====
 
