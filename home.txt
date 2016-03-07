@@ -1,9 +1,6 @@
 ====== Door43 (Tagalog (tl) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
-
-
-
+Maligayang Pagdating sa Door43! Huwag mag-atubili na-[[:tl:home?do=edit|edit]] itong pahina sa inyong sariling lingguwahe. Mas maraming impormasyon tungkol sa kung paano magsimula [[:en:get-started|dito]].
 
 ==== Resources ====
 
