@@ -2,11 +2,11 @@
 
 Maligayang Pagdating sa Door43! Huwag mag-atubili na-[[:tl:home?do=edit|edit]] itong pahina sa inyong sariling lingguwahe. Mas maraming impormasyon tungkol sa kung paano magsimula [[:en:get-started|dito]].
 
-==== Resources ====
+==== Mapagkukunan ====
 
-These are the resources currently available for translation and use:
+Ito ang mga mapagkukuhanan ng impormasyon na kasalukuyang magagamit para sa pagsasalin:
 
-  * **[[:tl:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.​
+  * **[[:tl:obs|Open Bible Stories]]** – Isang biswal na maliit na bibliya sa iba't-ibang lingguwahe, teksto, audio, at video.
   * [[:tl:obs:notes|translationNotes]] - Translation and exegetical notes for Open Bible Stories.
   * [[:tl:ta:intro:handbook|translationAcademy Handbook]] - A guide for translating and checking.
   * [[:tl:lexicon|Open Bible Lexicon]]- A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
