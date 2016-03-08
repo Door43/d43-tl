@@ -1,4 +1,4 @@
-====== demonyo ======
+====== demonyo, masamang espiritu ======
 
 ===== Kahulugan: =====
 
@@ -8,12 +8,11 @@ Ang mga demonyo ay mga espiritung lumalaban sa Diyos. sila ang mga kampon ni Sat
   * Masama ang mga demonyo atpinaglilinkuran nila si Satan. Sumasanib sila sa mga taong hindi pinaghaharian ng Diyos at kinokontrol nila ang mga ito.
   * Makapangyarihan ang mga demoyo pero hindi nila kayang talunin ang mga taong nananalig at pinaghaharian ng Diyos dahil ang Diyos ay ang pinakamakapangyarihan sa lahat.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * The term "demon" could also be translated as "evil spirit."
-  * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
-  * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-  * Also consider how the term "demon" is translated in a local or national language. (See: [[:tl:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ang salitang "demonyo" ay maaari ding isalin ng ganito, "masamang espiritu."
+  * Tiyakin na magkaiba ang pagkakasalin sa salitang "demonyo o masamng espiritu" sa salitang "diyablo."
+  * Isaalang-alang ang salitang ginagamit sa isang lugar para sa salitang "demonyo." (See: [[:tl:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
 (Tignan rin sa: [[:tl:obe:kt:demonpossessed|sinaniban/sinapian ng demonyo/masamang espiritu]], [[:tl:obe:kt:satan|satan, diyablo, masamang espiritu,]] [[:tl:obe:kt:falsegod|diyos-diyosan, diyos]], [[:tl:obe:kt:angel|anghel, arkanghel]], [[:tl:obe:kt:evil|masama, kasamaan]])
 
