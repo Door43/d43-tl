@@ -2,16 +2,16 @@
 
 Maligayang Pagdating sa Door43! Huwag mag-atubili na-[[:tl:home?do=edit|edit]] itong pahina sa inyong sariling lingguwahe. Mas maraming impormasyon tungkol sa kung paano magsimula [[:en:get-started|dito]].
 
-==== Mapagkukunan ====
+==== Mapagkukunan ng Impormasyon ====
 
 Ito ang mga mapagkukuhanan ng impormasyon na kasalukuyang magagamit para sa pagsasalin:
 
   * **[[:tl:obs|Open Bible Stories]]** – Isang biswal na maliit na bibliya sa iba't-ibang lingguwahe, teksto, audio, at video.
-  * [[:tl:obs:notes|translationNotes]] - Pagsasalin at paliwanag ng mga Talaan para sa Open Bible Stories.
+  * [[:tl:obs:notes|talaan para sa Pagsasalin]] - Pagsasalin at paliwanag ng mga Talaan para sa Open Bible Stories.
   * [[:tl:ta:intro:handbook|translationAcademy Handbook]] - Isang batayan para sa pagsasalin at pagwawasto.
-  * [[:tl:lexicon|Open Bible Lexicon]]- A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
-  * [[:tl:library|Open Christian Library]]- A growing catalog of open-licensed Biblical resources.
-  * [[:tl:ta|translationAcademy]]- A modular, media-based, self-paced training course for translators and translation facilitators.
+  * [[:tl:lexicon|Open Bible Lexicon]]- Isang Biblikal na libro, inilaan para sa integrasyon ng Open Bible Stories at pagsasalin ng Bibliya.
+  * [[:tl:library|Open Christian Library]]- Isang lumalagong listahan ng open-liscenced mapagkukuhanan ng impormasyong Biblikal.
+  * [[:tl:ta|translationAcademy]]- Isang modular, media-based, self-paced na kursong pagsasanay para sa mga tagapangasiwa ng tagapagsalin at pagsasalin.
 
 ==== About Door43 ====
 
