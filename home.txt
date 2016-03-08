@@ -20,15 +20,10 @@ Ito ang mga mapagkukuhanan ng impormasyon na kasalukuyang magagamit para sa pags
   * **[[:tl:ta:vol1:intro:translation_guidelines|Translation Guidelines]]**- The principles and procedures that all contributors must follow.
   * **[[:tl:ta:vol1:intro:open_license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
   * **[[:tl:technical|Technical Details]]** – The technology behind Door43.
-==== Extending Door43 ====
+==== Pagpapalawak ng Door43 ====
 
-Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
+Door 43 ay nasa isang aktibong pagpapa-unlad, habang pinapalawak natin ang kahalagahan ng nilalaman nito sa pamamagitan ng pagbuo ng mga paraan para magamit magagamit ito sa iba't-ibang format at sa mas marami pang mga mobile devices. Alamin kung paano ka maaaring makatulong sa **[[:en:dev|Door43 Development]]**.
 
 ----
 
-//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3**  //
-
-
-
-
-
+//"Magdasal… para pagbuksann tayo ng Diyos ng **pintuan** para sa Kaniyang Salita." —Colossians **4**:**3** //
