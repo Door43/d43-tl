@@ -8,12 +8,12 @@ Ang saksi ay isang taong nakarinig o nakakita sa isang bagay na nangyari. Sinasa
   * Ang pagsasaksi sa isang bagay ay nangangahulugan ng pagkakakita sa nangyari o naganap.
   * Ang saksi na nagsisinungaling sa tunay na nangyari ay tinatawag na “pekeng saksi.”
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * The term "witness" or "eyewitness" could be translated with a word or phrase that means, "person-seeing-it" or "the one who saw it happen" or "those who saw and heard (those things)."
-  * The phrase "you will be my witnesses" could also be translated as, "you will tell other people about me" or "you will teach people the truth that I taught you" or "you will tell people what you have seen me do and heard me teach."
+  * Ang salitang "saksi" ay maaaring isalin ng ganito, "ang taong nakakita at nakarinig sa mga bagay nangyari" o "mga taong nakakita at nakarinig sa pangyayari"
+  * Ang salitang "kayo ay magiging saksi ko" ay maaaring isalin ng ganito, "sasabihin niyo sa ibang tao ang tungkol sa akin" o "ituturo niyo sa mga tao ang mga bagayna itinuro ko sa inyo" o "sasabihin niyo sa mga tao ang mga bagay na ginawa ko at mga katuruang itinuro ko sa inyo."
 
-(See also: [[:tl:obe:kt:guilt]], [[:tl:obe:kt:judge]], [[:tl:obe:kt:true]], [[:tl:obe:kt:testimony]])
+(Tignan rin sa: [[:tl:obe:kt:guilt|may sala, nagkasala]], [[:tl:obe:kt:judge|hatol, husga]], [[:tl:obe:kt:true|tunay o totoo, katotohanan]], [[:tl:obe:kt:testimony|testimonya, tumestigo]])
 
 ===== Matatagpuan sa Bibliya: =====
 
