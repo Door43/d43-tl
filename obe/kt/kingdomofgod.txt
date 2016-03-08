@@ -9,14 +9,13 @@ Ang mga salitang ito ay parehong tumutukoy sa paghahari at kapangyariahn ng Diyo
   * Ang  Diyos ay naghahari sa kaharian niya sa langit, ito ay ang espiritwal na kaharian niya.
   * Ang pisikal na kaharian ng Diyos dito sa mundo ay maitatatag sa sandaling bumalik na si Jesus mula sa langit para maghari magpakailanman bilang Messiah.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * Depending on the context, "kingdom of God" can be translated as "God's rule (as king)" or "when God reigns as king" or "God's realm of authority."
-  * The term "kingdom of heaven" should retain the word "heaven" since this is the term that Matthew used and is distinctive to his gospel. It could be translated as "God's rule from heaven as king" or "God in heaven reigning" or "heaven's reign" or "heaven's realm of authority."
-  * Some translations may prefer to capitalize "Heaven" to show that it refers to God. Others may include a note in the text such as "kingdom of Heaven (that is, God)."
-  * A footnote at the bottom of the page of a printed Bible may be used to explain the meaning of "heaven" in this expression.
+  * Ang salitang "kaharian ng Diyos" ay maaaring isalin ng ganito, "paghahari ng Diyos" o "pamumuno ng Diyos bilang hari" o "kapag naghahari na ang Diyos" depende sa dapat na gamit o konteksto.
+  * Sa pagsasalin ng salitang "kaharian ng langit," dapat na panatilihin ang salitang "langit" dahil ito ay ang mismong salitang ginamit ng apostol na si Matthew sa kanyang sulat sa Bibliya. Maaari itong isalin ng ganito, "paghahari ng Diyos sa langit" o "ang pamumuno ng Diyos sa langit bilang hari."
+  * Sa ibang mga lugar, isinasalin ang salitang "Langit" na nagsisimula sa malating titik "L" upang tukuyin ang Diyos, halimbawa, "kaharian ng Langit (kaharian ng Diyos.)"
 
-(See also: [[:tl:obe:other:kingdom|kingdom]], [[:tl:obe:other:king|king]], [[:tl:obe:kt:god|God]])
+(Tignan rin sa: [[:tl:obe:other:kingdom|kaharian]], [[:tl:obe:other:king|hari]], [[:tl:obe:kt:god|Diyos]])
 
 ===== Matatagpuan sa Bibliya: =====
 
