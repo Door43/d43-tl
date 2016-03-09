@@ -1,6 +1,6 @@
-====== Translation & Checking Notes ======
+====== Pagsasalin & Pagwawasto ng mga Talaan ======
 
-//In order to help translators of [[:en:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
+//Para makatulong sa mga tagapag-salin ng [[:en:obs|Open Bible Stories]] upang magawang posible ang pinaka-mahusay na pagsasalin, makikita dito ang paliwanag ng mga talaan at mapagkukuhanan ng impormasyon sa bawat frame (text + image) ng bawat storya. Ito ang mga kwentong may mga kumpletong talaan://
   - [[:tl:obs:notes:01|Ang Kwento Tungkol sa Paglikha]]
   - [[:tl:obs:notes:02|Nagkaroon ng Kasalanan sa Mundo]]
   - [[:tl:obs:notes:03|Ang Baha]]
