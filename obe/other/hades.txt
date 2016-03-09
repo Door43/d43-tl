@@ -4,14 +4,9 @@
 
 Ang salitang "hades" at "sheol" ay ginamit sa Bibliya para tukuyin ang kamatayan at ang lugar kung saan mapupunta ang kaluluwa ng mga tao pagkamatay nila. Pareho lang ang ibig sabihin ng dalawang salitang ito.
 
-The terms "hades" and "sheol" are used in the Bible to refer to death and the place where the souls of people go when they die. Their meanings are similar.
-
-  * The term "grave" literally refers to the physical place where a dead body is buried or laid.
-  * Sometimes "the grave" is used more generally and figuratively to refer to the condition of being dead.
-  * The Hebrew term "sheol" is often used in the Old Testament to refer generally to the place of death. Some English versions translate it as "the grave" or "the pit" or "death." Some keep the word "sheol," spelling it to fit the sound patterns of the language of translation.
-  * In the New Testament, the Greek term "hades" refers to a place of torment where those who rebel against God are. This is sometimes contrasted to heaven where those who believe in God are.
-  * The term "hades" is coupled with the term "death" in the book of Revelation.
-  * At the end times, death and hades will be thrown into the Lake of Fire, which is hell.
+  * Ang salitang "sheol" ay galing sa sa salitang hebreo na tumutukoy sa "lugar ng mga patay." Sa ibang mga wika, isinasalin nila ito sa salitang "libingan" o "kamatayan." Ang iba naman ay pinapanatili sng "sheol."
+  * Sa Bagong Tipan ng Bibliya, ang salitang griyego na "hades" ay tumutukoy sa lugar ng paghihirap kung saan napupunta ang lahat ng lumalaban o nagrerebelde sa Diyos. Ito ay kasalungat ng langit kung saan naroroon ang mga nanampalataya sa Diyos.
+  * Sa libro ng "Pahayag" sa Bibliya, makikitang itinutugma ang salitang "hades" sa "kamatayan."
 
 (Tignan rin sa: [[:tl:obe:kt:hell|impyerno, lawang apoy]], [[:tl:obe:other:death|death]] other)
 
