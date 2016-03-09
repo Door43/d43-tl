@@ -13,7 +13,7 @@ Si Jesus ang Anak ng Diyos na nagkatawang tao at bumaba dito sa mundo para pagha
 
   * Sa salitang "Anak ng Diyos," magiging mainam kung ang gagamiting salita para isalin ang salitang "Anak" ay ang karaniwang salitang ginagamit para tukuyin ang "anak" ng tao.
 
-(Translation suggestions: [[:tl:ta:vol1:translate:translate_names|How to Translate Names]])
+(Mungakahi sa Pagsasalin: [[:tl:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (Tignan rin sa: [[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:tl:obe:kt:christ|Christ, Messiah]], [[:tl:obe:kt:son|anak na lalaki]], [[:tl:obe:kt:god|Diyos]], [[:tl:obe:kt:godthefather|Diyos Ama, Amang nasa Langit]], [[:tl:obe:other:father|ama, ninuno]])
 
