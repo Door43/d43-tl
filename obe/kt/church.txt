@@ -7,14 +7,13 @@ ang salitang “Simbahan” at Iglesya ay may parehong kahulugan. Ito ay ang taw
   * Ang Simbahan ay nakasanayan na ngayon na pantukoy sa gusaling pinagsasambahan ngunit ang Simbahan o Iglesya na sinasabi dito ay ang mga taong nanalig kay Jesus.
   * Ang Iglesya naman ay hindi tumutukoy sa isang relihiyon dito sa pilipinas kundi tumutukoy din sa tao na pinaghaharian ni Jesus ang buhay.
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * The term "church" could be translated as a "gathering together" or "assembly" or "congregation" or "ones who meet together."
-  * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
-  * Make sure that the translation of "church" does not just refer to a building.
-  * Also consider how it is translated in a local or national Bible translation. (See: [[tl:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
+  * Ang salitang "simbahan o iglesia" ay maaaring isalin ng ganito, "samahan" o "kongregasyon."
+  * Tiyaking ang salitang gagamitin sa pagsalin ng salitang ito ay tumutukoy sa lahat ng mga mananampalataya at hindi sa maliit na samahan ng mga taong naniniwala kay Jesus.
+  * Tiyakin rin na ang salitang gagamitin para sa "simbahan o iglesya" ay hindi tumutukoy sa istraktura o gusali kundi sa tao.
 
-(See also: [[:tl:obe:kt:christian]], [[:tl:obe:kt:believer]], [[:tl:obe:kt:assembly]])
+(Tignan rin sa: [[:tl:obe:kt:christian|Kristiyano]], [[:tl:obe:kt:believer|mananampalataya]])
 
 ===== Matatagpuan sa Bibliya: =====
 
