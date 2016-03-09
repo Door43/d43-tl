@@ -8,14 +8,13 @@ Nang bumalik sa langit si Jesus, tinawag na Kristyano ang mga taong nananampalat
   * Sa panahon ngayon ang salitang “Kristyano” ay ginagamit sa mga taong kasali sa isang relihiyon. May mga tao ding kasali sa mga relihiyon pero hindi ginagawa ang mga itinuturo ni Jesus, hindi iyon ang Kristyanong sinasabi sa bibliya. Sa bibliya, ang Kristyano ay mga taong sumusunod sa mga katuruan ni Jesus hindi lang sa salita kundi pati sa gawa.
   * Ang isa pang tawag sa mga Kristyano ay “Mananampalataya”
 
-===== Translation Suggestions: =====
+===== Mga Mungkahi sa Pagsasalin: =====
 
-  * This term could be translated as "Christ-follower" or "follower of Christ" or perhaps something like, "Christ-person."
-  * Make sure that the translation of this term is distinct from terms used for disciple or apostle.
-  * Be careful to translate this term with a word that can refer to everyone who believes in Jesus, not just certain groups.
-  * Also consider how this term is translated in a Bible translation in a local or national language. (See: [[tl:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Ang salitang ito ay maaaring isalin ng ganito, "tagasunod ni Jesus" o "mananampalataya ni Jesus"
+  * Tiyaking iba ang pagkakasalin ng salitang ito sa pagkakasalin ng salitang, "apostol at alagad."
+  * Tiyakin rin na ang gagamiting salita para isalin ang salitang ito ay tumutukoy sa mga taong nananampalataya kay Jesus at hindi kapangalan ng mga grupo o pangalan ng organisasyon.
 
-(See also: [[:tl:obe:kt:church|church, Church]], [[:tl:obe:kt:disciple|disciple]], [[:tl:obe:kt:believer|believer]], [[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:tl:obe:kt:sonofgod|Son of God, the Son]], Christ, Messiah other)
+(Tignan ri sa: [[:tl:obe:kt:church|simbahan, iglesia]], [[:tl:obe:kt:disciple|alagad, disipulo]], [[:tl:obe:kt:believer|mananampalataya]], [[:tl:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:tl:obe:kt:sonofgod|Anak ng Diyos, ang Anak]])
 
 ===== Matatagpuan sa Bibliya: =====
 
