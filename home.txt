@@ -7,7 +7,7 @@ Maligayang Pagdating sa Door43! Huwag mag-atubili na-[[:tl:home?do=edit|edit]] i
 Ito ang mga mapagkukuhanan ng impormasyon na kasalukuyang magagamit para sa pagsasalin:
 
   * **[[:tl:obs|Open Bible Stories]]** – Isang biswal na maliit na bibliya sa iba't-ibang lingguwahe, teksto, audio, at video.
-  * T[[:tl:obs:notes|alaan para sa Pagsasalin]] - Pagsasalin at paliwanag ng mga Talaan para sa Open Bible Stories.
+  * [[:tl:obs:notes|Talaan para sa Pagsasalin]] - Pagsasalin at paliwanag ng mga Talaan para sa Open Bible Stories.
   * [[:tl:ta:intro:handbook|translationAcademy Handbook]] - Isang batayan para sa pagsasalin at pagwawasto.
   * [[:tl:lexicon|Open Bible Lexicon]]- Isang Biblikal na libro, inilaan para sa integrasyon ng Open Bible Stories at pagsasalin ng Bibliya.
   * [[:tl:library|Open Christian Library]]- Isang lumalagong listahan ng open-liscenced mapagkukuhanan ng impormasyong Biblikal.
@@ -17,14 +17,13 @@ Ito ang mga mapagkukuhanan ng impormasyon na kasalukuyang magagamit para sa pags
 
   * **[[:tl:get-started|How to Get Started]]** – Simulan ang Pagsasalin!
   * **[[:tl:ta:vol1:intro:statement_of_faith|Pahayag ng Pananampalataya]]**– Ang Pahayag ng Pananampalataya, kung saan sang-ayon lahat ng kontributor ng Door43.
-  * **[[:tl:ta:vol1:intro:translation_guidelines|Alituntunin sa Pagsasalin]] **- Ang mga prinsipyo at pamamaraan na dapat sundin ng mga kontributor.
-  * **[[:tl:ta:vol1:intro:open_license|Copyrights & Paglilisensya]]**– Ang lahat ng nilalaman ng website na ito ay ginawang magagamit sa ilalim ng  [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
+  * **[[:tl:ta:vol1:intro:translation_guidelines|Alituntunin sa Pagsasalin]]**- Ang mga prinsipyo at pamamaraan na dapat sundin ng mga kontributor.
+  * **[[:tl:ta:vol1:intro:open_license|Copyrights & Paglilisensya]]**– Ang lahat ng nilalaman ng website na ito ay ginawang magagamit sa ilalim ng [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
   * **[[:tl:technical|Technical Details]]** – Ang teknolohiya sa likod ng Door43.
-
 ==== Pagpapalawak ng Door43 ====
 
 Door 43 ay nasa isang aktibong pagpapa-unlad, habang pinapalawak natin ang kahalagahan ng nilalaman nito sa pamamagitan ng pagbuo ng mga paraan para magamit magagamit ito sa iba't-ibang format at sa mas marami pang mga mobile devices. Alamin kung paano ka maaaring makatulong sa **[[:en:dev|Door43 Development]]**.
 
 ----
 
-//"Magdasal… para pagbuksan tayo ng Diyos ng **pintuan** para sa Kaniyang Salita." —Colossians **4**:**3** //
+//"Magdasal… para pagbuksan tayo ng Diyos ng **pintuan**  para sa Kaniyang Salita." —Colossians **4**:**3**  //
