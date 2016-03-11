@@ -10,5 +10,7 @@
 
   * **tumubo**  - Maaaring idagdag ang, “bilang isang malaking halaman.”
   * **halaman sa hardin**  - Maaaring isalin sa, “halamang maaaring itanim sa isang halamanan.”
-  * **pahingahan**  - Maaaring isalin ng ganito, “dapuan.”
+  * **pinamumugaran**
+ - Maaaring isalin ng ganito, “dapuan.”
+
 **[[:tl:obs:notes:frames:34-01|<<]] | [[:tl:obs:notes:34|Pabalik]] | [[:tl:obs:notes:frames:34-03|>>]]**
