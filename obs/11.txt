@@ -1,53 +1,35 @@
 ====== Ang Paskua ======
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg?direct&}}
 
 Binalaan ng Diyos ang Paraon na kung hindi pa niya papalayain ang mga Israelita, papatayin niya ang lahat ng panganay na lalaki sa Egypt maging tao man o hayop. Nang marinig ito ng Paraon hindi pa rin siya naniwala at tumalima sa Diyos.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?direct&}}
 
 Gumawa ng paraan ang Diyos para iligtas ang mga panganay ng sinumang naniniwala sa kanya. Bawat pamilya ay dapat pumili ng tupang walang kapintasan, kakatayin nila ito.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?direct&}}
 
 Sinabihan ng Diyos ang mga Israelita na dapat silang maglagay ng dugo ng tupa sa gilid at itaas ng pintuan ng mga bahay nila at ihawin ang tupa at kainin agad kasama ng tinapay na walang pampaalsa. Sinabihan din sila ng Diyos na maging handa sa pag-alis nila sa Egypt pagkatapos kumain.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?direct&}}
 
 Sinunod nga ng mga Israelita ang lahat ng iniutos ng Diyos sa kanila. Sa kalagitnaan ng gabi, nilibot ng Diyos ang buong Egypt at pinatay lahat ng panganay na lalaki.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?direct&}}
 
+Lahat naman ng bahay ng mga Israelita ay may dugo sa palibot ng kanilang mga pintuan kaya nilampasan ng Diyos ang mga bahay nila. Lahat ng nasa loob ay ligtas dahil sa dugo ng tupa.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg}}
-
-Lahat naman ng bahay ng mga Israelita ay may dugo sa palibot ng kanilang mga pintuan  kaya nilampasan ng Diyos ang mga bahay nila. Lahat ng nasa loob ay ligtas dahil sa dugo ng tupa.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?direct&}}
 
 Pero hindi naniwala ang ang mga Egipcio sa Diyos at hindi tumalima sa mga ipinag-utos Niya. Hindi nilampasan ng Diyos ang mga bahay nila at pinatay ng Diyos ang lahat ng panganay na lalaki ng mga Egipcio.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?direct&}}
 
 Lahat ng panganay na lalaki ng mga Egipcio ay namatay mula sa mga panganay na anak ng mga nakabilanggo hanggang sa anak na panganay ng Paraon. Maraming tao ang nag-iyakan at nagluksa dahil sa labis kalungkutan.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?direct&}}
 
 Nang gabi ding iyon, ipinatawag ng Paraon sina Moses at Aaron. Sinabi niya, “Isama mo na ang mga Israelita at umalis na kayo sa Egypt sa lalong madaling panahon!” Minadali rin ng mga Egipcio ang mga Israelita na umalis.
 
-
-
-// Kwento mula sa Exodus 11:1-12:32 //
+//Kwento mula sa Exodus 11:1-12:32 //
