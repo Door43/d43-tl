@@ -19,10 +19,10 @@ Magkalapit ang ibig sabihin ng mga salitang "maniwala" at "maniwala sa" ngunit m
 
 ===== Translation Suggestions: =====
 
-  * To "believe" could be translated as to "know to be true" or "know to be right."
-  * To "believe in" could be translated as, "trust completely" or "rely on and know to be true."
+  * Ang "maniwala" ay maaaring isalin ng ganito, "umaaayon na ito ay totoo" o kaya "umaaayon na ito ay tama"
+  * Ang "maniwala sa" ay maaaring isalin nh ganito, "buong pusong pagtitiwala" o kaya "umasa at umayon na ito ay totoo."
 
-(See also: [[:tl:obe:kt:faith|faith]], [[:tl:obe:kt:believer|believer]])
+(Tignan din sa: [[:tl:obe:kt:faith|pananampalataya]], [[:tl:obe:kt:believer|mananampalataya]])
 
 ===== Bible References: =====
 
