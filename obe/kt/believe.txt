@@ -2,21 +2,40 @@
 
 ===== Kahulugan: =====
 
-  * Kapag naniniwala ka sa isang bagay, nangangahulugang tinatanggap mo at nagtitiwala ka na totoo ang bagay na ito.
-  * Kapag naniniwala ka sa isang tao, nangangahulugang tinatanggap at nagtitiwala ka na totoo ang mga sinasabi ng taong ito.
+Magkalapit ang ibig sabihin ng mga salitang "maniwala" at "maniwala sa" ngunit may konting pagkakaiba:
 
+=== 1. maniwala ===
 
-===== Matatagpuan sa Bibliya: =====
+  *
+=== Ang "maniwala" ay pagtanggap o pagsang-ayon sa isang bagay na ito ay isang katotohanan.  ===
+
+  * Kapag naniniwala tayo sa isang tao, umaaayon tayo totoo ang sinasabi niya.
+
+=== 2. believe in ===
+
+  * To believe in someone means to trust in that person. It means to trust that the person is who he says he is, that he always speaks the truth, and that he will do what he has promised to do.
+  * When a person truly believes in something, he will act in such a way that shows that belief.
+  * The phrase "have faith in" usually has the same meaning as "believe in."
+  * To "believe in Jesus" means to believe that he is the Son of God, that he is God himself who also became human and who died as a sacrifice to pay for our sins. It means to trust him as Savior and live in a way that honors him.
+
+===== Translation Suggestions: =====
+
+  * To "believe" could be translated as to "know to be true" or "know to be right."
+  * To "believe in" could be translated as, "trust completely" or "rely on and know to be true."
+
+(See also: [[:tl:obe:kt:faith|faith]], [[:tl:obe:kt:believer|believer]])
+
+===== Bible References: =====
 
 {{topic>:en:bible?believe&nocomments}}
 
-===== Mga Halimbawa mula sa mga Kwento sa Bibliya =====
+===== Examples from the Bible stories: =====
 
-  * **[[:tl:obs:notes:frames:03-04|[03-04]]]** Sinabihan din niya na huwag na silang gumawa ng masama at sumunod na sa Diyos pero hindi sila** naniwala**  kay Noah.
-  * **[[:tl:obs:notes:frames:04-08|[04-08]]]****Naniwala ** si Abram sa pangako ng Diyos. Dahil doon sinabi ng Diyos na matuwid siyang tao dahil **naniniwala**  siya sa pangako niya.
-  * **[[:tl:obs:notes:frames:11-02|[11-02]]]** Gumawa ng paraan ang Diyos para iligtas ang mga panganay ng sinumang** naniniwala**  sa kanya.
-  * **[[:tl:obs:notes:frames:11-06|[11-06]]]** Pero hindi **naniwala ** ang ang mga Egipcio sa Diyos at hindi tumalima sa mga ipinag-utos Niya.
-  * **[[:tl:obs:notes:frames:37-05|[37-05]]]** Sumagot naman si Jesus, “Ako ang nagbibigay buhay at ako rin bumubuhay muli sa mga patay. Lahat ng namatay na **naniniwala ** sa akin ay muling mabubuhay. Lahat ng nabubuhay na** naniniwala**  sa akin ay hindi mamamatay. Tinanong ni Jesus si Martha, “**Naniniwala**  ka ba sinabi ko?.” Sumagot si Martha, “Opo, Panginoon, **naniniwala**  ako sa iyo na ikaw ang Messiah, ang Anak ng Diyos.”
+  * **[[:tl:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
+  * **[[:tl:obs:notes:frames:04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
+  * **[[:tl:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
+  * **[[:tl:obs:notes:frames:11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
+  * **[[:tl:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?"
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
