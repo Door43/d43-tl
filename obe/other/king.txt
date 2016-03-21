@@ -2,8 +2,9 @@
 
 ===== Kahulugan: =====
 
-Ang hari ay pinuno ng isang lugar o isang bansa. Ang isang tao ay maaaring maging isang hari kapag ninais ng mga tao na siya ang maging hari nila.
+Ang hari ay pinuno ng isang lugar o isang bansa.
 
+  * Ang isang tao ay maaaring maging isang hari kapag ninais ng mga tao na siya ang maging hari nila.
   * Kadalasan kapag namatay ang isang hari, ang anak niya na panganay na lalaki ang pumapalit sa kanya upang maging hari.
   * Sa mga ibang pagkakataon, may mga pumapatay sa hari upang sila ang maging hari sa lugar na iyon.
 
