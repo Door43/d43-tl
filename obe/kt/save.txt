@@ -13,6 +13,7 @@ Ang ibig sabihin nito ay pagpapanatili sa isang tao na hindi makaranas ng anuman
 
   * Ang iba pang mga paraan para isalin ang salitang "iligtas" ay ganito, "ilayo sa kapahamakan" o "ilayo sa mga panganib."
   * Ang salitang "ligtas" ay maaaring isalin ng ganito, "malayo sa kapahamakan" o "protektado mula sa mga panganib."
+  * Ang salitang "saklolohan" ay maaaring isalin ng ganito, "alisin ang isang tao sa kapahamakan at dalhin sa ligtas na lugar (kalagayan).
 
 (Tignan rin sa: [[:tl:obe:kt:salvation|kaligtasan]], [[:tl:obe:kt:sin|kasalanan, makasalanan, nagkasala]], [[:tl:obe:other:punish|parusa, kaparusahan]], [[:tl:obe:kt:cross|krus]], [[:tl:obe:kt:deliverer|iligtas]])
 
