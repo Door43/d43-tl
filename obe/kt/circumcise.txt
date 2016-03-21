@@ -10,7 +10,9 @@ Ang pagtutuli ay ang pag aalis ng balat sa unahan ng ari ng isang lalaki sa pama
 ===== Mga Mungkahi sa Pagsasalin: =====
 
   * Sa mga lugar na hindi alam ang salitang "tuli" o "pagtutuli" ay dapat maglagay ng talaan para ipaliwanag ang salitang ito.
-  * Tiyakin na ang salitang "tuli" o "pagtutuli" rito ay tumutukoy sa mga lalaki at hindi sa mga babae.
+  * Tiyakin na ang salitang "tuli" o "pagtutuli" rito ay tumutukoy lang sa mga lalaki at hindi sa mga babae.
+  * Sa mga lugar na hindi alam ang salitang "tuli" o "pagtutuli", kinakailangang maglagay ng isang talaang magpapaliwanag ng salitang ito para maunawaan.
+  * Ang iba pang mga paraan ng pagsasalin ng salitang "tuli" ay ganito, "hiniwa ang balat ng ari."
 
 (Tignan rin sa: [[:tl:obe:kt:covenant|Kasunduan]])
 
