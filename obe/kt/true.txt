@@ -11,6 +11,7 @@ Ang mga salitang ito ay tumutukoy sa mga bagay na totoong nangyari at totoong si
 
 ===== Mga Mungkahi sa Pagsasalin: =====
 
+  * Ang pagsasalin ng salitang totoo ay dapat tumutugma sa salitang "kung ano ang tama."
   * Ang salitang "totoo" ay maaaring isalin ng ganito, "tunay" o "makatotohanan" o "tama" o "sigurado" depende sa dapat na paggamit nito.
   * Mga basehan sa pagsasalin ng mga sumusunod na mga salita:
       * "tanggapin ang katotohhanan" — "paniwalaan ang katotohanan (tungkol sa Diyos)"
