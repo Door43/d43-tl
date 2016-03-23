@@ -10,6 +10,7 @@ Ibig sabihinn ay nakagawa ng kasalanan o krimen.
 ===== Mga Mungkahi sa Pagsasalin: =====
 
   * Ang salitang "may sala" ay maaaring isalin ng ganito, "nakagawa ng pagkakamali" o "nakagawa ng kasalanan."
+  * Sa ibang wika, ang paraan ng pagsalin ng salitang "may sala" ay ganito, "mabigat ang kasalanan" o "madaming kasalanan."
 
 (Tignan rin sa : [[:tl:obe:kt:innocent|walang kasalanan]], [[:tl:obe:kt:sin|kasalanan, makasalanan]], [[:tl:obe:other:punish|parusahan, kaparusahan]])
 
