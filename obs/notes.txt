@@ -1,7 +1,7 @@
 ====== Pagsasalin & Pagwawasto ng mga Talaan ======
 
 //Para makatulong sa mga tagapag-salin ng [[:en:obs|Open Bible Stories]] upang magawang posible ang pinaka-mahusay na pagsasalin, makikita dito ang paliwanag ng mga talaan at mapagkukuhanan ng impormasyon sa bawat frame (text + image) ng bawat storya. Ito ang mga kwentong may mga kumpletong talaan://
-  - [[:tl:obs:notes:01|Ang Kwento Tungkol sa Paglikha]]
+  - [[:tl:obs:notes:01|Ang Kwento Tungkol sa Paglikha]]...
   - [[:tl:obs:notes:02|Nagkaroon ng Kasalanan sa Mundo]]
   - [[:tl:obs:notes:03|Ang Baha]]
   - [[:tl:obs:notes:04|Ang Kasunduan ng Diyos at ni Abraham]]
